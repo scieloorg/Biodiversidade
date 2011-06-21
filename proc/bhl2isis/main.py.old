@@ -1,0 +1,30 @@
+from bhl_xml import APIBHLXML
+from bhl import APIBHL
+from doc import Book
+from doc2isis import Doc2ISIS
+
+data_path = '../download_path/'
+
+
+
+
+access_key="b64e048b-e947-44c2-b5e3-b9ba4e47fce0"
+
+
+title_list = data_path + 'title_list.xml'
+
+
+apibhl = APIBHL(access_key)
+apixml = APIBHLXML()
+
+if not os.path.exists(title_list):
+    apibhl.query_title_list_and_save(title_list, 'xml')
+
+apixml.load_titles(title_list)
+titleid_list = apixml.get_titleid_list()
+
+for id in titleid_list:
+    if not os.path.exists(data_path + id + '.xml'):
+        apibhl.query_title_and_save(data_path + id + '.xml', 'xml', id)
+
+
