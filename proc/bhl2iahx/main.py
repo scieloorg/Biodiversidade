@@ -106,9 +106,9 @@ if __name__ == "__main__":
                        flagBG = True
 
                 if(flagBG == True):
-                    content += '<field name="db">bhlb</field>'
+                    content += '<field name="db">BHLB</field>'
                 else:
-                    content += '<field name="db">bhlg</field>'
+                    content += '<field name="db">BHLG</field>'
 
                 content += '<field name="cc">BR1.1</field>'
                 content += '<field name="lo">' + replaceEntities(str(dictTitlesIahx['Result']['CallNumber'])) + '</field>'
