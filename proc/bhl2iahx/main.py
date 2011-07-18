@@ -84,11 +84,11 @@ if __name__ == "__main__":
     f = open(config.get('path', 'xml_iahx', vars = {'date': str(time.localtime()[0]) + str(time.localtime()[1]) + str(time.localtime()[2])}), 'a')
     f.write(content)
     f.close()
-
     count = 1
-    flagBG = False
+
 
     for i in dictTitles['Result']:
+        flagBG = False
         print(count)
         print(config.get('path', 'json_titlesMetadata', vars = {'titleId': i['TitleID']}))
         content = ''
@@ -104,6 +104,7 @@ if __name__ == "__main__":
                 for m in range(len(dictTitlesIahx['Result']['Subjects'])):
                     if (str(dictTitlesIahx['Result']['Subjects'][m]['SubjectText'])=='Brazil'):
                        flagBG = True
+                       break;
 
                 if(flagBG == True):
                     content += '<field name="db">bhlb</field>'
