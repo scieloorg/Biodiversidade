@@ -1,0 +1,42 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-06-26 00:13:21;66.249.71.98;ppufejihenzxjri;local;bio;+id:("lil-3551021638");*;*;;1
+2011-06-26 00:30:07;207.46.13.101;pt;local;bio;*;*;*;;1
+2011-06-26 01:18:14;66.249.71.98;ppufejihenzxjri;local;bio;+id:("lil-3551021638");*;*;;1
+2011-06-26 02:32:01;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-26 02:40:33;66.249.71.98;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-26 05:15:34;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-06-26 05:19:27;207.46.199.49;pt;local;bio;*;*;*;;1
+2011-06-26 06:30:14;66.249.71.98;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-26 06:35:05;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-26 07:45:55;66.249.71.98;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-06-26 08:18:27;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-06-26 08:24:34;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-06-26 10:13:28;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-06-26 10:16:11;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-06-26 10:42:33;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-26 10:58:16;66.249.71.98;pt;local;bio;*;*;*;;1
+2011-06-26 11:24:23;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-06-26 12:30:58;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-06-26 12:41:24;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-06-26 12:48:38;189.68.94.197;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-26 12:49:02;189.68.94.197;pt;local;bio;Renato Braz de Araujo;au;SCIB;db:SCIB;1
+2011-06-26 12:49:25;189.68.94.197;pt;local;bio;RB Araujo;au;SCIB;db:SCIB;1
+2011-06-26 12:49:34;189.68.94.197;pt;local;bio;Renato Araujo;au;SCIB;db:SCIB;1
+2011-06-26 14:29:01;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-06-26 14:34:08;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-06-26 14:42:51;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-06-26 14:44:57;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-26 15:36:24;66.249.71.98;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-06-26 18:50:32;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-26 19:13:12;66.249.71.98;pt;local;bio;*;*;*;;1
+2011-06-26 22:05:29;201.22.211.230;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-26 22:05:39;201.22.211.230;pt;local;bio;*;*;SCIB;db:SCIB AND type:"article";1
+2011-06-26 22:06:03;201.22.211.230;pt;local;bio;antimicrobiano;*;SCIB;db:SCIB;1
+2011-06-26 22:06:11;201.22.211.230;pt;local;bio;antimicrobiano;*;SCIB;db:SCIB;1
+2011-06-26 22:06:33;201.22.211.230;pt;local;bio;*;*;*;;1
+2011-06-26 22:06:40;201.22.211.230;pt;local;bio;antibiótico;*;ALL;;1
+2011-06-26 22:06:45;201.22.211.230;pt;local;bio;antibióticos;*;ALL;;1
+2011-06-26 22:06:56;201.22.211.230;pt;local;bio;antibacteriano;*;ALL;;1
+2011-06-26 22:38:20;50.56.107.24;pt;local;bio;*;*;*;;1
+2011-06-26 22:38:21;50.56.107.24;pt;local;bio;*;*;*;;1
+2011-06-26 22:55:25;209.131.41.48;pt;local;bio;*;*;*;;1

@@ -1,0 +1,25 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-03-06 00:01:13;189.99.233.187;pt;local;bio;ecologia da vegetação;*;ALL;;1
+2011-03-06 00:04:24;189.99.233.187;pt;local;bio;abobral;*;ALL;;1
+2011-03-06 00:07:23;189.99.233.187;pt;local;bio;arvore abobral;*;ALL;;1
+2011-03-06 02:43:33;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-06 06:54:04;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-06 10:45:06;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-06 12:45:32;201.75.206.254;es;local;bio;Usina Hidrelétrica - custos e benrfícios;*;*;;1
+2011-03-06 12:46:06;201.75.206.254;es;local;bio;Usina Hidrelétrica - custos e benefícios;kw;SCIB;db:SCIB;1
+2011-03-06 12:46:13;201.75.206.254;es;local;bio;Usina Hidrelétrica - custos e benefícios;kw;SCIB;db:SCIB;1
+2011-03-06 12:46:18;201.75.206.254;es;local;bio;Usina Hidrelétrica - custos e benefícios;kw;SCIB;db:SCIB;1
+2011-03-06 12:46:35;201.75.206.254;es;local;bio;Usina Hidrelétrica - custos e benefícios;kw;BHLB;db:BHLB;1
+2011-03-06 12:46:35;201.75.206.254;es;local;bio;Usina Hidrelétrica - custos e benefícios;kw;BHLB;db:BHLB;1
+2011-03-06 12:46:38;201.75.206.254;es;local;bio;*;*;*;;1
+2011-03-06 12:49:19;201.75.206.254;es;local;bio;Usina Hidrelétrica - Fauna e Flora;*;ALL;;1
+2011-03-06 12:49:22;201.75.206.254;es;local;bio;*;*;*;;1
+2011-03-06 13:45:32;189.50.154.100;pt;local;bio;pupunha;*;*;;1
+2011-03-06 14:48:31;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-06 16:15:20;189.104.182.197;pt;local;bio;florense;*;*;;1
+2011-03-06 16:16:54;189.104.182.197;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-03-06 16:18:17;189.104.182.197;pt;local;bio;genetica florense;*;*;;1
+2011-03-06 16:18:34;189.104.182.197;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-06 19:13:15;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-06 21:19:01;186.206.180.166;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-06 23:29:11;209.131.41.49;pt;local;bio;*;*;*;;1

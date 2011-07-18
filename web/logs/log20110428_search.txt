@@ -1,0 +1,71 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-04-28 00:01:32;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-28 01:07:26;187.77.10.168;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-28 01:07:56;187.77.10.168;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-28 01:08:14;187.77.10.168;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-28 01:08:22;187.77.10.168;pt;local;bio;*;*;SCIB;db:SCIB AND year_cluster:"2010";1
+2011-04-28 01:08:29;187.77.10.168;pt;local;bio;*;*;SCIB;db:SCIB AND year_cluster:"2010" AND la:"Pt";1
+2011-04-28 02:54:53;66.249.71.43;pt;local;bio;+id:("lil-9030037111");*;*;;1
+2011-04-28 03:11:57;66.249.71.43;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-04-28 03:32:49;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-28 03:32:49;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-28 03:32:49;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-28 03:32:50;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-28 03:54:38;66.249.71.43;pt;local;bio;*;*;*;;1
+2011-04-28 03:55:51;66.249.71.43;yiewkcbsz;local;bio;*;*;*;;1
+2011-04-28 04:09:24;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-28 05:29:35;66.249.71.43;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-28 06:47:25;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-04-28 07:27:32;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-28 09:40:28;157.86.112.214;pt;local;bio;goeldi;*;*;;1
+2011-04-28 09:43:15;157.86.112.214;pt;local;bio;darwin;*;*;;1
+2011-04-28 09:51:11;157.86.112.214;pt;local;bio;goeldi;*;*;;1
+2011-04-28 09:51:56;157.86.112.214;pt;local;bio;brasil medico;*;*;;1
+2011-04-28 09:52:19;157.86.112.214;pt;local;bio;brasil medico;ti;BHLG;db:BHLG;1
+2011-04-28 09:52:29;157.86.112.214;pt;local;bio;brasil medico;ti;BHLB;db:BHLB;1
+2011-04-28 09:52:33;157.86.112.214;pt;local;bio;brasil medico;ti;SCIB;db:SCIB;1
+2011-04-28 09:53:10;157.86.112.214;pt;local;bio;brazil medico;ti;BHLB;db:BHLB;1
+2011-04-28 09:53:14;157.86.112.214;pt;local;bio;brazil medico;ti;BHLG;db:BHLG;1
+2011-04-28 09:56:28;157.86.112.214;pt;local;bio;oswaldo cruz;*;*;;1
+2011-04-28 09:57:17;157.86.112.214;pt;local;bio;oswaldo cruz;au;BHLB;db:BHLB;1
+2011-04-28 09:57:21;157.86.112.214;pt;local;bio;oswaldo cruz;au;ALL;;1
+2011-04-28 11:20:03;187.41.99.167;pt;local;bio;trafico de aves;*;*;;1
+2011-04-28 11:20:06;187.41.99.167;pt;local;bio;trafico de aves;*;*;;1
+2011-04-28 12:21:46;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-04-28 12:59:18;50.16.148.108;pt;local;bio;*;*;*;;1
+2011-04-28 13:26:58;66.249.71.43;yiewkcbsz;local;bio;*;*;*;;1
+2011-04-28 13:28:03;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-28 14:07:46;201.1.82.174;pt;local;bio;transtorno da memíria;*;*;;1
+2011-04-28 14:08:12;201.1.82.174;pt;local;bio;transtornos da memória;*;ALL;;1
+2011-04-28 14:08:17;200.171.240.213;pt;local;bio;macaco;*;*;;1
+2011-04-28 14:08:18;201.1.82.174;pt;local;bio;memória;*;ALL;;1
+2011-04-28 16:34:00;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-28 17:26:31;187.14.240.245;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-28 17:26:34;66.220.158.248;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-28 17:26:52;187.14.240.245;pt;local;bio;emilio goeldi;*;ALL;;1
+2011-04-28 17:27:12;187.14.240.245;pt;local;bio;oliverio miranda pinto;*;ALL;;1
+2011-04-28 17:27:12;187.14.240.245;pt;local;bio;oliverio miranda pinto;*;ALL;;1
+2011-04-28 17:27:30;187.14.240.245;pt;local;bio;oliverio de almeida pinto;*;ALL;;1
+2011-04-28 17:27:57;187.14.240.245;en;local;bio;aves;*;*;;1
+2011-04-28 17:27:57;66.220.158.246;pt;local;bio;*;*;*;;1
+2011-04-28 17:28:05;187.14.240.245;en;local;bio;aves;*;ALL;;2
+2011-04-28 17:28:32;187.14.240.245;en;local;bio;aves;*;ALL;;3
+2011-04-28 17:29:04;187.14.240.245;en;local;bio;aves;*;ALL;;4
+2011-04-28 17:29:40;187.14.240.245;en;local;bio;aves;*;ALL;;5
+2011-04-28 17:30:09;187.14.240.245;en;local;bio;aves;*;ALL;;6
+2011-04-28 17:30:32;187.14.240.245;en;local;bio;aves;*;ALL;;7
+2011-04-28 17:31:01;187.14.240.245;en;local;bio;aves;*;ALL;;8
+2011-04-28 17:31:18;187.14.240.245;en;local;bio;aves;*;ALL;;9
+2011-04-28 17:40:59;187.14.240.245;en;local;bio;josé carlos reis de magalhães;*;ALL;;1
+2011-04-28 18:18:34;66.249.71.43;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-28 18:51:52;190.43.72.136;es;local;bio;liquido crevicular;*;*;;1
+2011-04-28 18:52:20;190.43.72.136;es;local;bio;periodontitis y liquid crevicular;*;*;;1
+2011-04-28 18:52:27;190.43.72.136;es;local;bio;periodontitis y liquid crevicular;*;*;;1
+2011-04-28 18:52:42;190.43.72.136;es;local;bio;periodontitis y liquido crevicular;ti;ALL;;1
+2011-04-28 18:52:54;190.43.72.136;es;local;bio;periodontitis ;ti;ALL;;1
+2011-04-28 18:52:56;190.43.72.136;es;local;bio;periodontitis ;ti;ALL;;1
+2011-04-28 18:54:26;190.43.72.136;es;local;bio;periodontitis ;ti;ALL;ta_cluster:"Braz. J. Microbiol.";1
+2011-04-28 19:45:17;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-28 22:09:49;190.103.72.23;pt;local;bio;proyectos sociales;*;*;;1
+2011-04-28 22:53:09;186.114.245.168;pt;local;bio;enfermedad de glasser;*;*;;1
+2011-04-28 23:51:55;209.131.41.49;pt;local;bio;*;*;*;;1

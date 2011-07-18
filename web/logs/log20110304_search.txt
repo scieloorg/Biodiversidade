@@ -1,0 +1,50 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-03-04 00:13:22;66.249.71.98;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-03-04 00:20:48;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-04 00:39:59;66.249.71.98;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-03-04 01:01:20;66.249.71.98;pt;local;bio;+id:("lil-18474058070");*;*;;1
+2011-03-04 01:16:58;66.249.71.98;pt;local;bio;+id:("scl-S0074-02761909000200002");*;*;;1
+2011-03-04 02:21:57;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-04 03:47:08;66.249.71.98;yiewkcbsz;local;bio;*;*;*;;1
+2011-03-04 04:23:15;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-04 04:38:28;66.249.71.98;pt;local;bio;+id:("scl-S0074-02761909000100002");*;*;;1
+2011-03-04 06:30:02;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-04 06:42:48;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-04 07:42:03;66.249.71.98;pt;local;bio;+id:("scl-S0074-02761909000200002");*;*;;1
+2011-03-04 08:47:18;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-04 08:48:08;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-04 10:14:38;187.115.202.3;pt;local;bio;aquifero guarani;*;*;;1
+2011-03-04 10:15:32;187.115.202.3;pt;local;bio;aquifero guarani;*;*;;1
+2011-03-04 10:56:40;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-04 13:08:46;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-04 14:19:14;200.129.158.2;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-04 14:20:19;200.129.158.2;pt;local;bio;limnologia;kw;SCIB;db:SCIB;1
+2011-03-04 14:20:32;200.129.158.2;pt;local;bio;limnologia;kw;ALL;;1
+2011-03-04 14:20:35;200.129.158.2;pt;local;bio;limnologia;kw;ALL;;1
+2011-03-04 14:20:39;200.129.158.2;pt;local;bio;limnologia;*;ALL;;1
+2011-03-04 14:22:02;200.129.158.2;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-03-04 15:58:39;189.19.58.89;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-04 15:58:56;189.19.58.89;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Arquivos.";1
+2011-03-04 17:30:32;189.104.89.154;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-04 17:31:32;189.104.89.154;pt;local;bio;aves;*;SCIB;db:SCIB;1
+2011-03-04 17:32:19;189.104.89.154;pt;local;bio;aves;*;SCIB;db:SCIB;2
+2011-03-04 17:33:22;189.104.89.154;pt;local;bio;aves;*;SCIB;db:SCIB;3
+2011-03-04 17:34:41;189.104.89.154;pt;local;bio;aves;*;SCIB;db:SCIB;4
+2011-03-04 17:36:36;189.104.89.154;pt;local;bio;aves;*;SCIB;db:SCIB;5
+2011-03-04 17:38:31;189.104.89.154;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-04 17:38:56;189.104.89.154;pt;local;bio;aves;*;SCIB;db:SCIB;6
+2011-03-04 17:40:05;189.104.89.154;pt;local;bio;aves;*;SCIB;db:SCIB;7
+2011-03-04 17:40:50;189.104.89.154;pt;local;bio;aves;*;SCIB;db:SCIB;8
+2011-03-04 17:41:42;189.104.89.154;pt;local;bio;aves;*;SCIB;db:SCIB;9
+2011-03-04 17:42:13;189.104.89.154;pt;local;bio;aves;*;SCIB;db:SCIB;10
+2011-03-04 17:42:48;189.104.89.154;pt;local;bio;aves;*;SCIB;db:SCIB;11
+2011-03-04 17:43:54;189.104.89.154;pt;local;bio;aves;*;SCIB;db:SCIB;12
+2011-03-04 17:44:34;189.104.89.154;pt;local;bio;aves;*;SCIB;db:SCIB;13
+2011-03-04 17:45:18;189.104.89.154;pt;local;bio;aves;*;SCIB;db:SCIB;14
+2011-03-04 17:57:14;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-04 22:00:35;187.19.72.25;pt;local;bio;natureza;*;*;;1
+2011-03-04 22:04:00;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-04 23:34:40;187.119.184.33;pt;local;bio;fitossociologia;*;*;;1
+2011-03-04 23:48:12;187.119.184.33;pt;local;bio;fitossociologia;*;*;;1
+2011-03-04 23:53:34;187.119.184.33;pt;local;bio;vegetação arbórea do pantanal;*;ALL;;1
+2011-03-04 23:54:14;187.119.184.33;pt;local;bio;vegetação arbórea ;*;ALL;;1

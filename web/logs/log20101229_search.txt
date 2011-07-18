@@ -1,0 +1,50 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2010-12-29 00:33:13;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-29 01:30:35;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-29 02:16:09;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-29 02:40:13;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-29 02:40:30;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-29 03:08:19;66.249.71.52;pt;local;bio;*;*;*;;1
+2010-12-29 03:17:58;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-29 03:43:02;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-29 06:06:42;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-29 08:41:46;187.27.31.152;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-29 08:42:09;187.27.31.152;pt;local;bio;*;*;*;;1
+2010-12-29 08:46:42;187.27.31.152;pt;local;bio;Life Cycle Assessement;*;ALL;;1
+2010-12-29 08:46:52;187.27.31.152;pt;local;bio;*;*;*;;1
+2010-12-29 08:48:12;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-29 08:48:27;187.27.31.152;pt;local;bio;Life Cycle;*;ALL;;1
+2010-12-29 08:48:40;187.27.31.152;pt;local;bio;*;*;*;;1
+2010-12-29 08:58:09;187.27.31.152;pt;local;bio;Life Cycle;*;ALL;;2
+2010-12-29 08:58:11;187.27.31.152;pt;local;bio;*;*;*;;1
+2010-12-29 09:28:23;200.40.218.18;pt;local;bio;pacu;*;*;;1
+2010-12-29 09:36:07;187.103.159.44;pt;local;bio;environmental;*;*;;1
+2010-12-29 09:37:35;187.103.159.44;pt;local;bio;environmental enrichment;*;ALL;;1
+2010-12-29 09:50:48;200.40.218.18;pt;local;bio;pacu;*;ALL;;2
+2010-12-29 10:39:08;218.213.130.138;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-29 10:56:57;218.213.130.138;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-29 11:09:41;218.213.130.138;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-29 11:10:34;187.71.114.122;pt;local;bio;iPÊ aMARELO;*;*;;1
+2010-12-29 13:10:45;91.212.12.60;pt;local;bio;*;*;*;;1
+2010-12-29 14:13:15;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-29 15:11:20;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-29 15:13:47;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-29 15:21:45;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-29 15:36:56;157.86.90.23;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-29 15:37:11;157.86.90.23;pt;local;bio;polinizadores;*;SCIB;db:SCIB;1
+2010-12-29 15:37:47;157.86.90.23;pt;local;bio;polinização borboletas;*;SCIB;db:SCIB;1
+2010-12-29 15:37:51;157.86.90.23;pt;local;bio;polinização borboleta;*;SCIB;db:SCIB;1
+2010-12-29 15:37:59;157.86.90.23;pt;local;bio;borboleta;*;SCIB;db:SCIB;1
+2010-12-29 15:38:23;157.86.90.23;pt;local;bio;polinização;*;SCIB;db:SCIB;1
+2010-12-29 17:08:52;66.249.71.52;pt;local;bio;+id:("lil-18474058040");*;*;;1
+2010-12-29 17:26:34;66.249.71.52;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-29 17:28:03;187.40.216.12;pt;local;bio;corredores ecologicos;*;*;;1
+2010-12-29 17:55:53;187.40.216.12;pt;local;bio;corredores ecologicos;*;ALL;ta_cluster:"Acta Amaz.";1
+2010-12-29 19:43:03;66.249.71.52;pt;local;bio;*;*;*;;1
+2010-12-29 20:34:29;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-29 21:42:14;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-29 21:43:34;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-29 21:51:39;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-29 21:53:46;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-29 23:24:12;201.9.23.122;pt;local;bio;primatas;*;*;;1
+2010-12-29 23:40:05;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1

@@ -1,0 +1,63 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2010-12-20 03:13:11;66.249.71.52;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-20 03:13:44;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-20 03:13:46;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-20 03:13:48;66.249.71.52;pt;local;bio;+id:("scl-S0074-02761909000200008");*;*;;1
+2010-12-20 04:30:08;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-20 04:30:33;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-20 05:46:12;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-20 06:55:17;189.22.190.226;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-20 06:55:19;189.22.190.226;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-20 07:39:01;66.249.71.52;pt;local;bio;+id:("lil-9030037232");*;*;;1
+2010-12-20 07:53:59;66.249.71.52;pt;local;bio;+id:("lil-18474058088");*;*;;1
+2010-12-20 08:06:23;189.8.20.250;pt;local;bio;mangue;*;*;;1
+2010-12-20 08:07:32;189.8.20.250;pt;local;bio;mangue;*;ALL;;2
+2010-12-20 08:08:32;189.8.20.250;pt;local;bio;mangue;*;ALL;;3
+2010-12-20 08:27:21;66.249.71.52;pt;local;bio;*;*;*;;1
+2010-12-20 08:43:51;66.249.71.52;pt;local;bio;*;*;*;;1
+2010-12-20 09:19:51;189.120.132.16;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-20 09:20:11;189.120.132.16;pt;local;bio;*;*;BHLB;db:BHLB;10
+2010-12-20 09:20:22;189.120.132.16;pt;local;bio;*;*;BHLB;db:BHLB;5
+2010-12-20 09:20:42;189.120.132.16;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-20 09:21:23;189.120.132.16;pt;local;bio;*;*;SCIB;db:SCIB;5
+2010-12-20 10:15:34;201.2.17.34;pt;local;bio;LEPIDOPTERA;*;*;;1
+2010-12-20 10:27:21;201.2.17.34;pt;local;bio;LEPIDOPTERA;*;ALL;;4
+2010-12-20 10:27:39;201.2.17.34;pt;local;bio;LEPIDOPTERA;*;ALL;;6
+2010-12-20 10:27:49;201.2.17.34;pt;local;bio;LEPIDOPTERA;*;ALL;;10
+2010-12-20 10:28:24;201.2.17.34;pt;local;bio; LEPIDOPTERA MEGALOPYGIDAE;*;ALL;;1
+2010-12-20 10:34:22;201.93.216.70;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-20 10:34:50;201.93.216.70;pt;local;bio;*;*;BHLB;db:BHLB;2
+2010-12-20 10:35:01;201.93.216.70;pt;local;bio;*;*;BHLB;db:BHLB;3
+2010-12-20 10:35:11;201.93.216.70;pt;local;bio;*;*;BHLB;db:BHLB;4
+2010-12-20 12:02:44;201.14.91.211;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-20 15:30:06;161.148.178.130;pt;local;bio;echinodermata;*;*;;1
+2010-12-20 15:31:29;161.148.178.130;pt;local;bio;echinodermata + brazil;*;ALL;;1
+2010-12-20 15:35:01;66.249.71.52;pt;local;bio;*;*;*;;1
+2010-12-20 16:08:50;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-20 16:34:18;66.249.71.52;pt;local;bio;+id:("lil-9030037232");*;*;;1
+2010-12-20 16:45:31;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-20 18:09:14;200.45.54.133;pt;local;bio;biodiversity fish;*;*;;1
+2010-12-20 18:42:39;200.129.136.138;pt;local;bio;Polinização;*;*;;1
+2010-12-20 18:43:14;66.249.71.52;pt;local;bio;+id:("lil-18474058088");*;*;;1
+2010-12-20 18:44:23;190.135.175.57;pt;local;bio;Amphibia;*;*;;1
+2010-12-20 18:44:45;190.135.175.57;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-20 18:45:05;190.135.175.57;pt;local;bio;*;*;BHLB;db:BHLB;10
+2010-12-20 18:45:52;190.135.175.57;pt;local;bio;Amphibia;*;BHLB;db:BHLB;1
+2010-12-20 18:46:01;190.135.175.57;pt;local;bio;Anura;*;BHLB;db:BHLB;1
+2010-12-20 18:46:20;190.135.175.57;pt;local;bio;Burmeister;au;BHLB;db:BHLB;1
+2010-12-20 18:46:37;190.135.175.57;pt;local;bio;Miranda-Ribeiro;au;BHLB;db:BHLB;1
+2010-12-20 18:46:51;190.135.175.57;pt;local;bio;Lutz;au;BHLB;db:BHLB;1
+2010-12-20 18:48:46;200.129.136.138;pt;local;bio;Polinização;*;*;;1
+2010-12-20 18:49:19;200.129.136.138;pt;local;bio;Insetos Polinizadores;*;ALL;;1
+2010-12-20 20:43:07;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-20 21:58:56;66.249.71.52;pt;local;bio;*;*;*;;1
+2010-12-20 22:09:58;189.68.132.162;pt;local;bio;annonaceae;*;*;;1
+2010-12-20 22:10:33;189.68.132.162;pt;local;bio;rollinia;*;ALL;;1
+2010-12-20 22:11:15;189.68.132.162;pt;local;bio;Rollinia;*;ALL;;1
+2010-12-20 22:11:20;189.68.132.162;pt;local;bio;Rollinia;*;ALL;;1
+2010-12-20 22:11:49;189.68.132.162;pt;local;bio;guatteria;*;ALL;;1
+2010-12-20 22:14:40;189.68.132.162;pt;local;bio;rollinia;*;ALL;;2
+2010-12-20 22:32:40;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-20 22:41:53;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-20 22:44:33;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-20 23:01:14;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1

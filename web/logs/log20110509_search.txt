@@ -1,0 +1,35 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-05-09 00:18:33;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-09 04:23:42;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-09 07:23:51;66.249.72.58;pt;local;bio;Sua seleção;*;*;;1
+2011-05-09 08:26:30;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-09 11:25:00;201.81.80.143;pt;local;http://217.218.225.2:2082/index.html?;*;*;*;;1
+2011-05-09 12:32:19;66.249.72.58;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-09 12:38:09;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-09 13:22:14;66.249.72.58;pt;local;bio;*;*;*;;1
+2011-05-09 13:37:38;66.249.72.58;pt;local;bio;Sua seleção;*;*;;1
+2011-05-09 15:40:59;200.253.229.1;pt;local;bio;artigos cientificos sobre microalgas;*;*;;1
+2011-05-09 15:42:06;200.253.229.1;pt;local;bio;artigos sobre fitoplacton de rio;*;*;;1
+2011-05-09 15:43:17;200.253.229.1;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-09 15:44:10;200.253.229.1;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-05-09 15:44:35;200.253.229.1;pt;local;bio;*;*;SCIB;db:SCIB;3
+2011-05-09 15:45:40;200.253.229.1;pt;local;bio;*;*;SCIB;db:SCIB;4
+2011-05-09 15:45:59;200.253.229.1;pt;local;bio;*;*;SCIB;db:SCIB;5
+2011-05-09 15:46:32;200.253.229.1;pt;local;bio;*;*;SCIB;db:SCIB;6
+2011-05-09 15:47:03;200.253.229.1;pt;local;bio;*;*;SCIB;db:SCIB;7
+2011-05-09 15:47:38;200.253.229.1;pt;local;bio;*;*;SCIB;db:SCIB;8
+2011-05-09 15:47:55;200.253.229.1;pt;local;bio;*;*;SCIB;db:SCIB;9
+2011-05-09 15:48:21;200.253.229.1;pt;local;bio;*;*;SCIB;db:SCIB;10
+2011-05-09 15:49:07;200.253.229.1;pt;local;bio;*;*;SCIB;db:SCIB;11
+2011-05-09 15:53:24;200.10.179.113;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-09 16:57:22;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-09 17:55:56;66.249.72.58;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-09 20:40:34;66.249.72.58;pt;local;bio;Sua seleção;*;*;;1
+2011-05-09 20:56:44;187.4.217.9;pt;local;bio;Epidemiologia medronho;*;*;;1
+2011-05-09 20:57:12;187.4.217.9;pt;local;bio;Epidemiologia ;ti;ALL;;1
+2011-05-09 21:03:38;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-09 21:27:09;187.40.3.189;pt;local;bio;superbacteria;*;*;;1
+2011-05-09 21:27:27;187.40.3.189;pt;local;bio;super bacteria;*;ALL;;1
+2011-05-09 22:12:28;187.40.3.189;pt;local;bio;super bacteria;*;*;;1
+2011-05-09 23:10:21;66.249.72.58;pt;local;bio;*;*;*;;1
+2011-05-09 23:16:07;66.249.72.58;pt;local;bio;Sua seleção;*;*;;1

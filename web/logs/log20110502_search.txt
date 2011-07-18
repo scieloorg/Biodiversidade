@@ -1,0 +1,53 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-05-02 00:25:41;66.249.71.43;pt;local;bio;*;*;*;;1
+2011-05-02 00:46:01;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-02 03:40:10;66.249.71.43;yiewkcbsz;local;bio;*;*;*;;1
+2011-05-02 03:50:02;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-02 06:02:20;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-05-02 06:03:52;66.249.71.43;xfdblysxhm;local;bio;*;*;*;;1
+2011-05-02 07:16:49;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-02 07:59:43;186.220.216.133;pt;local;http://210.1.60.156:2082/index.html?;*;*;*;;1
+2011-05-02 10:11:14;189.9.32.34;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-02 10:12:09;189.9.32.34;pt;local;bio;animais atropelados;kw;SCIB;db:SCIB;1
+2011-05-02 10:12:31;189.9.32.34;pt;local;bio;pegadas mamíferos;kw;SCIB;db:SCIB;1
+2011-05-02 10:13:41;189.9.32.34;pt;local;bio;mamíferos;kw;SCIB;db:SCIB;1
+2011-05-02 10:14:15;189.9.32.34;pt;local;bio;zoologia;kw;SCIB;db:SCIB;1
+2011-05-02 10:14:25;189.9.32.34;pt;local;bio;zoologia;*;SCIB;db:SCIB;1
+2011-05-02 10:14:47;189.9.32.34;pt;local;bio;zoologia;*;SCIB;db:SCIB;2
+2011-05-02 10:15:34;189.9.32.34;pt;local;bio;zoologia;*;SCIB;db:SCIB;3
+2011-05-02 10:16:13;189.9.32.34;pt;local;bio;zoologia;*;SCIB;db:SCIB;4
+2011-05-02 10:17:02;189.9.32.34;pt;local;bio;zoologia;*;SCIB;db:SCIB AND ta_cluster:"Pap. Avulsos Zool. (São Paulo)";1
+2011-05-02 10:23:52;201.14.100.126;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-02 10:26:09;201.14.100.126;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-05-02 10:29:31;189.9.32.34;pt;local;bio;*;*;SCIB;db:SCIB;3
+2011-05-02 10:30:33;189.9.32.34;pt;local;bio;*;*;SCIB;db:SCIB;4
+2011-05-02 10:32:19;189.9.32.34;pt;local;bio;*;*;SCIB;db:SCIB;5
+2011-05-02 10:55:59;201.14.100.126;pt;local;bio;*;*;SCIB;db:SCIB;6
+2011-05-02 10:57:03;201.14.100.126;pt;local;bio;*;*;SCIB;db:SCIB;7
+2011-05-02 10:57:46;201.14.100.126;pt;local;bio;*;*;SCIB;db:SCIB;8
+2011-05-02 10:58:21;201.14.100.126;pt;local;bio;*;*;SCIB;db:SCIB;9
+2011-05-02 10:58:37;201.14.100.126;pt;local;bio;*;*;SCIB;db:SCIB;10
+2011-05-02 10:58:56;201.14.100.126;pt;local;bio;*;*;SCIB;db:SCIB;11
+2011-05-02 11:01:08;201.14.100.126;pt;local;bio;*;*;SCIB;db:SCIB;12
+2011-05-02 11:01:45;201.14.100.126;pt;local;bio;*;*;SCIB;db:SCIB;13
+2011-05-02 11:22:30;218.213.130.208;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-02 11:26:16;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-02 12:14:04;218.213.130.208;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-02 13:13:03;218.213.130.208;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-02 13:32:03;66.249.71.43;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-05-02 13:33:00;66.249.71.43;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-05-02 13:35:28;66.249.71.43;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-05-02 13:42:49;66.249.71.43;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-05-02 13:45:18;66.249.71.43;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-05-02 13:45:28;66.249.71.43;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-05-02 13:46:05;66.249.71.43;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-05-02 13:49:01;66.249.71.43;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-05-02 13:51:57;66.249.71.43;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-05-02 14:01:35;66.249.71.43;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-05-02 14:05:00;66.249.71.43;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-05-02 14:31:31;66.249.71.43;pt;local;bio;*;*;*;;1
+2011-05-02 15:30:57;66.249.71.43;xfdblysxhm;local;bio;*;*;*;;1
+2011-05-02 16:06:10;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-02 18:39:01;201.6.39.205;pt;local;bio;memory aging;*;*;;1
+2011-05-02 20:09:30;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-02 23:49:49;209.131.41.48;pt;local;bio;*;*;*;;1

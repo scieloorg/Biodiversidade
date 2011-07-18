@@ -1,0 +1,151 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-01-04 00:29:34;66.249.71.52;pt;local;bio;+id:("scl-S0074-02761909000100002");*;*;;1
+2011-01-04 00:37:57;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-04 00:58:31;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-04 01:07:38;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-04 01:11:10;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-04 01:18:58;187.23.84.170;pt;local;bio;Biodiversidade Brasileira - Síntese do Estado Atual do Conhecimento;*;*;;1
+2011-01-04 01:19:51;187.23.84.170;pt;local;bio;Biodiversidade ;*;ALL;;1
+2011-01-04 01:25:18;187.23.84.170;pt;local;bio;Biodiversidade ;*;ALL;;2
+2011-01-04 01:25:50;187.23.84.170;pt;local;bio;Biodiversidade ;*;ALL;;3
+2011-01-04 01:26:35;187.23.84.170;pt;local;bio;Biodiversidade ;*;ALL;;4
+2011-01-04 01:27:07;187.23.84.170;pt;local;bio;Biodiversidade ;*;ALL;;5
+2011-01-04 01:27:37;187.23.84.170;pt;local;bio;Biodiversidade ;*;ALL;;6
+2011-01-04 01:28:01;187.23.84.170;pt;local;bio;Biodiversidade ;*;ALL;;7
+2011-01-04 01:28:16;187.23.84.170;pt;local;bio;Biodiversidade ;*;ALL;;8
+2011-01-04 01:28:36;187.23.84.170;pt;local;bio;Biodiversidade ;*;ALL;;9
+2011-01-04 01:28:50;187.23.84.170;pt;local;bio;Biodiversidade ;*;ALL;;10
+2011-01-04 01:35:28;66.249.71.52;pt;local;bio;+id:("lil-3551021638");*;*;;1
+2011-01-04 01:40:47;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-04 02:02:10;187.114.146.101;pt;local;bio;*;*;*;;1
+2011-01-04 02:03:30;66.249.71.52;pt;local;bio;+id:("lil-9030037111");*;*;;1
+2011-01-04 02:17:11;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-04 02:29:07;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-04 03:02:00;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-04 03:07:19;66.249.71.52;pt;local;bio;+id:("lil-9030037197");*;*;;1
+2011-01-04 03:30:39;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-04 03:32:27;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-04 03:44:40;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-04 03:47:11;66.249.71.52;pt;local;bio;+id:("lil-13264049879");*;*;;1
+2011-01-04 03:51:31;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-04 04:00:31;66.249.71.52;pt;local;bio;+id:("lil-9030037220");*;*;;1
+2011-01-04 04:02:53;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-04 04:04:21;66.249.71.52;pt;local;bio;+id:("lil-13264049979");*;*;;1
+2011-01-04 04:06:48;66.249.71.52;pt;local;bio;+id:("lil-9030037224");*;*;;1
+2011-01-04 04:07:42;66.249.71.52;pt;local;bio;+id:("lil-41471091512");*;*;;1
+2011-01-04 04:08:53;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-04 04:20:07;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-04 04:32:33;66.249.71.52;pt;local;bio;+id:("lil-20986061024");*;*;;1
+2011-01-04 04:33:13;66.249.71.52;pt;local;bio;+id:("lil-18474058072");*;*;;1
+2011-01-04 04:53:09;66.249.71.52;pt;local;bio;+id:("lil-18474058058");*;*;;1
+2011-01-04 04:55:48;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-04 05:03:28;66.249.71.52;pt;local;bio;+id:("lil-9030037195");*;*;;1
+2011-01-04 05:21:56;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-04 06:22:15;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-04 06:28:49;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-04 08:04:25;201.55.42.102;pt;local;bio;briófitas;*;*;;1
+2011-01-04 08:04:47;201.55.42.102;pt;local;bio;plantas superiores;*;*;;1
+2011-01-04 08:05:19;201.55.42.102;pt;local;bio;fitobactérias;*;ALL;;1
+2011-01-04 08:05:29;201.55.42.102;pt;local;bio;bactérias;*;ALL;;1
+2011-01-04 08:05:34;201.55.42.102;pt;local;bio;bactérias;*;ALL;;1
+2011-01-04 08:05:47;201.55.42.102;pt;local;bio;bactérias;kw;ALL;;1
+2011-01-04 08:06:03;201.55.42.102;pt;local;bio;baratas;*;*;;1
+2011-01-04 08:06:36;201.55.42.102;pt;local;bio;cobras;*;ALL;;1
+2011-01-04 08:27:34;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-04 08:36:35;200.18.170.252;pt;local;bio;frutos do cerrado;*;*;;1
+2011-01-04 08:40:27;200.18.170.252;pt;local;bio;alibertia sessilis;*;ALL;;1
+2011-01-04 09:01:50;201.10.115.152;pt;local;bio;Crédito de Carbono;*;*;;1
+2011-01-04 09:01:59;201.10.115.152;pt;local;bio;Carbono;*;ALL;;1
+2011-01-04 09:02:12;201.10.115.152;pt;local;bio;Carbono;*;ALL;la:"Pt";1
+2011-01-04 10:08:33;143.107.255.26;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-04 10:08:41;143.107.255.26;pt;local;bio;caatinga;*;SCIB;db:SCIB;1
+2011-01-04 10:13:24;143.107.255.26;pt;local;bio;caatinga e microrganismos;*;SCIB;db:SCIB;1
+2011-01-04 10:16:29;143.107.255.26;pt;local;bio;microrganismos;*;SCIB;db:SCIB;1
+2011-01-04 10:16:41;143.107.255.26;pt;local;bio;caatinga;*;SCIB;db:SCIB;1
+2011-01-04 10:16:55;143.107.255.26;pt;local;bio;caatinga;*;SCIB;db:SCIB;2
+2011-01-04 10:18:34;143.107.255.26;pt;local;bio;caatinga;*;SCIB;db:SCIB;3
+2011-01-04 10:24:03;143.107.255.26;pt;local;bio;caatinga;*;SCIB;db:SCIB;4
+2011-01-04 10:27:07;143.107.255.26;pt;local;bio;caatinga;*;SCIB;db:SCIB;5
+2011-01-04 10:50:29;189.98.66.35;pt;local;bio;mosquitos;*;*;;1
+2011-01-04 10:59:43;143.107.255.26;pt;local;bio;caatinga;*;SCIB;db:SCIB;6
+2011-01-04 11:00:49;143.107.255.26;pt;local;bio;caatinga;*;SCIB;db:SCIB;7
+2011-01-04 11:01:38;143.107.255.26;pt;local;bio;caatinga;*;SCIB;db:SCIB;8
+2011-01-04 11:01:58;143.107.255.26;pt;local;bio;caatinga;*;SCIB;db:SCIB;9
+2011-01-04 11:03:33;143.107.255.26;pt;local;bio;caatinga;*;SCIB;db:SCIB;10
+2011-01-04 11:05:48;189.26.153.253;pt;local;bio;colubrina;*;*;;1
+2011-01-04 11:06:25;143.107.255.26;pt;local;bio;caatinga;*;SCIB;db:SCIB;11
+2011-01-04 11:09:07;143.107.255.26;pt;local;bio;caatinga;*;SCIB;db:SCIB;12
+2011-01-04 11:09:25;143.107.255.26;pt;local;bio;caatinga;*;*;;1
+2011-01-04 13:25:40;189.121.246.60;pt;local;bio;cupuacu;*;*;;1
+2011-01-04 13:26:19;189.121.246.60;pt;local;bio;pipoca;*;ALL;;1
+2011-01-04 13:26:43;189.121.246.60;pt;local;bio;salsa;*;ALL;;1
+2011-01-04 13:26:56;189.121.246.60;pt;local;bio;barbeiro;*;ALL;;1
+2011-01-04 13:27:36;189.121.246.60;pt;local;bio;gabiroba;*;ALL;;1
+2011-01-04 13:27:43;189.121.246.60;pt;local;bio;taioba;*;ALL;;1
+2011-01-04 13:27:50;189.121.246.60;pt;local;bio;goiaba;*;ALL;;1
+2011-01-04 13:27:58;189.121.246.60;pt;local;bio;priprioca;*;ALL;;1
+2011-01-04 13:28:02;189.121.246.60;pt;local;bio;pitanga;*;ALL;;1
+2011-01-04 13:46:06;187.21.12.250;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-04 13:46:36;187.21.12.250;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-01-04 13:46:44;187.21.12.250;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Rev. Bras. Zool.";1
+2011-01-04 13:47:05;187.21.12.250;pt;local;bio;*;*;*;;1
+2011-01-04 13:48:10;187.21.12.250;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-04 13:48:21;187.21.12.250;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-04 13:49:10;187.21.12.250;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-04 13:49:25;187.21.12.250;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-01-04 13:49:33;187.21.12.250;pt;local;bio;*;*;SCIB;db:SCIB;3
+2011-01-04 13:51:00;189.115.139.130;pt;local;bio;biodiversidade;*;*;;1
+2011-01-04 13:51:11;189.115.139.130;pt;local;bio;biodiversidade;*;ALL;la:"Pt";1
+2011-01-04 13:51:30;189.115.139.130;pt;local;bio;biodiversidade;*;ALL;la:"Pt";2
+2011-01-04 13:51:42;189.115.139.130;pt;local;bio;biodiversidade;*;ALL;la:"Pt";3
+2011-01-04 13:51:57;189.115.139.130;pt;local;bio;biodiversidade;*;ALL;la:"Pt";4
+2011-01-04 13:52:12;189.115.139.130;pt;local;bio;biodiversidade;*;ALL;la:"Pt";5
+2011-01-04 14:19:56;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-04 14:23:53;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-04 19:23:20;189.107.166.85;pt;local;bio;hoplias malabaricus 2010;*;*;;1
+2011-01-04 19:23:34;189.107.166.85;pt;local;bio;hoplias malabaricus ;*;ALL;;1
+2011-01-04 19:24:13;189.107.166.85;pt;local;bio;hoplias malabaricus ;*;ALL;;2
+2011-01-04 19:25:12;189.107.166.85;pt;local;bio;hoplias malabaricus ;*;ALL;;3
+2011-01-04 19:26:15;189.107.166.85;pt;local;bio;Araguaia;*;ALL;;1
+2011-01-04 19:27:23;189.107.166.85;pt;local;bio;Araguaia;*;ALL;;2
+2011-01-04 19:29:15;189.107.166.85;pt;local;bio;Araguaia;*;ALL;;3
+2011-01-04 19:29:43;189.107.166.85;pt;local;bio;Xingu;*;ALL;;1
+2011-01-04 19:30:45;189.107.166.85;pt;local;bio;Xingu;*;ALL;;2
+2011-01-04 19:31:09;189.107.166.85;pt;local;bio;Fishes;*;ALL;;1
+2011-01-04 19:33:39;189.107.166.85;pt;local;bio;Fishes;*;ALL;;2
+2011-01-04 19:33:54;189.107.166.85;pt;local;bio;Fishes;*;ALL;;3
+2011-01-04 19:34:09;189.107.166.85;pt;local;bio;Fishes;*;ALL;;4
+2011-01-04 19:34:26;189.107.166.85;pt;local;bio;Fishes;*;ALL;;5
+2011-01-04 19:34:42;189.107.166.85;pt;local;bio;Fishes;*;ALL;;6
+2011-01-04 19:37:48;189.107.166.85;pt;local;bio;Fishes;*;ALL;;7
+2011-01-04 19:38:04;189.107.166.85;pt;local;bio;Fishes;*;ALL;;8
+2011-01-04 19:38:17;189.107.166.85;pt;local;bio;Fishes;*;ALL;;9
+2011-01-04 19:38:32;189.107.166.85;pt;local;bio;Fishes;*;ALL;;10
+2011-01-04 19:38:48;189.107.166.85;pt;local;bio;Fishes genetics;*;ALL;;1
+2011-01-04 19:38:55;189.107.166.85;pt;local;bio;Peixes;*;ALL;;1
+2011-01-04 19:39:23;189.107.166.85;pt;local;bio;Peixes;*;ALL;;2
+2011-01-04 19:39:52;189.107.166.85;pt;local;bio;Ictiofauna;*;ALL;;1
+2011-01-04 19:40:33;189.107.166.85;pt;local;bio;Ictiofauna;*;ALL;;2
+2011-01-04 19:41:14;189.107.166.85;pt;local;bio;Ictiofauna;*;ALL;;3
+2011-01-04 19:41:47;189.107.166.85;pt;local;bio;Ictiofauna;*;ALL;;4
+2011-01-04 19:42:47;189.107.166.85;pt;local;bio;Ictiofauna;*;ALL;;5
+2011-01-04 19:43:28;189.107.166.85;pt;local;bio;Ictiofauna;*;ALL;;6
+2011-01-04 19:45:28;189.107.166.85;pt;local;bio;*;*;*;;1
+2011-01-04 19:46:08;189.107.166.85;pt;local;bio;Cristiane de P. Ferreira & Lilian Casatti;*;ALL;;1
+2011-01-04 19:46:29;189.107.166.85;pt;local;bio; Lilian Casatti;*;ALL;;1
+2011-01-04 19:47:20;189.107.166.85;pt;local;bio;Galetti;*;ALL;;1
+2011-01-04 19:48:03;189.107.166.85;pt;local;bio;freshwater fishhes ;*;ALL;;1
+2011-01-04 19:48:15;189.107.166.85;pt;local;bio;freshwater fishes ;*;ALL;;1
+2011-01-04 19:48:51;189.107.166.85;pt;local;bio;freshwater fishes ;*;ALL;;2
+2011-01-04 19:49:26;189.107.166.85;pt;local;bio;freshwater fishes ;*;ALL;;3
+2011-01-04 19:49:52;189.107.166.85;pt;local;bio;freshwater fishes ;*;ALL;;4
+2011-01-04 19:50:19;189.107.166.85;pt;local;bio;freshwater fishes ;*;ALL;;5
+2011-01-04 19:50:47;189.107.166.85;pt;local;bio;freshwater fishes ;*;ALL;;6
+2011-01-04 19:51:14;189.107.166.85;pt;local;bio;freshwater fishes ;*;ALL;;7
+2011-01-04 19:51:48;189.107.166.85;pt;local;bio;freshwater fishes ;*;ALL;;8
+2011-01-04 19:52:23;189.107.166.85;pt;local;bio;freshwater fishes ;*;ALL;;9
+2011-01-04 19:52:24;189.107.166.85;pt;local;bio;freshwater fishes ;*;ALL;;6
+2011-01-04 21:03:21;143.107.244.76;pt;local;bio;diptera;*;*;;1
+2011-01-04 21:03:39;143.107.244.76;pt;local;bio;tachinidae;*;ALL;;1
+2011-01-04 21:04:06;143.107.244.76;pt;local;bio;tachinidae;*;ALL;;2
+2011-01-04 22:38:47;66.249.71.52;pt;local;bio;*;*;BHLB;db:BHLB;1

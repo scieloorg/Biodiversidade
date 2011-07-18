@@ -1,0 +1,53 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-04-07 03:18:34;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-07 03:18:35;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-07 03:18:35;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-07 03:18:35;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-07 03:34:38;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-07 03:36:43;66.249.71.49;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-07 07:41:12;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-07 08:02:15;66.249.71.49;xfdblysxhm;local;bio;+id:("lil-9030037197");*;*;;1
+2011-04-07 08:48:24;200.142.54.4;pt;local;bio;maranhão;*;*;;1
+2011-04-07 08:48:35;200.142.54.4;pt;local;bio;APP;*;ALL;;1
+2011-04-07 08:48:42;200.142.54.4;pt;local;bio;mammal;*;ALL;;1
+2011-04-07 08:48:51;200.142.54.4;pt;local;bio;mammal;*;ALL;;2
+2011-04-07 08:49:19;200.142.54.4;pt;local;bio;são luís;*;ALL;;1
+2011-04-07 08:49:26;200.142.54.4;pt;local;bio;gurupi;*;ALL;;1
+2011-04-07 08:49:35;200.142.54.4;pt;local;bio;diversidade;*;ALL;;1
+2011-04-07 08:50:00;200.142.54.4;pt;local;bio;maranh;*;ALL;;1
+2011-04-07 11:37:22;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-07 12:08:15;189.13.186.37;pt;local;bio;Monitoramento Ecológico;*;*;;1
+2011-04-07 12:08:50;189.13.186.37;pt;local;bio;Monitoramento de águas fluviais;*;ALL;;1
+2011-04-07 12:09:15;189.13.186.37;pt;local;bio;águas fluviais;*;ALL;;1
+2011-04-07 12:09:27;189.13.186.37;pt;local;bio;rio;*;ALL;;1
+2011-04-07 12:10:12;189.13.186.37;pt;local;bio;fluvial;*;ALL;;1
+2011-04-07 12:11:48;189.13.186.37;pt;local;bio;fluvial;*;ALL;;2
+2011-04-07 12:12:25;189.13.186.37;pt;local;bio;fluvial;*;ALL;;3
+2011-04-07 12:12:41;189.13.186.37;pt;local;bio;fluvial;*;ALL;;4
+2011-04-07 12:19:00;189.107.21.68;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-07 12:19:01;189.107.21.68;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-04-07 12:19:01;189.107.21.68;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-07 12:19:16;189.107.21.68;pt;local;bio;*;*;*;;1
+2011-04-07 12:19:17;189.107.21.68;pt;local;bio;*;*;*;;1
+2011-04-07 12:19:18;189.107.21.68;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-07 12:19:18;189.107.21.68;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-07 12:45:03;66.249.71.49;yiewkcbsz;local;bio;*;*;*;;1
+2011-04-07 13:12:05;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-07 13:34:58;201.54.129.80;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-07 13:37:22;201.54.129.80;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-04-07 13:42:37;201.6.107.157;pt;local;bio;tratamento de madeiras;*;*;;1
+2011-04-07 13:50:17;66.249.71.49;pt;local;bio;*;*;*;;1
+2011-04-07 14:03:27;66.249.71.49;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-07 14:08:23;189.58.174.243;pt;local;bio;Ciência como produção cultural;*;*;;1
+2011-04-07 14:20:37;66.249.71.49;xfdblysxhm;local;bio;*;*;*;;1
+2011-04-07 16:37:58;66.249.71.49;pt;local;bio;*;*;*;;1
+2011-04-07 17:13:40;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-07 19:55:40;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-07 20:19:40;193.251.135.88;es;local;bio;Luminosidade temperetura e ph com bacterias de agua doce;*;*;;1
+2011-04-07 20:22:03;193.251.135.88;es;local;bio;Luminosidade, temperetura e ph com bacterias de agua doce;*;SCIB;db:SCIB;1
+2011-04-07 20:41:06;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-07 21:54:04;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-07 22:00:34;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-07 22:28:25;201.228.224.238;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-07 23:27:57;66.249.71.49;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-04-07 23:48:09;209.131.41.49;pt;local;bio;*;*;*;;1

@@ -1,0 +1,77 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-04-11 00:17:21;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-11 00:37:45;66.249.71.49;qwkilqgvraugpkn;local;bio;+id:("lil-9030037178");*;*;;1
+2011-04-11 00:52:51;66.249.71.49;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-04-11 03:20:38;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-11 04:20:09;65.52.110.25;pt;local;bio;*;*;*;;1
+2011-04-11 06:50:10;87.112.45.88;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-04-11 07:23:26;66.249.71.49;pt;local;bio;*;*;*;;1
+2011-04-11 07:26:13;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-11 08:49:16;146.164.3.203;pt;local;bio;Acta Botanica Neerlandica;*;*;;1
+2011-04-11 09:25:27;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-04-11 09:25:37;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-04-11 09:26:08;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-04-11 09:28:19;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-04-11 09:31:01;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-04-11 09:32:06;157.92.44.71;pt;local;bio;Sua seleção;*;*;;1
+2011-04-11 09:34:58;157.92.44.71;pt;local;bio;Sua seleção;*;*;;1
+2011-04-11 09:35:23;157.92.44.71;pt;local;bio;Sua seleção;*;*;;1
+2011-04-11 09:38:24;157.92.44.72;pt;local;bio;Sua seleção;*;*;;1
+2011-04-11 09:40:20;157.92.44.72;pt;local;bio;Sua seleção;*;*;;1
+2011-04-11 09:41:23;157.92.44.72;pt;local;bio;Sua seleção;*;*;;1
+2011-04-11 09:43:23;157.92.44.72;pt;local;bio;Sua seleção;*;*;;1
+2011-04-11 09:45:18;157.92.44.72;pt;local;bio;Sua seleção;*;*;;1
+2011-04-11 09:48:33;157.92.44.72;pt;local;bio;Sua seleção;*;*;;1
+2011-04-11 09:50:08;157.92.44.72;pt;local;bio;Sua seleção;*;*;;1
+2011-04-11 10:09:55;200.10.179.113;pt;local;bio;*;*;*;;1
+2011-04-11 10:14:35;200.10.179.113;pt;local;bio;*;*;*;;1
+2011-04-11 10:18:49;66.249.71.49;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-11 10:30:21;200.10.179.113;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-11 11:07:18;189.107.94.26;pt;local;bio;aids;*;*;;1
+2011-04-11 11:07:31;189.107.94.26;pt;local;bio;aids;*;ALL;type:"article";1
+2011-04-11 11:08:24;189.107.94.26;pt;local;bio;Sua seleção;*;ALL;;1
+2011-04-11 11:09:11;189.107.94.26;pt;local;bio;*;*;*;;1
+2011-04-11 11:09:17;189.107.94.26;pt;local;bio;*;*;ALL;type:"article";1
+2011-04-11 11:09:36;189.107.94.26;pt;local;bio;aids;*;SCIB;db:SCIB;1
+2011-04-11 11:51:28;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-11 12:18:57;65.52.108.60;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-11 14:06:36;200.139.12.121;pt;local;bio;alimentaçãõ de eunectes murinus;*;*;;1
+2011-04-11 14:21:53;200.139.12.121;pt;local;bio;eunectes murinus;*;ALL;;1
+2011-04-11 15:01:00;66.249.71.49;pt;local;bio;*;*;*;;1
+2011-04-11 15:11:51;66.249.71.49;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-11 15:14:21;200.139.12.121;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-11 15:14:26;189.16.6.2;pt;local;bio;mollusca;*;*;;1
+2011-04-11 15:16:36;200.139.12.121;pt;local;bio;herpetofauna;*;SCIB;db:SCIB;1
+2011-04-11 15:23:15;200.139.12.121;pt;local;bio;herpetofauna;*;SCIB;db:SCIB AND ta_cluster:"Pap. Avulsos Zool. (São Paulo)";1
+2011-04-11 15:24:45;200.139.12.121;pt;local;bio;herpetofauna;*;ALL;;1
+2011-04-11 15:29:49;200.139.12.121;pt;local;bio;serpentes;*;ALL;;1
+2011-04-11 15:47:25;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-11 16:19:00;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-11 17:05:18;189.107.250.205;pt;local;bio;leishmaniose;*;*;;1
+2011-04-11 17:07:25;189.107.250.205;pt;local;bio;leishmaniose;*;ALL;;1
+2011-04-11 17:30:34;66.249.71.49;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-11 20:04:15;200.129.163.17;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-11 20:04:34;200.129.163.17;pt;local;bio;anura;*;SCIB;db:SCIB;1
+2011-04-11 20:06:16;200.129.163.17;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-11 20:06:20;200.129.163.17;pt;local;bio;anura;*;SCIB;db:SCIB;1
+2011-04-11 20:24:49;66.249.71.49;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-04-11 20:36:12;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-11 20:48:54;66.249.71.49;xfdblysxhm;local;bio;*;*;*;;1
+2011-04-11 21:33:58;187.17.67.62;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-11 21:34:30;187.17.67.62;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-04-11 21:34:51;187.17.67.62;pt;local;bio;*;*;SCIB;db:SCIB;3
+2011-04-11 21:35:21;187.17.67.62;pt;local;bio;biodiversidade;*;SCIB;db:SCIB;1
+2011-04-11 21:35:52;187.17.67.62;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-11 21:36:21;187.17.67.62;pt;local;bio;meio ambiente;*;SCIB;db:SCIB;1
+2011-04-11 21:37:08;187.17.67.62;pt;local;bio;meio ambiente;*;SCIB;db:SCIB;9
+2011-04-11 22:07:18;201.1.155.246;es;local;bio;Pteridófitas;*;*;;1
+2011-04-11 22:07:47;201.1.155.246;es;local;bio;Pteridófitas;au;SCIB;db:SCIB;1
+2011-04-11 22:08:32;201.1.155.246;es;local;bio;Pteridophyte;au;SCIB;db:SCIB;1
+2011-04-11 22:08:43;201.1.155.246;es;local;bio;Pteridophyte;au;SCIB;db:SCIB;1
+2011-04-11 22:09:23;201.1.155.246;es;local;bio;Blechnum;ti;SCIB;db:SCIB;1
+2011-04-11 22:28:11;189.105.42.161;pt;local;bio;leishmaniose;*;*;;1
+2011-04-11 22:47:31;189.105.42.161;pt;local;bio;raul rio ribeiro;au;ALL;;1
+2011-04-11 22:47:36;189.105.42.161;pt;local;bio;raul rio ribeiro;au;ALL;;1
+2011-04-11 23:01:48;189.79.209.32;pt;local;http://rhcobrancas.com/chove.txt??;*;*;*;;1
+2011-04-11 23:37:20;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-11 23:59:30;66.249.71.49;ppufejihenzxjri;local;bio;*;*;*;;1

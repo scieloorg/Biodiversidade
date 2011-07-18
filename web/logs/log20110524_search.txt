@@ -1,0 +1,32 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-05-24 00:01:33;187.74.110.150;pt;local;bio;pesquiza sobre idoso;*;*;;1
+2011-05-24 00:02:17;187.74.110.150;pt;local;bio;pesquiza sobre como a população vem invelhesendo;*;ALL;;1
+2011-05-24 00:37:17;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-24 02:38:13;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-24 02:59:11;66.249.72.241;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-24 06:24:38;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-24 07:43:20;66.249.72.241;pt;local;bio;+id:("scl-S0074-02761909000200007");*;*;;1
+2011-05-24 07:45:17;66.249.72.241;pt;local;bio;+id:("scl-S0074-02761909000100001");*;*;;1
+2011-05-24 07:59:46;66.249.72.241;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-24 08:19:49;66.249.72.241;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-24 10:46:31;207.46.12.23;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-24 11:04:43;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-24 13:34:18;201.64.157.196;pt;local;bio;teste segurança animais;*;*;;1
+2011-05-24 13:34:27;201.64.157.196;pt;local;bio;teste  animais;*;ALL;;1
+2011-05-24 15:09:24;66.249.72.241;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-24 15:47:05;189.27.128.105;pt;local;bio;preservação de tartarugas marinhas;*;*;;1
+2011-05-24 16:09:24;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-24 18:05:28;189.112.78.247;pt;local;bio;trombose gravidez;*;*;;1
+2011-05-24 18:05:50;189.112.78.247;pt;local;bio;*;*;*;;1
+2011-05-24 18:06:20;189.112.78.247;pt;local;bio;trombose na gravidez;kw;ALL;;1
+2011-05-24 18:21:34;195.139.131.102;pt;local;bio;*;*;*;;1
+2011-05-24 18:46:12;187.40.113.34;pt;local;bio;senciencia animal;*;*;;1
+2011-05-24 18:46:28;187.40.113.34;pt;local;bio;bem estar animal;*;ALL;;1
+2011-05-24 19:11:30;66.249.72.241;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-24 19:11:52;66.249.72.241;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-24 20:30:05;66.249.72.241;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-24 20:49:41;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-24 22:20:16;66.249.72.241;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-24 22:43:42;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-24 23:16:12;201.42.152.154;pt;local;bio;*;*;*;;1
+2011-05-24 23:16:50;201.42.152.154;pt;local;bio;caderno sede;*;ALL;;1

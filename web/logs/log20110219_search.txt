@@ -1,0 +1,51 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-02-19 00:03:15;66.249.71.52;pt;local;bio;+id:("lil-41471091512");*;*;;1
+2011-02-19 00:49:17;66.249.71.52;xfdblysxhm;local;bio;*;*;*;;1
+2011-02-19 03:04:16;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-02-19 03:27:08;65.55.25.138;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-02-19 03:53:20;65.55.25.138;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-02-19 05:06:56;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-02-19 05:50:01;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-02-19 06:03:41;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-02-19 07:48:29;66.249.71.52;yiewkcbsz;local;bio;+id:("lil-13264049879");*;*;;1
+2011-02-19 08:35:12;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-02-19 11:42:27;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-02-19 12:33:23;200.129.178.10;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-02-19 12:33:43;200.129.178.10;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-02-19 12:34:12;200.129.178.10;pt;local;bio;microscopico;kw;BHLB;db:BHLB;1
+2011-02-19 12:34:32;200.129.178.10;pt;local;bio;microscopico;*;*;;1
+2011-02-19 12:34:36;200.129.178.10;pt;local;bio;*;*;*;;1
+2011-02-19 12:39:02;200.129.178.10;pt;local;bio;microscopico;*;*;;1
+2011-02-19 12:39:15;200.129.178.10;pt;local;bio;ecologia;*;*;;1
+2011-02-19 13:49:52;187.73.85.75;pt;local;bio;diversidade biológica;*;*;;1
+2011-02-19 13:51:39;187.73.85.75;pt;local;bio;diversidade;*;ALL;;1
+2011-02-19 13:51:45;187.73.85.75;pt;local;bio;diversidade;*;ALL;;1
+2011-02-19 13:51:51;187.73.85.75;pt;local;bio;perdas;*;ALL;;1
+2011-02-19 14:48:24;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-02-19 14:56:19;201.23.160.66;pt;local;bio;*;*;*;;1
+2011-02-19 14:57:58;201.23.160.66;pt;local;bio;cancer de mama;*;*;;1
+2011-02-19 15:16:23;201.23.160.66;pt;local;bio;estilo de vida  em relaçao ao cancer de mama;*;*;;1
+2011-02-19 15:36:14;201.95.8.50;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-02-19 16:59:37;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-02-19 17:26:33;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-02-19 17:55:27;201.19.115.170;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-02-19 17:55:46;201.19.115.170;pt;local;bio;jequitiba;*;BHLB;db:BHLB;1
+2011-02-19 17:56:12;201.19.115.170;pt;local;bio;mapas;*;BHLG;db:BHLG;1
+2011-02-19 18:14:03;187.1.10.197;pt;local;bio;indisciplina na escola;*;*;;1
+2011-02-19 18:14:58;187.1.10.197;pt;local;bio; INDISCIPLINA;*;*;;1
+2011-02-19 18:15:13;187.1.10.197;pt;local;bio; INDISCIPLINA;*;ALL;;1
+2011-02-19 18:15:52;187.1.10.197;pt;local;bio; INDISCIPLINA;kw;ALL;;1
+2011-02-19 18:16:05;187.1.10.197;pt;local;bio; INDISCIPLINA;kw;ALL;;1
+2011-02-19 18:16:46;187.1.10.197;pt;local;bio; INDISCIPLINA;au;SCIB;db:SCIB;1
+2011-02-19 18:51:27;187.1.10.197;pt;local;bio;jovens adolescentes;*;*;;1
+2011-02-19 18:52:08;187.1.10.197;pt;local;bio; educação no Brasil;*;*;;1
+2011-02-19 18:52:22;187.1.10.197;pt;local;bio; educação ;*;*;;1
+2011-02-19 20:03:40;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-02-19 21:11:36;82.232.57.207;es;local;bio;meteorización;*;*;;1
+2011-02-19 21:11:54;82.232.57.207;es;local;bio;minerales;*;ALL;;1
+2011-02-19 21:58:34;201.22.218.40;pt;local;bio;aranhas armadeiras;*;*;;1
+2011-02-19 21:58:44;201.22.218.40;pt;local;bio;aranhas armadeiras;kw;ALL;;1
+2011-02-19 21:59:02;201.22.218.40;pt;local;bio;aracnídeos;kw;ALL;;1
+2011-02-19 21:59:13;201.22.218.40;pt;local;bio;aracnídeos;kw;SCIB;db:SCIB;1
+2011-02-19 22:37:11;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-02-19 23:35:05;66.249.71.52;pt;local;bio;*;*;*;;1

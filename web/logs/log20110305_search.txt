@@ -1,0 +1,37 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-03-05 02:07:55;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-05 02:59:33;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-05 02:59:34;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-05 02:59:34;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-05 02:59:35;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-05 03:36:10;207.46.13.96;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-05 05:15:41;66.249.71.98;pt;local;bio;+id:("scl-S0074-02761909000200007");*;*;;1
+2011-03-05 06:09:34;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-05 06:13:25;66.249.71.98;pt;local;bio;*;*;*;;1
+2011-03-05 10:13:54;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-05 10:34:06;189.83.8.1;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-05 10:36:24;66.249.71.98;pt;local;bio;+id:("scl-S0074-02761909000200003");*;*;;1
+2011-03-05 10:52:05;66.249.71.98;pt;local;bio;+id:("scl-S0074-02761909000200008");*;*;;1
+2011-03-05 13:25:29;66.249.71.98;pt;local;bio;+id:("scl-S0074-02761909000200005");*;*;;1
+2011-03-05 13:32:52;66.249.71.98;pt;local;bio;+id:("lil-20986061024");*;*;;1
+2011-03-05 13:55:15;201.23.222.188;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-05 13:55:39;201.23.222.188;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-03-05 13:55:54;201.23.222.188;pt;local;bio;patrimonio genético;*;SCIB;db:SCIB;1
+2011-03-05 13:56:01;201.23.222.188;pt;local;bio;patrimonio genético;kw;SCIB;db:SCIB;1
+2011-03-05 13:56:09;201.23.222.188;pt;local;bio;patrimônio genético;kw;SCIB;db:SCIB;1
+2011-03-05 13:56:14;201.23.222.188;pt;local;bio;patrimônio genético;kw;SCIB;db:SCIB;1
+2011-03-05 13:56:20;201.23.222.188;pt;local;bio;patrimônio genético;kw;BHLB;db:BHLB;1
+2011-03-05 13:56:24;201.23.222.188;pt;local;bio;patrimônio genético;kw;BHLG;db:BHLG;1
+2011-03-05 13:58:43;66.249.71.98;pt;local;bio;+id:("lil-3551021638");*;*;;1
+2011-03-05 14:23:15;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-05 15:50:52;201.25.178.35;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-05 16:06:04;201.25.178.35;pt;local;bio;*;*;SCIB;db:SCIB;7
+2011-03-05 18:07:30;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-03-05 18:36:00;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-05 22:42:02;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-05 23:23:28;189.99.233.187;pt;local;bio;ecologia vegetal;*;*;;1
+2011-03-05 23:31:32;189.99.233.187;pt;local;bio;fitossociologia;*;ALL;;1
+2011-03-05 23:39:51;189.99.233.187;pt;local;bio;fitossociologia;*;ALL;;2
+2011-03-05 23:40:18;189.99.233.187;pt;local;bio;fitossociologia- metodologia parcelas;*;ALL;;1
+2011-03-05 23:50:28;189.99.233.187;pt;local;bio;fitossociologia- metodologia parcelas;*;ALL;;1
+2011-03-05 23:52:54;189.99.233.187;pt;local;bio;fitodiversidade;*;ALL;;1

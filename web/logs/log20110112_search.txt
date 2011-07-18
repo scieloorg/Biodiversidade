@@ -1,0 +1,94 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-01-12 00:57:31;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-12 01:14:22;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-12 01:17:12;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-12 02:23:24;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-12 02:27:15;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-12 02:33:57;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-12 03:30:32;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-12 03:48:10;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-12 04:11:32;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-12 06:59:43;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-12 07:44:21;201.53.74.250;pt;local;bio;*;*;*;;1
+2011-01-12 07:44:24;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-12 07:49:13;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-12 08:17:22;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-12 08:21:17;200.164.64.130;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-12 08:22:06;200.164.64.130;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Acta Bot. Bras.";1
+2011-01-12 08:47:43;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-12 08:48:39;189.9.22.65;pt;local;bio;*;*;*;;1
+2011-01-12 08:56:23;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-12 09:43:45;201.54.209.12;pt;local;bio;Hypsiboas lundii;*;*;;1
+2011-01-12 09:47:51;201.54.209.12;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-12 09:48:07;201.54.209.12;pt;local;bio;*;*;SCIB;db:SCIB;6
+2011-01-12 10:01:58;200.175.180.253;pt;local;bio;biotecnologia;*;*;;1
+2011-01-12 10:29:43;66.249.71.52;pt;local;bio;+id:("lil-20986061024");*;*;;1
+2011-01-12 10:32:35;200.181.18.15;pt;local;bio;conservação;*;*;;1
+2011-01-12 10:32:55;200.181.18.15;pt;local;bio;hotspot;*;ALL;;1
+2011-01-12 10:33:16;200.175.180.253;pt;local;bio;endemismo;*;ALL;;1
+2011-01-12 10:33:45;200.175.180.253;pt;local;bio;endemismo;*;ALL;;2
+2011-01-12 10:34:13;200.175.180.253;pt;local;bio;endemismo;*;ALL;;3
+2011-01-12 10:34:24;200.175.180.253;pt;local;bio;valoração;*;ALL;;1
+2011-01-12 10:49:28;150.164.44.48;pt;local;bio;buriti;*;*;;1
+2011-01-12 10:50:05;150.164.44.48;pt;local;bio;maracujá;*;*;;1
+2011-01-12 11:10:28;189.31.20.249;pt;local;bio;*;*;*;;1
+2011-01-12 11:16:45;66.249.71.52;pt;local;bio;+id:("lil-43067093999");*;*;;1
+2011-01-12 11:30:47;66.249.71.52;pt;local;bio;+id:("lil-9030037197");*;*;;1
+2011-01-12 11:36:29;201.14.151.213;pt;local;bio;restinga;*;*;;1
+2011-01-12 11:53:42;143.107.38.244;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-12 12:12:05;66.249.71.52;pt;local;bio;+id:("lil-9030037195");*;*;;1
+2011-01-12 13:32:01;143.107.38.115;pt;local;bio;museu de azoologia;*;*;;1
+2011-01-12 13:52:32;66.249.71.52;pt;local;bio;+id:("lil-9030037111");*;*;;1
+2011-01-12 14:33:30;76.76.105.250;http://www.enaut.com.br/novo/galeria/images/galeria/on?;local;bio;*;*;*;;1
+2011-01-12 14:40:00;201.75.201.8;pt;local;bio;borboletas;*;*;;1
+2011-01-12 14:40:31;201.75.201.8;pt;local;bio;borboletas;*;ALL;;2
+2011-01-12 14:40:58;201.75.201.8;pt;local;bio;borboletas;*;ALL;;3
+2011-01-12 14:41:25;201.75.201.8;pt;local;bio;borboletas;*;ALL;;4
+2011-01-12 14:41:47;201.75.201.8;pt;local;bio;borboletas;*;ALL;;3
+2011-01-12 14:43:52;201.75.201.8;pt;local;bio;toxocara canis;*;*;;1
+2011-01-12 14:44:13;201.75.201.8;pt;local;bio;toxocara canis;*;ALL;;2
+2011-01-12 14:44:45;201.75.201.8;pt;local;bio;ancylostoma braziliensis;*;ALL;;1
+2011-01-12 14:44:47;187.80.107.186;pt;local;bio;*;*;*;;1
+2011-01-12 14:44:55;201.75.201.8;pt;local;bio;ancylostoma ;*;ALL;;1
+2011-01-12 14:53:30;189.73.221.242;pt;local;bio;*;*;*;;1
+2011-01-12 15:26:46;76.76.105.250;http://www.enaut.com.br/novo/galeria/images/galeria/on?;local;bio;*;*;*;;1
+2011-01-12 15:41:13;200.142.54.4;pt;local;bio;algas;*;*;;1
+2011-01-12 15:41:33;200.142.54.4;pt;local;bio;Bostrychia;*;ALL;;1
+2011-01-12 15:41:48;200.142.54.4;pt;local;bio;Diatom;*;ALL;;1
+2011-01-12 15:42:39;200.142.54.4;pt;local;bio;Maranhão;*;*;;1
+2011-01-12 15:42:50;200.142.54.4;pt;local;bio;Maranhao;*;ALL;;1
+2011-01-12 15:44:32;200.142.54.4;pt;local;bio;Maranhao;*;ALL;;2
+2011-01-12 15:45:32;200.142.54.4;pt;local;bio;Maranhao;*;ALL;;3
+2011-01-12 15:46:46;200.142.54.4;pt;local;bio;Maranhao;*;ALL;;4
+2011-01-12 15:47:47;200.142.54.4;pt;local;bio;Maranhao;*;ALL;;5
+2011-01-12 15:49:12;200.142.54.4;pt;local;bio;Maranhao;*;ALL;;6
+2011-01-12 15:50:10;200.142.54.4;pt;local;bio;Maranhao;*;ALL;;7
+2011-01-12 15:51:07;200.142.54.4;pt;local;bio;Maranhao;*;ALL;;8
+2011-01-12 15:51:51;200.142.54.4;pt;local;bio;Maranhao;*;ALL;;9
+2011-01-12 15:52:02;200.142.54.4;pt;local;bio;Maranhao;*;ALL;;9
+2011-01-12 15:52:51;200.142.54.4;pt;local;bio;Maranhao;*;ALL;;10
+2011-01-12 16:32:46;157.86.176.90;pt;local;bio;biomphalaria;*;*;;1
+2011-01-12 16:37:41;157.86.176.90;pt;local;bio;*;*;*;;1
+2011-01-12 16:44:52;157.86.176.90;pt;local;bio;paraense ;*;ALL;;1
+2011-01-12 16:47:58;157.86.176.90;pt;local;bio;paraense ;*;ALL;ta_cluster:"Rev. Bras. Zool.";1
+2011-01-12 17:10:33;76.76.105.250;pt;local;http://www.enaut.com.br/enaut.com.br/novo/galeria/images/galeria/on?;*;*;*;;1
+2011-01-12 17:17:20;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-12 20:17:32;187.25.139.208;pt;local;bio;melastomataceae;*;*;;1
+2011-01-12 20:32:27;189.61.13.58;pt;local;bio;evolução;*;*;;1
+2011-01-12 20:33:32;189.61.13.58;pt;local;bio;evolução;*;ALL;;1
+2011-01-12 20:33:51;189.61.13.58;pt;local;bio;hidrelétrica;*;ALL;;1
+2011-01-12 20:34:42;189.61.13.58;pt;local;bio;borboleta;*;ALL;;1
+2011-01-12 20:37:14;189.61.13.58;pt;local;bio;distrito federal;*;ALL;;1
+2011-01-12 20:37:44;189.61.13.58;pt;local;bio;distrito federal;*;ALL;;2
+2011-01-12 20:38:14;189.61.13.58;pt;local;bio;distrito federal;*;ALL;;3
+2011-01-12 20:39:01;189.61.13.58;pt;local;bio;distrito federal;*;ALL;;4
+2011-01-12 20:41:38;189.61.13.58;pt;local;bio;distrito federal;*;ALL;;5
+2011-01-12 20:45:22;189.61.13.58;pt;local;bio;distrito federal;*;ALL;;6
+2011-01-12 21:14:57;66.249.71.52;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-12 21:31:34;201.62.187.232;pt;local;bio;fish;*;*;;1
+2011-01-12 21:47:48;200.129.22.52;pt;local;bio;reciclagem;*;*;;1
+2011-01-12 21:48:01;200.129.22.52;pt;local;bio;reciclagem;*;BHLB;db:BHLB;1
+2011-01-12 21:48:20;200.129.22.52;pt;local;bio;reciclagem de garrafas PET;*;BHLB;db:BHLB;1
+2011-01-12 22:10:54;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-12 22:30:08;66.249.71.52;pt;local;bio;+id:("scl-S0074-02761909000100002");*;*;;1
+2011-01-12 23:03:35;201.19.138.47;pt;local;bio;*;*;SCIB;db:SCIB;1

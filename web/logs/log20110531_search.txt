@@ -1,0 +1,94 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-05-31 01:08:27;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-31 01:39:12;187.111.48.2;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-31 01:39:56;187.111.48.2;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-05-31 01:40:35;187.111.48.2;pt;local;bio;impactos ambientais na biodiversidade e biogeogrfia aqupatica;ti;BHLB;db:BHLB;1
+2011-05-31 01:40:44;187.111.48.2;pt;local;bio;impactos ambientais na biodiversidade aquática;ti;BHLB;db:BHLB;1
+2011-05-31 01:40:50;187.111.48.2;pt;local;bio;impactos ambientais na biodiversidade ;ti;BHLB;db:BHLB;1
+2011-05-31 01:40:54;187.111.48.2;pt;local;bio;impactos ambientais na biodiversidade ;ti;BHLB;db:BHLB;1
+2011-05-31 01:40:57;187.111.48.2;pt;local;bio;impactos ambientais na biodiversidade ;ti;BHLB;db:BHLB;1
+2011-05-31 01:41:18;187.111.48.2;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-31 01:41:42;187.111.48.2;pt;local;bio;impactos ambientais na biodiversidade e biogeogrfia aqupatica;ti;BHLB;db:BHLB;3
+2011-05-31 01:42:39;187.111.48.2;pt;local;bio;impacto ambiental;*;*;;1
+2011-05-31 01:42:45;187.111.48.2;pt;local;bio;impacto ambiental;*;BHLB;db:BHLB;1
+2011-05-31 01:42:57;187.111.48.2;pt;local;bio;impacto ambiental;*;BHLB;db:BHLB;2
+2011-05-31 01:43:43;187.111.48.2;pt;local;bio;impacto ambiental;*;BHLB;db:BHLB;2
+2011-05-31 01:44:51;187.111.48.2;pt;local;bio;biodiversiade aquática;*;*;;1
+2011-05-31 01:44:58;187.111.48.2;pt;local;bio;biodiversidade aquática;*;ALL;;1
+2011-05-31 01:45:03;187.111.48.2;pt;local;bio;biodiversidade aquática;ti;BHLB;db:BHLB;1
+2011-05-31 01:45:09;187.111.48.2;pt;local;bio;biodiversidade aquática;au;BHLB;db:BHLB;1
+2011-05-31 01:45:11;187.111.48.2;pt;local;bio;biodiversidade aquática;au;BHLB;db:BHLB;1
+2011-05-31 01:48:14;187.111.48.2;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-31 01:48:32;187.111.48.2;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-05-31 01:48:49;187.111.48.2;pt;local;bio;*;*;SCIB;db:SCIB;3
+2011-05-31 01:49:06;187.111.48.2;pt;local;bio;*;*;SCIB;db:SCIB;4
+2011-05-31 01:54:26;187.111.48.2;pt;local;bio;*;*;SCIB;db:SCIB;5
+2011-05-31 01:54:49;187.111.48.2;pt;local;bio;*;*;SCIB;db:SCIB;6
+2011-05-31 01:55:28;187.111.48.2;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-31 01:55:50;187.111.48.2;pt;local;bio;biodiversidade aquática;ti;SCIB;db:SCIB;1
+2011-05-31 01:55:55;187.111.48.2;pt;local;bio;biodiversidade aquática;ti;SCIB;db:SCIB;1
+2011-05-31 01:56:02;187.111.48.2;pt;local;bio; aquática;ti;SCIB;db:SCIB;1
+2011-05-31 01:56:13;187.111.48.2;pt;local;bio; aquática;ti;BHLB;db:BHLB;1
+2011-05-31 01:56:18;187.111.48.2;pt;local;bio; aquática;ti;BHLG;db:BHLG;1
+2011-05-31 01:56:23;187.111.48.2;pt;local;bio; aquática;ti;ALL;;1
+2011-05-31 01:56:43;187.111.48.2;pt;local;bio; biodiversidade aquática;ti;ALL;;1
+2011-05-31 01:57:24;187.111.48.2;pt;local;bio; biodiversidade aquática;ti;ALL;;1
+2011-05-31 03:39:56;66.249.71.37;ppufejihenzxjri;local;bio;+id:("lil-9030037195");*;*;;1
+2011-05-31 04:06:42;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-31 04:06:43;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-31 04:06:43;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-31 04:06:44;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-31 04:24:13;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-31 04:38:16;66.249.71.37;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-31 05:10:08;66.249.71.37;pt;local;bio;+id:("lil-18474058058");*;*;;1
+2011-05-31 06:33:34;66.249.71.37;xfdblysxhm;local;bio;*;*;*;;1
+2011-05-31 07:26:06;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-31 08:24:43;66.249.71.37;xfdblysxhm;local;bio;+id:("lil-9030037178");*;*;;1
+2011-05-31 08:58:06;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-05-31 08:58:14;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-05-31 08:58:27;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-05-31 09:58:34;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-05-31 09:59:58;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-05-31 10:30:19;66.249.71.37;pt;local;bio;+id:("scl-S0074-02761909000200003");*;*;;1
+2011-05-31 10:35:24;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-31 10:40:18;177.42.217.151;pt;local;bio;Formação do povo brasileiro;*;*;;1
+2011-05-31 10:40:26;177.42.217.151;pt;local;bio;Formação do povo brasileiro;*;*;;1
+2011-05-31 10:40:32;177.42.217.151;pt;local;bio; povo brasileiro;*;*;;1
+2011-05-31 10:57:47;66.249.71.37;xfdblysxhm;local;bio;+id:("lil-9030037178");*;*;;1
+2011-05-31 10:58:40;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-05-31 11:13:45;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-05-31 11:58:49;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-05-31 13:04:53;66.249.71.37;xfdblysxhm;local;bio;*;*;*;;1
+2011-05-31 13:45:32;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-31 13:49:22;65.52.110.71;pt;local;bio;*;*;*;;1
+2011-05-31 14:08:03;66.249.71.37;ppufejihenzxjri;local;bio;+id:("lil-13264049879");*;*;;1
+2011-05-31 14:18:28;200.145.108.83;pt;local;bio;callitriche;*;*;;1
+2011-05-31 14:18:37;200.145.108.83;pt;local;bio;callitrichaceae;*;ALL;;1
+2011-05-31 15:09:39;201.11.24.232;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-31 15:10:00;201.11.24.232;pt;local;bio;drogas;kw;SCIB;db:SCIB;1
+2011-05-31 15:10:17;201.11.24.232;pt;local;bio;drogas ilicitas;kw;SCIB;db:SCIB;1
+2011-05-31 15:10:30;201.11.24.232;pt;local;bio;drogas ilicitas;ti;SCIB;db:SCIB;1
+2011-05-31 15:10:33;201.11.24.232;pt;local;bio;drogas ilicitas;ti;SCIB;db:SCIB;1
+2011-05-31 15:10:40;201.11.24.232;pt;local;bio;*;*;*;;1
+2011-05-31 15:10:55;201.11.24.232;pt;local;bio;*;*;ALL;type:"article";1
+2011-05-31 15:11:05;201.11.24.232;pt;local;bio;*;*;ALL;type:"article";2
+2011-05-31 15:11:10;201.11.24.232;pt;local;bio;*;*;ALL;type:"article";3
+2011-05-31 15:11:17;201.11.24.232;pt;local;bio;*;*;ALL;type:"article";4
+2011-05-31 15:11:46;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-05-31 15:11:54;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-05-31 15:15:38;66.249.71.37;pt;local;bio;*;*;*;;1
+2011-05-31 16:17:01;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-05-31 16:17:05;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-05-31 17:00:19;189.98.240.98;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-31 17:17:11;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-05-31 17:44:26;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-05-31 17:45:30;66.249.71.37;xfdblysxhm;local;bio;+id:("lil-9030037111");*;*;;1
+2011-05-31 17:48:50;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-31 18:17:19;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-05-31 18:27:34;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2011-05-31 19:16:29;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-05-31 19:17:51;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-05-31 20:56:14;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-31 21:02:08;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2011-05-31 21:20:04;66.249.71.37;xfdblysxhm;local;bio;+id:("lil-9030037111");*;*;;1
+2011-05-31 23:43:20;201.92.52.22;pt;local;bio;as  16 tendenciias de Faith popcon;*;*;;1

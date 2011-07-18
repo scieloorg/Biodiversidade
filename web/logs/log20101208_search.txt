@@ -1,0 +1,227 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2010-12-08 00:11:54;187.112.3.34;pt;local;bio;american fern journal;*;*;;1
+2010-12-08 00:20:54;189.104.217.140;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-08 00:25:13;66.249.71.37;pt;local;bio;+id:("lil-18474058007");*;*;;1
+2010-12-08 00:47:16;66.249.71.37;pt;local;bio;*;*;*;;1
+2010-12-08 01:21:36;187.59.194.19;pt;local;bio;deiroleucus;*;*;;1
+2010-12-08 02:52:21;66.249.71.37;pt;local;bio;+id:("lil-9030037197");*;*;;1
+2010-12-08 07:23:09;66.249.71.37;pt;local;bio;+id:("lil-9030037220");*;*;;1
+2010-12-08 08:15:05;201.4.233.163;pt;local;bio;plantas ricas em néctar e pólem;*;*;;1
+2010-12-08 08:18:34;150.163.163.184;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-08 08:26:50;187.78.136.46;pt;local;bio;laguncularia;*;*;;1
+2010-12-08 08:27:08;187.78.136.46;pt;local;bio;Sua seleção;*;*;;1
+2010-12-08 08:30:12;187.78.136.46;pt;local;bio;noronha;*;*;;1
+2010-12-08 08:31:20;187.78.136.46;pt;local;bio;laguncularia;*;*;;1
+2010-12-08 08:31:25;187.78.136.46;pt;local;bio;laguncularia;*;ALL;;2
+2010-12-08 08:33:19;189.27.54.42;pt;local;bio;ocimum;*;*;;1
+2010-12-08 08:33:39;189.27.54.42;pt;local;bio;  ocimum gratissimum;*;ALL;;1
+2010-12-08 08:34:38;189.27.54.42;pt;local;bio;plantas medicinais;*;ALL;;1
+2010-12-08 08:46:50;187.78.136.46;pt;local;bio;noronha;*;*;;1
+2010-12-08 08:48:16;189.27.54.42;pt;local;bio;mebendazol x nitazoxanida;*;ALL;;1
+2010-12-08 08:48:20;189.27.54.42;pt;local;bio;mebendazol  nitazoxanida;*;ALL;;1
+2010-12-08 08:48:20;189.27.54.42;pt;local;bio;mebendazol  nitazoxanida;*;ALL;;1
+2010-12-08 09:04:06;201.45.142.131;pt;local;bio;primatas;*;*;;1
+2010-12-08 09:13:45;200.202.18.36;pt;local;bio;urucum;*;*;;1
+2010-12-08 09:14:28;200.202.18.36;pt;local;bio;grumixama;*;ALL;;1
+2010-12-08 09:14:42;200.202.18.36;pt;local;bio;chá mate;*;ALL;;1
+2010-12-08 09:15:00;200.202.18.36;pt;local;bio;antocianina;*;ALL;;1
+2010-12-08 09:20:22;201.91.60.209;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-08 09:31:40;189.107.9.167;pt;local;bio;chiroptera;*;*;;1
+2010-12-08 09:35:48;189.107.9.167;pt;local;bio;chiroptera;*;ALL;;2
+2010-12-08 09:36:55;189.107.9.167;pt;local;bio;morcegos;*;ALL;;2
+2010-12-08 09:41:15;189.107.9.167;pt;local;bio;morcegos;*;ALL;;3
+2010-12-08 09:42:17;189.107.9.167;pt;local;bio;morcegos;*;ALL;;4
+2010-12-08 09:45:53;189.107.9.167;pt;local;bio;morcegos;*;ALL;;5
+2010-12-08 09:46:43;189.107.9.167;pt;local;bio;morcegos;*;ALL;;6
+2010-12-08 09:47:47;200.156.51.2;pt;local;bio;ilha grande;*;*;;1
+2010-12-08 09:55:10;189.74.42.235;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-08 10:06:22;143.107.255.30;pt;local;bio;*;*;*;;1
+2010-12-08 10:06:27;189.74.65.83;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-08 10:11:56;187.9.91.194;pt;local;bio;callithrix aurita;*;*;;1
+2010-12-08 10:20:23;200.153.25.18;pt;local;bio;peixes do estuario;*;*;;1
+2010-12-08 10:29:35;187.54.64.215;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-08 10:41:28;187.104.33.27;pt;local;bio;american fern journal;*;*;;1
+2010-12-08 10:49:31;187.116.14.124;pt;local;bio;tubarão;*;*;;1
+2010-12-08 10:49:51;187.116.14.124;pt;local;bio;shark;*;ALL;;1
+2010-12-08 10:53:07;187.116.14.124;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-08 10:54:39;187.116.14.124;pt;local;bio;shark;*;SCIB;db:SCIB;1
+2010-12-08 10:54:43;201.54.209.12;pt;local;bio;orquideas, orquidaceas;*;*;;1
+2010-12-08 10:55:08;201.54.209.12;pt;local;bio;cattleya;*;ALL;;1
+2010-12-08 10:55:15;187.116.14.124;pt;local;bio;shark;*;SCIB;db:SCIB;2
+2010-12-08 10:57:00;189.103.168.108;pt;local;bio;semente;*;*;;1
+2010-12-08 10:58:57;189.19.246.220;pt;local;bio;parque nacional de serra das lontras;*;*;;1
+2010-12-08 11:51:58;200.131.25.24;pt;local;bio;meliaceae;*;*;;1
+2010-12-08 11:52:10;200.131.25.24;pt;local;bio;meliaceae;*;ALL;;2
+2010-12-08 11:52:52;200.131.25.24;pt;local;bio;orchidaceae;*;ALL;;1
+2010-12-08 11:53:19;200.131.25.24;pt;local;bio;orchidaceae;*;ALL;;2
+2010-12-08 11:53:28;200.131.25.24;pt;local;bio;orchidaceae;*;ALL;;3
+2010-12-08 12:04:15;200.131.208.244;pt;local;bio;mobbing;*;*;;1
+2010-12-08 12:04:27;200.131.208.244;pt;local;bio;tumulto;*;ALL;;1
+2010-12-08 12:15:15;187.20.141.118;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-08 12:15:24;187.20.141.118;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Braz. J. Genet.";1
+2010-12-08 12:15:36;187.20.141.118;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Braz. J. Genet." AND la:"Pt";1
+2010-12-08 12:27:05;200.235.239.130;pt;local;bio;melipona;*;*;;1
+2010-12-08 12:27:36;187.119.166.161;pt;local;bio;permacultura;*;*;;1
+2010-12-08 12:27:57;200.235.239.130;pt;local;bio;melipona;*;ALL;;2
+2010-12-08 12:28:03;200.235.239.130;pt;local;bio;melipona;*;ALL;;1
+2010-12-08 12:28:11;200.235.239.130;pt;local;bio;melipona;*;ALL;;2
+2010-12-08 12:28:56;200.235.239.130;pt;local;bio;melipona;*;ALL;;3
+2010-12-08 12:29:39;200.235.239.130;pt;local;bio;melipona;*;ALL;;4
+2010-12-08 12:30:28;200.235.239.130;pt;local;bio;melipona;*;ALL;;5
+2010-12-08 12:31:08;187.105.193.182;pt;local;bio;fauna;*;*;;1
+2010-12-08 12:31:25;200.235.239.130;pt;local;bio;melipona;*;ALL;;6
+2010-12-08 12:36:08;200.235.239.130;pt;local;bio;Meliponinae;*;ALL;;1
+2010-12-08 12:37:41;200.235.239.130;pt;local;bio;Apidae;*;ALL;;1
+2010-12-08 12:38:36;200.235.239.130;pt;local;bio;Apidae;*;ALL;;2
+2010-12-08 12:39:27;200.235.239.130;pt;local;bio;Apidae;*;ALL;year_cluster:"1992";1
+2010-12-08 12:39:50;200.235.239.130;pt;local;bio;Apidae;*;ALL;;1
+2010-12-08 12:39:58;200.235.239.130;pt;local;bio;*;*;*;;1
+2010-12-08 12:40:04;200.235.239.130;pt;local;bio;Apidae;*;ALL;;1
+2010-12-08 12:40:07;200.235.239.130;pt;local;bio;*;*;*;;1
+2010-12-08 12:40:07;200.235.239.130;pt;local;bio;*;*;*;;1
+2010-12-08 12:40:08;200.235.239.130;pt;local;bio;*;*;*;;1
+2010-12-08 12:40:16;200.235.239.130;pt;local;bio;*;*;*;;1
+2010-12-08 12:40:21;200.235.239.130;pt;local;bio;*;*;*;;1
+2010-12-08 12:40:24;200.235.239.130;pt;local;bio;*;*;*;;1
+2010-12-08 12:40:26;200.235.239.130;pt;local;bio;*;*;*;;1
+2010-12-08 12:40:27;200.235.239.130;pt;local;bio;*;*;*;;1
+2010-12-08 12:40:29;200.235.239.130;pt;local;bio;*;*;*;;1
+2010-12-08 12:46:30;200.17.201.13;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-08 12:47:25;200.235.239.130;pt;local;bio;Apidae;*;ALL;;2
+2010-12-08 12:47:34;200.235.239.130;pt;local;bio;Apidae;*;ALL;;3
+2010-12-08 12:48:19;200.235.239.130;pt;local;bio;Apidae;*;ALL;;4
+2010-12-08 12:49:17;200.235.239.130;pt;local;bio;Apidae;*;ALL;;5
+2010-12-08 12:50:07;200.235.239.130;pt;local;bio;Apidae;*;ALL;;6
+2010-12-08 12:51:11;200.235.239.130;pt;local;bio;Apidae;*;ALL;;7
+2010-12-08 12:51:48;200.235.239.130;pt;local;bio;Apidae;*;ALL;;8
+2010-12-08 12:52:30;200.235.239.130;pt;local;bio;Apidae;*;ALL;;9
+2010-12-08 12:53:47;200.235.239.130;pt;local;bio;costa campos ;au;ALL;;1
+2010-12-08 12:53:58;200.129.173.3;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-08 12:54:12;200.235.239.130;pt;local;bio;costa campos ;au;ALL;;2
+2010-12-08 12:54:33;200.235.239.130;pt;local;bio;costa campos ;au;ALL;;3
+2010-12-08 12:58:37;200.235.239.130;pt;local;bio;lúcio antônio oliveira  campos ;au;ALL;;1
+2010-12-08 12:58:45;200.235.239.130;pt;local;bio;lúcio antônio oliveira campos ;au;ALL;;1
+2010-12-08 12:58:54;200.235.239.130;pt;local;bio;LAO campos ;au;ALL;;1
+2010-12-08 12:58:55;200.129.173.3;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-08 12:59:02;200.235.239.130;pt;local;bio;LAO campos ;*;ALL;;1
+2010-12-08 12:59:18;200.235.239.130;pt;local;bio;Campos L A O;*;ALL;;1
+2010-12-08 12:59:33;200.235.239.130;pt;local;bio;Campos L A O;au;ALL;;1
+2010-12-08 13:00:40;187.20.6.161;pt;local;bio;Serra do Gandarela;*;*;;1
+2010-12-08 13:01:10;187.20.6.161;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-08 13:01:35;187.20.6.161;pt;local;bio;*;*;BHLB;db:BHLB;2
+2010-12-08 13:01:43;187.20.6.161;pt;local;bio;*;*;BHLB;db:BHLB;3
+2010-12-08 13:02:14;187.20.6.161;pt;local;bio;*;*;BHLB;db:BHLB;4
+2010-12-08 13:02:44;187.20.6.161;pt;local;bio;*;*;BHLB;db:BHLB;5
+2010-12-08 13:11:16;200.156.51.2;pt;local;bio;ilha grande;*;*;;1
+2010-12-08 13:19:01;200.144.29.106;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-08 13:19:17;200.144.29.106;pt;local;bio;*;*;BHLB;db:BHLB;2
+2010-12-08 13:19:29;200.156.51.2;pt;local;bio;ilha grande;*;ALL;;2
+2010-12-08 13:20:48;200.144.29.106;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Anexos das Memórias do Instituto de Butantan, Secção de Botânica.";1
+2010-12-08 13:21:23;200.144.29.106;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-08 13:27:49;200.144.29.106;pt;local;bio;fungi;*;BHLG;db:BHLG;1
+2010-12-08 13:28:20;187.105.193.182;pt;local;bio;fauna;*;SCIB;db:SCIB AND year_cluster:"1879";1
+2010-12-08 13:30:33;200.144.29.106;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-08 13:30:38;187.50.39.66;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-08 13:30:57;187.50.39.66;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-08 13:39:04;200.131.25.24;pt;local;bio;orchidaceae;*;ALL;;4
+2010-12-08 13:39:16;200.131.25.24;pt;local;bio;orchidaceae;*;ALL;;5
+2010-12-08 14:04:51;201.14.100.126;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-08 14:13:29;187.54.127.254;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-08 14:19:39;189.8.209.20;pt;local;bio;alternanthera ;*;*;;1
+2010-12-08 14:28:51;200.131.25.24;pt;local;bio;orchidaceae;*;ALL;;6
+2010-12-08 14:29:25;200.131.25.24;pt;local;bio;orchidaceae;*;ALL;;7
+2010-12-08 14:31:41;200.131.25.24;pt;local;bio;orchidaceae;*;ALL;;8
+2010-12-08 14:37:32;200.131.25.24;pt;local;bio;orchidaceae;*;ALL;;9
+2010-12-08 14:37:58;200.131.25.24;pt;local;bio;orchidaceae;*;ALL;;10
+2010-12-08 14:47:59;201.51.40.59;pt;local;bio;Mata Atlântica;*;*;;1
+2010-12-08 14:48:21;201.51.40.59;pt;local;bio;Mata Atlântica;ti;ALL;;1
+2010-12-08 14:48:34;201.51.40.59;pt;local;bio;*;*;*;;1
+2010-12-08 15:00:09;146.164.3.203;pt;local;bio;vriesea;*;*;;1
+2010-12-08 15:00:51;146.164.3.203;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-08 15:01:01;189.59.68.58;pt;local;bio;Brosimum gaudichaudii;*;*;;1
+2010-12-08 15:01:04;146.164.3.203;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-08 15:35:24;187.54.74.223;pt;local;bio;cânhamo;*;*;;1
+2010-12-08 15:35:30;187.54.74.223;pt;local;bio;maconha;*;ALL;;1
+2010-12-08 15:35:39;187.54.74.223;pt;local;bio;animal;*;ALL;;1
+2010-12-08 15:35:53;187.54.74.223;pt;local;bio;animal;*;BHLB;db:BHLB;1
+2010-12-08 16:13:53;200.144.29.106;pt;local;bio;hypericum cordatum;*;*;;1
+2010-12-08 17:13:58;200.156.51.2;pt;local;bio;*;*;*;;1
+2010-12-08 17:17:39;189.30.155.203;pt;local;bio;araucária;*;*;;1
+2010-12-08 17:23:57;152.92.17.60;pt;local;bio;odonatas;*;*;;1
+2010-12-08 17:24:09;152.92.17.60;pt;local;bio;restinga;*;*;;1
+2010-12-08 17:46:27;189.78.8.112;pt;local;bio;diatomacea;*;*;;1
+2010-12-08 17:56:53;187.38.88.12;pt;local;bio;anfibio;*;*;;1
+2010-12-08 17:58:00;200.156.51.2;pt;local;bio;ilha grande;*;ALL;;3
+2010-12-08 18:11:22;66.249.71.37;pt;local;bio;*;*;*;;1
+2010-12-08 18:11:38;200.131.17.231;pt;local;bio;pteridophyta;*;*;;1
+2010-12-08 18:13:16;186.220.162.206;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-08 18:29:49;187.113.81.100;pt;local;bio;dasdaddsa;*;*;;1
+2010-12-08 18:29:56;187.113.81.100;pt;local;bio;onça;*;ALL;;1
+2010-12-08 18:30:10;187.113.81.100;pt;local;bio;cacto;*;*;;1
+2010-12-08 18:30:11;186.220.162.206;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-08 18:30:29;186.220.162.206;pt;local;bio;miconia;*;*;;1
+2010-12-08 18:49:13;189.27.54.42;pt;local;bio;dipteryx odorata;*;*;;1
+2010-12-08 18:49:31;189.27.54.42;pt;local;bio;oleo dipteryx odorata;*;ALL;;1
+2010-12-08 18:49:37;189.27.54.42;pt;local;bio;oil dipteryx odorata;*;ALL;;1
+2010-12-08 18:49:37;189.27.54.42;pt;local;bio;oil dipteryx odorata;*;ALL;;1
+2010-12-08 18:49:52;189.27.54.42;pt;local;bio;dipteryx alata;*;ALL;;1
+2010-12-08 18:50:10;189.27.54.42;pt;local;bio;ocimum gratissimum;*;ALL;;1
+2010-12-08 18:50:25;189.27.54.42;pt;local;bio;acido rosmarinico;*;ALL;;1
+2010-12-08 18:50:34;189.27.54.42;pt;local;bio;rosmarinic acid;*;ALL;;1
+2010-12-08 19:01:20;66.249.71.37;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-08 19:01:26;66.249.71.37;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-08 19:02:37;66.249.71.37;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-08 19:47:16;189.102.88.77;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-08 19:49:13;187.79.61.153;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-08 19:50:30;187.79.61.153;pt;local;bio;onicóforo;*;*;;1
+2010-12-08 19:51:04;187.79.61.153;pt;local;bio;antilophia;*;*;;1
+2010-12-08 19:52:02;187.79.61.153;pt;local;bio;homoptera;*;ALL;;1
+2010-12-08 19:53:50;187.65.149.6;pt;local;bio;mata seca;*;*;;1
+2010-12-08 19:54:55;187.65.149.6;pt;local;bio;"mata seca";*;ALL;;1
+2010-12-08 19:58:07;187.65.149.6;pt;local;bio;"Floresta estacional";*;ALL;;1
+2010-12-08 19:59:37;187.65.149.6;pt;local;bio;"Floresta estacional";*;ALL;;2
+2010-12-08 20:00:50;187.65.149.6;pt;local;bio;"Floresta estacional";*;ALL;;3
+2010-12-08 20:01:49;187.65.149.6;pt;local;bio; cerrado "Floresta estacional";*;ALL;;1
+2010-12-08 20:02:55;187.65.149.6;pt;local;bio;Goias "Floresta estacional";*;ALL;;1
+2010-12-08 20:18:30;187.65.149.6;pt;local;bio;Tabebuia;*;*;;1
+2010-12-08 20:19:03;187.65.149.6;pt;local;bio; Tabebuia roseo-alba;*;ALL;;1
+2010-12-08 20:19:16;187.65.149.6;pt;local;bio; Tabebuia chrysotricha;*;ALL;;1
+2010-12-08 20:19:30;187.65.149.6;pt;local;bio;estrutura espacial;*;ALL;;1
+2010-12-08 20:20:22;187.65.149.6;pt;local;bio;estrutura espacial;*;ALL;;2
+2010-12-08 20:21:07;187.65.149.6;pt;local;bio;estrutura espacial;*;ALL;;3
+2010-12-08 20:24:01;187.65.149.6;pt;local;bio;spagedi;*;ALL;;1
+2010-12-08 20:24:12;187.65.149.6;pt;local;bio;distancia de dispersão de genes;*;ALL;;1
+2010-12-08 20:24:25;187.65.149.6;pt;local;bio;"distancia de dispersão";*;ALL;;1
+2010-12-08 20:24:32;187.65.149.6;pt;local;bio;nb;*;ALL;;1
+2010-12-08 20:24:57;187.65.149.6;pt;local;bio;microssatelites;*;ALL;;1
+2010-12-08 20:25:29;187.65.149.6;pt;local;bio;microssatelites;*;ALL;;2
+2010-12-08 20:37:34;187.48.161.5;pt;local;bio;hypericum brasiliense;*;*;;1
+2010-12-08 20:42:39;189.18.195.230;pt;local;bio;picc enfermagem;*;*;;1
+2010-12-08 21:45:12;189.48.250.243;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-08 22:31:18;189.115.175.79;pt;local;bio;cALLIPHORIDAE;*;*;;1
+2010-12-08 22:31:55;189.115.175.79;pt;local;bio;cALLIPHORIDAE;*;ALL;;2
+2010-12-08 22:32:20;189.115.175.79;pt;local;bio;cALLIPHORIDAE;*;ALL;;3
+2010-12-08 22:32:56;189.115.175.79;pt;local;bio;sCORPIONES;*;*;;1
+2010-12-08 22:47:38;187.65.195.196;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-08 23:08:28;201.70.24.74;pt;local;bio;pólen;*;*;;1
+2010-12-08 23:08:52;201.70.24.74;pt;local;bio;palinologia;*;*;;1
+2010-12-08 23:15:14;189.102.88.77;pt;local;bio;palinologia;*;*;;1
+2010-12-08 23:15:49;189.102.88.77;pt;local;bio;polen;*;ALL;;1
+2010-12-08 23:17:03;189.102.88.77;pt;local;bio;melissopalinologia;*;ALL;;1
+2010-12-08 23:17:21;189.102.88.77;pt;local;bio;polinico;*;ALL;;1
+2010-12-08 23:18:32;189.102.88.77;pt;local;bio;pollen;*;ALL;;1
+2010-12-08 23:18:56;189.102.88.77;pt;local;bio;polen;*;ALL;;1
+2010-12-08 23:19:09;189.102.88.77;pt;local;bio;palynotaxonomy;*;ALL;;1
+2010-12-08 23:19:36;189.102.88.77;pt;local;bio;polinica;*;ALL;;1
+2010-12-08 23:20:04;189.102.88.77;pt;local;bio;polinica;*;ALL;;2
+2010-12-08 23:20:20;189.102.88.77;pt;local;bio;polinica;*;ALL;;3
+2010-12-08 23:20:33;189.102.88.77;pt;local;bio;polinica;*;ALL;;4
+2010-12-08 23:21:50;189.102.88.77;pt;local;bio;polinica;*;ALL;;5
+2010-12-08 23:22:09;189.102.88.77;pt;local;bio;polinica;*;ALL;;6
+2010-12-08 23:22:57;189.102.88.77;pt;local;bio;polinica;*;ALL;;6
+2010-12-08 23:23:01;189.102.88.77;pt;local;bio;polinica;*;ALL;;1
+2010-12-08 23:41:22;187.65.207.179;pt;local;bio;design comunoitári;*;*;;1
+2010-12-08 23:41:32;187.65.207.179;pt;local;bio;design comunoitári;*;ALL;;1
+2010-12-08 23:41:53;187.65.207.179;pt;local;bio;design comunoitário;*;ALL;;1
+2010-12-08 23:42:03;187.65.207.179;pt;local;bio;design comunoitário;kw;ALL;;1
+2010-12-08 23:42:27;187.65.207.179;pt;local;bio;design participativo;kw;ALL;;1

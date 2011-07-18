@@ -1,0 +1,79 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2010-12-19 00:14:26;66.249.71.52;pt;local;bio;*;*;*;;1
+2010-12-19 00:21:00;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 01:02:05;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 01:07:21;66.249.71.52;pt;local;bio;*;*;*;;1
+2010-12-19 01:10:40;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 01:10:57;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 01:23:06;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 01:31:31;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 01:33:24;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 01:38:26;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 01:57:26;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 02:01:45;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 02:37:26;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 02:44:44;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 03:17:44;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-19 04:06:17;61.135.184.197;pt;local;bio;*;*;*;;1
+2010-12-19 05:27:59;61.135.184.197;pt;local;bio;*;*;*;;1
+2010-12-19 05:38:26;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 05:39:47;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 06:03:56;61.135.184.197;pt;local;bio;*;*;*;;1
+2010-12-19 06:40:24;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 07:13:44;66.249.71.52;pt;local;bio;*;*;*;;1
+2010-12-19 07:58:19;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 10:52:13;189.120.99.81;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-19 11:52:54;200.175.244.228;pt;local;bio;aves cerrado;*;*;;1
+2010-12-19 15:28:11;66.249.71.52;pt;local;bio;+id:("lil-18474058040");*;*;;1
+2010-12-19 15:49:42;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-19 16:11:46;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 16:51:30;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 17:51:19;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 19:28:39;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 20:29:16;84.90.126.13;pt;local;bio;cuidados de enfermagem ao paciente cirurgico;*;*;;1
+2010-12-19 21:01:24;201.17.136.131;pt;local;bio;Cerrado;*;*;;1
+2010-12-19 21:01:35;66.249.71.52;pt;local;bio;+id:("lil-18474058070");*;*;;1
+2010-12-19 21:02:00;201.17.136.131;pt;local;bio;Cerrado;*;ALL;;4
+2010-12-19 21:02:43;201.17.136.131;pt;local;bio;Cerrado;*;ALL;;6
+2010-12-19 21:05:12;201.17.136.131;pt;local;bio;Campo rupestre ferruginoso;*;ALL;;1
+2010-12-19 21:05:27;201.17.136.131;pt;local;bio;Campo rupestre ;*;ALL;;1
+2010-12-19 21:08:11;201.17.136.131;pt;local;bio;Campo rupestre ;*;ALL;;2
+2010-12-19 21:14:33;201.17.136.131;pt;local;bio;biogeografia ;*;ALL;;1
+2010-12-19 21:16:10;201.17.136.131;pt;local;bio;biogeografia ;*;ALL;;2
+2010-12-19 21:18:24;201.17.136.131;pt;local;bio;biogeografia de ilhas;*;ALL;;1
+2010-12-19 21:18:38;201.17.136.131;pt;local;bio;Anona;*;ALL;;1
+2010-12-19 21:18:41;201.17.136.131;pt;local;bio;Anona;*;ALL;;1
+2010-12-19 22:08:33;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 22:08:42;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 22:45:20;189.59.180.96;pt;local;bio;butterfly;*;*;;1
+2010-12-19 22:49:26;189.59.180.96;pt;local;bio;butterfly;*;ALL;;2
+2010-12-19 22:50:24;189.59.180.96;pt;local;bio;butterfly;*;ALL;;3
+2010-12-19 22:52:43;189.59.180.96;pt;local;bio;butterfly;*;ALL;;4
+2010-12-19 22:53:08;189.59.180.96;pt;local;bio;lepidoptera;*;ALL;;1
+2010-12-19 22:54:01;189.59.180.96;pt;local;bio;lepidoptera;*;ALL;;2
+2010-12-19 22:54:03;189.59.180.96;pt;local;bio;lepidoptera;*;ALL;;3
+2010-12-19 22:54:04;189.59.180.96;pt;local;bio;lepidoptera;*;ALL;;4
+2010-12-19 22:54:06;189.59.180.96;pt;local;bio;lepidoptera;*;ALL;;5
+2010-12-19 22:54:07;189.59.180.96;pt;local;bio;lepidoptera;*;ALL;;6
+2010-12-19 22:54:54;189.59.180.96;pt;local;bio;lepidoptera;*;ALL;;7
+2010-12-19 22:55:40;189.59.180.96;pt;local;bio;lepidoptera;*;ALL;;8
+2010-12-19 22:57:42;189.59.180.96;pt;local;bio;lepidoptera;*;ALL;;9
+2010-12-19 22:57:51;189.59.180.96;pt;local;bio;lepidoptera;*;ALL;;10
+2010-12-19 22:57:56;189.59.180.96;pt;local;bio;lepidoptera;*;ALL;;11
+2010-12-19 22:58:00;189.59.180.96;pt;local;bio;lepidoptera;*;ALL;;12
+2010-12-19 22:58:07;189.59.180.96;pt;local;bio;lepidoptera;*;ALL;;13
+2010-12-19 22:58:33;189.59.180.96;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 23:00:04;189.59.180.96;pt;local;bio;lepidoptera;*;ALL;;14
+2010-12-19 23:00:24;189.59.180.96;pt;local;bio;lepidoptera;*;ALL;;15
+2010-12-19 23:00:42;189.59.180.96;pt;local;bio;lepidoptera;*;ALL;;16
+2010-12-19 23:00:54;189.59.180.96;pt;local;bio;lepidoptera;*;ALL;;17
+2010-12-19 23:01:06;189.59.180.96;pt;local;bio;lepidoptera;*;ALL;;18
+2010-12-19 23:01:14;189.59.180.96;pt;local;bio;lepidoptera;*;ALL;;19
+2010-12-19 23:01:19;189.59.180.96;pt;local;bio;lepidoptera;*;ALL;;20
+2010-12-19 23:27:47;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 23:28:52;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 23:31:19;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 23:32:37;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 23:33:00;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-19 23:39:13;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-19 23:39:42;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1

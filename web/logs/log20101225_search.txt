@@ -1,0 +1,42 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2010-12-25 00:03:28;66.249.71.52;pt;local;bio;+id:("lil-20986061024");*;*;;1
+2010-12-25 00:12:32;213.186.122.3;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-25 00:12:32;213.186.122.3;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-25 00:12:33;213.186.122.3;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-25 00:37:59;66.249.71.52;pt;local;bio;+id:("scl-S0074-02761909000200004");*;*;;1
+2010-12-25 00:52:15;66.249.71.52;pt;local;bio;+id:("scl-S0074-02761909000200003");*;*;;1
+2010-12-25 00:54:52;66.249.71.52;pt;local;bio;+id:("scl-S0074-02761909000200007");*;*;;1
+2010-12-25 01:42:45;66.249.71.52;pt;local;bio;+id:("lil-13264049979");*;*;;1
+2010-12-25 02:18:59;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-25 02:27:04;66.249.71.52;pt;local;bio;+id:("lil-18474058058");*;*;;1
+2010-12-25 02:29:00;66.249.71.52;pt;local;bio;+id:("lil-9030037220");*;*;;1
+2010-12-25 02:34:34;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-25 02:48:20;66.249.71.52;pt;local;bio;+id:("lil-9030037111");*;*;;1
+2010-12-25 03:08:37;66.249.71.52;pt;local;bio;+id:("lil-9030037197");*;*;;1
+2010-12-25 03:23:59;66.249.71.52;pt;local;bio;*;*;*;;1
+2010-12-25 03:32:48;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-25 14:18:33;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-25 15:38:23;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-25 15:47:27;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-25 16:03:11;65.55.25.138;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-25 16:03:14;65.55.25.138;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-25 16:03:18;65.55.25.138;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-25 16:14:43;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-25 16:24:16;66.249.71.52;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-25 17:21:53;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-25 17:37:30;187.40.188.133;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-25 18:32:10;187.13.130.158;pt;local;bio;Três Campos na Amazonia:;*;*;;1
+2010-12-25 18:34:08;187.13.130.158;pt;local;bio;Três Campos na Amazonia:Biopirataria, Propriedade Industrial e Inovação Ambietal;*;*;;1
+2010-12-25 18:34:23;187.13.130.158;pt;local;bio;Três Campos na Amazonia:Biopirataria, Propriedade Industrial e Inovação Ambietal;ti;BHLB;db:BHLB;1
+2010-12-25 19:00:56;187.13.130.158;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-25 19:01:37;187.13.130.158;pt;local;bio;Jorge Carlos Fernandes Campos;au;SCIB;db:SCIB;1
+2010-12-25 19:01:56;187.13.130.158;pt;local;bio;Jorge Carlos Fernandes Campos;au;BHLB;db:BHLB;1
+2010-12-25 19:02:05;187.13.130.158;pt;local;bio;Jorge Carlos Fernandes Campos;au;BHLG;db:BHLG;1
+2010-12-25 19:02:47;187.13.130.158;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-25 19:13:27;189.101.115.106;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-25 19:18:30;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-25 22:40:18;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-25 22:53:38;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-25 23:36:25;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-25 23:45:15;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-25 23:52:12;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1

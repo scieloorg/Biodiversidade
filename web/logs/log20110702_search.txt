@@ -1,0 +1,57 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-07-02 01:34:15;66.249.71.98;pt;local;bio;*;*;*;;1
+2011-07-02 02:12:01;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-07-02 02:55:54;66.249.71.98;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-07-02 04:14:47;66.249.71.98;yiewkcbsz;local;bio;*;*;*;;1
+2011-07-02 04:46:07;50.56.107.24;pt;local;bio;*;*;*;;1
+2011-07-02 04:46:08;50.56.107.24;pt;local;bio;*;*;*;;1
+2011-07-02 05:25:06;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-07-02 06:14:45;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-07-02 06:19:30;218.213.130.208;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-07-02 06:20:14;218.213.130.208;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-07-02 06:21:06;218.213.130.208;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-07-02 08:22:06;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-07-02 10:20:03;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-07-02 10:25:12;187.6.85.33;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-07-02 10:29:27;187.6.85.33;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-07-02 10:59:46;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-07-02 12:39:18;66.249.71.98;pt;local;bio;*;*;*;;1
+2011-07-02 12:39:18;66.249.71.98;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-07-02 13:32:54;201.94.186.13;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-07-02 13:32:54;201.94.186.13;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-07-02 13:33:03;201.94.186.13;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-07-02 14:24:19;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-07-02 14:40:09;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-07-02 15:43:12;189.35.42.127;pt;local;bio;cinetica;*;*;;1
+2011-07-02 16:13:46;66.249.71.98;pt;local;bio;*;*;*;;1
+2011-07-02 17:05:08;189.72.80.23;pt;local;bio;Taxonomia e variação geográfica das espécies do gênero Alouatta Lacépède (Primates, Atelidae) no Brasil;*;*;;1
+2011-07-02 17:05:38;189.72.80.23;pt;local;bio;Taxonomia e variação geográfica das espécies do gênero Alouatta;ti;ALL;;1
+2011-07-02 17:05:43;189.72.80.23;pt;local;bio;Taxonomia e variação geográfica das espécies do gênero Alouatta;ti;ALL;;1
+2011-07-02 17:06:16;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-07-02 17:08:28;189.72.80.23;pt;local;bio;revista brasileira de zoologai;*;*;;1
+2011-07-02 17:08:38;189.72.80.23;pt;local;bio;revista brasileira de zoologia;*;ALL;;1
+2011-07-02 17:08:42;189.72.80.23;pt;local;bio;revista brasileira de zoologia;*;ALL;;1
+2011-07-02 17:08:58;189.72.80.23;pt;local;bio;revista brasileira de zoologia;*;ALL;;1
+2011-07-02 18:26:20;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-07-02 18:27:10;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-07-02 18:33:22;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-07-02 19:57:35;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-07-02 20:13:05;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-07-02 20:56:28;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-07-02 21:30:03;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-07-02 21:44:42;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-07-02 22:44:35;189.38.90.28;pt;local;bio;*;*;*;;1
+2011-07-02 22:44:35;189.38.90.28;pt;local;bio;*;*;*;;1
+2011-07-02 22:44:35;189.38.90.28;pt;local;bio;*;*;*;;1
+2011-07-02 22:44:35;189.38.90.28;pt;local;bio;*;*;*;;1
+2011-07-02 22:44:35;189.38.90.28;pt;local;bio;*;*;*;;1
+2011-07-02 22:44:35;189.38.90.28;pt;local;bio;*;*;*;;1
+2011-07-02 22:44:35;189.38.90.28;pt;local;bio;*;*;*;;1
+2011-07-02 22:44:35;189.38.90.28;pt;local;bio;*;*;*;;1
+2011-07-02 22:44:35;189.38.90.28;pt;local;bio;*;*;*;;1
+2011-07-02 22:44:35;189.38.90.28;pt;local;bio;*;*;*;;1
+2011-07-02 22:44:35;189.38.90.28;pt;local;bio;*;*;*;;1
+2011-07-02 22:44:35;189.38.90.28;pt;local;bio;*;*;*;;1
+2011-07-02 22:44:35;189.38.90.28;pt;local;bio;*;*;*;;1
+2011-07-02 22:44:36;189.38.90.28;pt;local;bio;*;*;*;;1
+2011-07-02 23:25:08;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1

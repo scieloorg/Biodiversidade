@@ -1,0 +1,45 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-05-19 03:10:44;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-19 04:37:46;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-19 04:37:47;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-19 04:37:47;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-19 04:37:47;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-19 04:45:33;66.249.71.168;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-19 07:19:07;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-19 09:51:36;66.249.72.241;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-05-19 10:00:25;150.165.77.123;pt;local;bio;cidades sustentaveis recursos naturais e biodiversidade;*;*;;1
+2011-05-19 10:00:35;150.165.77.123;pt;local;bio;cidades sustentaveis ;*;*;;1
+2011-05-19 11:20:02;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-19 13:15:57;66.249.72.241;pt;local;bio;*;*;*;;1
+2011-05-19 15:09:24;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-19 15:23:37;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-19 15:55:40;66.249.72.241;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-19 17:04:20;187.104.80.226;pt;local;bio;Macroscopic fungi;*;*;;1
+2011-05-19 17:04:39;187.104.80.226;pt;local;bio;Basidyomycota;*;*;;1
+2011-05-19 17:04:50;187.104.80.226;pt;local;bio;fungal;*;*;;1
+2011-05-19 17:06:11;187.104.80.226;pt;local;bio;fungal;*;ALL;;2
+2011-05-19 17:06:49;187.104.80.226;pt;local;bio;fungal;*;ALL;;3
+2011-05-19 17:07:28;187.104.80.226;pt;local;bio;fungal;*;ALL;;4
+2011-05-19 17:07:47;187.104.80.226;pt;local;bio;fungal;*;ALL;;5
+2011-05-19 17:08:04;187.104.80.226;pt;local;bio;fungal;*;ALL;;6
+2011-05-19 17:08:25;187.104.80.226;pt;local;bio;fungal;*;ALL;;7
+2011-05-19 17:10:00;187.104.80.226;pt;local;bio;fungal;*;ALL;;8
+2011-05-19 17:10:27;187.104.80.226;pt;local;bio;fungal;*;ALL;;9
+2011-05-19 17:10:46;187.104.80.226;pt;local;bio;fungal;*;ALL;;10
+2011-05-19 17:12:09;187.104.80.226;pt;local;bio;fungal;*;ALL;;11
+2011-05-19 17:12:45;187.104.80.226;pt;local;bio;fungal;*;ALL;;12
+2011-05-19 17:21:19;201.28.39.222;pt;local;bio;guettarda;*;*;;1
+2011-05-19 17:34:50;190.218.173.98;es;local;bio;www disterra.com;*;*;;1
+2011-05-19 18:56:25;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-19 19:06:01;201.75.62.238;pt;local;bio;gestaoe educação ambienta l;*;*;;1
+2011-05-19 19:06:22;201.75.62.238;pt;local;bio;gestaoe educação ambienta l;*;ALL;;1
+2011-05-19 19:06:25;201.75.62.238;pt;local;bio;*;*;*;;1
+2011-05-19 19:26:19;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-19 22:25:20;189.38.90.28;pt;local;bio;*;*;*;;1
+2011-05-19 22:49:35;201.42.122.83;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-19 23:31:14;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-19 23:32:27;66.249.72.241;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-19 23:55:12;200.195.6.82;pt;local;bio;Brachial plexus injury and physiotherapy;*;*;;1
+2011-05-19 23:55:26;200.195.6.82;pt;local;bio;*;*;*;;1
+2011-05-19 23:56:01;200.195.6.82;pt;local;bio;Lesão de plexo braquial e fisioterapia;*;*;;1
+2011-05-19 23:56:14;200.195.6.82;pt;local;bio;Lesão de plexo braquial ;*;*;;1

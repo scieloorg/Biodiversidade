@@ -1,0 +1,33 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-04-04 03:02:34;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-04 06:30:02;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-04 06:31:14;66.249.71.49;pt;local;bio;*;*;*;;1
+2011-04-04 09:06:02;66.249.71.49;xfdblysxhm;local;bio;*;*;*;;1
+2011-04-04 09:13:01;66.249.71.49;pt;local;bio;+id:("lil-9030037197");*;*;;1
+2011-04-04 10:01:07;200.19.136.2;pt;local;bio;lipases fúngicas e bacterianas;*;*;;1
+2011-04-04 10:01:35;200.19.136.2;pt;local;bio;lipases de microorganismos;*;*;;1
+2011-04-04 10:58:59;66.249.71.49;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-04 11:14:50;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-04 11:31:22;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-04 12:15:07;200.139.12.121;pt;local;bio;levantamento de lepidoptera;*;*;;1
+2011-04-04 12:15:59;200.139.12.121;pt;local;bio;lepidoptera;*;ALL;;1
+2011-04-04 12:45:40;66.249.71.49;pt;local;bio;+id:("lil-13264049879");*;*;;1
+2011-04-04 13:03:24;143.54.237.106;pt;local;bio;ecologia;*;*;;1
+2011-04-04 14:27:18;66.249.71.49;pt;local;bio;*;*;*;;1
+2011-04-04 15:23:09;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-04 15:52:06;200.164.100.62;pt;local;bio;biodiversidade;*;*;;1
+2011-04-04 17:54:44;161.148.171.2;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-04 17:55:25;161.148.171.2;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-04 17:56:05;161.148.171.2;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-04 17:56:14;161.148.171.2;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-04 17:56:57;161.148.171.2;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-04-04 17:57:27;161.148.171.2;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-04-04 17:57:57;161.148.171.2;pt;local;bio;*;*;BHLG;db:BHLG AND ta_cluster:"Commercial fisheries review.";1
+2011-04-04 17:58:16;161.148.171.2;pt;local;bio;*;*;BHLG;db:BHLG AND ta_cluster:"Commercial fisheries review.";1
+2011-04-04 17:58:34;161.148.171.2;pt;local;bio;*;*;BHLG;db:BHLG AND ta_cluster:"Commercial fisheries review.";1
+2011-04-04 18:43:36;66.249.71.49;pt;local;bio;*;*;*;;1
+2011-04-04 19:37:24;189.101.158.192;pt;local;bio;Drymophila squamata;*;*;;1
+2011-04-04 19:37:40;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-04 19:41:39;66.249.71.49;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-04 22:04:01;207.46.199.48;pt;local;bio;*;*;*;;1
+2011-04-04 23:50:52;209.131.41.49;pt;local;bio;*;*;*;;1

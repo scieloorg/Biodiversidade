@@ -1,0 +1,54 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-05-16 00:11:14;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-16 04:15:11;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-16 07:00:13;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-16 07:46:04;66.249.71.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-16 09:32:53;66.249.71.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-16 10:15:36;189.9.22.65;pt;local;bio;*;*;*;;1
+2011-05-16 11:10:44;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-16 13:17:02;66.249.71.72;pt;local;bio;*;*;*;;1
+2011-05-16 15:15:39;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-16 15:25:38;218.213.130.189;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-16 15:44:32;218.213.130.189;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-16 15:51:55;66.249.71.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-16 16:01:14;218.213.130.189;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-16 16:01:21;66.249.71.72;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-16 16:41:32;187.6.113.201;pt;local;bio;ave;*;*;;1
+2011-05-16 16:41:49;187.6.113.201;pt;local;bio;bird;*;ALL;;1
+2011-05-16 16:42:14;187.6.113.201;pt;local;bio;bird biodiversity;*;ALL;;1
+2011-05-16 17:01:54;66.249.71.72;xfdblysxhm;local;bio;*;*;*;;1
+2011-05-16 17:02:14;187.6.113.201;pt;local;bio;aves biogeografia;*;ALL;;1
+2011-05-16 17:02:29;187.6.113.201;pt;local;bio;aves biogeogr;*;ALL;;1
+2011-05-16 17:02:44;187.6.113.201;pt;local;bio;bird biogeography;*;ALL;;1
+2011-05-16 17:02:59;187.6.113.201;pt;local;bio;bird and biogeography;*;ALL;;1
+2011-05-16 17:03:12;187.6.113.201;pt;local;bio;bird and biogeography;kw;ALL;;1
+2011-05-16 17:03:16;187.6.113.201;pt;local;bio;bird and biogeography;kw;ALL;;1
+2011-05-16 17:03:31;187.6.113.201;pt;local;bio;birds and biogeography;*;ALL;;1
+2011-05-16 17:03:55;187.6.113.201;pt;local;bio;aves biodiversidade;*;ALL;;1
+2011-05-16 17:04:27;187.6.113.201;pt;local;bio;aves biodiversidade;*;ALL;;2
+2011-05-16 17:13:25;200.129.128.7;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-16 17:13:42;200.129.128.7;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Boletim do Museu Goeldi (Museu Paraense) de Historia Natural e Ethnographia.";1
+2011-05-16 18:39:36;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-16 18:52:52;66.249.71.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-16 19:09:02;66.249.71.72;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-16 20:10:34;189.76.197.27;pt;local;bio;mochila sobrecarga;*;*;;1
+2011-05-16 20:11:38;189.76.197.27;pt;local;bio;mochila ;*;ALL;;1
+2011-05-16 20:11:53;189.76.197.27;pt;local;bio;mochila ;*;ALL;;1
+2011-05-16 20:12:24;189.76.197.27;pt;local;bio;*;*;*;;1
+2011-05-16 20:12:42;189.76.197.27;pt;local;bio;alteracao postural mochila;*;ALL;;1
+2011-05-16 20:12:45;189.76.197.27;pt;local;bio;alteracao postural mochila;*;ALL;;1
+2011-05-16 20:12:50;189.76.197.27;pt;local;bio;*;*;*;;1
+2011-05-16 20:13:34;189.76.197.27;pt;local;bio;alteração postural;*;ALL;;1
+2011-05-16 20:13:34;189.76.197.27;pt;local;bio;alteração postural;*;ALL;;1
+2011-05-16 20:13:54;189.76.197.27;pt;local;bio;alteração postural ;*;ALL;;1
+2011-05-16 20:53:07;200.145.3.33;pt;local;bio;kansas;*;*;;1
+2011-05-16 20:53:45;200.145.3.33;pt;local;bio;kansas;*;ALL;ta_cluster:"Miscellaneous publication - University of Kansas, Museum of Natural History.";1
+2011-05-16 20:54:12;200.145.3.33;pt;local;bio;kansas;*;ALL;ta_cluster:"Miscellaneous publication - University of Kansas, Museum of Natural History.";4
+2011-05-16 20:54:17;200.145.3.33;pt;local;bio;kansas;*;ALL;ta_cluster:"Miscellaneous publication - University of Kansas, Museum of Natural History.";8
+2011-05-16 20:54:20;200.145.3.33;pt;local;bio;kansas;*;ALL;ta_cluster:"Miscellaneous publication - University of Kansas, Museum of Natural History.";6
+2011-05-16 20:54:24;200.145.3.33;pt;local;bio;kansas;*;ALL;ta_cluster:"Miscellaneous publication - University of Kansas, Museum of Natural History.";5
+2011-05-16 20:54:32;200.145.3.33;pt;local;bio;kansas;*;ALL;ta_cluster:"Miscellaneous publication - University of Kansas, Museum of Natural History.";7
+2011-05-16 20:54:35;200.145.3.33;pt;local;bio;kansas;*;ALL;ta_cluster:"Miscellaneous publication - University of Kansas, Museum of Natural History.";6
+2011-05-16 22:40:03;190.121.238.147;es;local;bio;educacion ambiental;*;*;;1
+2011-05-16 22:47:48;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-16 23:30:47;189.18.160.111;pt;local;bio;diabetes tratamento na fisioterapia;*;*;;1

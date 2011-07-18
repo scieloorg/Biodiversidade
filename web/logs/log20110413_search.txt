@@ -1,0 +1,45 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-04-13 00:42:12;186.206.226.46;pt;local;bio;mapas;*;*;;1
+2011-04-13 00:42:49;186.206.226.46;pt;local;bio;biogeografia;*;*;;1
+2011-04-13 00:48:10;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-13 00:49:13;186.206.226.46;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-13 03:29:52;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-13 03:29:52;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-13 03:29:53;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-13 03:29:53;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-13 03:50:16;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-13 03:53:40;66.249.71.49;pt;local;bio;*;*;*;;1
+2011-04-13 05:06:46;207.46.199.52;pt;local;bio;*;*;*;;1
+2011-04-13 07:04:04;66.249.71.49;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-13 07:17:57;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-13 07:34:06;178.77.75.166;pt;local;bio;*;*;*;;1
+2011-04-13 09:34:42;201.26.254.198;pt;local;bio;zinco;*;*;;1
+2011-04-13 09:35:12;201.26.254.198;pt;local;bio;zinco;*;ALL;;2
+2011-04-13 10:19:49;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-13 11:23:04;189.98.133.9;pt;local;bio;mapa;*;*;;1
+2011-04-13 11:37:36;189.98.133.9;pt;local;bio;foto aérea;*;*;;1
+2011-04-13 12:11:33;187.104.56.91;pt;local;bio;Familia Melastomataceae em MG;*;*;;1
+2011-04-13 12:11:57;187.104.56.91;pt;local;bio;Familia Melastomataceae ;*;ALL;;1
+2011-04-13 12:15:17;187.104.56.91;pt;local;bio;diversidade da Familia Melastomataceae ;*;ALL;;1
+2011-04-13 12:15:33;187.104.56.91;pt;local;bio; Familia Melastomataceae diverdidade;*;ALL;;1
+2011-04-13 12:15:49;187.104.56.91;pt;local;bio; Familia Melastomataceae importancia;*;ALL;;1
+2011-04-13 12:16:14;187.104.56.91;pt;local;bio;colocação da Familia Melastomataceae em MG;*;ALL;;1
+2011-04-13 13:54:22;200.143.198.131;pt;local;bio;biodiversidade brasileira;*;*;;1
+2011-04-13 14:31:57;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-13 14:57:42;186.206.229.97;pt;local;bio;marcelo ferreira de vasconcelos;*;*;;1
+2011-04-13 16:35:34;200.129.136.74;pt;local;bio;botos da amazonia;*;*;;1
+2011-04-13 16:36:57;200.129.136.74;pt;local;bio;botos;*;*;;1
+2011-04-13 16:37:48;200.129.136.74;pt;local;bio;botos;*;ALL;la:"Pt";1
+2011-04-13 16:51:43;189.17.168.18;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-13 17:32:53;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-13 19:54:18;66.249.71.49;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-04-13 20:06:13;50.56.107.24;pt;local;bio;*;*;*;;1
+2011-04-13 20:06:14;50.56.107.24;pt;local;bio;*;*;*;;1
+2011-04-13 20:06:14;50.56.107.24;pt;local;bio;*;*;*;;1
+2011-04-13 20:18:07;216.226.79.114;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-13 20:19:24;216.226.79.114;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-13 21:00:16;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-13 21:53:41;187.119.173.17;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-13 22:15:02;188.138.81.40;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-13 22:15:03;188.138.81.40;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-04-13 22:15:05;188.138.81.40;pt;local;bio;*;*;SCIB;db:SCIB;1

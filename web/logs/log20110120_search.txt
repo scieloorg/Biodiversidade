@@ -1,0 +1,146 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-01-20 00:00:10;66.249.71.52;yiewkcbsz;local;bio;*;*;*;;1
+2011-01-20 00:12:11;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-20 00:13:45;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-20 00:16:34;66.249.71.52;yiewkcbsz;local;bio;+id:("lil-9030037232");*;*;;1
+2011-01-20 00:29:33;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-20 01:01:20;66.249.71.52;yiewkcbsz;local;bio;+id:("lil-9030037232");*;*;;1
+2011-01-20 01:19:24;66.249.71.52;yiewkcbsz;local;bio;*;*;*;;1
+2011-01-20 02:04:34;190.188.189.38;pt;local;bio;*;*;*;;1
+2011-01-20 02:16:22;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-20 02:30:54;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-20 02:46:27;66.249.71.52;yiewkcbsz;local;bio;*;*;*;;1
+2011-01-20 03:29:13;66.249.71.52;yiewkcbsz;local;bio;+id:("lil-9030037195");*;*;;1
+2011-01-20 03:46:54;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-20 03:56:13;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-20 04:05:08;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-20 04:09:59;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-20 05:13:05;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-20 05:29:40;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-20 06:08:45;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-20 06:15:59;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-20 06:25:30;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-20 06:46:42;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-20 06:58:54;66.249.71.52;yiewkcbsz;local;bio;+id:("lil-9030037197");*;*;;1
+2011-01-20 07:32:16;66.249.71.52;yiewkcbsz;local;bio;+id:("lil-9030037178");*;*;;1
+2011-01-20 08:17:30;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-20 08:19:09;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-20 08:51:16;189.47.163.42;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-20 08:52:33;189.47.163.42;pt;local;bio;terpenos;*;*;;1
+2011-01-20 08:53:38;189.47.163.42;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-20 08:56:38;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-20 09:31:46;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-20 09:39:17;90.46.203.222;en;local;bio;scorpion;*;*;;1
+2011-01-20 09:42:22;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-20 09:53:25;189.73.221.242;pt;local;bio;*;*;*;;1
+2011-01-20 11:01:39;200.17.214.98;pt;local;bio;bryozoa;*;*;;1
+2011-01-20 11:04:05;200.17.214.98;pt;local;bio;bryozoa;*;ALL;;2
+2011-01-20 11:04:28;200.17.214.98;pt;local;bio;bryozoa;*;ALL;;3
+2011-01-20 11:07:04;200.17.214.98;pt;local;bio;bryozoa brazil;*;ALL;;1
+2011-01-20 11:07:16;200.17.214.98;pt;local;bio;bryozoa brasil;*;ALL;;1
+2011-01-20 11:07:28;200.17.214.98;pt;local;bio;bryozoa brasil;*;ALL;;1
+2011-01-20 11:07:36;200.17.214.98;pt;local;bio;bugula;*;ALL;;1
+2011-01-20 11:07:36;200.17.214.98;pt;local;bio;bugula;*;ALL;;1
+2011-01-20 11:07:43;200.17.214.98;pt;local;bio;bryozoa;*;ALL;;1
+2011-01-20 11:07:48;200.17.214.98;pt;local;bio;bryozoa;*;ALL;;4
+2011-01-20 11:07:56;200.17.214.98;pt;local;bio;bryozoa;*;ALL;;5
+2011-01-20 11:08:03;200.17.214.98;pt;local;bio;bryozoa;*;ALL;;6
+2011-01-20 11:08:08;200.17.214.98;pt;local;bio;bryozoa;*;ALL;type:"article";1
+2011-01-20 11:08:38;200.17.214.98;pt;local;bio;bryozoa;*;ALL;type:"book";1
+2011-01-20 11:17:12;200.17.214.98;pt;local;bio;bryozoa;*;ALL;type:"book";3
+2011-01-20 11:17:22;200.17.214.98;pt;local;bio;bryozoa;*;ALL;type:"book";4
+2011-01-20 11:17:29;200.17.214.98;pt;local;bio;bryozoa;*;ALL;type:"book";5
+2011-01-20 11:17:46;200.17.214.98;pt;local;bio;bryozoa;*;ALL;type:"book";6
+2011-01-20 11:18:29;200.17.214.98;pt;local;bio;*;*;*;;1
+2011-01-20 11:18:39;200.17.214.98;pt;local;bio;bioindicator;*;ALL;;1
+2011-01-20 11:19:18;200.17.214.98;pt;local;bio;babitonga;*;ALL;;1
+2011-01-20 11:19:42;200.17.214.98;pt;local;bio;são francisco do sul;*;ALL;;1
+2011-01-20 11:19:51;200.17.214.98;pt;local;bio;joinville;*;ALL;;1
+2011-01-20 11:57:49;189.34.113.114;pt;local;bio;campos gerais, paraná;*;*;;1
+2011-01-20 11:58:34;189.34.113.114;pt;local;bio;campos gerais, paraná;*;ALL;;2
+2011-01-20 11:58:41;189.34.113.114;pt;local;bio;campos gerais, paraná;*;ALL;;1
+2011-01-20 12:31:20;189.6.185.187;pt;local;bio;volkmer-ribeiro;*;*;;1
+2011-01-20 12:31:33;189.6.185.187;pt;local;bio;porifera;*;*;;1
+2011-01-20 12:38:20;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-20 13:39:05;189.63.206.17;pt;local;bio;cerrado;*;*;;1
+2011-01-20 13:39:57;189.63.206.17;pt;local;bio;cerrado;*;ALL;;2
+2011-01-20 13:40:29;189.63.206.17;pt;local;bio;cerrado;*;ALL;;3
+2011-01-20 13:41:11;189.63.206.17;pt;local;bio;bianca waleria bertoni;*;ALL;;1
+2011-01-20 13:41:32;189.63.206.17;pt;local;bio;herbario;*;ALL;;1
+2011-01-20 13:42:54;189.63.206.17;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-20 13:44:34;189.63.206.17;pt;local;bio;palicourea rigida;*;*;;1
+2011-01-20 13:44:51;189.63.206.17;pt;local;bio;planta medicinal;*;*;;1
+2011-01-20 13:45:28;189.63.206.17;pt;local;bio;planta medicinal;*;ALL;;2
+2011-01-20 14:26:44;200.144.123.33;pt;local;bio;manejo de fauna;*;*;;1
+2011-01-20 14:27:22;200.144.123.33;pt;local;bio;levantamento de fauna;*;ALL;;1
+2011-01-20 14:27:30;200.144.123.33;pt;local;bio;levantamento de fauna;*;ALL;;1
+2011-01-20 15:01:55;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-20 15:03:51;66.249.71.52;yiewkcbsz;local;bio;+id:("lil-9030037224");*;*;;1
+2011-01-20 15:09:34;189.34.113.114;pt;local;bio;campos gerais, pr;*;ALL;;1
+2011-01-20 15:09:40;189.34.113.114;pt;local;bio;campos gerais;*;ALL;;1
+2011-01-20 15:10:07;189.34.113.114;pt;local;bio;campos gerais;*;ALL;;2
+2011-01-20 15:11:03;189.34.113.114;pt;local;bio;campos gerais;*;ALL;;3
+2011-01-20 15:11:36;189.34.113.114;pt;local;bio;campos gerais;*;ALL;;4
+2011-01-20 15:12:04;189.34.113.114;pt;local;bio;campos gerais;*;ALL;;5
+2011-01-20 15:12:28;189.34.113.114;pt;local;bio;campos gerais;*;ALL;;6
+2011-01-20 15:13:00;189.34.113.114;pt;local;bio;ponta grossa;*;ALL;;1
+2011-01-20 15:15:00;200.144.123.33;pt;local;bio;manejo de fauna;*;ALL;;1
+2011-01-20 15:15:15;200.144.123.33;pt;local;bio;manejo de fauna;*;ALL;;2
+2011-01-20 15:17:08;66.249.71.52;yiewkcbsz;local;bio;+id:("lil-9030037220");*;*;;1
+2011-01-20 15:27:26;189.34.113.114;pt;local;bio;ponta grossa;*;ALL;;2
+2011-01-20 15:33:14;189.34.113.114;pt;local;bio;ponta grossa;*;ALL;;3
+2011-01-20 15:34:06;189.34.113.114;pt;local;bio;ponta grossa;*;ALL;;4
+2011-01-20 15:38:25;189.34.113.114;pt;local;bio;castro, paraná;*;ALL;;4
+2011-01-20 15:38:36;189.34.113.114;pt;local;bio;castro, pr;*;ALL;;1
+2011-01-20 15:39:25;189.34.113.114;pt;local;bio;castro;*;ALL;;1
+2011-01-20 15:39:41;189.34.113.114;pt;local;bio;carambeí;*;ALL;;1
+2011-01-20 15:40:10;189.34.113.114;pt;local;bio;estepe, gramíneo, lenhosa;*;ALL;;1
+2011-01-20 15:40:27;189.34.113.114;pt;local;bio;floresta ombrófila mista;*;ALL;;1
+2011-01-20 15:40:55;189.34.113.114;pt;local;bio;arenito furnas;*;ALL;;1
+2011-01-20 15:41:11;189.34.113.114;pt;local;bio;escarpa devoniana;*;ALL;;1
+2011-01-20 15:42:08;189.34.113.114;pt;local;bio;segundo planalto, paraná;*;ALL;;1
+2011-01-20 15:42:14;189.34.113.114;pt;local;bio;segundo planalto, pr;*;ALL;;1
+2011-01-20 15:42:17;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-20 15:42:18;189.34.113.114;pt;local;bio;segundo planalto;*;ALL;;1
+2011-01-20 15:42:32;189.34.113.114;pt;local;bio;lobo guará, paraná;*;ALL;;1
+2011-01-20 15:42:41;189.34.113.114;pt;local;bio;puma, paraná;*;ALL;;1
+2011-01-20 15:43:04;189.34.113.114;pt;local;bio;monocarvoeiro, paraná;*;ALL;;1
+2011-01-20 15:43:10;189.34.113.114;pt;local;bio;guariba, paraná;*;ALL;;1
+2011-01-20 15:51:52;66.249.71.52;yiewkcbsz;local;bio;+id:("lil-9030037111");*;*;;1
+2011-01-20 15:55:59;200.252.135.221;pt;local;bio;uso de fauna e turismo;*;*;;1
+2011-01-20 16:03:02;189.34.113.114;pt;local;bio;gua;*;ALL;;1
+2011-01-20 16:03:19;189.34.113.114;pt;local;bio;campos naturais, paraná;*;ALL;;1
+2011-01-20 16:03:44;189.34.113.114;pt;local;bio;floresta, araucária;*;ALL;;1
+2011-01-20 16:04:07;189.34.113.114;pt;local;bio;araucária;*;ALL;;1
+2011-01-20 16:04:36;189.34.113.114;pt;local;bio;solos, paraná;*;ALL;;1
+2011-01-20 16:05:09;187.6.18.16;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-20 16:05:15;189.34.113.114;pt;local;bio;geologia, paraná;*;ALL;;1
+2011-01-20 16:05:30;189.34.113.114;pt;local;bio;assungui;*;ALL;;1
+2011-01-20 16:05:37;189.34.113.114;pt;local;bio;açungui;*;ALL;;1
+2011-01-20 16:05:46;189.34.113.114;pt;local;bio;campo largo;*;ALL;;1
+2011-01-20 16:05:56;187.6.18.16;pt;local;bio;*;*;SCIB;db:SCIB;3
+2011-01-20 16:05:58;189.34.113.114;pt;local;bio;ribeira;*;ALL;;1
+2011-01-20 16:06:41;189.34.113.114;pt;local;bio;ribeira;*;ALL;;2
+2011-01-20 16:08:41;189.34.113.114;pt;local;bio;ribeira;*;ALL;;3
+2011-01-20 16:10:12;66.249.71.52;yiewkcbsz;local;bio;+id:("lil-9030037224");*;*;;1
+2011-01-20 16:25:43;200.252.135.221;pt;local;bio;turismo com fauna;*;ALL;;1
+2011-01-20 16:49:42;200.252.135.221;pt;local;bio;turismo sustentável;*;ALL;;1
+2011-01-20 16:50:20;161.148.171.2;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-20 16:53:10;161.148.171.2;pt;local;bio;parque;*;SCIB;db:SCIB;1
+2011-01-20 16:53:45;161.148.171.2;pt;local;bio;parque nacional;*;SCIB;db:SCIB;1
+2011-01-20 16:54:17;161.148.171.2;pt;local;bio;parque nacional;*;SCIB;db:SCIB AND ta_cluster:"Braz. J. Biol.";1
+2011-01-20 16:55:03;161.148.171.2;pt;local;bio;parque nacional;*;SCIB;db:SCIB AND ta_cluster:"Pap. Avulsos Zool. (São Paulo)";1
+2011-01-20 17:04:57;66.249.71.52;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-20 17:18:47;66.249.71.52;yiewkcbsz;local;bio;+id:("lil-9030037197");*;*;;1
+2011-01-20 17:26:11;187.53.24.46;pt;local;bio;projeto de agropecuaria;*;*;;1
+2011-01-20 17:38:45;66.249.71.52;yiewkcbsz;local;bio;+id:("lil-13264049979");*;*;;1
+2011-01-20 17:40:54;66.249.71.52;yiewkcbsz;local;bio;+id:("lil-3551021638");*;*;;1
+2011-01-20 17:57:27;189.73.221.242;pt;local;bio;*;*;*;;1
+2011-01-20 18:37:03;66.249.71.52;yiewkcbsz;local;bio;+id:("lil-9030037197");*;*;;1
+2011-01-20 19:17:28;66.249.71.52;yiewkcbsz;local;bio;+id:("lil-13264049879");*;*;;1
+2011-01-20 19:38:27;66.249.71.52;yiewkcbsz;local;bio;+id:("lil-9030037195");*;*;;1
+2011-01-20 19:56:43;66.249.71.52;yiewkcbsz;local;bio;+id:("lil-9030037220");*;*;;1
+2011-01-20 20:27:57;66.249.71.52;yiewkcbsz;local;bio;+id:("lil-13264049979");*;*;;1
+2011-01-20 20:47:56;66.249.71.52;yiewkcbsz;local;bio;+id:("lil-13264049879");*;*;;1
+2011-01-20 20:58:31;189.26.51.72;pt;local;bio;Herpetologia;*;*;;1
+2011-01-20 22:50:18;66.249.71.52;pt;local;bio;*;*;*;;1

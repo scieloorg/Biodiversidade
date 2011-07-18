@@ -1,0 +1,77 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-03-10 01:25:40;188.138.81.40;pt;local;bio;*;*;*;;1
+2011-03-10 01:25:42;188.138.81.40;pt;local;bio;*;*;*;;1
+2011-03-10 01:25:43;188.138.81.40;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-10 01:25:45;188.138.81.40;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-10 01:25:46;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:25:48;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:25:49;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:25:51;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:25:52;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:25:54;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:25:56;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:25:57;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:25:59;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:26:00;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:26:01;188.138.81.40;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-03-10 01:26:03;188.138.81.40;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-03-10 01:26:04;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:26:06;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:26:08;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:26:09;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:26:11;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:26:12;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:26:14;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:26:15;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:26:17;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:26:18;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:26:19;188.138.81.40;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-10 01:26:22;188.138.81.40;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-10 01:26:25;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:26:28;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:26:31;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:26:34;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:26:37;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:26:40;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:26:44;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:26:47;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:26:50;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 01:26:54;188.138.81.40;pt;local;bio;Sua seleção;*;*;;1
+2011-03-10 02:32:56;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-10 02:51:02;66.249.72.72;pt;local;bio;*;*;*;;1
+2011-03-10 03:09:45;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-10 03:09:46;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-10 03:09:47;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-10 03:09:47;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-10 06:00:00;66.249.72.72;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-03-10 06:18:11;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-10 07:03:21;207.46.204.196;pt;local;bio;*;*;*;;1
+2011-03-10 08:11:17;207.46.199.40;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-10 09:11:26;200.152.34.20;pt;local;bio;ditadura;*;*;;1
+2011-03-10 09:11:54;200.152.34.20;pt;local;bio;medicina;*;*;;1
+2011-03-10 10:00:44;189.26.208.166;pt;local;bio;Terrestrial insects along elevation gradients: species and community responses to altitude;*;*;;1
+2011-03-10 10:20:50;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-10 10:23:26;201.14.19.17;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-10 10:24:01;201.14.19.17;pt;local;bio;*;*;BHLB;db:BHLB;2
+2011-03-10 10:24:14;201.14.19.17;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-10 10:24:19;201.14.19.17;pt;local;bio;*;*;BHLB;db:BHLB;4
+2011-03-10 10:24:35;201.14.19.17;pt;local;bio;*;*;BHLB;db:BHLB;10
+2011-03-10 12:01:08;66.249.72.72;pt;local;bio;*;*;*;;1
+2011-03-10 12:37:36;66.249.72.72;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-03-10 12:43:46;201.58.231.232;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-10 12:45:09;201.58.231.232;pt;local;bio;Lepidoptera;*;SCIB;db:SCIB;1
+2011-03-10 15:17:50;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-10 16:21:38;200.225.94.130;pt;local;bio;Sustentabilidade;*;*;;1
+2011-03-10 16:22:28;200.225.94.130;pt;local;bio;Sustentabilidade;*;ALL;la:"Pt";1
+2011-03-10 16:22:58;200.225.94.130;pt;local;bio;Bauxita;*;ALL;;1
+2011-03-10 16:23:06;200.225.94.130;pt;local;bio;Bauxita;*;ALL;la:"Pt";1
+2011-03-10 16:23:19;200.225.94.130;pt;local;bio;Bauxita;*;ALL;la:"Pt" AND ta_cluster:"Acta Bot. Bras.";1
+2011-03-10 16:23:26;200.225.94.130;pt;local;bio;Bauxita;*;ALL;la:"Pt" AND ta_cluster:"Acta Bot. Bras." AND year_cluster:"2007";1
+2011-03-10 16:38:39;66.249.71.98;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-10 18:02:31;200.129.202.66;pt;local;bio;Deuterocohnia;*;*;;1
+2011-03-10 18:02:58;200.129.202.66;pt;local;bio;bromeliaceae;*;ALL;;1
+2011-03-10 18:03:39;200.129.202.66;pt;local;bio;bromeliaceae;*;ALL;;2
+2011-03-10 18:04:01;200.129.202.66;pt;local;bio;bromeliaceae;*;ALL;;3
+2011-03-10 18:04:35;200.129.202.66;pt;local;bio;bromeliaceae;*;ALL;;4
+2011-03-10 19:04:29;66.249.71.98;yiewkcbsz;local;bio;*;*;*;;1
+2011-03-10 20:21:59;209.131.41.49;pt;local;bio;*;*;*;;1

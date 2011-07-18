@@ -1,0 +1,45 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-05-04 00:29:20;187.91.147.163;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-04 00:33:33;187.91.147.163;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-04 01:53:47;66.249.72.58;pt;local;bio;*;*;*;;1
+2011-05-04 04:08:53;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-04 04:08:54;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-04 04:08:54;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-04 04:08:55;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-04 04:19:37;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-04 04:30:15;173.242.116.48;pt;local;bio;*;*;*;;1
+2011-05-04 08:08:29;200.198.136.174;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-04 08:08:55;200.198.136.174;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-05-04 08:09:17;200.198.136.174;pt;local;bio;*;*;SCIB;db:SCIB;3
+2011-05-04 08:09:30;200.198.136.174;pt;local;bio;aves;kw;SCIB;db:SCIB;1
+2011-05-04 08:10:04;200.198.136.174;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-04 08:10:53;200.198.136.174;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-04 10:32:26;66.249.72.58;xfdblysxhm;local;bio;*;*;*;;1
+2011-05-04 10:47:14;200.136.72.254;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-04 10:51:04;200.136.72.254;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-04 11:30:41;187.15.27.102;en;local;bio;j wilson da costa;*;*;;1
+2011-05-04 11:30:43;69.63.189.245;pt;local;bio;*;*;*;;1
+2011-05-04 12:48:44;66.249.72.58;pt;local;bio;Sua seleção;*;*;;1
+2011-05-04 13:06:44;66.249.72.58;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-04 13:12:57;66.249.72.58;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-04 14:08:07;187.1.243.2;pt;local;bio;flora serra cipó;*;*;;1
+2011-05-04 16:11:21;201.64.157.196;pt;local;bio;conservante natural;*;*;;1
+2011-05-04 16:15:02;66.249.72.58;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-05-04 16:17:00;201.64.157.196;pt;local;bio;conservative;*;*;;1
+2011-05-04 16:18:12;201.64.157.196;pt;local;bio;conservative;*;ALL;;2
+2011-05-04 16:19:08;201.64.157.196;pt;local;bio;conservative AND ingredient;*;*;;1
+2011-05-04 16:19:45;201.64.157.196;pt;local;bio;conservative AND (plant OR vegetal);*;*;;1
+2011-05-04 16:20:32;201.64.157.196;pt;local;bio;conservante AND (plant OR vegetal);*;ALL;;1
+2011-05-04 16:20:52;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-04 16:21:17;201.64.157.196;pt;local;bio;(ativo OR active) AND (plant OR vegetal);*;ALL;;1
+2011-05-04 16:25:38;201.64.157.196;pt;local;bio;(ativo OR active) AND (plant OR vegetal);*;ALL;;1
+2011-05-04 16:36:57;201.64.157.196;pt;local;bio;(ativo OR active) AND (plant OR vegetal);*;ALL;;2
+2011-05-04 16:39:33;186.198.176.108;pt;local;bio;revista brasileira de biologia;*;*;;1
+2011-05-04 16:39:34;186.198.176.108;pt;local;bio;revista brasileira de biologia;*;*;;1
+2011-05-04 16:41:07;186.198.176.108;pt;local;bio;Revista Brasileira;*;ALL;;1
+2011-05-04 16:42:20;186.198.176.108;pt;local;bio;Bokermann;*;ALL;;1
+2011-05-04 17:08:04;66.249.72.58;xfdblysxhm;local;bio;*;*;*;;1
+2011-05-04 17:14:14;66.249.72.58;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-04 18:41:40;207.46.13.51;pt;local;bio;*;*;*;;1
+2011-05-04 20:38:41;66.249.72.58;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-04 23:48:29;201.160.2.218;pt;local;bio;*;*;SCIB;db:SCIB;1

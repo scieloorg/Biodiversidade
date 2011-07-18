@@ -1,0 +1,49 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-06-04 00:23:17;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-04 03:00:21;66.249.71.37;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-04 04:35:17;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-04 07:37:32;187.2.240.95;pt;local;bio;especies raras da flora;*;*;;1
+2011-06-04 07:38:14;187.2.240.95;pt;local;bio;especies rars da fauna;*;ALL;;1
+2011-06-04 07:38:14;187.2.240.95;pt;local;bio;especies rars da fauna;*;ALL;;1
+2011-06-04 07:38:27;187.2.240.95;pt;local;bio;especies raras da fauna;*;ALL;;1
+2011-06-04 07:38:44;187.2.240.95;pt;local;bio;especies raras da fauna;*;ALL;la:"Pt";1
+2011-06-04 07:50:07;187.2.240.95;pt;local;bio;especies raras da flora;*;ALL;;1
+2011-06-04 07:52:33;187.2.240.95;pt;local;bio;especies endemicas da flora;*;ALL;;1
+2011-06-04 07:53:44;187.2.240.95;pt;local;bio;especies endemicas da flora;*;ALL;la:"Pt";1
+2011-06-04 08:42:37;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-04 09:47:16;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-04 09:47:23;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-04 10:26:29;189.44.23.58;pt;local;bio;artigos;*;*;;1
+2011-06-04 10:27:12;189.44.23.58;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-04 10:27:39;189.44.23.58;pt;local;bio;*;*;SCIB;db:SCIB AND la:"Pt";1
+2011-06-04 10:28:36;189.44.23.58;pt;local;bio;*;*;SCIB;db:SCIB AND la:"Pt";2
+2011-06-04 11:00:13;187.54.14.105;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-04 11:00:55;187.54.14.105;pt;local;bio;sociogia brasileira;*;*;;1
+2011-06-04 11:01:12;187.54.14.105;pt;local;bio;sociologia brasileira;*;ALL;;1
+2011-06-04 11:01:12;187.54.14.105;pt;local;bio;sociologia brasileira;*;ALL;;1
+2011-06-04 11:01:20;187.54.14.105;pt;local;bio;sociologia brasileira;*;ALL;;1
+2011-06-04 12:56:44;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-04 12:58:29;186.204.75.1;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-04 12:58:29;186.204.75.1;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-06-04 12:58:31;186.204.75.1;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-04 13:02:28;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2011-06-04 14:29:40;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-04 14:29:44;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-04 17:03:54;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-04 17:54:39;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2011-06-04 18:23:00;66.249.71.37;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-06-04 18:23:51;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2011-06-04 18:24:05;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2011-06-04 18:38:36;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2011-06-04 18:42:07;66.249.71.37;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-06-04 18:42:24;66.249.71.37;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-04 18:42:32;66.249.71.37;pt;local;bio;+id:("lil-9030037232");*;*;;1
+2011-06-04 18:42:43;66.249.71.37;pt;local;bio;+id:("scl-S0074-02761909000200004");*;*;;1
+2011-06-04 18:42:49;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2011-06-04 18:42:59;66.249.71.37;yiewkcbsz;local;bio;*;*;*;;1
+2011-06-04 18:43:15;66.249.71.37;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-04 18:46:47;66.249.71.37;pt;local;bio;*;*;*;;1
+2011-06-04 21:14:45;189.71.204.223;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-04 21:15:09;189.71.204.223;pt;local;bio;recrutamento e seleção;*;SCIB;db:SCIB;1
+2011-06-04 21:24:54;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-04 23:27:02;189.83.45.62;pt;local;bio;Bioética e atenção básica: para uma clínica ampliada, uma Bioética clínica amplificada;*;*;;1

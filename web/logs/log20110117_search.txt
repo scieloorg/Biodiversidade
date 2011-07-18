@@ -1,0 +1,149 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-01-17 00:03:04;74.52.156.226;pt;local;bio;*;*;*;;1
+2011-01-17 00:03:05;74.52.156.226;pt;local;bio;*;*;*;;1
+2011-01-17 00:03:07;74.52.156.226;pt;local;bio;*;*;*;;1
+2011-01-17 00:03:08;74.52.156.226;pt;local;bio;*;*;*;;1
+2011-01-17 00:03:09;74.52.156.226;pt;local;bio;*;*;*;;1
+2011-01-17 00:03:09;74.52.156.226;pt;local;bio;*;*;*;;1
+2011-01-17 00:03:10;74.52.156.226;pt;local;bio;*;*;*;;1
+2011-01-17 00:03:11;74.52.156.226;pt;local;bio;*;*;*;;1
+2011-01-17 00:16:47;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-17 00:19:28;66.249.71.52;qwkilqgvraugpkn;local;bio;+id:("lil-9030037232");*;*;;1
+2011-01-17 00:22:43;66.249.71.52;qwkilqgvraugpkn;local;bio;+id:("lil-9030037197");*;*;;1
+2011-01-17 00:22:54;66.249.71.52;qwkilqgvraugpkn;local;bio;+id:("lil-9030037178");*;*;;1
+2011-01-17 00:22:59;66.249.71.52;qwkilqgvraugpkn;local;bio;+id:("lil-13264049879");*;*;;1
+2011-01-17 00:24:50;66.249.71.52;qwkilqgvraugpkn;local;bio;+id:("lil-13264049979");*;*;;1
+2011-01-17 00:32:52;66.249.71.52;qwkilqgvraugpkn;local;bio;+id:("lil-3551021638");*;*;;1
+2011-01-17 00:36:06;66.249.71.52;qwkilqgvraugpkn;local;bio;+id:("lil-9030037111");*;*;;1
+2011-01-17 00:36:17;66.249.71.52;qwkilqgvraugpkn;local;bio;+id:("lil-13264049979");*;*;;1
+2011-01-17 00:40:32;66.249.71.52;qwkilqgvraugpkn;local;bio;+id:("lil-9030037195");*;*;;1
+2011-01-17 00:40:37;66.249.71.52;qwkilqgvraugpkn;local;bio;+id:("lil-9030037178");*;*;;1
+2011-01-17 00:47:11;66.249.71.52;qwkilqgvraugpkn;local;bio;+id:("lil-13264049879");*;*;;1
+2011-01-17 00:49:02;66.249.71.52;qwkilqgvraugpkn;local;bio;+id:("lil-9030037197");*;*;;1
+2011-01-17 00:49:40;66.249.71.52;qwkilqgvraugpkn;local;bio;+id:("lil-9030037224");*;*;;1
+2011-01-17 00:53:11;66.249.71.52;qwkilqgvraugpkn;local;bio;+id:("lil-9030037220");*;*;;1
+2011-01-17 00:53:44;66.249.71.52;qwkilqgvraugpkn;local;bio;+id:("lil-9030037111");*;*;;1
+2011-01-17 00:55:41;66.249.71.52;qwkilqgvraugpkn;local;bio;+id:("lil-9030037232");*;*;;1
+2011-01-17 00:57:04;66.249.71.52;qwkilqgvraugpkn;local;bio;+id:("lil-9030037195");*;*;;1
+2011-01-17 00:57:31;66.249.71.52;qwkilqgvraugpkn;local;bio;+id:("lil-9030037220");*;*;;1
+2011-01-17 00:58:15;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-17 00:59:39;66.249.71.52;qwkilqgvraugpkn;local;bio;+id:("lil-3551021638");*;*;;1
+2011-01-17 00:59:50;66.249.71.52;qwkilqgvraugpkn;local;bio;+id:("lil-9030037224");*;*;;1
+2011-01-17 02:02:41;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-17 02:10:42;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-17 02:14:33;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-17 02:32:00;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-17 02:50:31;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-17 02:58:10;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-17 03:14:23;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-17 03:40:40;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-17 04:05:59;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-17 04:20:28;66.249.71.52;pt;local;bio;+id:("lil-18474058040");*;*;;1
+2011-01-17 09:36:57;189.73.221.242;pt;local;bio;*;*;*;;1
+2011-01-17 11:14:43;187.11.186.201;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-17 11:15:46;187.50.96.174;pt;local;bio;cerrado;*;SCIB;db:SCIB;1
+2011-01-17 11:17:13;189.51.147.82;pt;local;bio;cerrado;*;SCIB;db:SCIB;2
+2011-01-17 11:18:23;189.19.197.42;pt;local;bio;cerrado;*;SCIB;db:SCIB;3
+2011-01-17 11:20:23;187.50.96.174;pt;local;bio;cerrado;*;SCIB;db:SCIB;4
+2011-01-17 11:21:51;189.19.197.42;pt;local;bio;cerrado;*;SCIB;db:SCIB;5
+2011-01-17 11:25:36;187.50.96.174;pt;local;bio;Sua seleção;*;*;;1
+2011-01-17 11:27:15;189.44.182.210;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-17 11:27:34;187.11.186.201;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-17 11:27:35;189.44.182.210;pt;local;bio;Coffea arabica;*;SCIB;db:SCIB;1
+2011-01-17 11:28:02;187.50.96.174;pt;local;bio;cerrado;*;SCIB;db:SCIB;1
+2011-01-17 11:28:05;189.44.182.210;pt;local;bio;Coffea arabica;*;*;;1
+2011-01-17 11:28:23;189.44.182.210;pt;local;bio;Coffea arabica;*;ALL;;2
+2011-01-17 14:19:53;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-17 14:43:56;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-17 15:27:07;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-17 15:32:44;201.54.208.30;pt;local;bio;*;*;*;;1
+2011-01-17 15:33:43;201.54.208.30;pt;local;bio;meliponinae;*;*;;1
+2011-01-17 15:44:38;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-17 15:47:23;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-17 15:49:36;66.249.71.52;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-17 16:00:31;200.134.16.4;pt;local;bio;paraná;*;*;;1
+2011-01-17 16:01:14;200.134.16.4;pt;local;bio;paraná;*;ALL;la:"Pt";1
+2011-01-17 16:01:34;200.134.16.4;pt;local;bio;paraná;*;ALL;la:"Pt";3
+2011-01-17 16:13:58;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-01-17 16:31:43;200.186.44.6;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-17 16:32:11;200.186.44.6;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-01-17 16:33:10;200.186.44.6;pt;local;bio;o que é a biodiversidade;*;SCIB;db:SCIB;2
+2011-01-17 16:33:22;200.186.44.6;pt;local;bio;o que é a biodiversidade;kw;SCIB;db:SCIB;1
+2011-01-17 16:33:37;200.186.44.6;pt;local;bio;o que é a biodiversidade;ti;SCIB;db:SCIB;1
+2011-01-17 16:33:37;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-17 16:33:42;200.186.44.6;pt;local;bio;o que é a biodiversidade;ti;SCIB;db:SCIB;1
+2011-01-17 16:33:58;200.186.44.6;pt;local;bio;biodiversidade;ti;SCIB;db:SCIB;1
+2011-01-17 16:34:35;200.186.44.6;pt;local;bio;o que é a biodiversidade;*;SCIB;db:SCIB;2
+2011-01-17 16:34:39;200.186.44.6;pt;local;bio;o que é a biodiversidade;*;SCIB;db:SCIB;1
+2011-01-17 16:34:53;200.186.44.6;pt;local;bio;biodiversidade;*;SCIB;db:SCIB;1
+2011-01-17 17:55:49;200.186.44.6;pt;local;bio;o que é a biodiversidade;*;*;;1
+2011-01-17 18:14:22;187.53.88.85;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-17 18:15:00;187.53.88.85;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-17 18:15:01;187.6.65.91;pt;local;bio;predação de sementes por pequenos mamiferos;*;*;;1
+2011-01-17 18:15:15;187.6.65.91;pt;local;bio;predação de sementes por mamiferos;*;ALL;;1
+2011-01-17 18:15:16;187.53.88.85;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-17 18:15:22;187.53.88.85;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-17 18:16:26;187.6.65.91;pt;local;bio;*;*;*;;1
+2011-01-17 18:16:41;200.130.0.18;pt;local;bio;Annonaceae;*;*;;1
+2011-01-17 18:16:54;187.6.65.91;pt;local;bio;predação de sementes;*;ALL;;1
+2011-01-17 18:17:05;187.6.65.91;pt;local;bio;*;*;*;;1
+2011-01-17 18:17:11;201.21.228.148;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-17 18:17:25;200.130.0.18;pt;local;bio;fragmentação florestal;*;*;;1
+2011-01-17 18:17:32;200.130.0.18;pt;local;bio;fragmentação;*;*;;1
+2011-01-17 18:17:39;200.130.0.18;pt;local;bio;fragmento;*;*;;1
+2011-01-17 18:17:54;201.21.228.148;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Pap. Avulsos Zool. (São Paulo)";1
+2011-01-17 18:18:02;201.21.228.148;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Braz. J. Biol.";1
+2011-01-17 18:18:14;187.6.65.91;pt;local;bio;*;*;*;;1
+2011-01-17 18:18:34;187.6.65.91;pt;local;bio;predação de sementes;*;ALL;;1
+2011-01-17 18:18:41;200.130.0.18;pt;local;bio;fragmento amazônia;*;*;;1
+2011-01-17 18:18:46;187.6.65.91;pt;local;bio;*;*;*;;1
+2011-01-17 18:18:50;200.130.0.18;pt;local;bio;fragmento;amazônia;*;*;;1
+2011-01-17 18:18:57;200.130.0.18;pt;local;bio;fragmento,amazônia;*;*;;1
+2011-01-17 18:19:12;200.130.0.18;pt;local;bio;Nascimento Acta;*;*;;1
+2011-01-17 18:19:18;200.130.0.18;pt;local;bio;Nascimento;*;*;;1
+2011-01-17 18:19:27;200.130.0.18;pt;local;bio;Nascimento;*;*;;1
+2011-01-17 18:19:38;200.130.0.18;pt;local;bio;Henrique;*;*;;1
+2011-01-17 18:20:07;200.130.0.18;pt;local;bio;Henrique;*;ALL;ta_cluster:"Acta Amaz.";1
+2011-01-17 18:20:18;200.130.0.18;pt;local;bio;Henrique;*;ALL;ta_cluster:"Acta Amaz.";2
+2011-01-17 18:20:57;200.130.0.18;pt;local;bio;Fragmento;*;*;;1
+2011-01-17 18:21:02;200.130.0.18;pt;local;bio;Fragmento;*;ALL;ta_cluster:"Acta Amaz.";1
+2011-01-17 18:21:56;161.148.171.2;pt;local;bio;costa dos corais;*;*;;1
+2011-01-17 18:22:23;161.148.171.2;pt;local;bio;mero;*;ALL;;1
+2011-01-17 18:49:08;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-01-17 18:49:09;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-01-17 18:49:10;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-01-17 18:49:10;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-01-17 18:49:12;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-01-17 18:49:22;187.6.65.91;pt;local;bio;*;*;*;;1
+2011-01-17 18:53:29;187.6.65.91;pt;local;bio;predaction seeds;*;ALL;;1
+2011-01-17 18:54:59;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-01-17 18:59:15;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-01-17 19:01:23;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-01-17 19:08:51;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-01-17 19:09:55;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-01-17 19:11:00;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-01-17 19:15:14;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-01-17 19:30:45;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-17 20:57:23;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-17 21:42:58;66.249.71.52;ppufejihenzxjri;local;bio;+id:("lil-9030037224");*;*;;1
+2011-01-17 21:43:59;66.249.71.52;ppufejihenzxjri;local;bio;+id:("lil-9030037178");*;*;;1
+2011-01-17 21:44:16;66.249.71.52;ppufejihenzxjri;local;bio;+id:("lil-13264049879");*;*;;1
+2011-01-17 21:45:56;66.249.71.52;ppufejihenzxjri;local;bio;+id:("lil-9030037224");*;*;;1
+2011-01-17 21:47:10;66.249.71.52;ppufejihenzxjri;local;bio;+id:("lil-9030037195");*;*;;1
+2011-01-17 21:51:13;66.249.71.52;ppufejihenzxjri;local;bio;+id:("lil-9030037232");*;*;;1
+2011-01-17 21:55:25;66.249.71.52;ppufejihenzxjri;local;bio;+id:("lil-9030037220");*;*;;1
+2011-01-17 21:58:49;66.249.71.52;ppufejihenzxjri;local;bio;+id:("lil-9030037232");*;*;;1
+2011-01-17 22:00:08;66.249.71.52;ppufejihenzxjri;local;bio;+id:("lil-9030037195");*;*;;1
+2011-01-17 22:00:42;66.249.71.52;ppufejihenzxjri;local;bio;+id:("lil-13264049879");*;*;;1
+2011-01-17 22:05:20;66.249.71.52;ppufejihenzxjri;local;bio;+id:("lil-9030037111");*;*;;1
+2011-01-17 22:09:44;66.249.71.52;ppufejihenzxjri;local;bio;+id:("lil-9030037220");*;*;;1
+2011-01-17 22:09:49;66.249.71.52;ppufejihenzxjri;local;bio;+id:("lil-9030037111");*;*;;1
+2011-01-17 22:13:00;66.249.71.52;ppufejihenzxjri;local;bio;+id:("lil-9030037197");*;*;;1
+2011-01-17 22:16:15;66.249.71.52;ppufejihenzxjri;local;bio;+id:("lil-13264049979");*;*;;1
+2011-01-17 22:21:28;66.249.71.52;ppufejihenzxjri;local;bio;+id:("lil-9030037178");*;*;;1
+2011-01-17 22:21:45;66.249.71.52;ppufejihenzxjri;local;bio;+id:("lil-13264049979");*;*;;1
+2011-01-17 22:22:46;66.249.71.52;ppufejihenzxjri;local;bio;+id:("lil-3551021638");*;*;;1
+2011-01-17 22:23:12;66.249.71.52;ppufejihenzxjri;local;bio;+id:("lil-3551021638");*;*;;1
+2011-01-17 22:23:22;66.249.71.52;ppufejihenzxjri;local;bio;+id:("lil-9030037197");*;*;;1
+2011-01-17 23:19:27;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-17 23:37:27;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1

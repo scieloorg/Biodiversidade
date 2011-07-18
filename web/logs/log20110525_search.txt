@@ -1,0 +1,59 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-05-25 00:11:52;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-25 00:51:15;66.249.72.241;yiewkcbsz;local;bio;*;*;*;;1
+2011-05-25 01:01:30;66.249.72.241;ppufejihenzxjri;local;bio;+id:("lil-9030037111");*;*;;1
+2011-05-25 01:01:45;66.249.72.241;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-25 01:04:46;66.249.72.241;ppufejihenzxjri;local;bio;+id:("lil-9030037111");*;*;;1
+2011-05-25 01:05:04;66.249.72.241;ppufejihenzxjri;local;bio;+id:("lil-9030037195");*;*;;1
+2011-05-25 01:06:00;66.249.72.241;ppufejihenzxjri;local;bio;+id:("lil-13264049879");*;*;;1
+2011-05-25 01:09:00;66.249.72.241;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-25 01:09:44;66.249.72.241;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-25 01:10:20;66.249.72.241;pt;local;bio;*;*;*;;1
+2011-05-25 01:14:22;66.249.72.241;ppufejihenzxjri;local;bio;+id:("lil-9030037195");*;*;;1
+2011-05-25 01:16:49;66.249.72.241;ppufejihenzxjri;local;bio;+id:("lil-13264049879");*;*;;1
+2011-05-25 01:53:33;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-25 01:57:52;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-25 04:03:32;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-25 04:03:34;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-25 04:03:35;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-25 04:03:36;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-25 04:49:54;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-25 05:26:13;66.249.72.241;pt;local;bio;+id:("lil-18474058072");*;*;;1
+2011-05-25 07:01:42;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-25 09:49:07;187.10.184.139;pt;local;bio;departamentalização;*;*;;1
+2011-05-25 10:41:39;200.175.132.218;pt;local;bio;gastoctomia;*;*;;1
+2011-05-25 10:44:40;66.249.72.241;pt;local;bio;+id:("scl-S0074-02761909000200001");*;*;;1
+2011-05-25 10:45:49;200.175.132.218;pt;local;bio;gastroctomia;*;ALL;;1
+2011-05-25 10:45:49;200.175.132.218;pt;local;bio;gastroctomia;*;ALL;;1
+2011-05-25 10:52:42;200.175.132.218;pt;local;bio;qual a dieta que uma pessoa sem estomago tem que fazer?;*;*;;1
+2011-05-25 11:06:49;200.175.132.218;pt;local;bio;gastrostomia;*;*;;1
+2011-05-25 11:11:31;201.14.226.2;pt;local;bio;eubalaena australis;*;*;;1
+2011-05-25 11:13:18;201.14.226.2;pt;local;bio;baleias;*;*;;1
+2011-05-25 12:17:03;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-25 12:48:54;66.249.72.241;pt;local;bio;+id:("lil-9030037197");*;*;;1
+2011-05-25 13:55:00;187.76.11.27;pt;local;bio;*;*;*;;1
+2011-05-25 14:55:21;66.249.72.241;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-25 15:15:18;200.144.120.93;pt;local;bio;specieslink;*;*;;1
+2011-05-25 16:58:07;190.24.174.238;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-25 17:02:54;66.249.72.241;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-25 17:18:21;143.107.188.20;pt;local;bio;museu de história natural;*;*;;1
+2011-05-25 17:20:47;143.107.188.20;pt;local;bio;onça pintada;*;*;;1
+2011-05-25 17:21:04;143.107.188.20;pt;local;bio;botanica;*;ALL;;1
+2011-05-25 17:28:47;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-25 18:28:03;201.75.204.147;pt;local;bio;*;*;*;;1
+2011-05-25 18:28:20;201.75.204.147;pt;local;bio;manguezal;*;ALL;;1
+2011-05-25 18:29:30;201.75.204.147;pt;local;bio;novelli;*;ALL;;1
+2011-05-25 18:30:41;201.75.204.147;pt;local;bio;manguezal;*;ALL;;1
+2011-05-25 18:31:58;201.75.204.147;pt;local;bio;manguezal;*;ALL;ta_cluster:"Rev. Bras. Zool.";1
+2011-05-25 18:35:50;201.75.204.147;pt;local;bio;manguezal;*;ALL;ta_cluster:"Rev. Bras. Zool.";2
+2011-05-25 18:36:56;201.75.204.147;pt;local;bio;manguezal;*;ALL;ta_cluster:"Rev. Bras. Zool.";3
+2011-05-25 18:37:10;201.75.204.147;pt;local;bio;estuario;*;ALL;;1
+2011-05-25 18:38:06;201.75.204.147;pt;local;bio;estuario;*;ALL;;2
+2011-05-25 18:39:06;201.75.204.147;pt;local;bio;estuario;*;ALL;;3
+2011-05-25 19:36:53;62.219.132.115;pt;local;bio;*;*;*;;1
+2011-05-25 20:06:24;187.58.244.99;pt;local;bio;guettarda;*;*;;1
+2011-05-25 20:52:45;66.249.72.241;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-25 21:20:04;200.150.137.61;pt;local;bio;OBESIDADE INFANTIL;*;*;;1
+2011-05-25 22:29:37;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-25 23:12:33;66.249.72.241;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-25 23:14:22;189.78.200.133;pt;local;bio;+id:("scl-S0074-02761909000200008");*;*;;1

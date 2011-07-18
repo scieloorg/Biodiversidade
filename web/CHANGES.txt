@@ -1,0 +1,30 @@
+Change List
+-----------
+
+Versão 0.9, 20080320
+
+- NEW: ordenar resultado
+- NEW: realizar browse dos clusters
+
+Versão 0.8, 20080120
+
+- NEW: sua seleção 
+- NEW: histórico de pesquisa
+- NEW: enviar resultado por email
+- NEW: opção "print mode"  para página ou documento
+- NEW: exportação do resultado em formato XML ou RSS
+
+Versão 0.7, 20071001
+
+- NEW: adicionado controle para filtro por fonte na pesquisa -> where-list que deve ser definido no config.xml
+- NEW: adicionado parametro output com opções para RSS,XML e SOL
+- NET: adicionado geração de log's das pesquisas realizadas no sistema
+
+- BUG: corrigido template search.php quando filtro passado por url possui aspas duplas
+
+- CHANGE: alterado classe Dia.php para utilizar como controlador o contexto /dia-controller ao inves de /dia  (modulo que roda no tomcat)
+
+
+Versão 0.6, 20070901
+
+- primeiro release

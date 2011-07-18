@@ -1,0 +1,52 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-04-02 00:13:48;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-02 00:30:48;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-02 00:37:35;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-02 01:51:47;190.131.56.18;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-02 01:52:08;190.131.56.18;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-04-02 01:52:21;190.131.56.18;pt;local;bio;macroinvertebrates;*;BHLB;db:BHLB;1
+2011-04-02 01:52:41;190.131.56.18;pt;local;bio;macroinvertebrates;*;BHLG;db:BHLG;1
+2011-04-02 01:53:14;190.131.56.18;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-02 03:34:40;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-02 03:34:41;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-02 03:34:41;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-02 03:34:41;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-02 04:15:19;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-02 06:26:59;66.249.71.49;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-02 08:22:17;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-02 09:08:47;201.47.176.67;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-02 09:09:56;201.47.176.67;pt;local;bio;biodiversidade;kw;SCIB;db:SCIB;1
+2011-04-02 09:10:03;201.47.176.67;pt;local;bio;biodiversidade;ti;SCIB;db:SCIB;1
+2011-04-02 09:10:08;201.47.176.67;pt;local;bio;biodiversidade;ti;SCIB;db:SCIB AND la:"Pt";1
+2011-04-02 10:25:43;189.97.35.209;pt;local;bio;problemas ambientais e empresas;*;*;;1
+2011-04-02 10:47:34;189.8.21.34;pt;local;bio;biodiversidade;*;*;;1
+2011-04-02 12:54:00;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-02 14:47:05;66.249.71.49;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-02 14:50:05;187.114.196.56;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-02 14:50:52;187.114.196.56;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-04-02 14:51:14;187.114.196.56;pt;local;bio;*;*;SCIB;db:SCIB;3
+2011-04-02 14:51:38;187.114.196.56;pt;local;bio;*;*;SCIB;db:SCIB;4
+2011-04-02 14:52:00;187.114.196.56;pt;local;bio;*;*;SCIB;db:SCIB;5
+2011-04-02 16:54:52;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-02 17:24:23;66.249.71.49;pt;local;bio;+id:("lil-3551021638");*;*;;1
+2011-04-02 18:11:56;66.249.71.49;xfdblysxhm;local;bio;*;*;*;;1
+2011-04-02 18:16:15;201.88.197.67;pt;local;bio;FLHAS DE OLIVEIRA;*;*;;1
+2011-04-02 18:16:27;201.88.197.67;pt;local;bio; OLIVEIRA;*;ALL;;1
+2011-04-02 18:16:45;201.88.197.67;pt;local;bio;FLHAS DE OLIVA;*;*;;1
+2011-04-02 18:16:52;201.88.197.67;pt;local;bio;OLIVA;*;ALL;;1
+2011-04-02 18:20:35;201.88.197.67;pt;local;bio;Olea europea;*;ALL;;1
+2011-04-02 18:20:41;201.88.197.67;pt;local;bio;Olea europea;*;ALL;;1
+2011-04-02 19:08:07;187.24.104.3;pt;local;bio;bidiversidade de áreas ecotonais;*;*;;1
+2011-04-02 19:08:51;187.24.104.3;pt;local;bio;bidiversidade de mata atlântica;*;ALL;;1
+2011-04-02 19:09:10;187.24.104.3;pt;local;bio; mata atlântica;*;ALL;;1
+2011-04-02 19:09:33;187.24.104.3;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-02 19:10:19;187.24.104.3;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-04-02 19:11:00;187.24.104.3;pt;local;bio;*;*;SCIB;db:SCIB;10
+2011-04-02 19:30:07;218.213.130.147;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-04-02 19:54:15;218.213.130.147;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-02 20:22:50;218.213.130.147;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-02 20:56:11;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-02 22:25:59;65.52.110.85;pt;local;bio;*;*;*;;1
+2011-04-02 22:37:55;201.52.116.141;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-02 22:37:56;201.52.116.141;pt;local;bio;*;*;*;;1
+2011-04-02 23:03:08;201.67.38.216;yiewkcbsz;local;bio;*;*;*;;1

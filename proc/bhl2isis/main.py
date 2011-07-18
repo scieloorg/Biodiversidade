@@ -2,14 +2,12 @@ from bhl_xml import APIBHLXML
 from bhl import APIBHL
 from doc import Doc
 from doc2isis import Doc2ISIS
-#import chardet
+import os
 
 access_key="b64e048b-e947-44c2-b5e3-b9ba4e47fce0"
 xml_path = '../xml_path/'
 
-
 title_file = xml_path + 'bhl_titles.xml'
-
 
 apibhl = APIBHL(access_key)
 doc2isis = Doc2ISIS()

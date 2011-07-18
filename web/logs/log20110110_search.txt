@@ -1,0 +1,128 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-01-10 00:20:30;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-10 00:34:10;216.55.28.50;pt;local;bio;*;*;*;;1
+2011-01-10 00:38:41;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-10 03:24:41;64.34.176.107;pt;local;bio;*;*;*;;1
+2011-01-10 06:02:52;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-10 07:20:12;201.53.74.250;pt;local;bio;callithrix;*;*;;1
+2011-01-10 09:08:49;200.201.184.105;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-10 09:09:58;200.201.184.105;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-10 09:10:55;200.201.184.105;pt;local;bio;mammalogy;*;BHLB;db:BHLB;1
+2011-01-10 09:10:55;200.201.184.105;pt;local;bio;mammalogy;*;BHLB;db:BHLB;1
+2011-01-10 09:10:58;200.201.184.105;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-10 09:11:01;200.201.184.105;pt;local;bio;*;*;BHLB;db:BHLB;2
+2011-01-10 09:11:07;200.201.184.105;pt;local;bio;*;*;BHLB;db:BHLB;5
+2011-01-10 09:11:19;200.201.184.105;pt;local;bio;*;*;BHLB;db:BHLB;8
+2011-01-10 09:25:58;189.62.77.114;pt;local;bio;biota;*;*;;1
+2011-01-10 09:26:56;189.62.77.114;pt;local;bio;biota;*;ALL;;2
+2011-01-10 09:32:36;189.62.77.114;pt;local;bio;ecologia;*;*;;1
+2011-01-10 09:32:56;189.62.77.114;pt;local;bio;ecologia;*;ALL;;2
+2011-01-10 09:33:32;189.62.77.114;pt;local;bio;ecologia;*;ALL;;3
+2011-01-10 09:34:05;189.62.77.114;pt;local;bio;ecologia;*;ALL;;4
+2011-01-10 09:34:35;189.62.77.114;pt;local;bio;ecologia;*;ALL;;5
+2011-01-10 09:36:14;161.148.178.155;pt;local;bio;*;*;*;;1
+2011-01-10 09:50:19;200.225.173.247;pt;local;bio;Spizastur melanoleucus;*;*;;1
+2011-01-10 09:50:47;200.225.173.247;pt;local;bio;Falco peregrinus;*;*;;1
+2011-01-10 09:50:50;200.144.29.106;pt;local;bio;etnobotanica;*;*;;1
+2011-01-10 09:57:50;157.86.176.90;pt;local;bio;POMACEA;*;*;;1
+2011-01-10 09:58:24;157.86.176.90;pt;local;bio;biomphalaria;*;*;;1
+2011-01-10 09:58:29;157.86.176.90;pt;local;bio;biomphalaria;*;ALL;;1
+2011-01-10 10:16:35;157.86.90.23;pt;local;bio;Caligo illioneus;*;*;;1
+2011-01-10 10:16:55;157.86.90.23;pt;local;bio;Caligo;*;*;;1
+2011-01-10 10:17:27;157.86.90.23;pt;local;bio; illioneus;*;*;;1
+2011-01-10 10:17:48;157.86.90.23;pt;local;bio;Caligo ;*;*;;1
+2011-01-10 10:20:06;157.86.90.23;pt;local;bio;NYMPHALIDDAE;*;ALL;;1
+2011-01-10 10:20:23;157.86.90.23;pt;local;bio;NYMPHALIDAE;*;ALL;;1
+2011-01-10 10:21:20;157.86.90.23;pt;local;bio;NYMPHALIDAE;*;ALL;;2
+2011-01-10 10:22:36;157.86.90.23;pt;local;bio;NYMPHALIDAE;*;ALL;;3
+2011-01-10 10:23:15;157.86.90.23;pt;local;bio;NYMPHALIDAE;*;ALL;;4
+2011-01-10 10:23:51;157.86.90.23;pt;local;bio;NYMPHALIDAE;*;ALL;;5
+2011-01-10 10:24:16;157.86.90.23;pt;local;bio;Sua seleção;*;ALL;;1
+2011-01-10 10:33:49;157.86.90.23;pt;local;bio;Dryas iulia;*;ALL;;1
+2011-01-10 10:35:55;157.86.90.23;pt;local;bio;Dryas iulia;*;ALL;;1
+2011-01-10 10:37:08;157.86.90.23;pt;local;bio;Dryas ;*;ALL;;1
+2011-01-10 10:37:20;157.86.90.23;pt;local;bio; iulia;*;ALL;;1
+2011-01-10 10:37:51;157.86.90.23;pt;local;bio;Ascia monuste;*;ALL;;1
+2011-01-10 10:38:49;157.86.90.23;pt;local;bio;Ascia ;*;ALL;;1
+2011-01-10 10:39:09;157.86.90.23;pt;local;bio;ANTEOS MENIPPE;*;ALL;;1
+2011-01-10 10:39:42;157.86.90.23;pt;local;bio;Sua seleção;*;ALL;;1
+2011-01-10 10:42:33;200.144.14.210;pt;local;bio;freitas, mlm;*;*;;1
+2011-01-10 10:42:45;200.144.14.210;pt;local;bio;freitas, mlm;au;ALL;;1
+2011-01-10 10:42:52;200.144.14.210;pt;local;bio;freitas, mlm;au;ALL;;1
+2011-01-10 10:43:02;200.144.14.210;pt;local;bio;freitas, mlm;au;ALL;;1
+2011-01-10 10:43:15;200.144.14.210;pt;local;bio;freitas, m l m;au;ALL;;1
+2011-01-10 10:45:28;187.25.148.173;pt;local;bio;fava d´anta;*;*;;1
+2011-01-10 10:45:41;187.25.148.173;pt;local;bio;rutina;*;*;;1
+2011-01-10 10:45:59;157.86.90.23;pt;local;bio;BORBOLETAS;*;*;;1
+2011-01-10 10:46:56;157.86.90.23;pt;local;bio;BORBOLETAS;*;ALL;;2
+2011-01-10 10:47:50;157.86.90.23;pt;local;bio;BORBOLETAS;*;ALL;;3
+2011-01-10 10:47:57;200.144.14.210;pt;local;bio;freitas, miguel l m;au;ALL;;1
+2011-01-10 10:48:33;200.144.14.210;pt;local;bio;freitas, miguel luiz menezes;au;ALL;;1
+2011-01-10 10:48:39;157.86.90.23;pt;local;bio;BORBOLETAS;*;ALL;;4
+2011-01-10 10:48:55;157.86.90.23;pt;local;bio;BORBOLETAS VISITANTES FLORAIS ;*;ALL;;1
+2011-01-10 10:49:03;200.144.14.210;pt;local;bio;freitas, m l m;au;ALL;;1
+2011-01-10 10:49:25;157.86.90.23;pt;local;bio;BORBOLETAS POLINIZADORES ;*;ALL;;1
+2011-01-10 10:50:03;157.86.90.23;pt;local;bio;POLINIZAÇÃO POR BORBOLETAS;*;ALL;;1
+2011-01-10 10:50:58;157.86.90.23;pt;local;bio;NINFALÍDEOS;*;ALL;;1
+2011-01-10 10:51:05;157.86.90.23;pt;local;bio;NINFALIDEOS;*;ALL;;1
+2011-01-10 11:14:48;200.142.97.154;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-10 12:31:25;189.73.221.242;pt;local;bio;*;*;*;;1
+2011-01-10 12:37:00;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-10 13:09:42;193.136.147.81;pt;local;bio;fire;*;*;;1
+2011-01-10 13:52:43;201.18.231.35;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-10 13:53:10;201.18.231.35;pt;local;bio;*;*;BHLB;db:BHLB AND type:"article";1
+2011-01-10 13:53:23;201.18.231.35;pt;local;bio;*;*;BHLB;db:BHLB AND type:"book";1
+2011-01-10 13:54:03;201.18.231.35;pt;local;bio;*;*;BHLB;db:BHLB AND type:"book";1
+2011-01-10 13:54:07;201.18.231.35;pt;local;bio;*;*;BHLB;db:BHLB AND type:"book";1
+2011-01-10 13:54:12;201.18.231.35;pt;local;bio;*;*;BHLB;db:BHLB AND type:"book";1
+2011-01-10 13:54:18;201.18.231.35;pt;local;bio;*;*;BHLB;db:BHLB AND type:"book";1
+2011-01-10 13:54:32;201.18.231.35;pt;local;bio;*;*;BHLB;db:BHLB AND type:"book";2
+2011-01-10 14:08:05;193.136.147.81;pt;local;bio;fire savanna;kw;BHLB;db:BHLB;1
+2011-01-10 14:08:11;193.136.147.81;pt;local;bio;fire savanna;kw;BHLG;db:BHLG;1
+2011-01-10 14:08:22;193.136.147.81;pt;local;bio;fire savanna;kw;SCIB;db:SCIB;1
+2011-01-10 14:08:33;193.136.147.81;pt;local;bio;fire savanna;kw;ALL;;1
+2011-01-10 14:08:39;193.136.147.81;pt;local;bio;*;*;*;;1
+2011-01-10 14:09:00;193.136.147.81;pt;local;bio;fire savanna;ti;ALL;;1
+2011-01-10 14:09:34;193.136.147.81;pt;local;bio;fire savanna;kw;ALL;;1
+2011-01-10 14:09:48;193.136.147.81;pt;local;bio;fogo cerrado;kw;ALL;;1
+2011-01-10 14:09:54;193.136.147.81;pt;local;bio;fogo cerrado;*;ALL;;1
+2011-01-10 14:10:44;193.136.147.81;pt;local;bio;fogo cerrado;*;ALL;;2
+2011-01-10 14:36:56;193.136.147.81;pt;local;bio;fogo cerrado;*;ALL;;1
+2011-01-10 15:14:13;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-10 15:19:39;200.164.100.9;pt;local;bio;goeldi;*;*;;1
+2011-01-10 15:26:15;200.164.100.9;pt;local;bio;goeldi;*;ALL;ta_cluster:"Boletim do Museu Goeldi (Museu Paraense) de Historia Natural e Ethnographia.";1
+2011-01-10 15:29:35;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-10 16:33:45;201.54.129.16;pt;local;bio;ecomorfologia;*;*;;1
+2011-01-10 17:11:02;67.53.215.230;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-10 17:11:33;67.53.215.230;en;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-10 17:11:38;67.53.215.230;en;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-10 17:11:41;67.53.215.230;en;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-10 17:11:45;67.53.215.230;en;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-10 17:22:05;200.139.12.121;pt;local;bio;Licania;*;*;;1
+2011-01-10 17:24:29;200.139.12.121;pt;local;bio;Caraipé;*;ALL;;1
+2011-01-10 17:35:20;187.110.172.23;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-10 18:00:31;200.139.12.121;pt;local;bio;breu branco;kw;ALL;;1
+2011-01-10 18:47:30;187.91.40.91;pt;local;bio;pitanga;*;*;;1
+2011-01-10 18:47:31;187.91.40.91;pt;local;bio;pitanga;*;*;;1
+2011-01-10 18:48:45;187.91.40.91;pt;local;bio;uva;*;*;;1
+2011-01-10 18:49:29;201.82.192.252;pt;local;bio;Arquivos de Zoologia;*;*;;1
+2011-01-10 18:49:40;187.91.40.91;pt;local;bio;dente-de-leão;*;*;;1
+2011-01-10 18:49:42;201.82.192.252;pt;local;bio;Menezes;*;ALL;;1
+2011-01-10 18:49:57;187.91.40.91;pt;local;bio;dente de leão;*;*;;1
+2011-01-10 18:49:58;201.82.192.252;pt;local;bio;Menezes;*;ALL;;2
+2011-01-10 18:50:12;201.82.192.252;pt;local;bio;Menezes Cynopotaminae;*;ALL;;1
+2011-01-10 18:50:20;187.91.40.91;pt;local;bio;maracujá roxo;*;*;;1
+2011-01-10 19:45:27;187.91.40.91;pt;local;bio;maracujá roxo;*;*;;1
+2011-01-10 20:12:14;187.80.58.165;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-10 20:12:44;187.80.58.165;pt;local;bio;*;*;BHLB;db:BHLB;2
+2011-01-10 20:40:07;187.78.12.219;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-10 20:41:14;187.78.12.219;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-01-10 20:42:46;187.78.12.219;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-10 20:44:19;187.78.12.219;pt;local;bio;florescências no brasil;*;*;;1
+2011-01-10 20:44:42;187.78.12.219;pt;local;bio;florescências ;*;*;;1
+2011-01-10 20:45:02;187.78.12.219;pt;local;bio;flores ;*;*;;1
+2011-01-10 20:48:19;187.78.12.219;pt;local;bio;flores ;*;ALL;;2
+2011-01-10 20:50:41;187.78.12.219;pt;local;bio;flores ;*;ALL;ta_cluster:"Braz. arch. biol. technol.";1
+2011-01-10 20:51:33;66.249.71.52;pt;local;bio;+id:("lil-18474058040");*;*;;1
+2011-01-10 21:22:34;66.249.71.52;pt;local;bio;+id:("lil-9030037232");*;*;;1
+2011-01-10 22:38:17;150.165.131.220;pt;local;bio;hyptis macrostrachys;*;*;;1

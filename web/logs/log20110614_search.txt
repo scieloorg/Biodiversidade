@@ -1,0 +1,51 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-06-14 02:44:12;66.249.72.11;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-14 04:05:34;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-14 05:46:05;109.191.154.238;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-14 07:04:09;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-14 07:04:14;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-14 07:06:08;174.136.26.114;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-14 08:08:43;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-14 09:12:31;189.120.180.6;pt;local;bio;catalisadores;*;*;;1
+2011-06-14 09:12:55;189.120.180.6;pt;local;bio;catalisadores;*;ALL;;1
+2011-06-14 09:13:02;189.120.180.6;pt;local;bio;catalisadores;*;ALL;;1
+2011-06-14 09:17:29;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-14 09:17:30;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-14 09:21:31;200.140.158.110;pt;local;bio;glicemia;*;*;;1
+2011-06-14 09:22:55;200.140.158.110;pt;local;bio;glicemia casual;*;ALL;;1
+2011-06-14 09:23:00;200.140.158.110;pt;local;bio;glicemia ;*;ALL;;1
+2011-06-14 09:35:36;66.249.72.11;yiewkcbsz;local;bio;*;*;*;;1
+2011-06-14 09:37:00;66.249.72.11;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-06-14 09:37:47;66.249.72.11;yiewkcbsz;local;bio;*;*;*;;1
+2011-06-14 10:25:50;66.249.72.11;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-06-14 10:34:51;66.249.72.11;xfdblysxhm;local;bio;+id:("lil-9030037197");*;*;;1
+2011-06-14 11:35:07;165.158.7.227;pt;local;bio;*;*;scib;;1
+2011-06-14 11:35:07;165.158.7.227;pt;local;bio;*;*;bhlg;;1
+2011-06-14 11:35:10;165.158.7.227;pt;local;bio;*;*;bhlb;;1
+2011-06-14 12:21:28;200.198.242.94;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-14 12:21:42;200.198.242.94;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-14 12:22:32;66.249.72.11;yiewkcbsz;local;bio;+id:("lil-13264049879");*;*;;1
+2011-06-14 12:37:32;66.249.72.11;yiewkcbsz;local;bio;+id:("lil-13264049879");*;*;;1
+2011-06-14 12:39:51;200.142.54.4;pt;local;bio;rebio gurupi;*;*;;1
+2011-06-14 12:39:55;200.142.54.4;pt;local;bio; gurupi;*;ALL;;1
+2011-06-14 12:40:04;200.142.54.4;pt;local;bio;gurupi;*;ALL;;1
+2011-06-14 12:47:14;201.8.155.124;pt;local;bio;determinação do zinco no chocolate em pó;*;*;;1
+2011-06-14 13:14:31;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-14 15:27:59;187.58.28.20;pt;local;ftp://happyh:h@pP-iRs2@80.74.155.20/httpdocs/includes/js/test.php?;*;*;*;;1
+2011-06-14 16:19:51;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-14 16:20:06;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-14 17:09:43;207.46.194.127;pt;local;bio;*;*;*;;1
+2011-06-14 17:09:45;207.46.194.127;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-14 17:23:32;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-14 17:23:35;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-14 17:24:36;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-14 17:26:09;189.26.150.186;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-14 18:53:16;189.4.77.61;pt;local;bio;Alectrurus tricolor;*;*;;1
+2011-06-14 18:53:27;189.4.77.61;pt;local;bio;Anthus nattereri;*;ALL;;1
+2011-06-14 18:53:32;189.4.77.61;pt;local;bio;Coryphistera alaudina;*;ALL;;1
+2011-06-14 18:53:41;189.4.77.61;pt;local;bio;aves campos sulinos;*;ALL;;1
+2011-06-14 18:53:43;189.4.77.61;pt;local;bio;campos sulinos;*;ALL;;1
+2011-06-14 18:53:46;189.4.77.61;pt;local;bio;aves;*;ALL;;1
+2011-06-14 21:06:16;66.249.72.11;yiewkcbsz;local;bio;+id:("lil-9030037224");*;*;;1
+2011-06-14 21:06:59;66.249.72.11;qwkilqgvraugpkn;local;bio;+id:("lil-3551021638");*;*;;1
+2011-06-14 21:34:03;209.131.41.48;pt;local;bio;*;*;*;;1

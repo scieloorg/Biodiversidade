@@ -1,0 +1,28 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-05-08 03:42:21;66.249.72.58;pt;local;bio;+id:("lil-41471091512");*;*;;1
+2011-05-08 03:50:15;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-08 04:46:39;211.206.120.196;pt;local;bio;*;*;*;;1
+2011-05-08 07:39:46;66.249.72.58;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-08 08:05:39;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-08 08:11:58;66.249.72.58;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-08 08:36:29;208.115.111.243;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-08 08:36:33;208.115.111.243;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-08 08:36:38;208.115.111.243;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-08 10:37:01;173.242.116.48;pt;local;bio;*;*;*;;1
+2011-05-08 12:12:18;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-08 15:21:27;187.60.253.18;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-08 15:22:12;187.60.253.18;pt;local;bio;historia das drogas ;*;SCIB;db:SCIB;1
+2011-05-08 16:17:58;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-08 19:08:33;187.57.199.141;pt;local;bio;internet;*;*;;1
+2011-05-08 19:09:23;187.57.199.141;pt;local;bio;internet;*;ALL;la:"Pt";1
+2011-05-08 19:14:00;187.57.199.141;pt;local;bio;uso da internet com as crianças;*;ALL;;1
+2011-05-08 19:14:22;187.57.199.141;pt;local;bio;crianças na internet;*;ALL;;1
+2011-05-08 19:14:38;187.57.199.141;pt;local;bio;criança;*;ALL;;1
+2011-05-08 19:14:52;187.57.199.141;pt;local;bio;pedofelia;*;ALL;;1
+2011-05-08 19:15:02;187.57.199.141;pt;local;bio;pedofolo;*;ALL;;1
+2011-05-08 19:15:24;187.57.199.141;pt;local;bio;internet mal usada;*;ALL;;1
+2011-05-08 19:16:10;187.126.18.53;pt;local;bio;guppy;*;*;;1
+2011-05-08 19:21:25;187.126.18.53;pt;local;bio;guppy;*;ALL;;2
+2011-05-08 20:01:40;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-08 20:07:09;66.249.72.58;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-08 20:07:48;66.249.72.58;pt;local;bio;Sua seleção;*;*;;1

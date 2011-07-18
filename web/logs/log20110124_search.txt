@@ -1,0 +1,142 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-01-24 00:09:07;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 00:43:15;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 00:48:51;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-24 00:53:42;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 01:29:47;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 01:46:06;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 01:48:17;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 01:48:45;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 01:59:02;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 01:59:18;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 02:08:33;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 02:25:10;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 02:44:36;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 02:57:16;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 03:21:45;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 04:15:35;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 04:42:48;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-24 04:46:36;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 05:01:31;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 05:20:52;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 05:58:28;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 06:40:32;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 07:08:30;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 07:12:44;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 07:15:17;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 07:30:35;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 07:36:00;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 07:46:04;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 07:47:18;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 08:01:18;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 08:11:08;66.249.71.52;xfdblysxhm;local;bio;*;*;*;;1
+2011-01-24 08:20:19;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-24 08:24:39;66.249.71.52;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-01-24 11:50:29;200.198.136.119;pt;local;bio;itapuã;*;*;;1
+2011-01-24 11:51:09;200.198.136.119;pt;local;bio;piratini;*;ALL;;1
+2011-01-24 11:51:41;200.198.136.119;pt;local;bio;bioma pampa;*;ALL;;1
+2011-01-24 11:52:08;200.198.136.119;pt;local;bio;bioma pampa;*;*;;1
+2011-01-24 11:52:58;200.198.136.119;pt;local;bio;soares;au;ALL;;1
+2011-01-24 11:53:40;200.198.136.119;pt;local;bio;luciano soares;au;ALL;;1
+2011-01-24 11:54:16;200.198.136.119;pt;local;bio;rio piratini;au;ALL;;1
+2011-01-24 11:56:47;187.6.65.91;pt;local;bio;dieta e mamiferos;*;*;;1
+2011-01-24 11:59:59;200.198.136.119;pt;local;bio;bioma pampa;*;*;;1
+2011-01-24 12:00:12;200.198.136.119;pt;local;bio;*;*;*;;1
+2011-01-24 12:04:05;200.198.136.119;pt;local;bio;pampa biome;*;*;;1
+2011-01-24 12:05:09;200.198.136.119;pt;local;bio;bacia do rio piratini;*;ALL;;1
+2011-01-24 12:47:17;189.24.71.75;pt;local;bio;mata atlântica;*;*;;1
+2011-01-24 12:47:55;189.24.71.75;pt;local;bio;conservação;*;*;;1
+2011-01-24 12:48:06;189.24.71.75;pt;local;bio;sustentabilidade;*;*;;1
+2011-01-24 12:48:29;189.24.71.75;pt;local;bio;sustentabilidade;*;ALL;;2
+2011-01-24 14:29:09;200.198.136.119;pt;local;bio;recuperação de áreas degradadas;*;*;;1
+2011-01-24 14:29:32;200.198.136.119;pt;local;bio; áreas degradadas;*;ALL;;1
+2011-01-24 14:29:37;200.198.136.119;pt;local;bio; áreas degradadas;*;ALL;;1
+2011-01-24 14:29:49;200.198.136.119;pt;local;bio;*;*;*;;1
+2011-01-24 14:29:54;200.198.136.119;pt;local;bio;areas degradadas;*;*;;1
+2011-01-24 14:30:14;200.198.136.119;pt;local;bio;*;*;ALL;;1
+2011-01-24 14:30:27;200.198.136.119;pt;local;bio;*;*;ALL;;1
+2011-01-24 14:30:48;200.198.136.119;pt;local;bio;areas degradadas;*;ALL;;2
+2011-01-24 14:30:53;200.198.136.119;pt;local;bio;*;*;ALL;;2
+2011-01-24 14:31:20;200.198.136.119;pt;local;bio;areas degradadas;*;ALL;;3
+2011-01-24 14:32:19;200.198.136.119;pt;local;bio;ademir reis;au;ALL;;1
+2011-01-24 14:33:14;200.198.136.119;pt;local;bio;senna multijuga;au;ALL;;1
+2011-01-24 14:33:31;200.198.136.119;pt;local;bio;pau de cigarra;*;*;;1
+2011-01-24 14:33:41;200.198.136.119;pt;local;bio;pau de cigarra;*;ALL;;1
+2011-01-24 14:33:53;200.198.136.119;pt;local;bio;pau de cigarra;*;ALL;;1
+2011-01-24 14:33:54;200.198.136.119;pt;local;bio;unidades de conservação;kw;ALL;;1
+2011-01-24 14:34:09;200.198.136.119;pt;local;bio;parques;kw;ALL;;1
+2011-01-24 14:34:14;200.198.136.119;pt;local;bio;pau de cigarra;*;SCIB;db:SCIB;1
+2011-01-24 14:34:20;200.198.136.119;pt;local;bio;parque;kw;ALL;;1
+2011-01-24 14:34:29;200.198.136.119;pt;local;bio;*;*;*;;1
+2011-01-24 14:34:41;200.198.136.119;pt;local;bio;parque;kw;ALL;;1
+2011-01-24 15:16:05;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-24 15:17:49;200.198.136.119;pt;local;bio;plantas aquaticas;*;*;;1
+2011-01-24 15:23:52;200.198.136.119;pt;local;bio;plantas aquaticas;*;*;;1
+2011-01-24 15:27:20;200.198.136.119;pt;local;bio;plantas aquaticas;*;ALL;;2
+2011-01-24 15:30:36;200.198.136.119;pt;local;bio;plantas aquaticas;*;ALL;;3
+2011-01-24 15:56:53;66.249.71.52;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-24 16:02:25;200.198.136.119;pt;local;bio;macrofitas aquaticas;*;ALL;;3
+2011-01-24 16:02:25;200.198.136.119;pt;local;bio;macrofitas aquaticas;*;ALL;;3
+2011-01-24 16:03:00;200.198.136.119;pt;local;bio;macrofitas aquaticas;*;ALL;;1
+2011-01-24 16:04:24;200.198.136.119;pt;local;bio;macrofitas aquaticas;*;ALL;;2
+2011-01-24 16:05:21;200.198.136.119;pt;local;bio;macrofitas aquaticas;*;ALL;;3
+2011-01-24 16:07:41;200.198.136.119;pt;local;bio;macrofitas aquaticas;*;ALL;;4
+2011-01-24 16:08:53;200.198.136.119;pt;local;bio;macrofitas aquaticas;*;ALL;;4
+2011-01-24 16:10:39;200.198.136.119;pt;local;bio;macrofitas aquaticas;*;ALL;;5
+2011-01-24 16:11:08;200.198.136.119;pt;local;bio;macrofitas aquaticas;*;ALL;;5
+2011-01-24 16:11:55;200.198.136.119;pt;local;bio;fitossociologia;*;ALL;;1
+2011-01-24 16:11:55;200.198.136.119;pt;local;bio;fitossociologia;*;ALL;;1
+2011-01-24 16:12:27;200.198.136.119;pt;local;bio;fitossociologia;*;ALL;;2
+2011-01-24 16:13:07;200.198.136.119;pt;local;bio;fitossociologia;*;ALL;;3
+2011-01-24 16:14:18;200.198.136.119;pt;local;bio;fitossociologia;*;ALL;;4
+2011-01-24 16:15:04;200.198.136.119;pt;local;bio;jarenkow;au;ALL;;1
+2011-01-24 16:48:53;189.103.105.107;pt;local;bio;salminus;*;*;;1
+2011-01-24 16:49:58;189.103.105.107;pt;local;bio;salminus;*;ALL;;2
+2011-01-24 17:13:59;200.174.182.82;pt;local;bio;*;*;*;;1
+2011-01-24 17:34:20;187.7.178.13;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-24 17:34:45;187.7.178.13;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-24 17:35:40;187.7.178.13;pt;local;bio;fungicidas naturais;kw;BHLB;db:BHLB;1
+2011-01-24 18:04:26;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-24 18:48:45;201.47.8.221;pt;local;bio;Chomsky;*;*;;1
+2011-01-24 20:33:22;66.249.71.52;pt;local;bio;+id:("lil-9030037232");*;*;;1
+2011-01-24 22:16:20;201.35.239.179;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-24 22:16:50;201.35.239.179;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Archivos do Museu Nacional.";1
+2011-01-24 22:17:07;201.35.239.179;pt;local;bio;*;*;BHLB;db:BHLB AND type:"book";1
+2011-01-24 22:17:17;201.35.239.179;pt;local;bio;*;*;BHLB;db:BHLB AND type:"book";2
+2011-01-24 22:17:40;201.35.239.179;pt;local;bio;*;*;BHLB;db:BHLB AND type:"book";3
+2011-01-24 22:17:54;201.35.239.179;pt;local;bio;santa ;*;BHLB;db:BHLB;1
+2011-01-24 22:18:42;201.35.239.179;pt;local;bio;santa ;*;ALL;;1
+2011-01-24 22:18:55;201.35.239.179;pt;local;bio;santa catarina;*;ALL;;1
+2011-01-24 22:23:53;201.35.239.179;pt;local;bio;santa catarina;*;ALL;;2
+2011-01-24 22:24:17;201.35.239.179;pt;local;bio;santa catarina;*;ALL;;3
+2011-01-24 22:25:08;201.35.239.179;pt;local;bio;santa catarina;*;ALL;;4
+2011-01-24 22:42:21;201.53.73.80;pt;local;bio;*;*;*;;1
+2011-01-24 22:44:32;189.96.24.249;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-24 22:52:37;189.25.136.48;pt;local;bio;padua;*;*;;1
+2011-01-24 22:53:10;189.25.136.48;pt;local;bio;padua;*;ALL;;2
+2011-01-24 22:53:39;189.25.136.48;pt;local;bio;padua;*;ALL;;3
+2011-01-24 22:54:13;189.25.136.48;pt;local;bio;semidecidual;*;ALL;;1
+2011-01-24 22:55:15;189.25.136.48;pt;local;bio;pomba;*;ALL;;1
+2011-01-24 22:56:04;189.25.136.48;pt;local;bio;padua;*;ALL;;1
+2011-01-24 22:56:55;189.25.136.48;pt;local;bio;padua;*;ALL;;2
+2011-01-24 22:57:41;189.25.136.48;pt;local;bio;padua;*;ALL;;3
+2011-01-24 23:20:49;201.35.239.179;pt;local;bio;santa catarina;*;ALL;;5
+2011-01-24 23:22:21;201.35.239.179;pt;local;bio;santa catarina;*;ALL;;6
+2011-01-24 23:23:49;201.35.239.179;pt;local;bio;santa catarina;*;ALL;;7
+2011-01-24 23:25:03;201.35.239.179;pt;local;bio;santa catarina;*;ALL;;8
+2011-01-24 23:26:26;201.35.239.179;pt;local;bio;santa catarina;*;ALL;;9
+2011-01-24 23:27:02;201.35.239.179;pt;local;bio;santa catarina;*;ALL;;10
+2011-01-24 23:29:22;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-24 23:50:09;201.35.239.179;pt;local;bio;santa catarina;*;ALL;;11
+2011-01-24 23:50:41;201.35.239.179;pt;local;bio;santa catarina;*;ALL;;12
+2011-01-24 23:51:05;201.35.239.179;pt;local;bio;santa catarina;*;ALL;;13
+2011-01-24 23:51:43;201.35.239.179;pt;local;bio;santa catarina;*;ALL;;14
+2011-01-24 23:51:57;201.35.239.179;pt;local;bio;santa catarina;*;ALL;;15
+2011-01-24 23:52:12;201.35.239.179;pt;local;bio;santa catarina;*;ALL;;16
+2011-01-24 23:53:13;201.35.239.179;pt;local;bio;santa catarina;*;ALL;;17
+2011-01-24 23:53:38;201.35.239.179;pt;local;bio;santa catarina;*;ALL;;18
+2011-01-24 23:54:11;201.35.239.179;pt;local;bio;santa catarina;*;ALL;;19
+2011-01-24 23:54:34;201.35.239.179;pt;local;bio;santa catarina;*;ALL;;20
+2011-01-24 23:54:48;201.35.239.179;pt;local;bio;santa catarina;*;ALL;;21
+2011-01-24 23:55:20;201.35.239.179;pt;local;bio;santa catarina;*;ALL;;22
+2011-01-24 23:55:35;201.35.239.179;pt;local;bio;santa catarina;*;ALL;;23

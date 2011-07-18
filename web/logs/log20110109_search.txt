@@ -1,0 +1,66 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-01-09 01:20:59;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-09 03:21:48;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-09 03:26:54;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-09 03:28:35;81.21.78.22;pt;local;bio;*;*;*;;1
+2011-01-09 03:28:36;81.21.78.22;pt;local;bio;*;*;*;;1
+2011-01-09 04:48:01;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-09 05:54:05;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-09 06:25:36;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 09:22:01;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 09:22:48;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 09:31:18;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 09:41:35;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 10:02:42;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 10:10:17;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 10:25:52;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 11:06:40;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 11:10:23;189.73.204.122;pt;local;bio;ave cerrado;*;*;;1
+2011-01-09 11:10:53;189.73.204.122;pt;local;bio;ave cerrado;*;ALL;;1
+2011-01-09 11:10:59;189.73.204.122;pt;local;bio;ave cerrado;*;ALL;;1
+2011-01-09 11:11:45;189.73.204.122;pt;local;bio;ave cerrado;*;ALL;;1
+2011-01-09 11:11:57;189.73.204.122;pt;local;bio;ave cerrado;*;ALL;;1
+2011-01-09 11:19:17;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 11:19:46;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 11:20:53;189.73.204.122;pt;local;bio;aves cerrado;*;ALL;;1
+2011-01-09 11:24:14;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 11:31:31;201.15.114.177;pt;local;bio;Amphilophium crucigerum;*;*;;1
+2011-01-09 11:32:12;201.15.114.177;pt;local;bio;Allamanda puberula;*;ALL;;1
+2011-01-09 11:32:43;201.15.114.177;pt;local;bio;Pithecoctenium crucigerum;*;ALL;;1
+2011-01-09 12:09:36;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 12:10:46;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 12:32:25;201.15.114.177;pt;local;bio;CERRADO;*;ALL;;1
+2011-01-09 12:32:41;201.15.114.177;pt;local;bio;CERRADO;*;ALL;;2
+2011-01-09 12:32:51;201.15.114.177;pt;local;bio;CERRADO tocantins;*;ALL;;1
+2011-01-09 12:35:52;201.15.114.177;pt;local;bio;Tocantins;*;ALL;;1
+2011-01-09 12:36:24;187.116.4.248;pt;local;bio;frutas nativas brasileiras e valores nutricionais;*;*;;1
+2011-01-09 12:36:45;201.15.114.177;pt;local;bio;Tocantins;*;ALL;;2
+2011-01-09 12:37:30;187.116.4.248;pt;local;bio;s nativas brasileiras ;*;ALL;;1
+2011-01-09 12:37:45;201.15.114.177;pt;local;bio;Tocantins;*;ALL;;3
+2011-01-09 12:37:48;187.116.4.248;pt;local;bio;s nativas brasileiras ;*;SCIB;db:SCIB;1
+2011-01-09 12:38:10;187.116.4.248;pt;local;bio;frutas nativas brasileiras ;*;SCIB;db:SCIB;1
+2011-01-09 12:38:17;187.116.4.248;pt;local;bio;frutas nativas brasileiras ;*;SCIB;db:SCIB;1
+2011-01-09 12:38:26;187.116.4.248;pt;local;bio;frutas nativas brasileiras ;*;ALL;;1
+2011-01-09 12:38:33;201.15.114.177;pt;local;bio;Tocantins;*;ALL;;4
+2011-01-09 12:39:09;201.15.114.177;pt;local;bio;Tocantins;*;ALL;;5
+2011-01-09 12:40:10;201.15.114.177;pt;local;bio;Tocantins;*;ALL;;6
+2011-01-09 12:43:37;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 12:45:46;201.17.213.86;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-09 13:14:12;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 13:28:11;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 13:56:48;66.249.71.52;pt;local;bio;+id:("lil-18474058070");*;*;;1
+2011-01-09 14:47:30;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 15:18:03;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 15:18:06;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 17:23:27;66.249.71.52;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-09 19:30:46;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 19:45:30;201.80.118.177;pt;local;bio;naiades;*;*;;1
+2011-01-09 20:27:28;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 20:35:04;189.6.16.235;pt;local;bio;influenza;*;*;;1
+2011-01-09 21:04:40;66.249.71.52;pt;local;bio;+id:("lil-18474058088");*;*;;1
+2011-01-09 21:22:24;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-09 21:53:48;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 22:29:50;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 23:12:25;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 23:18:52;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-09 23:58:28;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1

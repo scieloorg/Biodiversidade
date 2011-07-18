@@ -1,0 +1,42 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-01-08 00:53:26;66.249.71.52;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-08 03:57:58;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-08 04:25:53;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-08 04:45:54;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-08 04:45:58;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-08 07:23:16;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-08 09:48:04;66.249.71.52;pt;local;bio;+id:("lil-18474058040");*;*;;1
+2011-01-08 10:31:36;201.69.130.162;pt;local;bio;recursos naturais;*;*;;1
+2011-01-08 10:35:26;201.69.130.162;pt;local;bio;recursos naturais;*;ALL;;2
+2011-01-08 10:36:11;201.88.234.154;pt;local;bio;lucinda;*;*;;1
+2011-01-08 10:38:47;201.69.130.162;pt;local;bio;recursos naturais;*;ALL;;3
+2011-01-08 10:39:48;201.69.130.162;pt;local;bio;recursos naturais;*;ALL;;4
+2011-01-08 10:40:22;201.69.130.162;pt;local;bio;oxigênio;*;ALL;;1
+2011-01-08 10:40:23;201.69.130.162;pt;local;bio;oxigênio;*;ALL;;1
+2011-01-08 10:41:49;201.69.130.162;pt;local;bio;diagnóstico;*;ALL;;1
+2011-01-08 10:41:50;201.69.130.162;pt;local;bio;diagnóstico;*;ALL;;1
+2011-01-08 10:46:38;201.69.130.162;pt;local;bio;desequilibrio ecologico;*;ALL;;1
+2011-01-08 10:50:17;187.80.8.69;pt;local;bio;fungo;*;*;;1
+2011-01-08 10:50:51;187.80.8.69;pt;local;bio;candida;*;*;;1
+2011-01-08 10:52:02;187.80.8.69;pt;local;bio;candida;*;*;;1
+2011-01-08 10:59:05;187.80.8.69;pt;local;bio;candida virulencia;*;ALL;;1
+2011-01-08 11:01:30;187.80.8.69;pt;local;bio;candida adesão;*;ALL;;1
+2011-01-08 11:02:08;187.80.8.69;pt;local;bio;candida adesion;*;ALL;;1
+2011-01-08 11:02:34;187.80.8.69;pt;local;bio;candida hiv;*;ALL;;1
+2011-01-08 11:04:20;187.80.8.69;pt;local;bio;candida aids;*;ALL;;1
+2011-01-08 11:05:58;187.80.8.69;pt;local;bio;candida hemolise;*;ALL;;1
+2011-01-08 11:06:13;187.80.8.69;pt;local;bio;candida hemolitico;*;ALL;;1
+2011-01-08 11:06:27;187.80.8.69;pt;local;bio;fator candida;*;ALL;;1
+2011-01-08 11:06:50;187.80.8.69;pt;local;bio;candida;*;ALL;;1
+2011-01-08 11:08:41;187.80.8.69;pt;local;bio;candida;*;ALL;;6
+2011-01-08 11:09:05;187.80.8.69;pt;local;bio;candida;*;ALL;;8
+2011-01-08 11:09:55;187.80.8.69;pt;local;bio;candida virulence;*;ALL;;1
+2011-01-08 11:11:45;187.80.8.69;pt;local;bio;candida filme;*;ALL;;1
+2011-01-08 11:11:57;187.80.8.69;pt;local;bio;candida biofilme;*;ALL;;1
+2011-01-08 11:21:54;196.207.192.219;pt;local;bio;*;*;*;;1
+2011-01-08 11:21:59;196.207.192.219;pt;local;bio;*;*;*;;1
+2011-01-08 16:01:47;190.42.106.245;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-08 16:41:31;201.15.114.177;pt;local;bio;*;*;*;;1
+2011-01-08 17:34:33;201.54.129.16;pt;local;bio;Parotocinclus;*;*;;1
+2011-01-08 18:32:37;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-08 23:41:29;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1

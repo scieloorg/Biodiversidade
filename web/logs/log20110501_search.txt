@@ -1,0 +1,45 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-05-01 00:27:48;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-01 00:30:44;189.12.163.93;pt;local;bio;cerebral palse;*;*;;1
+2011-05-01 00:31:22;189.12.163.93;pt;local;bio;cerebral cerebral;*;*;;1
+2011-05-01 00:31:59;189.12.163.93;pt;local;bio;paralisia cerebral;*;ALL;;1
+2011-05-01 01:04:32;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-05-01 02:37:41;66.249.71.43;qwkilqgvraugpkn;local;bio;+id:("lil-13264049879");*;*;;1
+2011-05-01 02:40:36;66.249.71.43;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-05-01 02:42:58;66.249.71.43;qwkilqgvraugpkn;local;bio;+id:("lil-13264049879");*;*;;1
+2011-05-01 02:56:29;66.249.71.43;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-05-01 03:23:54;66.249.71.43;pt;local;bio;*;*;*;;1
+2011-05-01 03:34:16;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-01 03:57:01;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-05-01 06:54:07;66.249.71.43;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-01 07:35:32;189.15.60.184;pt;local;bio;"Classificação Internacional de Funcionalidade de Incapacidade e Saúde/CIF " AND "fisioterapia";*;*;;1
+2011-05-01 07:35:56;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-01 07:47:36;41.189.52.6;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-01 07:47:37;41.189.52.6;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-01 07:47:40;41.189.52.6;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-01 10:05:43;189.68.250.190;pt;local;bio;eutanasia legislação;*;*;;1
+2011-05-01 10:06:08;189.68.250.190;pt;local;bio;eutanasia ;*;*;;1
+2011-05-01 10:06:45;189.68.250.190;pt;local;bio;eutanasia ;*;ALL;;1
+2011-05-01 10:46:44;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-01 13:03:04;189.41.7.179;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-01 14:11:28;207.46.195.242;pt;local;bio;*;*;*;;1
+2011-05-01 14:22:36;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-01 14:54:30;189.241.92.154;es;local;bio;glucobiologia;*;*;;1
+2011-05-01 15:44:02;66.249.71.43;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-01 16:28:04;201.35.149.233;pt;local;bio;impactos causados pela construção dos aeroportos para a copa;*;*;;1
+2011-05-01 17:06:04;187.117.235.208;pt;local;bio;metodos de identificacao analises toicologicas;*;*;;1
+2011-05-01 17:08:31;187.117.235.208;pt;local;bio;analises toxicologicas metodos;*;*;;1
+2011-05-01 17:08:51;187.117.235.208;pt;local;bio;analises toxicologicas ;*;*;;1
+2011-05-01 17:15:49;189.41.6.32;pt;local;bio;poluição hidríca;*;*;;1
+2011-05-01 17:16:57;189.41.6.32;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-01 17:17:19;189.41.6.32;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-05-01 17:17:37;189.41.6.32;pt;local;bio;*;*;SCIB;db:SCIB;3
+2011-05-01 17:18:11;189.41.6.32;pt;local;bio;poluição hidríca;*;SCIB;db:SCIB;1
+2011-05-01 17:18:52;189.41.6.32;pt;local;bio;poluição hidríca;*;SCIB;db:SCIB;4
+2011-05-01 17:19:03;189.41.6.32;pt;local;bio;poluição hidríca;*;SCIB;db:SCIB;4
+2011-05-01 18:05:35;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-01 18:36:57;189.15.18.80;pt;local;bio;ciclo do carbono;*;*;;1
+2011-05-01 21:42:42;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-01 21:54:31;189.58.153.205;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-01 22:05:54;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-05-01 22:35:32;66.249.71.43;pt;local;bio;*;*;BHLB;db:BHLB;1

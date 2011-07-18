@@ -1,0 +1,28 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-05-21 01:01:42;177.17.96.50;pt;local;bio;mammalians fitofisionomy;*;*;;1
+2011-05-21 01:34:47;66.249.72.241;pt;local;bio;*;*;*;;1
+2011-05-21 01:41:03;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-21 03:31:59;66.249.72.241;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-21 03:47:12;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-21 04:25:36;66.249.72.241;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-21 05:47:51;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-21 08:52:04;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-21 09:26:45;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-21 10:45:39;189.90.209.98;pt;local;bio;LIXÕES;*;*;;1
+2011-05-21 12:31:13;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-21 13:00:03;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-21 14:33:55;201.92.128.55;pt;local;bio;divorcio e suas consequencias no adolescente;*;*;;1
+2011-05-21 14:34:35;201.92.128.55;pt;local;bio;divorcio e o adolescente;*;*;;1
+2011-05-21 15:10:56;201.92.128.55;pt;local;bio;divorcio e o adolescente;*;*;;1
+2011-05-21 15:11:15;201.92.128.55;pt;local;bio;divorcio ;*;ALL;;1
+2011-05-21 16:33:06;66.249.72.241;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-21 17:04:43;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-21 17:54:00;201.21.185.128;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-21 20:16:34;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-21 20:56:21;187.127.175.190;pt;local;bio;incontinencia urinaria pos parto;*;*;;1
+2011-05-21 21:47:36;66.249.72.241;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-05-21 22:57:36;187.10.38.63;pt;local;bio;humanização;*;*;;1
+2011-05-21 22:57:58;187.10.38.63;pt;local;bio;humanizar;*;ALL;;1
+2011-05-21 22:58:13;187.10.38.63;pt;local;bio;etica;*;ALL;;1
+2011-05-21 23:20:25;66.249.72.241;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-21 23:26:48;209.131.41.48;pt;local;bio;*;*;*;;1

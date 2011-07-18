@@ -1,0 +1,79 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-05-30 00:26:51;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-30 00:46:25;201.239.100.42;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-30 00:46:40;201.239.100.42;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-30 00:46:49;201.239.100.42;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-30 03:20:44;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2011-05-30 03:36:59;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-30 06:43:14;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-30 08:16:30;177.17.110.69;pt;local;bio;sistema circulatorio coração;*;*;;1
+2011-05-30 08:16:58;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2011-05-30 08:27:49;66.249.71.37;ppufejihenzxjri;local;bio;+id:("lil-9030037224");*;*;;1
+2011-05-30 09:48:40;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-30 10:20:26;66.249.71.37;pt;local;bio;+id:("lil-18474058072");*;*;;1
+2011-05-30 10:37:13;173.242.116.48;pt;local;bio;*;*;*;;1
+2011-05-30 12:29:45;157.86.112.214;pt;local;bio;ALEJANDRO POSADA ;*;*;;1
+2011-05-30 12:29:53;157.86.112.214;pt;local;bio;ALEJANDRO POSADA ;*;BHLB;db:BHLB;1
+2011-05-30 12:29:57;157.86.112.214;pt;local;bio;ALEJANDRO POSADA ;*;BHLG;db:BHLG;1
+2011-05-30 12:30:00;157.86.112.214;pt;local;bio;ALEJANDRO POSADA ;*;SCIB;db:SCIB;1
+2011-05-30 12:35:38;157.86.112.214;pt;local;bio;ALEJANDRO POSADA ;*;SCIB;db:SCIB;1
+2011-05-30 12:51:59;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-30 12:56:51;66.249.71.37;pt;local;bio;+id:("lil-18474058040");*;*;;1
+2011-05-30 13:33:13;66.249.71.37;pt;local;bio;*;*;*;;1
+2011-05-30 14:42:56;187.113.44.74;pt;local;ftp://m00d220e:nc-pm1407@ftp.kulartz.com/mail/imp.php?;*;*;*;;1
+2011-05-30 14:57:00;66.249.71.37;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-30 15:46:18;62.212.69.137;pt;local;bio;*;*;*;;1
+2011-05-30 15:46:19;62.212.69.137;pt;local;bio;*;*;*;;1
+2011-05-30 15:46:20;62.212.69.137;pt;local;bio;*;*;*;;1
+2011-05-30 15:46:22;62.212.69.137;pt;local;bio;*;*;*;;1
+2011-05-30 15:46:22;62.212.69.137;pt;local;bio;*;*;*;;1
+2011-05-30 15:46:23;62.212.69.137;pt;local;bio;Sua seleção;*;*;;1
+2011-05-30 15:46:25;62.212.69.137;pt;local;bio;Sua seleção;*;*;;1
+2011-05-30 15:46:25;62.212.69.137;pt;local;bio;Sua seleção;*;*;;1
+2011-05-30 15:46:26;62.212.69.137;pt;local;bio;Sua seleção;*;*;;1
+2011-05-30 15:46:27;62.212.69.137;pt;local;bio;Sua seleção;*;*;;1
+2011-05-30 15:46:30;62.212.69.137;pt;local;bio;Sua seleção;*;*;;1
+2011-05-30 15:46:31;62.212.69.137;pt;local;bio;Sua seleção;*;*;;1
+2011-05-30 15:46:32;62.212.69.137;pt;local;bio;Sua seleção;*;*;;1
+2011-05-30 15:46:33;62.212.69.137;pt;local;bio;Sua seleção;*;*;;1
+2011-05-30 15:53:57;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-30 16:48:38;189.90.176.191;pt;local;bio;neliberalismo;*;*;;1
+2011-05-30 16:49:03;189.90.176.191;pt;local;bio;neoliberalismo;*;ALL;;1
+2011-05-30 16:49:21;189.90.176.191;pt;local;bio;neoliberalismo;*;ALL;;1
+2011-05-30 17:44:39;66.249.71.37;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-30 17:48:54;201.58.58.18;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-30 17:49:58;201.58.58.18;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-05-30 18:40:44;66.249.71.37;ppufejihenzxjri;local;bio;+id:("lil-9030037178");*;*;;1
+2011-05-30 18:55:26;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-30 19:04:18;66.249.71.37;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-30 19:57:19;66.249.71.37;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-30 21:08:37;201.18.153.125;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-30 21:13:20;201.18.153.125;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-30 21:13:41;201.18.153.125;pt;local;bio;Anastrepha;*;BHLB;db:BHLB;1
+2011-05-30 21:13:56;201.18.153.125;pt;local;bio;Tephritidae;*;BHLB;db:BHLB;1
+2011-05-30 21:14:10;201.18.153.125;pt;local;bio;New records of Neotropical fruit flies (Tephritidae), lance flies (Lonchaeidae) (Diptera: Tephritoidea), and their host plants in the South Pantanal and adjacent areas, Brazil;*;BHLB;db:BHLB;1
+2011-05-30 21:14:13;201.18.153.125;pt;local;bio;New records of Neotropical fruit flies (Tephritidae), lance flies (Lonchaeidae) (Diptera: Tephritoidea), and their host plants in the South Pantanal and adjacent areas, Brazil;*;BHLB;db:BHLB;1
+2011-05-30 21:14:20;201.18.153.125;pt;local;bio;New records of Neotropical fruit flies (Tephritidae), lance flies (Lonchaeidae) (Diptera: Tephritoidea), and their host plants in the South Pantanal and adjacent areas, Brazil;*;BHLB;db:BHLB;1
+2011-05-30 21:14:44;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-05-30 21:15:00;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-05-30 21:15:03;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-05-30 21:15:04;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-05-30 21:15:06;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-05-30 21:15:38;201.18.153.125;pt;local;bio;*;*;ALL;;10
+2011-05-30 21:15:49;201.18.153.125;pt;local;bio;*;*;ALL;;9
+2011-05-30 21:15:55;201.18.153.125;pt;local;bio;*;*;ALL;;7
+2011-05-30 21:18:00;201.18.153.125;pt;local;bio;New records of Neotropical fruit flies (Tephritidae), lance flies (Lonchaeidae) (Diptera: Tephritoidea), and their host plants in the South Pantanal and adjacent areas, Brazil;*;BHLB;db:BHLB;1
+2011-05-30 21:18:04;201.18.153.125;pt;local;bio;New records of Neotropical fruit flies (Tephritidae), lance flies (Lonchaeidae) (Diptera: Tephritoidea), and their host plants in the South Pantanal and adjacent areas, Brazil;*;BHLB;db:BHLB;1
+2011-05-30 22:00:44;66.249.71.37;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-30 22:02:43;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2011-05-30 22:03:33;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-30 22:22:04;187.55.141.111;pt;local;bio;teaballo cientifico;*;*;;1
+2011-05-30 22:22:25;187.55.141.111;pt;local;bio;teaballo cientifico;*;SCIB;db:SCIB;1
+2011-05-30 22:24:04;189.28.137.139;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-30 22:31:55;187.55.141.111;pt;local;bio;teaballo cientifico;*;*;;1
+2011-05-30 22:32:28;187.55.141.111;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-30 22:33:52;187.55.141.111;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Rev. Bras. Biol.";1
+2011-05-30 22:34:32;187.55.141.111;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-30 22:35:27;187.55.141.111;pt;local;bio;*;*;SCIB;db:SCIB AND la:"Pt";1
+2011-05-30 22:35:50;187.55.141.111;pt;local;bio;*;*;SCIB;db:SCIB AND la:"Pt" AND type:"article";1
+2011-05-30 23:28:13;66.249.71.37;ppufejihenzxjri;local;bio;+id:("lil-9030037178");*;*;;1

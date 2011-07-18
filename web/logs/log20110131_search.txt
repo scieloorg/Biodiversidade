@@ -1,0 +1,163 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-01-31 00:18:53;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 00:36:00;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 00:39:51;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 00:40:54;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 00:46:43;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 01:10:32;66.249.71.52;pt;local;bio;+id:("scl-S0074-02761909000200002");*;*;;1
+2011-01-31 01:46:21;66.249.71.52;pt;local;bio;+id:("lil-9030037111");*;*;;1
+2011-01-31 01:47:01;66.249.71.52;pt;local;bio;+id:("lil-9030037195");*;*;;1
+2011-01-31 01:58:40;66.249.71.52;pt;local;bio;+id:("lil-9030037197");*;*;;1
+2011-01-31 02:02:14;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-31 02:03:52;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;2
+2011-01-31 02:04:21;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;3
+2011-01-31 02:04:45;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;4
+2011-01-31 02:05:28;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;5
+2011-01-31 02:06:53;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;6
+2011-01-31 02:08:05;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;7
+2011-01-31 02:09:11;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;8
+2011-01-31 02:11:51;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;9
+2011-01-31 02:13:53;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;10
+2011-01-31 02:14:57;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;11
+2011-01-31 02:16:00;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;12
+2011-01-31 02:18:48;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;13
+2011-01-31 02:19:39;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;14
+2011-01-31 02:21:47;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;15
+2011-01-31 02:22:09;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;16
+2011-01-31 02:23:02;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;17
+2011-01-31 02:24:04;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;18
+2011-01-31 02:25:18;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;19
+2011-01-31 02:26:08;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;20
+2011-01-31 02:27:18;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;21
+2011-01-31 02:27:44;218.213.130.138;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 02:28:44;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;22
+2011-01-31 02:29:59;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;23
+2011-01-31 02:31:18;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;24
+2011-01-31 02:32:10;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;25
+2011-01-31 02:33:20;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;26
+2011-01-31 02:34:36;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;27
+2011-01-31 02:36:27;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;28
+2011-01-31 02:38:13;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;29
+2011-01-31 02:38:30;209.86.226.61;pt;local;bio;*;*;BHLB;db:BHLB;30
+2011-01-31 02:41:30;209.86.226.61;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-31 02:42:52;209.86.226.61;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-01-31 02:43:12;209.86.226.61;pt;local;bio;Psychodidae;*;SCIB;db:SCIB;1
+2011-01-31 02:43:50;209.86.226.61;pt;local;bio;Psychodidae;*;SCIB;db:SCIB;2
+2011-01-31 02:44:55;209.86.226.61;pt;local;bio;Psychodidae;*;SCIB;db:SCIB;3
+2011-01-31 02:45:21;209.86.226.61;pt;local;bio;Psychodidae;*;SCIB;db:SCIB;4
+2011-01-31 02:45:46;209.86.226.61;pt;local;bio;Psychodidae;*;SCIB;db:SCIB;5
+2011-01-31 02:46:49;209.86.226.61;pt;local;bio;Psychodidae;*;SCIB;db:SCIB;6
+2011-01-31 02:48:43;209.86.226.61;pt;local;bio;Psychodidae;*;SCIB;db:SCIB;7
+2011-01-31 02:49:50;209.86.226.61;pt;local;bio;Psychodidae;*;SCIB;db:SCIB;8
+2011-01-31 02:51:03;209.86.226.61;pt;local;bio;Psychodidae;*;SCIB;db:SCIB;9
+2011-01-31 02:53:08;209.86.226.61;pt;local;bio;Psychodidae;*;SCIB;db:SCIB;10
+2011-01-31 02:55:07;209.86.226.61;pt;local;bio;Psychodidae;*;SCIB;db:SCIB;11
+2011-01-31 02:56:37;209.86.226.61;pt;local;bio;Thysanoptera;*;SCIB;db:SCIB;1
+2011-01-31 02:59:18;66.249.71.52;pt;local;bio;+id:("lil-9030037195");*;*;;1
+2011-01-31 03:23:40;218.213.130.138;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 03:56:23;218.213.130.138;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 06:30:39;66.249.71.52;pt;local;bio;+id:("scl-S0074-02761909000200001");*;*;;1
+2011-01-31 07:38:38;150.214.164.149;pt;local;bio;colembolo;*;*;;1
+2011-01-31 08:25:52;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-31 09:03:51;200.20.168.70;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-31 09:04:18;200.20.168.70;pt;local;bio;mata atlantica;kw;SCIB;db:SCIB;1
+2011-01-31 09:04:53;200.20.168.70;pt;local;bio;floresta;kw;SCIB;db:SCIB;1
+2011-01-31 09:05:20;200.20.168.70;pt;local;bio;botanica;kw;SCIB;db:SCIB;1
+2011-01-31 09:05:39;200.20.168.70;pt;local;bio;botanica;kw;SCIB;db:SCIB;1
+2011-01-31 09:07:30;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-31 09:49:34;189.9.22.65;pt;local;bio;Diomedea dabbenena;*;*;;1
+2011-01-31 09:55:35;187.72.3.2;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-31 09:56:37;187.72.3.2;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-31 10:20:35;187.115.75.130;pt;local;bio;brasil;*;*;;1
+2011-01-31 10:23:34;66.249.71.52;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-31 10:38:06;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 10:38:34;187.36.141.219;pt;local;bio;simuliidae;*;*;;1
+2011-01-31 10:39:33;187.36.141.219;pt;local;bio;simuliidae;*;ALL;;2
+2011-01-31 10:46:42;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-31 10:56:58;187.36.141.219;pt;local;bio;simuliidae;*;ALL;;3
+2011-01-31 10:57:16;187.36.141.219;pt;local;bio;simuliidae;*;ALL;;4
+2011-01-31 10:57:25;187.36.141.219;pt;local;bio;plecoptera;*;ALL;;1
+2011-01-31 10:57:50;187.36.141.219;pt;local;bio;plecoptera;*;ALL;;2
+2011-01-31 11:00:03;187.36.141.219;pt;local;bio;bioindicadores;*;ALL;;1
+2011-01-31 11:25:35;189.9.22.65;pt;local;bio;Drymornis bridgesii;*;ALL;;1
+2011-01-31 11:47:59;187.115.75.130;pt;local;bio;biodiversidade;*;*;;1
+2011-01-31 11:59:02;189.9.22.65;pt;local;bio;ovo;*;ALL;;1
+2011-01-31 11:59:13;189.9.22.65;pt;local;bio;chrysocyon ;*;ALL;;1
+2011-01-31 11:59:27;189.9.22.65;pt;local;bio;formicivora;*;ALL;;1
+2011-01-31 12:05:25;187.106.45.94;pt;local;bio;jatoba;*;*;;1
+2011-01-31 12:06:16;187.106.45.94;pt;local;bio;bromelia;*;ALL;;1
+2011-01-31 12:25:13;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 13:00:42;200.17.237.12;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-31 13:09:23;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-31 13:31:22;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 13:46:27;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 13:57:59;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-31 14:30:24;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 14:30:34;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 14:38:01;186.198.116.36;pt;local;bio;med. vet. na saúde pública;*;*;;1
+2011-01-31 14:41:49;186.198.116.36;pt;local;bio;med. vet. na saúde pública;ti;ALL;;1
+2011-01-31 15:37:35;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 16:10:56;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 16:13:20;187.114.46.104;pt;local;bio;ecologia de paisagens;*;*;;1
+2011-01-31 16:13:44;187.114.46.104;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-31 16:14:45;187.114.46.104;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-31 16:22:48;189.68.101.143;pt;local;bio;Melipona;*;*;;1
+2011-01-31 16:31:31;187.27.91.232;pt;local;bio;arborizacao urbana;*;*;;1
+2011-01-31 16:32:10;187.27.91.232;pt;local;bio;arborização  urbana;*;ALL;;1
+2011-01-31 16:32:24;187.27.91.232;pt;local;bio;arborização  ;*;ALL;;1
+2011-01-31 16:32:42;187.27.91.232;pt;local;bio;alanatomia veget;*;ALL;;1
+2011-01-31 16:32:52;187.27.91.232;pt;local;bio;anatomia vegetal;*;ALL;;1
+2011-01-31 16:54:29;161.148.171.2;pt;local;bio;espécies exótica invasora campos;*;*;;1
+2011-01-31 16:55:21;161.148.171.2;pt;local;bio;espécie exótica invasora ;*;ALL;;1
+2011-01-31 16:57:10;161.148.171.2;pt;local;bio;contaminante biológico;*;ALL;;1
+2011-01-31 16:57:48;161.148.171.2;pt;local;bio;contaminante biológico;ti;SCIB;db:SCIB;1
+2011-01-31 16:58:13;161.148.171.2;pt;local;bio;alien;ti;SCIB;db:SCIB;1
+2011-01-31 16:59:19;161.148.171.2;pt;local;bio;invasive;ti;SCIB;db:SCIB;1
+2011-01-31 17:00:13;161.148.171.2;pt;local;bio;pinus invasive;ti;SCIB;db:SCIB;1
+2011-01-31 17:00:34;161.148.171.2;pt;local;bio;pinus ;ti;SCIB;db:SCIB;1
+2011-01-31 17:06:34;161.148.171.2;pt;local;bio;pinus ;ti;SCIB;db:SCIB;2
+2011-01-31 17:12:05;161.148.171.2;pt;local;bio;Pinus;*;*;;1
+2011-01-31 17:13:53;161.148.171.2;pt;local;bio;Pinus;*;ALL;;2
+2011-01-31 17:14:32;161.148.171.2;pt;local;bio;Pinus;*;ALL;;3
+2011-01-31 17:16:09;161.148.171.2;pt;local;bio;Pinus;*;ALL;;4
+2011-01-31 17:19:36;161.148.171.2;pt;local;bio;Pinus;*;ALL;;5
+2011-01-31 17:55:18;200.129.189.131;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-31 17:55:40;200.129.189.131;pt;local;bio;poliniza;*;SCIB;db:SCIB;1
+2011-01-31 17:55:50;200.129.189.131;pt;local;bio;pollina;*;SCIB;db:SCIB;1
+2011-01-31 17:55:57;200.129.189.131;pt;local;bio;pollen;*;SCIB;db:SCIB;1
+2011-01-31 17:56:55;200.129.189.131;pt;local;bio;pollination;*;SCIB;db:SCIB;1
+2011-01-31 17:57:57;200.129.189.131;pt;local;bio;pollination;*;SCIB;db:SCIB;2
+2011-01-31 17:58:31;200.129.189.131;pt;local;bio;Maues;*;SCIB;db:SCIB;1
+2011-01-31 17:59:08;200.129.189.131;pt;local;bio;Maues;*;SCIB;db:SCIB;2
+2011-01-31 17:59:35;200.129.189.131;pt;local;bio;Maues;*;SCIB;db:SCIB;3
+2011-01-31 18:00:13;200.129.189.131;pt;local;bio;Bees;*;SCIB;db:SCIB;1
+2011-01-31 18:03:47;161.148.171.2;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-31 18:04:43;161.148.171.2;pt;local;bio;Alouatta;*;SCIB;db:SCIB;1
+2011-01-31 18:05:17;161.148.171.2;pt;local;bio;Alouatta;*;BHLG;db:BHLG;1
+2011-01-31 18:05:52;161.148.171.2;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-31 18:06:08;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-31 18:07:03;161.148.171.2;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-31 18:18:53;200.131.25.178;pt;local;bio;*;*;*;;1
+2011-01-31 18:21:20;201.66.137.24;pt;local;bio;gestão ambiental no meio rural;*;*;;1
+2011-01-31 18:21:41;201.66.137.24;pt;local;bio;gestão ambiental ;*;*;;1
+2011-01-31 19:07:59;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 19:54:22;189.111.95.55;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-31 19:55:53;189.111.95.55;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-31 20:18:34;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 20:36:14;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-31 20:40:49;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 20:48:41;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 21:19:30;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 21:57:04;201.82.62.90;pt;local;bio;anuro;*;*;;1
+2011-01-31 22:26:31;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 22:40:24;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 22:44:30;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-31 22:52:34;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 22:59:34;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 23:04:14;186.214.234.84;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-31 23:04:42;186.214.234.84;pt;local;bio;rio de;*;BHLB;db:BHLB;1
+2011-01-31 23:15:18;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 23:33:06;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 23:40:18;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 23:47:59;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-31 23:49:51;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1

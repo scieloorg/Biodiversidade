@@ -1,0 +1,94 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-01-05 02:44:08;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-05 03:08:21;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-05 03:15:27;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-05 03:44:04;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-05 04:26:10;66.249.71.52;pt;local;bio;+id:("lil-43067093999");*;*;;1
+2011-01-05 04:37:48;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-05 05:06:28;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-05 05:26:44;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-05 05:29:52;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-05 05:34:28;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-05 05:46:53;66.249.71.52;pt;local;bio;+id:("lil-18474058028");*;*;;1
+2011-01-05 05:51:49;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-05 05:54:16;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-05 05:55:52;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-05 05:57:09;66.249.71.52;pt;local;bio;+id:("lil-9030037178");*;*;;1
+2011-01-05 06:14:08;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-05 06:26:57;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-05 06:43:04;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-05 06:43:53;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-05 06:58:04;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-05 07:02:52;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-05 07:05:51;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-05 07:24:07;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-05 07:30:04;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-05 07:42:13;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-05 07:49:59;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-05 07:54:23;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-05 07:59:45;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-05 08:04:22;200.188.163.6;pt;local;bio;Nuytsia;*;*;;1
+2011-01-05 08:04:44;200.188.163.6;pt;local;bio;Nuytsia;ti;ALL;;1
+2011-01-05 08:57:02;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-05 09:38:39;187.39.147.244;pt;local;bio;puma concolor;*;*;;1
+2011-01-05 10:21:04;201.21.183.135;pt;local;bio;mammal;*;*;;1
+2011-01-05 10:21:19;201.21.183.135;pt;local;bio;mammal;*;ALL;;2
+2011-01-05 10:21:50;201.21.183.135;pt;local;bio;mammal;*;ALL;;3
+2011-01-05 10:22:14;201.21.183.135;pt;local;bio;panthera onca;*;ALL;;1
+2011-01-05 10:25:39;200.144.14.210;pt;local;bio;Mata Santa Tereza Ribeirão;*;*;;1
+2011-01-05 10:25:48;200.144.14.210;pt;local;bio;Mata Santa Teresa Ribeirão;*;ALL;;1
+2011-01-05 10:26:05;200.144.14.210;pt;local;bio;Mata Santa Tereza Ribeirão;*;*;;1
+2011-01-05 10:26:14;200.144.14.210;pt;local;bio;*;*;*;;1
+2011-01-05 10:26:37;201.21.183.135;pt;local;bio;von martius;*;ALL;;1
+2011-01-05 10:26:51;200.144.14.210;pt;local;bio;santa teresa ribeirão preto;*;ALL;;1
+2011-01-05 10:32:08;66.249.71.52;pt;local;bio;+id:("lil-18474058007");*;*;;1
+2011-01-05 10:59:33;200.198.16.12;pt;local;bio;essências;*;*;;1
+2011-01-05 10:59:48;200.198.16.12;pt;local;bio;óleos;*;*;;1
+2011-01-05 11:00:00;200.198.16.12;pt;local;bio;vellozia;*;*;;1
+2011-01-05 11:00:57;200.198.16.12;pt;local;bio;Ilex paraguariensis;*;*;;1
+2011-01-05 11:38:33;189.27.66.54;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-05 12:17:24;187.116.139.140;pt;local;bio;papilionoideae;*;*;;1
+2011-01-05 12:18:11;187.116.139.140;pt;local;bio;papilionoideae;*;ALL;;2
+2011-01-05 13:36:40;58.248.7.149;pt;local;bio;*;*;*;;1
+2011-01-05 14:25:24;200.235.134.25;pt;local;bio; Margarido, V.P. and Galetti Jr., P.M. (1996). Chromosome studies in fish of the genus Brycon  (Characiformes, Characidae, Bryconinae). Cytobios 85: 219-228;*;*;;1
+2011-01-05 14:25:41;200.235.134.25;pt;local;bio; Galetti ;*;ALL;;1
+2011-01-05 14:25:55;200.235.134.25;pt;local;bio;Brycon;*;ALL;;1
+2011-01-05 14:47:56;189.87.39.16;pt;local;bio;butantan;*;*;;1
+2011-01-05 14:55:45;200.17.166.4;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-05 14:56:16;200.17.166.4;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-01-05 14:56:44;200.17.166.4;pt;local;bio;*;*;SCIB;db:SCIB;3
+2011-01-05 14:57:21;200.17.166.4;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Genet. Mol. Biol.";1
+2011-01-05 14:57:52;200.17.166.4;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Genet. Mol. Biol." AND ta_cluster:"Genet. Mol. Biol.";1
+2011-01-05 14:58:04;200.17.166.4;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Genet. Mol. Biol." AND ta_cluster:"Genet. Mol. Biol." AND la:"Pt";1
+2011-01-05 14:58:13;200.17.166.4;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Genet. Mol. Biol." AND ta_cluster:"Genet. Mol. Biol." AND la:"Pt" AND la:"Pt";1
+2011-01-05 14:59:03;200.17.166.4;pt;local;bio;*;*;ALL;ta_cluster:"Genet. Mol. Biol." AND ta_cluster:"Genet. Mol. Biol." AND type:"article";1
+2011-01-05 14:59:28;200.17.166.4;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-05 14:59:54;200.17.166.4;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-05 15:00:01;200.17.166.4;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Rev. Bras. Zool.";1
+2011-01-05 15:00:09;200.17.166.4;pt;local;bio;Sua seleção;*;*;;1
+2011-01-05 15:00:51;200.17.166.4;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Genet Mol Biol";1
+2011-01-05 15:26:06;189.73.221.242;pt;local;bio;xingu;*;*;;1
+2011-01-05 15:35:23;189.73.221.242;pt;local;bio;*;*;*;;1
+2011-01-05 16:22:29;200.198.16.11;pt;local;bio;Cerrado;*;*;;1
+2011-01-05 16:39:58;85.244.250.72;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-05 17:27:20;201.49.166.43;pt;local;bio;genetica;*;*;;1
+2011-01-05 17:29:24;201.49.166.43;pt;local;bio; genetica salminus;*;ALL;;1
+2011-01-05 18:30:47;190.142.113.43;pt;local;bio;Archivos de Zoologia;*;*;;1
+2011-01-05 18:31:17;190.142.113.43;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-05 18:32:27;190.142.113.43;pt;local;bio;Menezes;au;BHLB;db:BHLB;1
+2011-01-05 18:32:54;190.142.113.43;pt;local;bio;Garavello;au;SCIB;db:SCIB;1
+2011-01-05 18:32:58;190.142.113.43;pt;local;bio;Garavello;au;SCIB;db:SCIB;1
+2011-01-05 18:35:50;190.142.113.43;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-05 18:36:37;190.142.113.43;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-05 18:37:31;190.142.113.43;pt;local;bio;Rapp Py-Daniel;au;SCIB;db:SCIB;1
+2011-01-05 18:37:57;190.142.113.43;pt;local;bio;Menezes;au;SCIB;db:SCIB;1
+2011-01-05 18:38:38;190.142.113.43;pt;local;bio;Naersio Menezes;au;SCIB;db:SCIB;1
+2011-01-05 18:38:58;190.142.113.43;pt;local;bio;Menezes N.;au;SCIB;db:SCIB;1
+2011-01-05 18:39:44;190.142.113.43;pt;local;bio;Menezes, Naersio;au;SCIB;db:SCIB;1
+2011-01-05 18:40:21;190.142.113.43;pt;local;bio;Siluriformes;kw;SCIB;db:SCIB;1
+2011-01-05 18:40:43;190.142.113.43;pt;local;bio;Peixes;kw;SCIB;db:SCIB;1
+2011-01-05 18:40:55;190.142.113.43;pt;local;bio;Peixes;kw;ALL;;1
+2011-01-05 18:41:25;190.142.113.43;pt;local;bio;Reis ;au;ALL;;1
+2011-01-05 18:41:51;190.142.113.43;pt;local;bio;Roberto E. Reis ;au;ALL;;1
+2011-01-05 18:42:16;190.142.113.43;pt;local;bio;Reis E. Roberto ;au;ALL;;1
+2011-01-05 18:42:33;190.142.113.43;pt;local;bio;Reis Roberto ;au;ALL;;1

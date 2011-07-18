@@ -1,0 +1,65 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-06-06 02:14:26;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-06 06:24:52;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-06 08:00:02;189.71.135.160;pt;local;bio;destino do computador velho;*;*;;1
+2011-06-06 08:00:21;189.71.135.160;pt;local;bio;computador velho;*;*;;1
+2011-06-06 08:00:33;189.71.135.160;pt;local;bio;resídui eletrônico;*;*;;1
+2011-06-06 08:01:02;189.71.135.160;pt;local;bio;resíduo eletrônico;*;*;;1
+2011-06-06 08:01:16;189.71.135.160;pt;local;bio;resíduo eletrônico;*;*;;1
+2011-06-06 08:01:29;189.71.135.160;pt;local;bio;resíduo sólido;*;*;;1
+2011-06-06 09:48:21;66.249.71.37;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-06 09:48:43;66.249.71.37;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-06-06 09:49:05;66.249.71.37;pt;local;bio;+id:("lil-18474058088");*;*;;1
+2011-06-06 09:49:33;66.249.71.37;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-06 09:49:51;66.249.71.37;pt;local;bio;+id:("scl-S0074-02761909000200002");*;*;;1
+2011-06-06 09:50:13;66.249.71.37;pt;local;bio;+id:("scl-S0074-02761909000200003");*;*;;1
+2011-06-06 10:41:47;201.22.164.229;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-06 10:51:45;66.249.71.37;pt;local;bio;*;*;*;;1
+2011-06-06 10:55:08;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2011-06-06 10:55:18;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2011-06-06 10:55:25;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2011-06-06 11:20:36;200.136.72.254;pt;local;bio;*;*;*;;1
+2011-06-06 11:21:09;200.136.72.254;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-06 11:21:55;200.136.72.254;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-06 11:24:28;200.136.72.254;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-06-06 11:26:43;157.86.8.4;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-06 11:26:55;157.86.8.4;pt;local;bio;*;*;BHLB;db:BHLB AND type:"article";1
+2011-06-06 11:27:02;157.86.8.4;pt;local;bio;*;*;BHLB;db:BHLB AND type:"article" AND ta_cluster:"A Lavoura : boletim da Sociedade Nacional de Agricultura Brazileira.";1
+2011-06-06 11:27:23;200.136.72.254;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-06 11:27:57;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-06 11:28:25;200.136.72.254;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-06 11:29:39;157.86.8.4;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-06 11:30:02;157.86.8.4;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Memórias do Instituto Oswaldo Cruz.";1
+2011-06-06 11:34:04;157.86.8.4;pt;local;bio;$;*;*;;1
+2011-06-06 11:39:15;157.86.8.4;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-06 11:39:22;157.86.8.4;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Memórias do Instituto Oswaldo Cruz.";1
+2011-06-06 11:39:45;157.86.8.4;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Memórias do Instituto Oswaldo Cruz.";2
+2011-06-06 11:39:49;157.86.8.4;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Memórias do Instituto Oswaldo Cruz.";2
+2011-06-06 11:57:01;189.59.198.108;pt;local;bio;infância;*;*;;1
+2011-06-06 13:48:05;66.249.71.37;pt;local;bio;*;*;*;;1
+2011-06-06 15:27:05;66.249.71.37;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-06 16:17:22;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-06 16:30:01;200.10.179.113;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-06 16:32:35;200.10.179.113;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-06 16:49:33;200.10.179.113;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-06 16:51:24;200.19.200.5;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-06 16:55:10;200.19.200.5;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-06-06 16:55:24;200.19.200.5;pt;local;bio;salmonela;*;SCIB;db:SCIB;1
+2011-06-06 16:58:29;200.10.179.113;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-06 17:00:29;200.10.179.113;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-06 17:06:29;200.10.179.113;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-06 17:21:16;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-06 17:21:23;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-06 17:36:31;200.10.179.113;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-06 17:40:53;200.10.179.113;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-06 18:22:39;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-06 18:22:44;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-06 19:40:07;200.144.17.158;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-06 19:42:00;200.144.17.158;pt;local;bio;riscoa ambientais e ppra;*;*;;1
+2011-06-06 19:42:33;200.144.17.158;pt;local;bio;riscos  ambientais e ppra;*;ALL;;1
+2011-06-06 19:42:46;200.144.17.158;pt;local;bio;riscos  ambientais e ppra;kw;ALL;;1
+2011-06-06 19:43:03;200.144.17.158;pt;local;bio;riscos  ambientais e água;kw;ALL;;1
+2011-06-06 19:43:09;200.144.17.158;pt;local;bio;riscos  ambientais e água;*;ALL;;1
+2011-06-06 20:20:01;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-06 20:31:00;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-06 22:00:02;184.72.137.215;pt;local;bio;*;*;*;;1

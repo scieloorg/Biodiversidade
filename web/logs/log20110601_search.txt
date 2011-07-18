@@ -1,0 +1,92 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-06-01 00:08:10;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-01 00:39:16;66.249.71.37;pt;local;bio;+id:("scl-S0074-02761909000200005");*;*;;1
+2011-06-01 03:21:16;66.249.71.37;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-01 03:24:45;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-01 05:07:27;66.249.71.37;xfdblysxhm;local;bio;*;*;*;;1
+2011-06-01 06:27:13;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-01 06:53:14;41.71.147.243;pt;local;bio;*;*;*;;1
+2011-06-01 06:53:14;41.71.147.243;pt;local;bio;*;*;*;;1
+2011-06-01 07:37:23;66.249.71.37;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-06-01 08:15:39;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-01 08:15:42;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-01 09:27:24;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-01 09:27:27;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-01 10:03:37;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-01 10:27:33;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-01 10:58:14;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-01 11:27:36;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-01 11:52:31;187.19.72.29;pt;local;bio;marketing rural;*;*;;1
+2011-06-01 11:52:41;187.19.72.29;pt;local;bio;marketing rural;kw;ALL;;1
+2011-06-01 11:52:44;187.19.72.29;pt;local;bio;marketing rural;kw;ALL;;1
+2011-06-01 11:53:03;187.19.72.29;pt;local;bio;marketing;*;*;;1
+2011-06-01 11:53:26;187.19.72.29;pt;local;bio;marketing;*;ALL;;2
+2011-06-01 11:53:51;187.19.72.29;pt;local;bio;marketing;*;ALL;;3
+2011-06-01 11:57:15;187.105.128.35;pt;local;http://217.218.225.2:2082/index.html?;*;*;*;;1
+2011-06-01 11:58:29;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-01 13:21:08;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-01 13:50:13;66.249.71.37;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-06-01 14:02:02;200.136.72.254;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-01 14:02:17;200.136.72.254;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-01 14:02:38;200.136.72.254;pt;local;bio;*;*;SCIB;db:SCIB;3
+2011-06-01 14:03:38;200.136.72.254;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-01 14:03:43;200.136.72.254;pt;local;bio;*;*;SCIB;db:SCIB;6
+2011-06-01 14:03:57;200.136.72.254;pt;local;bio;*;*;SCIB;db:SCIB AND la:"En";1
+2011-06-01 15:24:05;189.5.152.33;pt;local;bio;projeto de biologia da conservação;*;*;;1
+2011-06-01 15:24:16;189.5.152.33;pt;local;bio;projeto ;*;ALL;;1
+2011-06-01 15:24:39;189.5.152.33;pt;local;bio;biologia da conservação;*;ALL;;1
+2011-06-01 15:24:39;189.5.152.33;pt;local;bio;biologia da conservação;*;ALL;;1
+2011-06-01 15:25:17;189.5.152.33;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-01 15:26:04;189.5.152.33;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-01 15:26:22;146.164.3.203;pt;local;bio;spix;*;*;;1
+2011-06-01 15:26:33;189.5.152.33;pt;local;bio;anta;*;SCIB;db:SCIB;1
+2011-06-01 15:26:51;189.5.152.33;pt;local;bio; projeto anta;*;SCIB;db:SCIB;1
+2011-06-01 15:27:00;189.5.152.33;pt;local;bio; projeto viado;*;SCIB;db:SCIB;1
+2011-06-01 15:27:07;189.5.152.33;pt;local;bio; projeto veado;*;SCIB;db:SCIB;1
+2011-06-01 15:32:32;146.164.3.203;pt;local;bio;arquivos do museu nacional;*;*;;1
+2011-06-01 15:32:41;146.164.3.203;pt;local;bio;arquichos do museu nacional;*;ALL;;1
+2011-06-01 15:32:47;146.164.3.203;pt;local;bio;arquivo do museu nacional;*;ALL;;1
+2011-06-01 15:32:56;146.164.3.203;pt;local;bio; museu nacional;*;ALL;;1
+2011-06-01 15:34:26;146.164.3.203;pt;local;bio;archivos do museu nacional;*;*;;1
+2011-06-01 15:38:27;189.11.106.213;pt;local;bio;toc no modelo comportamental;*;*;;1
+2011-06-01 15:38:50;189.11.106.213;pt;local;bio;toc ;*;ALL;;1
+2011-06-01 15:49:16;189.5.152.33;pt;local;bio; projeto ;kw;SCIB;db:SCIB;1
+2011-06-01 15:49:40;189.5.152.33;pt;local;bio; projeto ;*;ALL;;1
+2011-06-01 15:50:15;189.5.152.33;pt;local;bio; projeto ;*;ALL;;2
+2011-06-01 15:50:34;189.5.152.33;pt;local;bio; projeto ;*;ALL;;3
+2011-06-01 15:50:48;189.5.152.33;pt;local;bio; projeto ;*;ALL;;4
+2011-06-01 15:51:00;189.5.152.33;pt;local;bio; projeto ;*;ALL;;5
+2011-06-01 15:51:16;189.5.152.33;pt;local;bio; projeto ;*;ALL;;6
+2011-06-01 15:51:44;146.164.3.203;pt;local;bio;alexandre rodrigues ferreira;*;*;;1
+2011-06-01 15:51:51;189.5.152.33;pt;local;bio;anta ;*;ALL;;1
+2011-06-01 15:51:56;146.164.3.203;pt;local;bio;alexandre rodrigues ferreira;*;ALL;;1
+2011-06-01 15:52:52;189.5.152.33;pt;local;bio;biologia da conservacao ;*;ALL;;1
+2011-06-01 15:53:11;189.5.152.33;pt;local;bio;biologia da conservacao ;*;ALL;;2
+2011-06-01 15:53:17;189.5.152.33;pt;local;bio;biologia da conservacao ;*;ALL;;1
+2011-06-01 16:29:32;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-01 16:32:18;66.249.71.37;pt;local;bio;+id:("scl-S0074-02761909000100002");*;*;;1
+2011-06-01 16:45:03;200.201.3.32;pt;local;bio;biodivrsidade;*;*;;1
+2011-06-01 16:47:51;200.137.223.113;pt;local;bio;plantas medicinais;*;*;;1
+2011-06-01 16:48:34;200.137.223.113;pt;local;bio;plantas medicinais;*;ALL;;2
+2011-06-01 16:49:12;200.137.223.113;pt;local;bio;plantas medicinais;*;ALL;;3
+2011-06-01 16:49:45;200.137.223.113;pt;local;bio;plantas medicinais;*;ALL;;4
+2011-06-01 16:53:04;200.137.223.113;pt;local;bio;plantas medicinais;*;ALL;type:"article";1
+2011-06-01 16:54:28;200.137.223.113;pt;local;bio;plantas medicinais;*;ALL;la:"Pt";3
+2011-06-01 16:54:35;200.137.223.113;pt;local;bio;plantas medicinais;*;ALL;la:"Pt" AND year_cluster:"2010";1
+2011-06-01 19:38:02;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-01 19:38:04;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-01 19:38:07;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-01 21:02:46;66.249.71.37;pt;local;bio;+id:("lil-18474058070");*;*;;1
+2011-06-01 21:52:38;201.6.90.182;pt;local;bio;bocio endemico;*;*;;1
+2011-06-01 21:53:57;201.6.90.182;pt;local;bio;bocio endemico;*;ALL;la:"Pt";1
+2011-06-01 21:54:12;201.6.90.182;pt;local;bio;bocio endemico;*;ALL;la:"Pt";1
+2011-06-01 21:54:34;201.6.90.182;pt;local;bio;bocio endemico;*;ALL;la:"Pt" AND la:"Pt";1
+2011-06-01 21:54:54;201.6.90.182;pt;local;bio;bocio endemico;kw;SCIB;db:SCIB;1
+2011-06-01 21:55:10;201.6.90.182;pt;local;bio;bocio endemico;ti;BHLB;db:BHLB;1
+2011-06-01 21:55:16;201.6.90.182;pt;local;bio;bocio endemico;ti;BHLB;db:BHLB;1
+2011-06-01 21:55:19;201.6.90.182;pt;local;bio;bocio endemico;ti;BHLB;db:BHLB;1
+2011-06-01 21:55:20;201.6.90.182;pt;local;bio;bocio endemico;ti;BHLB;db:BHLB;1
+2011-06-01 21:55:21;201.6.90.182;pt;local;bio;bocio endemico;ti;BHLB;db:BHLB;1
+2011-06-01 21:55:21;201.6.90.182;pt;local;bio;bocio endemico;ti;BHLB;db:BHLB;1
+2011-06-01 22:43:01;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-01 23:10:08;66.249.71.37;xfdblysxhm;local;bio;*;*;*;;1

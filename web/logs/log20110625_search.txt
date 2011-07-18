@@ -1,0 +1,73 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-06-25 01:15:00;66.249.71.34;pt;local;bio;*;*;*;;1
+2011-06-25 03:31:17;66.249.71.34;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-25 03:43:11;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-25 04:44:39;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-25 05:24:33;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-25 06:57:33;66.249.71.34;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-25 07:42:25;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-25 07:45:11;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-25 10:26:28;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-06-25 10:26:34;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-06-25 10:26:34;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-06-25 10:26:59;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-06-25 10:27:02;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-06-25 10:27:20;157.92.44.71;pt;local;bio;Sua seleção;*;*;;1
+2011-06-25 10:27:26;157.92.44.72;pt;local;bio;Sua seleção;*;*;;1
+2011-06-25 10:27:40;157.92.44.72;pt;local;bio;Sua seleção;*;*;;1
+2011-06-25 10:27:44;157.92.44.72;pt;local;bio;Sua seleção;*;*;;1
+2011-06-25 10:27:56;157.92.44.72;pt;local;bio;Sua seleção;*;*;;1
+2011-06-25 10:28:14;157.92.44.71;pt;local;bio;Sua seleção;*;*;;1
+2011-06-25 10:28:20;157.92.44.71;pt;local;bio;Sua seleção;*;*;;1
+2011-06-25 10:28:37;157.92.44.72;pt;local;bio;Sua seleção;*;*;;1
+2011-06-25 10:29:05;157.92.44.71;pt;local;bio;Sua seleção;*;*;;1
+2011-06-25 10:29:12;157.92.44.71;pt;local;bio;Sua seleção;*;*;;1
+2011-06-25 10:37:57;200.146.17.196;pt;local;bio;biodiversidade e saúde;*;*;;1
+2011-06-25 10:38:20;200.146.17.196;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-25 10:38:54;200.146.17.196;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-06-25 10:40:29;200.146.17.196;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-25 10:40:34;200.146.17.196;pt;local;bio;*;*;SCIB;db:SCIB;4
+2011-06-25 10:40:54;200.146.17.196;pt;local;bio;*;*;SCIB;db:SCIB;5
+2011-06-25 10:47:29;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-25 11:13:18;201.53.132.141;pt;local;bio;odonata;*;*;;1
+2011-06-25 11:13:52;201.53.132.141;pt;local;bio;odonata;*;ALL;;2
+2011-06-25 11:14:24;201.53.132.141;pt;local;bio;odonata;*;ALL;;3
+2011-06-25 11:14:48;201.53.132.141;pt;local;bio;odonata;*;ALL;;4
+2011-06-25 11:15:00;201.53.132.141;pt;local;bio;Sua seleção;*;ALL;;1
+2011-06-25 11:40:16;189.75.23.207;pt;local;bio;Interações entre o morcego Sturnira lilium (Chiroptera: Phyllostomidae) e plantas da família Solanaceae;*;*;;1
+2011-06-25 11:40:32;189.75.23.207;pt;local;bio;marco mello;*;ALL;;1
+2011-06-25 11:41:17;189.75.23.207;pt;local;bio;marco mello;ti;ALL;;1
+2011-06-25 11:41:49;189.75.23.207;pt;local;bio;mello;au;ALL;;1
+2011-06-25 13:10:57;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-06-25 13:11:02;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-06-25 13:11:13;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-06-25 13:11:37;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-06-25 13:11:50;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-06-25 13:12:01;157.92.44.72;pt;local;bio;Sua seleção;*;*;;1
+2011-06-25 13:12:16;157.92.44.72;pt;local;bio;Sua seleção;*;*;;1
+2011-06-25 13:12:33;157.92.44.71;pt;local;bio;Sua seleção;*;*;;1
+2011-06-25 13:12:40;157.92.44.71;pt;local;bio;Sua seleção;*;*;;1
+2011-06-25 13:12:51;157.92.44.72;pt;local;bio;Sua seleção;*;*;;1
+2011-06-25 13:12:57;157.92.44.72;pt;local;bio;Sua seleção;*;*;;1
+2011-06-25 13:13:15;157.92.44.71;pt;local;bio;Sua seleção;*;*;;1
+2011-06-25 13:13:21;157.92.44.72;pt;local;bio;Sua seleção;*;*;;1
+2011-06-25 13:13:38;157.92.44.71;pt;local;bio;Sua seleção;*;*;;1
+2011-06-25 13:13:51;157.92.44.71;pt;local;bio;Sua seleção;*;*;;1
+2011-06-25 14:04:25;66.249.71.34;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-25 14:49:46;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-25 16:45:01;66.249.71.98;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-25 17:31:27;201.19.125.26;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-25 17:32:16;201.19.125.26;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-06-25 17:33:11;201.19.125.26;pt;local;bio;*;*;SCIB;db:SCIB;3
+2011-06-25 17:34:33;201.19.125.26;pt;local;bio;perda de biodiversidade de o0rganismos da fauna e flora;*;SCIB;db:SCIB;1
+2011-06-25 17:34:54;201.19.125.26;pt;local;bio;perda de biodiversidade de 0rganismos da fauna e flora;*;SCIB;db:SCIB;1
+2011-06-25 17:35:24;201.19.125.26;pt;local;bio;perda de biodiversidade de o0rganismos da fauna e flora;*;SCIB;db:SCIB;4
+2011-06-25 17:35:40;201.19.125.26;pt;local;bio;perda de biodiversidade de o0rganismos da fauna e flora;*;SCIB;db:SCIB;4
+2011-06-25 17:36:06;201.19.125.26;pt;local;bio;perda de biodiversidade;*;*;;1
+2011-06-25 17:40:01;201.19.125.26;pt;local;bio;perda de biodiversidade;*;ALL;;2
+2011-06-25 17:42:59;201.19.125.26;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-25 17:44:19;201.19.125.26;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-25 17:46:18;201.19.125.26;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-06-25 18:21:11;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-25 21:38:01;66.249.71.98;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-06-25 22:25:52;209.131.41.49;pt;local;bio;*;*;*;;1

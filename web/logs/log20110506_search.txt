@@ -1,0 +1,93 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-05-06 02:21:48;65.52.110.41;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-06 03:04:37;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-06 03:04:37;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-06 03:04:38;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-06 03:04:38;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-06 03:19:55;66.249.72.58;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-06 04:16:02;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-06 08:24:51;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-06 08:41:55;66.249.72.58;pt;local;bio;Sua seleção;*;*;;1
+2011-05-06 09:17:36;66.249.72.58;pt;local;bio;Sua seleção;*;*;;1
+2011-05-06 09:54:22;187.23.116.179;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-06 10:12:04;66.249.72.58;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-06 10:39:31;146.164.3.203;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-06 10:39:48;146.164.3.203;pt;local;bio;*;*;BHLB;db:BHLB;2
+2011-05-06 10:39:54;146.164.3.203;pt;local;bio;*;*;BHLB;db:BHLB;3
+2011-05-06 10:40:10;146.164.3.203;pt;local;bio;*;*;BHLB;db:BHLB;5
+2011-05-06 10:40:34;146.164.3.203;pt;local;bio;*;*;BHLB;db:BHLB;6
+2011-05-06 10:40:49;146.164.3.203;pt;local;bio;*;*;BHLB;db:BHLB;7
+2011-05-06 10:40:58;146.164.3.203;pt;local;bio;*;*;BHLB;db:BHLB;8
+2011-05-06 10:41:39;146.164.3.203;pt;local;bio;*;*;BHLB;db:BHLB;9
+2011-05-06 10:41:50;146.164.3.203;pt;local;bio;*;*;BHLB;db:BHLB;10
+2011-05-06 10:42:03;146.164.3.203;pt;local;bio;*;*;BHLB;db:BHLB;11
+2011-05-06 10:42:10;146.164.3.203;pt;local;bio;*;*;BHLB;db:BHLB;12
+2011-05-06 10:42:26;146.164.3.203;pt;local;bio;*;*;BHLB;db:BHLB;18
+2011-05-06 10:42:40;146.164.3.203;pt;local;bio;*;*;BHLB;db:BHLB;19
+2011-05-06 10:42:49;146.164.3.203;pt;local;bio;*;*;BHLB;db:BHLB;20
+2011-05-06 10:43:00;146.164.3.203;pt;local;bio;*;*;BHLB;db:BHLB;21
+2011-05-06 11:24:09;66.249.72.58;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-06 12:05:53;66.249.72.58;pt;local;bio;Sua seleção;*;*;;1
+2011-05-06 12:25:54;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-06 12:35:32;66.249.72.58;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-06 12:36:26;66.249.72.58;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-06 14:02:29;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-05-06 14:02:38;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-05-06 14:02:42;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-05-06 14:02:44;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-05-06 14:12:40;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-05-06 14:12:54;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-05-06 14:13:02;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-05-06 14:13:25;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-05-06 14:40:41;187.35.240.199;pt;local;bio;Energia Eólica;*;*;;1
+2011-05-06 14:40:51;187.35.240.199;pt;local;bio;*;*;*;;1
+2011-05-06 14:41:14;187.35.240.199;pt;local;bio;*;*;ALL;la:"Pt";1
+2011-05-06 14:41:31;187.35.240.199;pt;local;bio;E;*;ALL;;1
+2011-05-06 14:41:47;187.35.240.199;pt;local;bio;*;*;ALL;;1
+2011-05-06 14:42:10;187.35.240.199;pt;local;bio;Energia Eólica;*;ALL;;1
+2011-05-06 14:42:18;189.12.117.194;pt;local;bio;pilula dia seguinte;*;*;;1
+2011-05-06 14:43:09;189.12.117.194;pt;local;bio;metodo contracepitivos;*;*;;1
+2011-05-06 14:43:30;189.12.117.194;pt;local;bio;metodo contracepitivos;*;SCIB;db:SCIB;1
+2011-05-06 14:43:34;189.12.117.194;pt;local;bio;metodo contracepitivos;*;SCIB;db:SCIB;1
+2011-05-06 14:43:53;189.12.117.194;pt;local;bio;metodo anticoncepcional;*;SCIB;db:SCIB;1
+2011-05-06 14:43:58;189.12.117.194;pt;local;bio;*;*;*;;1
+2011-05-06 14:44:20;189.12.117.194;pt;local;bio;*;*;ALL;type:"article";1
+2011-05-06 14:44:37;189.12.117.194;pt;local;bio;*;*;ALL;type:"article";1
+2011-05-06 14:49:26;187.35.240.199;pt;local;bio;Energia Eólica;*;*;;1
+2011-05-06 16:00:09;200.139.9.1;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-06 16:20:37;50.19.63.62;pt;local;bio;*;*;*;;1
+2011-05-06 16:24:47;66.249.72.58;pt;local;bio;*;*;*;;1
+2011-05-06 16:32:07;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-06 17:07:20;66.249.72.58;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-06 17:15:24;66.249.72.58;pt;local;bio;Sua seleção;*;*;;1
+2011-05-06 17:57:27;143.107.122.37;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-06 17:57:59;143.107.122.37;pt;local;bio;Travassos;au;BHLB;db:BHLB;1
+2011-05-06 17:58:14;143.107.122.37;pt;local;bio;Helmintologia;kw;BHLB;db:BHLB;1
+2011-05-06 17:58:16;143.107.122.37;pt;local;bio;Helmintologia;kw;BHLB;db:BHLB;1
+2011-05-06 17:58:23;143.107.122.37;pt;local;bio;Helmintologia;ti;BHLB;db:BHLB;1
+2011-05-06 17:58:30;143.107.122.37;pt;local;bio;Nematoides;ti;BHLB;db:BHLB;1
+2011-05-06 17:58:36;143.107.122.37;pt;local;bio;Nematologia;ti;BHLB;db:BHLB;1
+2011-05-06 17:59:00;143.107.122.37;pt;local;bio;Travassos;au;BHLB;db:BHLB;1
+2011-05-06 17:59:13;143.107.122.37;pt;local;bio;*;au;BHLB;db:BHLB;1
+2011-05-06 19:24:14;200.116.11.213;pt;local;bio;satyrinae;*;*;;1
+2011-05-06 19:24:44;200.116.11.213;pt;local;bio;nymphalidae;*;ALL;;1
+2011-05-06 19:25:01;200.116.11.213;pt;local;bio;nymphalidae;*;ALL;type:"book";1
+2011-05-06 19:25:48;200.116.11.213;pt;local;bio;nymphalidae;*;ALL;type:"book";2
+2011-05-06 19:26:33;200.116.11.213;pt;local;bio;nymphalidae;*;ALL;type:"book";2
+2011-05-06 19:26:41;200.116.11.213;pt;local;bio;nymphalidae;*;ALL;type:"book";2
+2011-05-06 20:25:42;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-06 21:00:45;66.249.72.58;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-05-06 21:32:44;66.249.72.58;pt;local;bio;Sua seleção;*;*;;1
+2011-05-06 21:44:47;66.249.72.58;pt;local;bio;Sua seleção;*;*;;1
+2011-05-06 21:55:36;200.217.209.230;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-06 22:33:27;189.19.148.71;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-06 22:37:34;189.19.148.71;pt;local;bio;ISO;*;*;;1
+2011-05-06 22:37:59;189.19.148.71;pt;local;bio;*;*;ALL;;1
+2011-05-06 22:39:10;189.19.148.71;pt;local;bio;*;*;ALL;;1
+2011-05-06 22:39:13;189.19.148.71;pt;local;bio;*;*;ALL;;1
+2011-05-06 22:39:21;189.19.148.71;pt;local;bio;ISO 14000;*;ALL;;1
+2011-05-06 22:39:30;189.19.148.71;pt;local;bio;*;*;*;;1
+2011-05-06 22:39:54;189.19.148.71;pt;local;bio;*;*;ALL;type:"book";1
+2011-05-06 22:39:58;189.19.148.71;pt;local;bio;*;*;ALL;type:"book";1
+2011-05-06 22:40:56;66.249.72.58;pt;local;bio;+id:("scl-S0074-02761909000200002");*;*;;1
+2011-05-06 22:55:30;189.19.148.71;pt;local;bio;*;*;ALL;type:"book";1

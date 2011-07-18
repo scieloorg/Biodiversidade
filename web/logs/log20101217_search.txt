@@ -1,0 +1,119 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2010-12-17 01:24:15;189.106.58.13;pt;local;bio;*;*;*;;1
+2010-12-17 01:24:15;189.106.58.13;pt;local;bio;*;*;*;;1
+2010-12-17 01:24:15;189.106.58.13;pt;local;bio;*;*;*;;1
+2010-12-17 01:41:02;187.12.251.126;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-17 01:41:29;187.12.251.126;pt;local;bio;*;*;SCIB;db:SCIB;2
+2010-12-17 01:41:43;187.12.251.126;pt;local;bio;*;*;SCIB;db:SCIB;3
+2010-12-17 01:41:55;187.12.251.126;pt;local;bio;*;*;SCIB;db:SCIB;4
+2010-12-17 01:42:09;187.12.251.126;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-17 01:42:22;187.12.251.126;pt;local;bio;*;*;BHLB;db:BHLB;2
+2010-12-17 01:42:32;187.12.251.126;pt;local;bio;boletim do instituto oceanográfico;*;BHLB;db:BHLB;1
+2010-12-17 01:42:37;187.12.251.126;pt;local;bio;boletim do instituto oceanográfico;*;BHLB;db:BHLB;3
+2010-12-17 03:45:20;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-17 04:34:03;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-17 07:40:09;187.115.107.77;pt;local;bio;lycengraulis;*;*;;1
+2010-12-17 07:40:41;187.115.107.77;pt;local;bio;sardinha;*;ALL;;1
+2010-12-17 07:46:24;187.115.107.77;pt;local;bio;pesca artesanal rs;*;ALL;;1
+2010-12-17 07:46:43;187.115.107.77;pt;local;bio;avifauna urbana rs;*;ALL;;1
+2010-12-17 07:46:59;187.115.107.77;pt;local;bio;avifauna rs;*;ALL;;1
+2010-12-17 09:20:46;144.29.129.20;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-17 09:20:49;144.29.129.20;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-17 09:33:32;200.145.108.83;pt;local;bio;miranda;*;*;;1
+2010-12-17 09:33:53;200.145.108.83;pt;local;bio;vfo miranda;*;ALL;;1
+2010-12-17 09:34:05;200.145.108.83;pt;local;bio;utricularia;*;ALL;;1
+2010-12-17 09:34:55;200.145.108.83;pt;local;bio;drosera;*;ALL;;1
+2010-12-17 10:03:20;200.144.29.106;pt;local;bio;briófitas;*;*;;1
+2010-12-17 10:03:37;200.144.29.106;pt;local;bio;briófita;*;ALL;;1
+2010-12-17 10:04:00;200.144.29.106;pt;local;bio;musgo;*;ALL;;1
+2010-12-17 10:04:00;200.144.29.106;pt;local;bio;musgo;*;ALL;;1
+2010-12-17 10:04:28;200.144.29.106;pt;local;bio;musgos;*;ALL;;1
+2010-12-17 10:05:37;200.144.29.106;pt;local;bio;musgos;*;ALL;;2
+2010-12-17 10:08:25;200.144.29.106;pt;local;bio;musgos;*;*;;1
+2010-12-17 10:08:47;200.144.29.106;pt;local;bio;musgos;*;ALL;;2
+2010-12-17 10:12:20;200.144.29.106;pt;local;bio;musgos;*;*;;1
+2010-12-17 10:12:53;200.144.29.106;pt;local;bio;musgos;*;ALL;;2
+2010-12-17 10:15:17;200.144.29.106;pt;local;bio;musgos;*;ALL;;3
+2010-12-17 10:17:30;200.144.29.106;pt;local;bio;hepática;*;ALL;;1
+2010-12-17 10:17:53;200.144.29.106;pt;local;bio;hepáticas;*;ALL;;1
+2010-12-17 10:17:54;200.144.29.106;pt;local;bio;hepáticas;*;ALL;;1
+2010-12-17 10:17:54;200.144.29.106;pt;local;bio;hepáticas;*;ALL;;1
+2010-12-17 10:25:59;189.71.141.137;pt;local;bio;sergipe;*;*;;1
+2010-12-17 10:26:01;189.71.141.137;pt;local;bio;sergipe;*;*;;1
+2010-12-17 10:26:51;189.71.141.137;pt;local;bio;sergipe;*;ALL;;2
+2010-12-17 10:27:13;189.71.141.137;pt;local;bio;sergipe;*;ALL;;3
+2010-12-17 10:27:44;189.71.141.137;pt;local;bio;sergipe;*;ALL;;4
+2010-12-17 10:28:10;189.71.141.137;pt;local;bio;sergipe;*;ALL;;1
+2010-12-17 10:28:29;189.71.141.137;pt;local;bio;alagoas ;*;ALL;;1
+2010-12-17 10:29:05;189.71.141.137;pt;local;bio;alagoas ;*;ALL;;2
+2010-12-17 11:11:08;200.198.16.11;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-17 11:12:16;200.198.16.11;pt;local;bio;*;*;SCIB;db:SCIB;2
+2010-12-17 11:12:57;200.198.16.11;pt;local;bio;*;*;SCIB;db:SCIB;3
+2010-12-17 11:13:28;200.198.16.11;pt;local;bio;*;*;SCIB;db:SCIB;4
+2010-12-17 11:14:12;200.198.16.11;pt;local;bio;*;*;SCIB;db:SCIB;5
+2010-12-17 11:14:42;200.198.16.11;pt;local;bio;*;*;SCIB;db:SCIB;6
+2010-12-17 11:15:01;200.198.16.11;pt;local;bio;*;*;SCIB;db:SCIB;7
+2010-12-17 11:15:37;200.198.16.11;pt;local;bio;*;*;SCIB;db:SCIB;8
+2010-12-17 11:16:27;200.198.16.11;pt;local;bio;*;*;SCIB;db:SCIB;9
+2010-12-17 11:16:52;200.198.16.11;pt;local;bio;*;*;SCIB;db:SCIB;10
+2010-12-17 11:17:32;200.198.16.11;pt;local;bio;*;*;SCIB;db:SCIB;11
+2010-12-17 11:18:00;200.198.16.11;pt;local;bio;*;*;SCIB;db:SCIB;12
+2010-12-17 11:19:47;200.198.16.11;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-17 11:26:41;143.106.52.53;pt;local;bio;Girardia tigrina;*;*;;1
+2010-12-17 11:52:01;143.106.52.53;pt;local;bio;Girardia tigrina;*;*;;1
+2010-12-17 11:52:35;200.80.230.2;pt;local;bio;loricariichthys;*;*;;1
+2010-12-17 11:53:26;200.80.230.2;pt;local;bio;loricariichthys;*;ALL;;2
+2010-12-17 11:53:34;200.80.230.2;pt;local;bio;loricariichthys;*;ALL;;1
+2010-12-17 11:54:08;200.80.230.2;pt;local;bio;anus;*;ALL;;1
+2010-12-17 11:54:40;200.80.230.2;pt;local;bio;contracaecum;*;ALL;;1
+2010-12-17 11:55:39;200.80.230.2;pt;local;bio;contracaecum;*;ALL;;2
+2010-12-17 12:00:46;143.106.52.53;pt;local;bio;Pseudokirchneriella;*;ALL;;1
+2010-12-17 13:49:58;187.118.47.29;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-17 13:50:35;143.107.244.76;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-17 13:50:53;143.107.244.76;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-17 13:50:56;143.107.244.76;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-17 13:51:00;143.107.244.76;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-17 13:51:04;187.118.47.29;pt;local;bio;*;*;BHLB;db:BHLB;9
+2010-12-17 13:51:04;143.107.244.76;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-17 13:51:07;143.107.244.76;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-17 13:51:09;187.118.47.29;pt;local;bio;primates;*;BHLB;db:BHLB;1
+2010-12-17 13:51:12;143.107.244.76;pt;local;bio;*;*;BHLG;db:BHLG AND year_cluster:"1925";1
+2010-12-17 13:51:24;201.21.176.125;pt;local;bio;ROBALO;*;*;;1
+2010-12-17 13:51:25;143.107.244.76;pt;local;bio;séguy;au;BHLG;db:BHLG;1
+2010-12-17 13:51:34;143.107.244.76;pt;local;bio;seguy;au;BHLG;db:BHLG;1
+2010-12-17 13:57:06;201.21.176.125;pt;local;bio;porto oceânico;*;ALL;;1
+2010-12-17 15:00:38;201.54.129.80;pt;local;bio;Sakakibara & Cavichioli 1982a: 243;*;*;;1
+2010-12-17 15:01:03;201.54.129.80;pt;local;bio;Sakakibara & Cavichioli;*;ALL;;1
+2010-12-17 15:01:47;201.54.129.80;pt;local;bio;diedrocephala;*;ALL;;1
+2010-12-17 16:15:14;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-17 16:28:00;189.68.202.235;pt;local;bio;Garófalo;*;*;;1
+2010-12-17 16:28:12;189.68.202.235;pt;local;bio;Xylocopa;*;ALL;;1
+2010-12-17 16:28:48;189.68.202.235;pt;local;bio;Xylocopa;*;ALL;;2
+2010-12-17 16:29:19;189.68.202.235;pt;local;bio;Xylocopa;*;ALL;;3
+2010-12-17 16:41:39;189.68.202.235;pt;local;bio;Xylocopa;*;ALL;year_cluster:"1998";1
+2010-12-17 16:56:36;66.249.71.52;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-17 17:35:09;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-17 17:59:45;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-17 18:24:40;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-17 19:30:14;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-17 19:49:02;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-17 20:19:50;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-17 20:27:33;200.103.122.64;pt;local;bio;oxyrhopus;*;*;;1
+2010-12-17 20:29:51;66.249.71.52;pt;local;bio;*;*;*;;1
+2010-12-17 20:31:00;200.103.122.64;pt;local;bio;psomorphus;*;ALL;;1
+2010-12-17 20:31:39;200.103.122.64;pt;local;bio;leptophis;*;ALL;;1
+2010-12-17 20:31:50;200.103.122.64;pt;local;bio;bothrops;*;ALL;;1
+2010-12-17 20:32:44;200.103.122.64;pt;local;bio;colobosaura;*;ALL;;1
+2010-12-17 20:32:53;200.103.122.64;pt;local;bio;cercosaura;*;ALL;;1
+2010-12-17 20:33:06;200.103.122.64;pt;local;bio;anfibio;*;ALL;;1
+2010-12-17 20:34:01;200.103.122.64;pt;local;bio;bufo;*;ALL;;1
+2010-12-17 21:06:44;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-17 21:12:21;200.166.151.2;pt;local;bio;a fumicultura na colonia treze lagarto-se;*;*;;1
+2010-12-17 21:13:18;200.166.151.2;pt;local;bio;dna;*;*;;1
+2010-12-17 21:13:54;200.166.151.2;pt;local;bio;dna;*;ALL;la:"Pt";1
+2010-12-17 21:14:24;200.166.151.2;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-17 21:19:29;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-17 21:20:14;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-17 21:33:22;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-17 22:20:39;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-17 23:11:26;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1

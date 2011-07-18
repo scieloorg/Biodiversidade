@@ -1,0 +1,41 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-04-20 01:23:33;66.249.71.43;ppufejihenzxjri;local;bio;+id:("lil-9030037224");*;*;;1
+2011-04-20 01:30:38;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-20 02:48:12;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-20 02:48:13;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-20 02:48:13;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-20 02:48:13;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-20 03:16:46;66.249.71.43;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-20 05:40:06;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-20 08:19:26;188.40.124.153;pt;local;bio;*;*;*;;1
+2011-04-20 08:46:40;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-20 09:50:54;66.249.71.43;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-04-20 10:22:08;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-04-20 10:55:10;190.236.235.69;es;local;bio;*;*;*;;1
+2011-04-20 10:55:43;190.236.235.69;es;local;bio;SALUD MENTALEntre una o más palabras;*;ALL;;1
+2011-04-20 10:55:44;190.236.235.69;es;local;bio;SALUD MENTALEntre una o más palabras;*;ALL;;1
+2011-04-20 11:24:52;66.249.71.43;xfdblysxhm;local;bio;*;*;*;;1
+2011-04-20 12:43:12;200.129.163.10;pt;local;bio;copaifera;*;*;;1
+2011-04-20 12:47:54;66.249.71.43;yiewkcbsz;local;bio;*;*;*;;1
+2011-04-20 12:53:19;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-20 12:57:35;66.249.71.43;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-04-20 13:03:14;66.249.71.43;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-20 13:11:35;66.249.71.43;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-04-20 13:52:34;66.249.71.43;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-20 14:58:05;66.249.71.43;pt;local;bio;*;*;*;;1
+2011-04-20 16:33:20;66.249.71.43;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-20 16:57:46;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-20 17:01:04;66.249.71.43;xfdblysxhm;local;bio;*;*;*;;1
+2011-04-20 18:45:38;66.249.71.43;pt;local;bio;*;*;*;;1
+2011-04-20 18:46:42;189.62.53.125;pt;local;bio;Estrutura populacional;*;*;;1
+2011-04-20 18:47:23;189.62.53.125;pt;local;bio;Estrutura populacional nazari;*;ALL;;1
+2011-04-20 18:57:44;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-04-20 20:22:49;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-04-20 21:43:51;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-20 22:02:53;66.249.71.43;pt;local;bio;+id:("lil-9030037220");*;*;;1
+2011-04-20 22:08:52;66.249.71.43;yiewkcbsz;local;bio;*;*;*;;1
+2011-04-20 22:58:29;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-04-20 23:19:48;187.41.75.253;pt;local;bio;Uma nova especie de Hyla do grupo marmorata do nordeste Brasileiro (Amphibia, Anura, Hylidae);*;*;;1
+2011-04-20 23:22:37;187.41.75.253;pt;local;bio;Nova especie de Hyla do group marmorata de Sergipe, nordeste do Brasil (Amphibia, Anura, Hylidae);*;*;;1
+2011-04-20 23:22:54;187.41.75.253;pt;local;bio; marmorata ;*;ALL;;1
+2011-04-20 23:23:06;187.41.75.253;pt;local;bio; marmorata ;*;ALL;;2

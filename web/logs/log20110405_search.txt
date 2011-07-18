@@ -1,0 +1,76 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-04-05 03:46:24;66.249.71.49;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-05 03:51:48;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-05 04:02:23;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-05 04:02:23;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-05 04:02:24;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-05 04:02:24;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-05 04:28:04;66.249.71.49;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-04-05 04:28:06;66.249.71.49;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-05 04:28:35;66.249.71.49;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-05 06:11:47;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 06:19:43;66.249.71.49;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-05 08:09:32;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-05 09:59:01;66.249.71.49;xfdblysxhm;local;bio;*;*;*;;1
+2011-04-05 10:08:06;186.204.68.142;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-05 10:09:10;186.204.68.142;es;local;bio;*;*;*;;1
+2011-04-05 10:09:17;186.204.68.142;es;local;bio;*;*;ALL;ta_cluster:"Braz. J. Biol.";1
+2011-04-05 10:35:34;187.58.57.3;pt;local;bio;gravidez;*;*;;1
+2011-04-05 10:37:19;187.58.57.3;pt;local;bio;gravidez;ti;SCIB;db:SCIB;1
+2011-04-05 10:37:57;187.58.57.3;pt;local;bio;ciclo lunar e corte de cabelo;ti;SCIB;db:SCIB;1
+2011-04-05 10:38:04;187.58.57.3;pt;local;bio;ciclo lunar e corte de cabelo;kw;SCIB;db:SCIB;1
+2011-04-05 10:38:17;187.58.57.3;pt;local;bio;ciclo lunar e reprodicao;kw;SCIB;db:SCIB;1
+2011-04-05 10:38:23;187.58.57.3;pt;local;bio;ciclo lunar e reproducao;kw;SCIB;db:SCIB;1
+2011-04-05 10:38:32;187.58.57.3;pt;local;bio;ciclo lunar e reproducao humana;kw;SCIB;db:SCIB;1
+2011-04-05 10:38:38;187.58.57.3;pt;local;bio;ciclo lunar e reproducao humana;kw;SCIB;db:SCIB;1
+2011-04-05 10:39:53;187.58.57.3;pt;local;bio;influencia do ciclo lunar na reproducao humana;kw;SCIB;db:SCIB;1
+2011-04-05 10:40:09;187.58.57.3;pt;local;bio;influencia do ciclo lunar ;kw;SCIB;db:SCIB;1
+2011-04-05 10:40:17;187.58.57.3;pt;local;bio;influencia do ciclo lunar ;*;ALL;;1
+2011-04-05 10:42:07;187.58.57.3;pt;local;bio;influencia do ciclo lunar ;*;ALL;;1
+2011-04-05 10:50:38;66.249.71.49;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-04-05 12:03:07;66.249.71.49;pt;local;bio;*;*;*;;1
+2011-04-05 12:07:15;66.249.71.49;pt;local;bio;*;*;*;;1
+2011-04-05 12:10:58;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-05 12:26:40;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 12:27:19;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 12:27:24;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 12:28:12;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 12:28:54;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 12:28:58;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 12:29:09;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 12:30:06;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 12:30:25;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 12:30:56;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 12:31:24;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 12:32:29;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 12:33:03;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 12:33:06;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 12:33:47;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 12:34:39;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 12:34:47;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 12:34:50;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 12:35:20;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 12:40:23;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 12:54:08;66.249.71.49;pt;local;bio;+id:("lil-9030037178");*;*;;1
+2011-04-05 13:04:31;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 13:29:02;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 13:40:35;66.249.71.49;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-05 14:08:04;66.249.71.49;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-04-05 14:56:04;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 15:16:59;66.249.71.49;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-05 16:36:30;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-05 18:18:11;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 18:21:26;66.249.71.49;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-05 18:22:50;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 18:23:44;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 19:37:18;187.78.10.152;pt;local;bio;wied;*;*;;1
+2011-04-05 19:57:00;66.249.71.49;pt;local;bio;Sua seleção;*;*;;1
+2011-04-05 20:34:54;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-05 21:17:18;186.203.15.167;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-05 21:25:18;186.203.15.167;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-05 21:26:21;186.203.15.167;pt;local;bio;comportamento;*;SCIB;db:SCIB;1
+2011-04-05 21:39:08;190.154.250.6;es;local;bio;pros y contra de la electroestimulacion;*;*;;1
+2011-04-05 21:42:10;190.154.250.6;es;local;bio;puntos motores de la cara;*;ALL;;1
+2011-04-05 22:27:29;207.46.13.132;pt;local;bio;*;*;*;;1
+2011-04-05 22:37:54;189.1.24.90;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-05 22:47:26;189.1.24.90;pt;local;bio;canis;*;*;;1

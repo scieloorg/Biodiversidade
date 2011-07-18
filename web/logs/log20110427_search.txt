@@ -1,0 +1,91 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-04-27 00:45:50;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-04-27 01:34:33;66.249.71.43;pt;local;bio;*;*;*;;1
+2011-04-27 02:00:37;187.118.197.140;pt;local;bio;580 botanica;*;*;;1
+2011-04-27 02:27:06;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-27 03:15:33;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-27 03:15:34;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-27 03:15:44;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-27 03:15:45;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-27 06:25:09;66.249.71.43;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-27 06:31:23;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-27 08:19:30;189.31.176.26;pt;local;bio;bioma caatinga;*;*;;1
+2011-04-27 09:43:03;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-27 09:54:16;186.215.99.234;pt;local;bio;Biota;*;*;;1
+2011-04-27 11:12:14;66.249.71.43;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-27 11:13:48;201.66.124.189;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-27 11:41:48;201.220.215.13;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-27 11:42:20;201.220.215.13;es;local;bio;Revistas medio ambiente;*;*;;1
+2011-04-27 11:55:56;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-04-27 12:01:27;157.86.112.214;pt;local;bio;goeldi;*;*;;1
+2011-04-27 12:03:56;157.86.112.214;pt;local;bio;goeldi;*;*;;1
+2011-04-27 12:22:18;189.82.4.62;pt;local;bio;cuidar de enfermagem;*;*;;1
+2011-04-27 12:22:36;189.82.4.62;pt;local;bio;cuidar;*;ALL;;1
+2011-04-27 12:22:43;189.82.4.62;pt;local;bio;cuidar;*;ALL;;1
+2011-04-27 12:23:01;189.82.4.62;pt;local;bio;cuidado de enfermagem;*;ALL;;1
+2011-04-27 12:23:05;189.82.4.62;pt;local;bio;cuidado de enfermagem;*;ALL;;1
+2011-04-27 12:23:14;189.82.4.62;pt;local;bio;cuidado de enfermagem;kw;ALL;;1
+2011-04-27 13:32:25;177.17.16.18;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-27 13:41:21;177.17.16.18;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-27 13:44:47;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-27 14:10:03;157.86.112.214;pt;local;bio;piso;*;*;;1
+2011-04-27 14:10:29;157.86.112.214;pt;local;bio;piso ;*;*;;1
+2011-04-27 14:10:44;157.86.112.214;pt;local;bio;piso ;au;BHLG;db:BHLG;1
+2011-04-27 14:10:52;66.249.71.43;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-04-27 14:11:01;157.86.112.214;pt;local;bio;pisones ;au;BHLG;db:BHLG;1
+2011-04-27 14:11:46;157.86.112.214;pt;local;bio;historia naturalis;ti;BHLG;db:BHLG;1
+2011-04-27 14:12:02;157.86.112.214;pt;local;bio;historia naturalis;ti;BHLG;db:BHLG;2
+2011-04-27 14:12:12;157.86.112.214;pt;local;bio;historia naturalis;ti;BHLG;db:BHLG;3
+2011-04-27 14:12:26;157.86.112.214;pt;local;bio;historia naturalis;ti;BHLB;db:BHLB;1
+2011-04-27 14:19:03;189.10.24.174;pt;local;bio;AÇÃO SOBRE O CLIMA DO PLANETA SEM O HOMEM;*;*;;1
+2011-04-27 14:20:27;189.10.24.174;pt;local;bio;AÇÃO SOBRE O CLIMA DO PLANETA SEM O HOMEM;*;ALL;;1
+2011-04-27 14:21:48;189.10.24.174;pt;local;bio;CICLOS BIOGEOQUIMICOS;*;*;;1
+2011-04-27 14:23:54;189.10.24.174;pt;local;bio;CICLOS BIOGEOQUIMICOS;*;ALL;la:"Pt";1
+2011-04-27 14:24:16;189.10.24.174;pt;local;bio;CICLOS BIOGEOQUIMICOS;*;ALL;;1
+2011-04-27 14:25:05;189.10.24.174;pt;local;bio;QUAIS SÃO OS CICLOS BIOGEOQUIMICOS;*;ALL;;1
+2011-04-27 14:27:24;200.136.72.254;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-27 14:27:57;200.136.72.254;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-27 14:28:49;200.136.72.254;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-27 14:59:01;200.104.228.132;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-27 14:59:01;200.104.228.132;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-04-27 14:59:01;200.104.228.132;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-27 15:26:09;200.188.168.167;pt;local;bio;bertaco;*;*;;1
+2011-04-27 15:26:21;200.188.168.167;pt;local;bio;neotropical ichthyology;*;ALL;;1
+2011-04-27 15:26:25;200.188.168.167;pt;local;bio;neotropical ichthyology;*;ALL;;1
+2011-04-27 15:33:51;187.15.132.7;pt;local;bio;eurico santos;*;*;;1
+2011-04-27 15:33:52;69.63.189.247;pt;local;bio;*;*;*;;1
+2011-04-27 15:34:11;187.15.132.7;pt;local;bio;emílio goeldi;*;ALL;;1
+2011-04-27 15:34:12;69.63.189.248;pt;local;bio;*;*;*;;1
+2011-04-27 15:34:27;187.15.132.7;pt;local;bio;emílio augusto goeldi;*;*;;1
+2011-04-27 15:36:24;187.15.132.7;en;local;bio;emílio goeldi;*;*;;1
+2011-04-27 15:36:52;187.15.132.7;en;local;bio;emílio augusto goeldi;au;ALL;;1
+2011-04-27 15:36:54;187.15.132.7;en;local;bio;emílio augusto goeldi;au;ALL;;1
+2011-04-27 15:36:55;187.15.132.7;en;local;bio;emílio augusto goeldi;au;ALL;;1
+2011-04-27 15:37:12;187.15.132.7;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-04-27 15:37:18;69.63.190.245;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-04-27 15:37:29;187.15.132.7;pt;local;bio;emílio goeldi;au;BHLG;db:BHLG;1
+2011-04-27 15:37:31;187.15.132.7;pt;local;bio;emílio goeldi;au;BHLG;db:BHLG;1
+2011-04-27 15:43:09;187.15.132.7;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-27 15:43:13;69.63.190.246;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-27 15:43:38;187.15.132.7;pt;local;bio;emilio goeldi;*;ALL;;1
+2011-04-27 15:56:53;187.15.132.7;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-27 15:57:48;187.15.132.7;pt;local;bio;emilio goeldi;au;ALL;;1
+2011-04-27 15:58:11;187.15.132.7;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-27 15:58:30;187.15.132.7;pt;local;bio;emílio augusto goeldi;*;ALL;;1
+2011-04-27 15:58:55;187.15.132.7;en;local;bio;emil goeldi;*;*;;1
+2011-04-27 15:59:12;187.15.132.7;en;local;bio;eurico santos;*;*;;1
+2011-04-27 15:59:29;187.15.132.7;en;local;bio;oliverio pinto;*;*;;1
+2011-04-27 15:59:40;187.15.132.7;en;local;bio;aves;*;*;;1
+2011-04-27 16:00:15;187.15.132.7;en;local;bio;rodolpho von ihering;*;*;;1
+2011-04-27 16:07:42;66.249.71.43;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-27 16:24:29;187.16.241.3;pt;local;bio;Why chemotherapy can fail? ;*;*;;1
+2011-04-27 16:53:37;201.86.237.78;pt;local;bio;estress;*;*;;1
+2011-04-27 17:50:29;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-27 18:01:14;201.54.129.80;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-27 18:01:39;201.54.129.80;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-27 18:35:07;201.91.128.225;pt;local;bio;mico leão dourado;*;*;;1
+2011-04-27 20:54:37;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-27 21:49:15;41.189.35.139;pt;local;bio;*;*;*;;1
+2011-04-27 21:56:53;200.170.106.5;pt;local;bio;historia da riquesa do homem;*;*;;1
+2011-04-27 21:57:23;200.170.106.5;pt;local;bio;historia da riquesa do homem;au;SCIB;db:SCIB;1
+2011-04-27 22:43:48;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1

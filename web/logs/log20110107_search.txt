@@ -1,0 +1,141 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-01-07 00:21:31;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-07 00:26:52;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 00:27:47;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 00:43:12;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 01:23:25;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 02:05:41;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 03:18:03;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 03:30:11;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 03:34:18;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 05:12:48;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 07:23:37;201.25.22.45;pt;local;bio;alouatta;*;*;;1
+2011-01-07 07:23:38;201.25.22.45;pt;local;bio;alouatta;*;*;;1
+2011-01-07 08:10:05;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 08:20:24;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 09:01:42;200.252.135.218;pt;local;bio;*;*;*;;1
+2011-01-07 09:20:47;189.90.241.2;pt;local;bio;campos rupestres;*;*;;1
+2011-01-07 09:21:46;189.90.241.2;pt;local;bio;campos rupestres;*;ALL;;2
+2011-01-07 09:22:57;189.90.241.2;pt;local;bio;campos rupestres;*;ALL;;3
+2011-01-07 09:24:33;189.90.241.2;pt;local;bio;campos rupestres;*;ALL;;4
+2011-01-07 09:26:11;189.90.241.2;pt;local;bio;campo rupestre;*;ALL;;1
+2011-01-07 09:27:59;189.90.241.2;pt;local;bio;campo rupestre;*;ALL;;2
+2011-01-07 09:45:56;201.47.218.237;pt;local;bio;Alouatta;*;*;;1
+2011-01-07 09:46:37;201.47.218.237;pt;local;bio;Alouatta;*;ALL;;2
+2011-01-07 09:46:59;201.47.218.237;pt;local;bio;Cebus;*;ALL;;1
+2011-01-07 09:51:33;201.47.218.237;pt;local;bio;Cebus;*;ALL;;2
+2011-01-07 09:52:28;201.47.218.237;pt;local;bio;Cebus;*;ALL;;2
+2011-01-07 09:52:46;201.47.218.237;pt;local;bio;Cebus;*;ALL;;3
+2011-01-07 09:58:07;201.54.129.80;pt;local;bio;Reis RE;*;*;;1
+2011-01-07 09:58:34;201.54.129.80;pt;local;bio;Reis RE;au;ALL;;1
+2011-01-07 09:58:53;201.54.129.80;pt;local;bio;fish;ti;ALL;;1
+2011-01-07 10:08:19;189.120.152.129;pt;local;bio;Alouatta;*;*;;1
+2011-01-07 10:08:58;189.120.152.129;pt;local;bio;Alouatta;*;ALL;;2
+2011-01-07 10:09:53;189.120.152.129;pt;local;bio;lagothrix;*;ALL;;1
+2011-01-07 10:10:22;189.120.152.129;pt;local;bio;mental map;*;ALL;;1
+2011-01-07 10:13:25;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 10:24:02;201.54.129.80;pt;local;bio;Phenacogaster;*;*;;1
+2011-01-07 10:44:27;201.62.194.19;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-07 10:44:28;201.62.194.19;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-07 10:44:31;201.62.194.19;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-07 10:47:55;201.62.194.19;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-07 10:53:22;189.73.221.242;pt;local;bio;*;*;*;;1
+2011-01-07 10:56:22;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 10:56:26;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 11:14:02;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 11:17:02;200.180.200.101;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-07 11:19:51;200.180.200.101;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-07 11:26:58;201.54.129.80;pt;local;bio;Crustacea;*;*;;1
+2011-01-07 11:27:56;201.54.129.80;pt;local;bio;Crustacea and toxicology;*;*;;1
+2011-01-07 11:30:54;201.54.129.80;pt;local;bio; Crustacea physiology;*;*;;1
+2011-01-07 11:32:52;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 11:41:00;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 11:42:40;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 12:02:16;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 12:04:33;201.54.129.80;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-07 12:14:16;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 12:17:31;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 12:21:44;201.47.205.150;pt;local;bio;aouatta guariba clamitans;*;*;;1
+2011-01-07 12:21:55;201.47.205.150;pt;local;bio;alouatta guariba clamitans;*;ALL;;1
+2011-01-07 12:24:40;189.15.53.184;pt;local;bio;FDA papilomavírus;*;*;;1
+2011-01-07 12:25:00;189.15.53.184;pt;local;bio;flora;*;*;;1
+2011-01-07 12:26:37;189.15.53.184;pt;local;bio;flora;*;ALL;;2
+2011-01-07 12:26:49;189.15.53.184;pt;local;bio;flora;*;ALL;;3
+2011-01-07 12:26:59;189.15.53.184;pt;local;bio;flora;*;ALL;;4
+2011-01-07 12:27:11;189.15.53.184;pt;local;bio;flora;*;ALL;;5
+2011-01-07 12:27:20;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 12:27:21;189.15.53.184;pt;local;bio;flora;*;ALL;;9
+2011-01-07 12:27:59;189.15.53.184;pt;local;bio;flora;*;ALL;;1
+2011-01-07 12:33:47;201.14.100.126;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-07 12:33:57;201.14.100.126;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-07 12:34:12;201.14.100.126;pt;local;bio;formigas;*;SCIB;db:SCIB;1
+2011-01-07 12:34:50;201.14.100.126;pt;local;bio;formigas;*;SCIB;db:SCIB;2
+2011-01-07 12:39:26;201.14.100.126;pt;local;bio;formigas;*;SCIB;db:SCIB;3
+2011-01-07 12:39:46;201.14.100.126;pt;local;bio;formigas;*;SCIB;db:SCIB;4
+2011-01-07 12:40:41;201.14.100.126;pt;local;bio;formigas;*;SCIB;db:SCIB;5
+2011-01-07 12:40:55;201.14.100.126;pt;local;bio;formigas;*;SCIB;db:SCIB;6
+2011-01-07 12:52:11;189.15.213.143;pt;local;bio;frugivory birds;*;*;;1
+2011-01-07 12:52:24;189.15.213.143;pt;local;bio;frugivory birds;*;ALL;;1
+2011-01-07 12:55:37;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 13:10:09;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 13:14:10;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 14:21:19;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-07 14:42:08;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 14:43:24;200.121.76.68;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-07 14:43:48;200.121.76.68;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Archivos do Museu Nacional do Rio de Janeiro.";1
+2011-01-07 14:46:14;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 14:51:26;189.90.241.22;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-07 15:37:24;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-07 15:43:31;189.73.211.7;pt;local;bio;mamíferos fragmentos;*;*;;1
+2011-01-07 15:43:35;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-07 15:43:50;189.73.211.7;pt;local;bio;mammals fragments;*;ALL;;1
+2011-01-07 15:44:15;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-07 15:45:48;187.59.208.63;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-07 15:46:25;187.59.208.63;pt;local;bio;peixe;*;BHLB;db:BHLB;1
+2011-01-07 15:46:38;187.59.208.63;pt;local;bio;ictiofauna;*;BHLB;db:BHLB;1
+2011-01-07 15:46:54;187.59.208.63;pt;local;bio;mammals;*;BHLB;db:BHLB;1
+2011-01-07 15:47:19;189.73.211.7;pt;local;bio;edge efect fragments;*;ALL;;1
+2011-01-07 15:47:22;187.59.208.63;pt;local;bio;mammals;*;BHLB;db:BHLB;1
+2011-01-07 15:47:32;189.73.211.7;pt;local;bio;edge fragments;*;ALL;;1
+2011-01-07 15:47:49;187.59.208.63;pt;local;bio;ictiofauna;*;ALL;;1
+2011-01-07 15:48:19;189.73.211.7;pt;local;bio;*;*;ALL;;1
+2011-01-07 15:48:57;189.73.211.7;pt;local;bio;animal ;*;ALL;ta_cluster:"Bulletin - United States National Museum.";1
+2011-01-07 15:59:48;187.59.208.63;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-07 16:00:05;187.59.208.63;pt;local;bio;ictiofauna;*;ALL;;1
+2011-01-07 16:00:55;187.59.208.63;pt;local;bio;ictiofauna;*;ALL;;2
+2011-01-07 16:01:09;187.59.208.63;pt;local;bio;francisco;*;ALL;;1
+2011-01-07 16:01:35;187.59.208.63;pt;local;bio;ictiofauna sao francisco;*;ALL;;1
+2011-01-07 16:08:53;187.59.208.63;pt;local;bio;ictiofauna parana;*;ALL;;1
+2011-01-07 16:15:11;189.27.189.171;pt;local;bio;pteridóphitas;*;*;;1
+2011-01-07 16:15:17;189.27.189.171;pt;local;bio;pteridófitas;*;ALL;;1
+2011-01-07 16:15:23;189.27.189.171;pt;local;bio;pteridofitas;*;ALL;;1
+2011-01-07 17:48:50;201.43.199.38;pt;local;bio;anfibio;*;*;;1
+2011-01-07 17:59:16;201.43.199.38;pt;local;bio;anfibio;*;ALL;;1
+2011-01-07 18:00:37;201.10.174.71;pt;local;bio;mamíferos;*;*;;1
+2011-01-07 18:00:45;201.10.174.71;pt;local;bio;pantanal;*;ALL;;1
+2011-01-07 18:01:32;201.10.174.71;pt;local;bio;mammals;*;ALL;;1
+2011-01-07 18:13:40;201.17.213.86;pt;local;bio;vegetação;*;*;;1
+2011-01-07 18:14:03;201.17.213.86;pt;local;bio;flora;*;ALL;;1
+2011-01-07 18:14:37;201.17.213.86;pt;local;bio;flora;*;ALL;;2
+2011-01-07 18:14:51;201.17.213.86;pt;local;bio;flora;*;ALL;;3
+2011-01-07 18:15:04;201.17.213.86;pt;local;bio;*;*;*;;1
+2011-01-07 19:33:11;189.15.125.192;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-07 20:03:33;200.121.76.68;es;local;bio;economia ecologica ;*;*;;1
+2011-01-07 20:04:20;200.121.76.68;es;local;bio;economia ecologica ;*;ALL;;1
+2011-01-07 20:05:41;200.121.76.68;es;local;bio;economia agroecologica ;*;ALL;;1
+2011-01-07 20:58:55;189.33.170.102;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-07 22:01:59;187.119.173.191;pt;local;bio;recursos hidricos;*;*;;1
+2011-01-07 22:08:51;187.119.173.191;pt;local;bio;toxologia dos metais pesados;*;*;;1
+2011-01-07 22:08:53;187.119.173.191;pt;local;bio;toxologia dos metais pesados;*;*;;1
+2011-01-07 22:09:30;187.119.173.191;pt;local;bio;metais pesados;*;ALL;;1
+2011-01-07 22:10:06;189.10.113.86;pt;local;bio;pequenos mamifereos;*;*;;1
+2011-01-07 22:10:09;187.119.173.191;pt;local;bio;metais pesado;*;ALL;;2
+2011-01-07 22:10:21;189.10.113.86;pt;local;bio;pequenos mamiferos;*;ALL;;1
+2011-01-07 22:11:35;187.119.173.191;pt;local;bio;rio papagaio;*;ALL;;1
+2011-01-07 22:28:08;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-07 22:31:50;201.86.204.34;pt;local;bio;bird;*;*;;1
+2011-01-07 23:28:31;201.15.114.177;pt;local;bio;Cerrado;*;*;;1
+2011-01-07 23:28:51;201.15.114.177;pt;local;bio;Pequi;*;ALL;;1
+2011-01-07 23:36:41;201.15.114.177;pt;local;bio;Caryocar brasiliense;*;ALL;;1
+2011-01-07 23:40:16;201.15.114.177;pt;local;bio;caguaita;*;ALL;;1
+2011-01-07 23:42:18;201.15.114.177;pt;local;bio;Pente de macaco;*;ALL;;1

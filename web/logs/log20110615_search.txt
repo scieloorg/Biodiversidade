@@ -1,0 +1,57 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-06-15 01:30:02;66.249.72.11;pt;local;bio;*;*;*;;1
+2011-06-15 01:49:08;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-15 04:28:57;190.118.178.36;pt;local;bio;cultivo de peixes;*;*;;1
+2011-06-15 04:30:32;190.118.178.36;pt;local;bio;cultivo de peixes marinhos;*;*;;1
+2011-06-15 04:30:58;190.118.178.36;pt;local;bio;cultivo de peixes do mar;*;*;;1
+2011-06-15 05:50:31;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-15 08:08:04;189.71.96.84;pt;local;ftp://technicalsupport.eti.br:L3ct0r07@technicalsupport.eti.br/t.txt?;*;*;*;;1
+2011-06-15 08:24:11;66.249.72.11;yiewkcbsz;local;bio;*;*;*;;1
+2011-06-15 08:27:33;66.249.72.11;yiewkcbsz;local;bio;*;*;*;;1
+2011-06-15 08:45:28;187.64.46.183;pt;local;bio;bokermann;*;*;;1
+2011-06-15 09:56:08;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-15 10:24:49;157.86.103.196;pt;local;bio;lepidoptera;*;*;;1
+2011-06-15 10:29:18;157.86.103.196;pt;local;bio;lepidoptera;*;ALL;;2
+2011-06-15 10:30:45;157.86.103.196;pt;local;bio;lepidoptera;*;ALL;;4
+2011-06-15 10:30:49;157.86.103.196;pt;local;bio;lepidoptera;*;ALL;;5
+2011-06-15 10:36:17;157.86.103.196;pt;local;bio;lepidoptera;*;ALL;;6
+2011-06-15 10:36:28;157.86.103.196;pt;local;bio;lepidoptera;*;ALL;;7
+2011-06-15 10:37:15;157.86.103.196;pt;local;bio;lepidoptera;*;ALL;;8
+2011-06-15 10:41:49;66.249.71.34;yiewkcbsz;local;bio;+id:("lil-9030037232");*;*;;1
+2011-06-15 10:45:29;157.86.103.196;pt;local;bio;lepidoptera;*;ALL;;9
+2011-06-15 10:45:36;157.86.103.196;pt;local;bio;lepidoptera;*;ALL;;10
+2011-06-15 10:45:44;157.86.103.196;pt;local;bio;lepidoptera;*;ALL;;11
+2011-06-15 10:46:01;157.86.103.196;pt;local;bio;Pieridae;*;ALL;;1
+2011-06-15 10:59:46;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-15 10:59:48;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-15 12:23:03;146.83.129.99;es;local;bio;VIH;*;*;;1
+2011-06-15 12:28:12;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-15 12:28:16;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-15 14:01:10;186.213.119.98;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-15 14:01:10;186.213.119.98;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-06-15 14:01:10;186.213.119.98;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-15 14:09:40;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-15 16:14:23;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-15 16:14:29;66.249.71.34;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-15 16:14:35;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-15 16:14:53;66.249.71.34;xfdblysxhm;local;bio;+id:("lil-9030037220");*;*;;1
+2011-06-15 16:15:00;66.249.71.34;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-06-15 16:15:06;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-15 16:15:31;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-15 16:15:37;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-15 16:15:46;66.249.71.34;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-15 16:38:45;201.59.201.129;pt;local;bio;especies da caatinga;*;*;;1
+2011-06-15 17:15:11;66.249.71.34;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-06-15 17:16:27;66.249.71.34;pt;local;bio;*;*;*;;1
+2011-06-15 17:21:22;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-15 17:21:27;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-15 17:21:31;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-15 17:21:33;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-15 17:21:40;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-15 17:21:43;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-15 17:21:47;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-15 17:21:51;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-15 17:42:08;187.4.63.74;pt;local;bio;*;*;*;;1
+2011-06-15 18:20:22;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-15 22:34:41;207.46.13.90;pt;local;bio;*;*;*;;1
+2011-06-15 23:25:39;209.131.41.49;pt;local;bio;*;*;*;;1

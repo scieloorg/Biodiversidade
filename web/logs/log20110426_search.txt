@@ -1,0 +1,53 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-04-26 01:50:46;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-26 03:59:50;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-26 03:59:50;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-26 03:59:51;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-26 03:59:51;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-26 05:05:29;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-26 08:08:04;66.249.71.43;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-26 08:08:52;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-26 10:29:05;200.198.7.36;pt;local;bio;biodiversidade;*;*;;1
+2011-04-26 10:43:13;200.198.7.36;pt;local;bio;biodiversidade;*;ALL;;1
+2011-04-26 10:44:21;200.198.7.36;pt;local;bio;revegetaçao;*;ALL;;1
+2011-04-26 10:55:51;200.198.7.38;pt;local;bio;eriocnema;*;*;;1
+2011-04-26 12:11:58;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-26 12:52:58;200.198.7.37;pt;local;bio;social wasps diversity;*;*;;1
+2011-04-26 14:25:44;189.15.43.222;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-26 14:56:35;200.198.7.31;pt;local;bio;recursos hídricos;*;*;;1
+2011-04-26 14:56:50;200.198.7.31;pt;local;bio;recursos hídricos;kw;ALL;;1
+2011-04-26 14:56:59;200.198.7.31;pt;local;bio;água;kw;ALL;;1
+2011-04-26 14:57:15;200.198.7.31;pt;local;bio;fiscalização;kw;ALL;;1
+2011-04-26 14:57:20;200.198.7.31;pt;local;bio;fiscalização;*;ALL;;1
+2011-04-26 15:03:43;200.139.12.121;pt;local;bio;podocnemis sextuberculata;*;ALL;;1
+2011-04-26 15:13:23;66.249.71.43;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-26 15:33:41;200.136.72.254;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-26 15:34:03;200.136.72.254;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Memórias do Instituto Oswaldo Cruz.";1
+2011-04-26 15:34:19;200.136.72.254;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Archivos do Museu Nacional do Rio de Janeiro.";1
+2011-04-26 15:34:24;200.136.72.254;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Memórias do Instituto Oswaldo Cruz.";1
+2011-04-26 15:34:32;200.136.72.254;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Memórias do Instituto Oswaldo Cruz.";1
+2011-04-26 15:34:37;200.136.72.254;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Arquivos.";1
+2011-04-26 15:35:18;200.136.72.254;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Archivos do Jardim Botânico do Rio de Janeiro.";1
+2011-04-26 15:35:23;200.136.72.254;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Anexos das Memórias do Instituto de Butantan, Secção de Botânica.";1
+2011-04-26 15:35:29;200.136.72.254;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Revista da Sociedade Scientifica de São Paulo.";1
+2011-04-26 15:38:47;200.136.72.254;pt;local;bio;teste;*;*;;1
+2011-04-26 15:52:03;143.107.152.175;pt;local;bio;marcos sorrentino;*;*;;1
+2011-04-26 16:15:23;66.249.71.43;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-26 16:15:26;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-26 16:20:49;66.249.71.43;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-26 16:53:15;66.249.71.43;pt;local;bio;*;*;*;;1
+2011-04-26 17:35:48;66.249.71.43;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-04-26 18:40:46;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-04-26 19:47:58;189.70.68.252;pt;local;bio;fauna amazonica;*;*;;1
+2011-04-26 19:48:45;189.70.68.252;pt;local;bio;fauna amazonica;*;ALL;;2
+2011-04-26 19:49:04;189.70.68.252;pt;local;bio;flora amazonica;*;ALL;;1
+2011-04-26 19:55:16;187.20.188.120;pt;local;bio;crédito de carbono;*;*;;1
+2011-04-26 19:55:18;188.82.137.201;pt;local;http://217.218.225.2:2082/index.html?;*;*;*;;1
+2011-04-26 19:56:58;189.70.68.252;pt;local;bio;flora amazonica;*;ALL;;2
+2011-04-26 20:06:40;189.31.122.103;pt;local;bio;recuperação de areas degradadas;*;*;;1
+2011-04-26 20:06:47;189.31.122.103;pt;local;bio; areas degradadas;*;ALL;;1
+2011-04-26 20:07:33;189.31.122.103;pt;local;bio; areas degradadas;*;ALL;;2
+2011-04-26 21:23:38;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-26 21:39:29;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-04-26 22:56:35;201.78.222.168;pt;local;bio;sertanejo;*;*;;1
+2011-04-26 23:23:47;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1

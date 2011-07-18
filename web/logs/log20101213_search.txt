@@ -1,0 +1,164 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2010-12-13 00:37:31;66.249.71.37;pt;local;bio;+id:("lil-13264049879");*;*;;1
+2010-12-13 00:57:58;211.254.252.210;pt;local;bio;*;*;*;;1
+2010-12-13 02:09:41;66.249.71.37;pt;local;bio;+id:("lil-18474058072");*;*;;1
+2010-12-13 02:29:29;66.249.71.37;pt;local;bio;+id:("lil-18474058028");*;*;;1
+2010-12-13 03:23:55;66.249.71.37;pt;local;bio;+id:("lil-20986061024");*;*;;1
+2010-12-13 04:12:12;66.249.71.37;pt;local;bio;+id:("lil-41471091512");*;*;;1
+2010-12-13 04:30:59;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 05:53:45;66.249.71.37;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-13 06:17:08;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 06:29:51;66.249.71.37;pt;local;bio;+id:("scl-S0074-02761909000200007");*;*;;1
+2010-12-13 06:40:58;66.249.71.37;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-13 07:32:40;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 07:41:29;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 08:13:18;200.144.75.5;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-13 08:22:43;200.144.5.29;pt;local;bio;ecologia paisagem;*;*;;1
+2010-12-13 08:28:22;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 08:29:35;187.54.164.69;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-13 08:30:02;187.54.164.69;pt;local;bio;Serpentes;*;BHLB;db:BHLB;1
+2010-12-13 08:30:15;187.54.164.69;pt;local;bio;*;*;*;;1
+2010-12-13 08:30:41;187.54.164.69;pt;local;bio;Serpentes;kw;ALL;;1
+2010-12-13 08:30:49;187.54.164.69;pt;local;bio;repteis;kw;ALL;;1
+2010-12-13 08:31:03;187.54.164.69;pt;local;bio;repteis;kw;ALL;;1
+2010-12-13 08:31:16;187.54.164.69;pt;local;bio;repteis;*;*;;1
+2010-12-13 08:31:35;187.54.164.69;pt;local;bio;serpentes;*;*;;1
+2010-12-13 08:46:49;187.54.164.69;pt;local;bio;serpentes;*;ALL;;2
+2010-12-13 08:46:59;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 08:55:23;200.103.109.20;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-13 08:55:29;200.103.109.20;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-13 08:59:47;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 09:13:44;189.33.155.150;pt;local;bio;educação;*;*;;1
+2010-12-13 09:21:33;187.64.40.244;pt;local;bio;Padina;*;*;;1
+2010-12-13 09:23:12;187.64.40.244;pt;local;bio;Padina sanctae-crucis;*;*;;1
+2010-12-13 09:23:24;187.64.40.244;pt;local;bio;P.;*;*;;1
+2010-12-13 09:23:36;187.64.40.244;pt;local;bio;P. sanctae-crucis;*;ALL;;1
+2010-12-13 09:23:51;187.64.40.244;pt;local;bio;P. gymnospora;*;ALL;;1
+2010-12-13 09:26:58;187.64.40.244;pt;local;bio;alga;*;ALL;;1
+2010-12-13 09:27:15;187.64.40.244;pt;local;bio;carboidratos alga;*;ALL;;1
+2010-12-13 09:27:20;187.64.40.244;pt;local;bio;carboidratos ;*;ALL;;1
+2010-12-13 09:28:16;200.252.135.218;pt;local;bio;aves cerrado;*;*;;1
+2010-12-13 10:10:23;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 10:13:21;187.54.164.70;pt;local;bio;serpentes;*;ALL;;3
+2010-12-13 10:20:50;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 10:24:22;189.82.29.254;pt;local;bio;eucalipto;*;*;;1
+2010-12-13 10:24:30;189.82.29.254;pt;local;bio;eucalipto;*;ALL;;1
+2010-12-13 10:25:57;189.82.29.254;pt;local;bio;eucalipto;*;ALL;;2
+2010-12-13 10:27:02;189.82.29.254;pt;local;bio;eucalipto;*;ALL;;3
+2010-12-13 10:27:53;189.82.29.254;pt;local;bio;eucalipto;*;ALL;;4
+2010-12-13 10:30:39;189.82.29.254;pt;local;bio;eucalypto;*;ALL;;1
+2010-12-13 10:30:56;189.82.29.254;pt;local;bio;eucalyptus;*;ALL;;1
+2010-12-13 10:31:32;189.82.29.254;pt;local;bio;eucalyptus;*;ALL;;2
+2010-12-13 10:32:23;189.82.29.254;pt;local;bio;eucalyptus;*;ALL;;3
+2010-12-13 10:32:48;189.82.29.254;pt;local;bio;eucalyptus;*;ALL;;4
+2010-12-13 10:33:22;189.82.29.254;pt;local;bio;eucalyptus;*;ALL;;5
+2010-12-13 10:33:36;189.82.29.254;pt;local;bio;eucalyptus;*;ALL;;6
+2010-12-13 10:33:51;189.82.29.254;pt;local;bio;eucalyptus;*;ALL;;7
+2010-12-13 10:34:12;189.82.29.254;pt;local;bio;eucalyptus;*;ALL;;8
+2010-12-13 10:34:28;189.82.29.254;pt;local;bio;eucalyptus;*;ALL;;9
+2010-12-13 10:35:20;189.82.29.254;pt;local;bio;eucalyptus;*;ALL;;10
+2010-12-13 10:37:10;189.82.29.254;pt;local;bio;eucalyptus;*;ALL;;11
+2010-12-13 10:37:36;189.82.29.254;pt;local;bio;eucalyptus;*;ALL;;12
+2010-12-13 10:38:05;189.82.29.254;pt;local;bio;eucalyptus;*;ALL;;13
+2010-12-13 10:38:21;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 10:38:31;189.82.29.254;pt;local;bio;monocuture and mammals;*;ALL;;1
+2010-12-13 10:38:38;189.82.29.254;pt;local;bio;monoculture and mammals;*;ALL;;1
+2010-12-13 11:04:12;187.54.164.70;pt;local;bio;serpentes;*;ALL;;4
+2010-12-13 11:04:54;187.54.164.70;pt;local;bio;ecologia;*;*;;1
+2010-12-13 11:05:19;187.54.164.70;pt;local;bio;ecologia;*;ALL;;2
+2010-12-13 11:05:37;187.54.164.70;pt;local;bio;ecologia;*;ALL;;3
+2010-12-13 11:08:29;187.27.223.254;pt;local;bio;capivara;*;*;;1
+2010-12-13 11:08:58;187.27.223.254;pt;local;bio;archanjo;*;ALL;;1
+2010-12-13 11:13:16;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 11:14:54;128.214.144.34;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-13 11:15:16;128.214.144.34;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-13 11:16:28;200.144.123.33;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-13 11:16:57;200.144.123.33;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-13 11:17:20;200.144.123.33;pt;local;bio;*;*;SCIB;db:SCIB;2
+2010-12-13 11:19:08;200.144.123.33;pt;local;bio;isoptera;*;*;;1
+2010-12-13 11:39:10;200.144.123.33;pt;local;bio;termite;*;ALL;;1
+2010-12-13 11:39:57;187.117.115.171;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-13 11:39:58;187.117.115.171;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-13 11:40:57;187.117.115.171;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-13 11:41:00;187.117.115.171;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-13 11:41:16;187.117.115.171;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-13 11:41:20;200.144.123.33;pt;local;bio;termite;*;ALL;;2
+2010-12-13 11:41:33;187.117.115.171;pt;local;bio;xingu;*;BHLB;db:BHLB;1
+2010-12-13 11:42:00;187.117.115.171;pt;local;bio;xingu;*;SCIB;db:SCIB;1
+2010-12-13 11:42:10;187.117.115.171;pt;local;bio;xingu;*;ALL;;1
+2010-12-13 11:42:52;204.236.226.210;pt;local;bio;*;*;*;;1
+2010-12-13 11:47:57;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 11:50:59;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 12:01:34;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 12:07:41;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 12:08:17;66.249.71.37;pt;local;bio;+id:("scl-S0074-02761909000200008");*;*;;1
+2010-12-13 12:27:37;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 12:28:04;187.50.39.66;pt;local;bio;mimosa hostilis;*;*;;1
+2010-12-13 12:38:23;189.83.87.250;pt;local;bio;*;*;*;;1
+2010-12-13 12:39:08;189.83.87.250;pt;local;bio;biodiversidade do cerrado;kw;SCIB;db:SCIB;1
+2010-12-13 12:52:24;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 12:59:20;187.37.20.82;pt;local;bio;biodiversidade;*;*;;1
+2010-12-13 13:00:21;187.37.20.82;pt;local;bio;biodiversidade;*;ALL;;2
+2010-12-13 13:00:31;187.37.20.82;pt;local;bio;biodiversidade;*;ALL;;3
+2010-12-13 13:01:02;187.37.20.82;pt;local;bio;genetica;*;ALL;;2
+2010-12-13 13:01:27;187.37.20.82;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-13 13:04:06;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 13:07:12;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 13:12:01;66.249.71.37;pt;local;bio;+id:("scl-S0074-02761909000200006");*;*;;1
+2010-12-13 13:23:30;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 13:26:31;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 13:29:52;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 13:31:29;189.83.87.250;pt;local;bio;*;*;*;;1
+2010-12-13 13:31:47;189.83.87.250;pt;local;bio;cerrado;*;ALL;;1
+2010-12-13 13:32:27;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 13:32:57;189.83.87.250;pt;local;bio;*;*;*;;1
+2010-12-13 13:57:05;189.83.87.250;pt;local;bio;Ribeiro, J.F. & Walter, B.M.T. 1998. Fitofisionomias do bioma;ti;ALL;;1
+2010-12-13 14:34:56;204.236.226.210;pt;local;bio;*;*;*;;1
+2010-12-13 14:35:57;200.102.219.95;pt;local;bio;hpv;*;*;;1
+2010-12-13 14:37:18;200.102.219.95;pt;local;bio;hpv;*;BHLB;db:BHLB;1
+2010-12-13 14:39:11;200.102.219.95;pt;local;bio;hpv;*;BHLB;db:BHLB;1
+2010-12-13 14:39:52;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 14:41:33;200.102.219.95;pt;local;bio;atendente de farmacia;*;BHLB;db:BHLB;1
+2010-12-13 15:01:08;189.83.87.250;pt;local;bio;Cerrado Ambiente e Flora;ti;ALL;;1
+2010-12-13 15:10:55;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 15:12:39;201.76.218.2;pt;local;bio;Polinização;*;*;;1
+2010-12-13 15:13:12;201.76.218.2;pt;local;bio;Polinização;kw;BHLB;db:BHLB;1
+2010-12-13 15:15:59;189.83.87.250;pt;local;bio;Cerrado ;kw;ALL;;1
+2010-12-13 15:16:40;189.83.87.250;pt;local;bio;Cerrado ;kw;ALL;;1
+2010-12-13 15:34:52;200.189.112.20;pt;local;bio;ornitologia;*;*;;1
+2010-12-13 15:59:37;201.254.165.156;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-13 16:05:56;84.62.154.9;pt;local;bio;avulsos;*;*;;1
+2010-12-13 16:06:16;84.62.154.9;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-13 16:06:32;84.62.154.9;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Pap. Avulsos Zool. (São Paulo)";1
+2010-12-13 16:23:17;200.17.60.247;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-13 16:30:16;66.249.71.37;pt;local;bio;*;*;*;;1
+2010-12-13 16:36:18;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 17:55:17;84.62.154.9;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Mem. Inst. Oswaldo Cruz";1
+2010-12-13 17:55:42;84.62.154.9;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Mem. Inst. Oswaldo Cruz" AND ta_cluster:"Mem. Inst. Oswaldo Cruz";1
+2010-12-13 17:55:58;84.62.154.9;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Mem. Inst. Oswaldo Cruz" AND ta_cluster:"Mem. Inst. Oswaldo Cruz";2
+2010-12-13 17:56:19;84.62.154.9;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Mem. Inst. Oswaldo Cruz" AND ta_cluster:"Mem. Inst. Oswaldo Cruz";3
+2010-12-13 17:56:47;84.62.154.9;pt;local;bio;*;*;*;;1
+2010-12-13 17:57:59;84.62.154.9;pt;local;bio;*;*;*;;1
+2010-12-13 17:58:19;84.62.154.9;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-13 17:58:49;84.62.154.9;pt;local;bio;Loebmann;au;SCIB;db:SCIB;1
+2010-12-13 18:01:38;84.62.154.9;pt;local;bio;Malabarba;au;SCIB;db:SCIB;1
+2010-12-13 18:02:48;143.107.73.48;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-13 18:03:20;143.107.73.48;pt;local;bio;*;*;BHLB;db:BHLB;7
+2010-12-13 18:04:20;84.62.154.9;pt;local;bio;Reis;au;SCIB;db:SCIB;1
+2010-12-13 18:04:43;84.62.154.9;pt;local;bio;Reis;au;SCIB;db:SCIB;2
+2010-12-13 18:09:23;143.107.73.48;pt;local;bio;documentos;*;*;;1
+2010-12-13 18:09:57;143.107.73.48;pt;local;bio;historia da ciencia;*;ALL;;1
+2010-12-13 18:16:32;187.50.30.102;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-13 18:55:05;187.16.240.54;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-13 19:39:59;189.55.106.196;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-13 19:40:44;189.55.106.196;pt;local;bio;mimus saturninus;*;SCIB;db:SCIB;1
+2010-12-13 20:07:03;190.107.43.191;pt;local;bio;papeis avulsos de zoologia;*;*;;1
+2010-12-13 20:32:53;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 20:44:29;66.249.71.37;pt;local;bio;+id:("lil-18474058028");*;*;;1
+2010-12-13 20:59:01;189.125.221.100;pt;local;bio;mamíferos;*;*;;1
+2010-12-13 20:59:13;189.125.221.100;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-13 20:59:34;189.125.221.100;pt;local;bio;mamíferos;*;ALL;;1
+2010-12-13 20:59:38;189.125.221.100;pt;local;bio;nome popular;*;ALL;;1
+2010-12-13 21:19:05;201.53.179.175;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-13 22:34:56;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-13 22:57:10;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1

@@ -1,0 +1,20 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-01-15 03:44:10;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-15 04:44:16;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-15 07:00:24;95.154.223.133;pt;local;bio;*;*;*;;1
+2011-01-15 07:00:25;95.154.223.133;pt;local;bio;*;*;*;;1
+2011-01-15 15:51:03;189.12.248.41;pt;local;bio;Gentianaceae;*;*;;1
+2011-01-15 16:44:21;190.42.152.172;es;local;bio;envases de agroquimicos;*;*;;1
+2011-01-15 16:44:38;190.42.152.172;es;local;bio;envases de agroquimicos;*;ALL;;1
+2011-01-15 16:44:42;190.42.152.172;es;local;bio;*;*;*;;1
+2011-01-15 16:45:30;190.42.152.172;es;local;bio;*;*;ALL;la:"Es";1
+2011-01-15 16:45:44;190.42.152.172;es;local;bio;*;*;ALL;la:"Es";2
+2011-01-15 16:46:04;190.42.152.172;es;local;bio;*;au;ALL;;1
+2011-01-15 16:46:22;190.42.152.172;es;local;bio;*;au;ALL;la:"Es";1
+2011-01-15 16:46:45;190.42.152.172;es;local;bio;*;kw;BHLG;db:BHLG;1
+2011-01-15 16:46:55;190.42.152.172;es;local;bio;agroquimicos;kw;BHLG;db:BHLG;1
+2011-01-15 16:47:10;190.42.152.172;es;local;bio;agroquimicos;kw;BHLB;db:BHLB;1
+2011-01-15 21:45:55;189.30.195.158;pt;local;bio;cyathea;*;*;;1
+2011-01-15 22:52:34;187.88.188.143;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-15 22:53:13;187.88.188.143;pt;local;bio;bird;*;SCIB;db:SCIB;1
+2011-01-15 22:53:28;187.88.188.143;pt;local;bio;bird communities;*;SCIB;db:SCIB;1

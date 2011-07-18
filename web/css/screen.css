@@ -1,0 +1,58 @@
+@import url(./layout.css);
+@import url(./styles.css);
+
+DIV.spacer {
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	float: none;
+	font-size: 1px;
+	height: 1px;
+}
+
+
+DIV.top {
+	background:#EDF3F3 url(../image/common/topBackground.jpg) repeat-x scroll right top;
+	height:111px;
+}
+
+
+DIV.identification {
+	background: url(../image/common/banner.jpg) no-repeat left;
+	height: 111px;
+	margin-left: 80px;
+	margin-top: -12px;
+
+}
+
+DIV.identification H1{
+	padding: 93px 0px 0px 190px;	
+}
+
+DIV.identification H2{
+	display:none;
+}
+
+
+DIV.search DIV.informationTypes A.selected, DIV.search DIV.searchForm {
+}
+
+DIV.results DIV.resultServices DIV H4, 
+DIV.resultSet DIV.infoBar {
+}
+
+DIV.results DIV.resultServices DIV {
+}
+
+.record:hover {
+	background: #f5fdef;
+}
+
+
+#fulltext strong {
+	background: none !important;
+}
+
+#fulltext.closed strong {
+	background: none !important;
+}

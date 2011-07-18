@@ -1,0 +1,60 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-05-20 01:08:07;66.249.72.241;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-20 01:48:32;189.13.65.129;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-20 01:48:32;189.13.65.129;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-20 01:48:34;189.13.65.129;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-20 03:33:29;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-20 05:47:53;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-05-20 05:48:01;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-05-20 05:48:01;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-05-20 05:48:07;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-05-20 05:48:43;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-05-20 05:48:49;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-05-20 05:48:53;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-05-20 05:48:56;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-05-20 06:11:43;66.249.72.241;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-20 06:22:02;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-20 06:28:25;66.249.72.241;pt;local;bio;*;*;*;;1
+2011-05-20 06:51:29;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-20 10:04:58;187.57.21.137;pt;local;bio;dislexia;*;*;;1
+2011-05-20 10:31:01;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-20 10:56:33;201.10.97.160;pt;local;bio;teoria geral da administracao ;*;*;;1
+2011-05-20 10:57:13;201.10.97.160;pt;local;bio;teoria geral da administracao ;au;BHLG;db:BHLG;1
+2011-05-20 10:57:31;201.10.97.160;pt;local;bio;teoria geral da administracao ;kw;ALL;;1
+2011-05-20 11:16:15;200.136.72.254;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-20 11:16:28;200.136.72.254;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-20 11:16:45;200.136.72.254;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-20 11:17:31;200.136.72.254;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-20 11:19:49;200.136.72.254;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-20 11:20:15;200.136.72.254;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-20 11:20:39;200.136.72.254;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-20 11:28:36;200.136.72.254;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-20 12:02:48;207.46.199.49;pt;local;bio;*;*;*;;1
+2011-05-20 13:18:32;66.249.72.241;yiewkcbsz;local;bio;*;*;*;;1
+2011-05-20 13:57:58;189.71.67.53;pt;local;bio;normas da revista;*;*;;1
+2011-05-20 13:58:36;189.71.67.53;pt;local;bio;normas da revista;*;ALL;;1
+2011-05-20 13:58:49;189.71.67.53;pt;local;bio;normas da revista;*;ALL;;1
+2011-05-20 13:58:57;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-20 14:37:10;189.41.114.148;pt;local;bio;percepão visual;*;*;;1
+2011-05-20 14:37:41;189.34.67.169;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-20 14:38:12;189.34.67.169;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Braz. J. Biol.";1
+2011-05-20 15:08:11;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-20 16:07:17;66.249.72.241;xfdblysxhm;local;bio;*;*;*;;1
+2011-05-20 17:29:35;189.13.178.221;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-20 17:38:35;200.19.190.213;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-20 18:14:10;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-20 18:33:42;187.40.124.156;pt;local;bio;septicemia;*;*;;1
+2011-05-20 18:34:18;187.40.124.156;pt;local;bio;septicemia;*;ALL;ta_cluster:"Braz. J. Microbiol.";1
+2011-05-20 18:34:30;187.40.124.156;pt;local;bio;septicemia;*;ALL;;1
+2011-05-20 18:34:41;187.40.124.156;pt;local;bio;septicemia;*;ALL;;1
+2011-05-20 18:35:12;187.40.124.156;pt;local;bio;septicemia;ti;SCIB;db:SCIB;1
+2011-05-20 18:35:27;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-20 18:42:10;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-20 18:44:13;200.120.156.109;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-20 18:44:25;200.120.156.109;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-20 18:44:28;200.120.156.109;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-20 18:48:44;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-20 19:49:34;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-20 22:21:58;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-20 22:44:44;66.249.72.241;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-20 23:47:37;189.85.180.171;pt;local;bio;*;*;SCIB;db:SCIB;1

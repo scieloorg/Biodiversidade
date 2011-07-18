@@ -1,0 +1,202 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2010-11-30 08:24:40;187.105.193.182;pt;local;bio;*;*;ALL;;1
+2010-11-30 08:24:44;187.105.193.182;pt;local;bio;*;*;ALL;;1
+2010-11-30 08:24:46;187.105.193.182;pt;local;bio;*;*;ALL;;1
+2010-11-30 08:24:56;187.105.193.182;pt;local;bio;*;*;ALL;;1
+2010-11-30 08:25:13;187.105.193.182;pt;local;bio;*;*;ALL;;1
+2010-11-30 08:25:22;187.105.193.182;pt;local;bio;*;*;ALL;;1
+2010-11-30 08:25:25;187.105.193.182;pt;local;bio;*;*;ALL;;1
+2010-11-30 08:25:35;187.105.193.182;pt;local;bio;*;*;ALL;;1
+2010-11-30 08:25:38;187.105.193.182;pt;local;bio;*;*;ALL;;1
+2010-11-30 08:25:42;187.105.193.182;pt;local;bio;*;*;ALL;year_cluster:"1882";1
+2010-11-30 08:25:50;187.105.193.182;pt;local;bio;*;*;ALL;year_cluster:"1882";3
+2010-11-30 08:43:28;187.105.193.182;pt;local;bio;*;*;*;;1
+2010-11-30 09:26:51;187.105.193.182;pt;local;bio;zoology;*;ALL;;1
+2010-11-30 09:26:55;187.105.193.182;pt;local;bio;zoology;*;*;;1
+2010-11-30 09:27:19;187.105.193.182;pt;local;bio;zoology;*;*;;1
+2010-11-30 09:28:30;187.105.193.182;pt;local;bio;zoology;*;*;;1
+2010-11-30 09:29:05;187.105.193.182;pt;local;bio;zoology;*;*;;1
+2010-11-30 09:30:30;187.105.193.182;es;local;bio;*;*;ALL;;1
+2010-11-30 09:30:40;187.105.193.182;es;local;bio;zoology;*;ALL;;1
+2010-11-30 09:32:45;187.105.193.182;pt;local;bio;zoology;*;*;;1
+2010-11-30 10:04:34;187.105.193.182;pt;local;bio;zoology;*;*;;1
+2010-11-30 10:05:11;187.105.193.182;pt;local;bio;zoology;*;ALL;la:"Pt";1
+2010-11-30 10:11:18;187.105.193.182;pt;local;bio;dengue;*;*;;1
+2010-11-30 10:14:37;187.105.193.182;pt;local;bio;*;*;*;;1
+2010-11-30 10:22:36;187.105.193.182;pt;local;bio;dengue;*;*;;1
+2010-11-30 10:24:14;187.105.193.182;pt;local;bio;Sua seleção;*;ALL;;1
+2010-11-30 10:24:18;187.105.193.182;pt;local;bio;+id:("scl-S0001-37652008000200001" OR "scl-S0001-37652009000400001");*;*;;1
+2010-11-30 10:25:12;187.105.193.182;pt;local;bio;+id:("scl-S0001-37652008000200001" OR "scl-S0001-37652009000400001");*;*;;1
+2010-11-30 10:25:23;187.105.193.182;pt;local;bio;*;*;*;;1
+2010-11-30 10:26:25;187.105.193.182;pt;local;bio;dengue;*;*;;1
+2010-11-30 10:26:33;187.105.193.182;pt;local;bio;dengue;*;ALL;ta_cluster:"Mem. Inst. Oswaldo Cruz";1
+2010-11-30 10:26:44;187.105.193.182;pt;local;bio;dengue;*;ALL;ta_cluster:"Mem. Inst. Oswaldo Cruz";2
+2010-11-30 10:26:48;187.105.193.182;pt;local;bio;dengue;*;ALL;ta_cluster:"Mem. Inst. Oswaldo Cruz";3
+2010-11-30 10:26:50;187.105.193.182;pt;local;bio;dengue;*;ALL;ta_cluster:"Mem. Inst. Oswaldo Cruz";4
+2010-11-30 10:26:51;187.105.193.182;pt;local;bio;dengue;*;ALL;ta_cluster:"Mem. Inst. Oswaldo Cruz";5
+2010-11-30 10:26:52;187.105.193.182;pt;local;bio;dengue;*;ALL;ta_cluster:"Mem. Inst. Oswaldo Cruz";6
+2010-11-30 10:26:53;187.105.193.182;pt;local;bio;dengue;*;ALL;ta_cluster:"Mem. Inst. Oswaldo Cruz";7
+2010-11-30 10:26:53;187.105.193.182;pt;local;bio;dengue;*;ALL;ta_cluster:"Mem. Inst. Oswaldo Cruz";8
+2010-11-30 10:34:27;187.105.193.182;pt;local;bio;dengue;*;*;;1
+2010-11-30 11:24:02;187.105.193.182;pt;regional;bvs;db:SciELO Brasil;*;*;;1
+2010-11-30 12:13:22;187.105.193.182;pt;regional;bvs;db:BHL Brasil;*;*;;1
+2010-11-30 13:54:29;187.105.193.182;pt;regional;bvs;db:SciELO Brasil;*;*;;1
+2010-11-30 13:54:41;187.105.193.182;pt;regional;bvs;db:BHL Global;*;*;;1
+2010-11-30 13:54:44;187.105.193.182;pt;regional;bvs;db:BHL Brasil;*;*;;1
+2010-11-30 14:56:24;187.105.193.182;pt;regional;bvs;db:SciELO Brasil;*;*;;1
+2010-11-30 14:56:26;187.105.193.182;pt;regional;bvs;db:BHL Global;*;*;;1
+2010-11-30 15:24:56;187.105.193.182;pt;regional;bvs;db:SciELO Brasil;*;*;;1
+2010-11-30 15:25:01;187.105.193.182;pt;regional;bvs;db:SciELO Brasil;*;*;;1
+2010-11-30 15:25:04;187.105.193.182;pt;regional;bvs;db:BHL Global;*;*;;1
+2010-11-30 15:25:07;187.105.193.182;pt;regional;bvs;db:BHL Brasil;*;*;;1
+2010-11-30 15:26:24;187.105.193.182;pt;regional;bvs;db:SciELO Brasil;*;*;;1
+2010-11-30 15:26:53;187.105.193.182;pt;regional;bvs;db:SciELO Brasil;*;*;;1
+2010-11-30 15:27:13;187.105.193.182;pt;regional;bvs;db:SciELO Brasil;*;*;;1
+2010-11-30 15:28:33;187.105.193.182;pt;regional;bvs;db:BHL Brasil;*;*;;1
+2010-11-30 15:28:33;187.105.193.182;pt;regional;bvs;db:BHL Brasil;*;*;;1
+2010-11-30 15:28:34;187.105.193.182;pt;local;bio;*;*;*;;1
+2010-11-30 15:30:51;187.105.193.182;pt;regional;bvs;db:SciELO Brasil;*;*;;1
+2010-11-30 15:31:18;187.105.193.182;pt;regional;bvs;db:SciELO Brasil;*;*;;1
+2010-11-30 15:31:30;187.105.193.182;pt;regional;bvs;db:scib;*;*;;1
+2010-11-30 15:31:49;187.105.193.182;pt;local;bio;*;*;*;;1
+2010-11-30 15:31:54;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 15:31:55;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 15:31:59;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 15:36:51;187.105.193.182;pt;regional;bvs;db:BHL Brasil;*;*;;1
+2010-11-30 15:36:55;187.105.193.182;pt;regional;bvs;db:BHL Global;*;*;;1
+2010-11-30 15:39:54;187.105.193.182;pt;local;bio;*;*;*;;1
+2010-11-30 15:40:03;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 15:40:08;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 15:40:29;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 15:40:45;187.105.193.182;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-11-30 15:40:46;187.105.193.182;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-11-30 15:40:50;187.105.193.182;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-11-30 15:41:55;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 15:41:57;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 15:42:32;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 15:42:56;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 15:43:02;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 15:43:17;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 15:44:02;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 15:44:12;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 15:44:12;187.105.193.182;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-11-30 15:44:16;187.105.193.182;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-11-30 15:44:18;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 15:44:20;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 15:48:19;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 15:53:44;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 15:55:10;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 15:55:20;187.105.193.182;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-11-30 15:55:24;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 15:57:00;187.105.193.182;pt;local;bio;$;*;*;;1
+2010-11-30 15:57:08;187.105.193.182;pt;local;bio;biodiversidade;*;*;;1
+2010-11-30 16:12:18;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 16:12:27;187.105.193.182;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-11-30 16:12:30;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 16:26:30;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 16:30:47;187.105.193.182;pt;local;bio;*;*;*;;1
+2010-11-30 16:31:28;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 16:34:00;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 16:39:44;187.105.193.182;pt;local;bio;*;*;*;;1
+2010-11-30 16:40:00;187.105.193.182;pt;local;bio;*;*;*;;1
+2010-11-30 16:40:09;187.105.193.182;pt;local;bio;*;*;*;;1
+2010-11-30 16:40:55;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 16:40:59;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 16:41:02;187.105.193.182;es;local;bio;Entre uma ou mais palavras;*;BHLB;db:BHLB;1
+2010-11-30 16:41:07;187.105.193.182;es;local;bio;Entre uma ou mais palavras;*;BHLG;db:BHLG;1
+2010-11-30 16:41:10;187.105.193.182;es;local;bio;Entre uma ou mais palavras;*;BHLG;db:BHLG;1
+2010-11-30 16:41:13;187.105.193.182;es;local;bio;Entre uma ou mais palavras;*;SCIB;db:SCIB;1
+2010-11-30 16:41:20;187.105.193.182;es;local;bio;Entre uma ou mais palavras;*;ALL;;1
+2010-11-30 16:41:27;187.105.193.182;es;local;bio;Entre uma ou mais palavras;*;ALL;;1
+2010-11-30 16:41:29;187.105.193.182;es;local;bio;*;*;*;;1
+2010-11-30 16:41:44;187.105.193.182;es;local;bio;zoology;*;SCIB;db:SCIB;1
+2010-11-30 16:41:47;187.105.193.182;es;local;bio;zoology;*;SCIB;db:SCIB;1
+2010-11-30 16:50:55;187.105.193.182;pt;local;bio;*;*;bhlg;;1
+2010-11-30 16:51:06;187.105.193.182;pt;local;bio;*;*;bhlb;;1
+2010-11-30 16:52:02;187.105.193.182;pt;local;bio;*;*;bhlb;;1
+2010-11-30 16:52:08;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 16:52:10;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 16:52:28;187.105.193.182;pt;local;bio;*;*;BHlb;;1
+2010-11-30 16:52:32;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 16:52:39;187.105.193.182;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-11-30 16:52:43;187.105.193.182;pt;local;bio;*;*;bhlb;;1
+2010-11-30 16:53:52;187.105.193.182;pt;local;bio;*;*;bhlb;;1
+2010-11-30 16:54:03;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 16:54:15;187.105.193.182;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-11-30 16:54:20;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 16:54:26;187.105.193.182;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-11-30 16:54:29;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 16:57:54;201.81.227.10;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 16:58:10;201.81.227.10;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-11-30 17:01:28;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 17:01:45;187.105.193.182;pt;local;bio;dengue;*;bhlb;;1
+2010-11-30 17:09:02;187.105.193.182;pt;local;bio;*;*;*;;1
+2010-11-30 17:12:25;187.105.193.182;pt;local;bio;*;*;*;;1
+2010-11-30 17:15:15;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 17:15:20;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;2
+2010-11-30 17:15:31;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 17:15:58;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 17:16:07;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 17:16:16;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 17:16:33;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 17:17:10;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 17:17:26;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB AND type:"book";1
+2010-11-30 17:18:20;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB AND type:"book";1
+2010-11-30 17:18:23;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB AND type:"book" AND year_cluster:"1857";1
+2010-11-30 17:18:34;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB AND type:"book" AND year_cluster:"1857" AND type:"book";1
+2010-11-30 17:18:48;187.105.193.182;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-11-30 17:18:52;187.105.193.182;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-11-30 17:23:45;187.105.193.182;pt;local;bio;dengue;*;*;;1
+2010-11-30 17:24:22;187.105.193.182;pt;local;bio;dengue;*;ALL;;2
+2010-11-30 17:24:28;187.105.193.182;pt;local;bio;dengue;*;ALL;type:"article";1
+2010-11-30 17:24:31;187.105.193.182;pt;local;bio;dengue;*;ALL;type:"article" AND ta_cluster:"Mem. Inst. Oswaldo Cruz";1
+2010-11-30 17:24:45;187.105.193.182;pt;local;bio;dengue;*;ALL;type:"article" AND ta_cluster:"Mem. Inst. Oswaldo Cruz" AND la:"En";1
+2010-11-30 17:25:00;187.105.193.182;pt;local;bio;dengue;*;ALL;type:"article";1
+2010-11-30 17:25:06;187.105.193.182;pt;local;bio;dengue;*;ALL;type:"article" AND la:"Pt";1
+2010-11-30 17:26:35;187.105.193.182;en;local;bio;*;*;*;;1
+2010-11-30 17:26:41;187.105.193.182;en;local;bio;*;*;ALL;la:"Fr";1
+2010-11-30 17:26:51;187.105.193.182;en;local;bio;*;*;*;;1
+2010-11-30 17:43:13;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 17:59:03;187.105.193.182;pt;local;bio;*;*;*;;1
+2010-11-30 17:59:50;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 18:00:07;187.105.193.182;pt;local;bio;*;*;*;;1
+2010-11-30 18:00:23;187.105.193.182;pt;local;bio;*;*;*;;1
+2010-11-30 18:01:15;187.105.193.182;es;local;bio;*;*;ALL;;1
+2010-11-30 18:01:49;187.105.193.182;en;local;bio;*;*;ALL;;1
+2010-11-30 18:02:42;187.105.193.182;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-11-30 18:35:36;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 18:50:11;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 18:50:15;187.105.193.182;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-11-30 18:50:20;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 18:50:27;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 18:50:31;187.105.193.182;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-11-30 18:54:55;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 18:54:59;187.105.193.182;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-11-30 18:55:02;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 19:00:06;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 19:00:09;187.105.193.182;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-11-30 19:00:12;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 19:10:46;187.105.193.182;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 19:10:51;187.105.193.182;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-11-30 19:11:13;187.105.193.182;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 19:12:50;187.105.193.182;pt;local;bio;dengue;*;*;;1
+2010-11-30 19:13:28;187.105.193.182;en;local;bio;*;*;ALL;;1
+2010-11-30 19:22:02;187.105.193.182;es;local;bio;*;*;*;;1
+2010-11-30 19:28:57;187.105.193.182;en;local;bio;*;*;*;;1
+2010-11-30 19:29:12;187.105.193.182;es;local;bio;*;*;*;;1
+2010-11-30 19:29:28;187.105.193.182;es;local;bio;*;*;*;;1
+2010-11-30 19:30:00;187.105.193.182;es;local;bio;*;*;ALL;ta_cluster:"Special scientific report.";1
+2010-11-30 19:30:05;187.105.193.182;es;local;bio;*;*;*;;1
+2010-11-30 19:30:11;187.105.193.182;es;local;bio;*;*;ALL;ta_cluster:"Bulletin - United States National Museum.";1
+2010-11-30 19:30:56;187.105.193.182;es;local;bio;*;*;*;;1
+2010-11-30 19:30:59;187.105.193.182;es;local;bio;*;*;ALL;ta_cluster:"An. Acad. Bras. Ciênc.";1
+2010-11-30 19:31:06;187.105.193.182;es;local;bio;*;*;ALL;ta_cluster:"Braz. arch. biol. technol.";1
+2010-11-30 19:31:19;187.105.193.182;es;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 19:31:27;187.105.193.182;es;local;bio;*;*;SCIB;db:SCIB;7
+2010-11-30 21:48:19;201.81.227.10;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 21:48:29;201.81.227.10;pt;local;bio;*;*;ALL;;1
+2010-11-30 21:51:09;201.81.227.10;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-11-30 21:57:35;201.81.227.10;pt;local;bio;*;*;ALL;;1
+2010-11-30 22:06:39;201.87.88.165;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-11-30 22:21:36;201.87.88.165;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-11-30 22:26:44;201.81.227.10;pt;local;bio;*;*;ALL;;1

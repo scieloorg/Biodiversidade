@@ -1,0 +1,33 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-01-23 03:28:27;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-23 10:33:02;66.249.72.148;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-23 10:52:44;66.249.72.148;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-23 10:58:49;66.249.72.148;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-23 11:00:13;66.249.72.148;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-23 14:48:15;189.90.245.78;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-23 14:57:25;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-23 17:39:18;187.6.65.91;pt;local;bio;importancia alimentar;*;*;;1
+2011-01-23 18:00:27;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-23 18:59:34;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-23 20:12:18;187.6.65.91;pt;local;bio;AMAZONIA MERIDIONAL;*;*;;1
+2011-01-23 20:13:04;187.6.65.91;pt;local;bio;AMAZONIA ;*;*;;1
+2011-01-23 20:13:47;187.6.65.91;pt;local;bio;AMAZONIA ;*;ALL;;2
+2011-01-23 20:13:59;187.6.65.91;pt;local;bio;MAMIFEROS AMAZONIA;*;ALL;;1
+2011-01-23 20:14:31;187.6.65.91;pt;local;bio;MAMMALS  AMAZONIA;*;ALL;;1
+2011-01-23 20:15:17;187.6.65.91;pt;local;bio; AMAZONIA BRASILEIRA;*;ALL;;1
+2011-01-23 20:16:07;187.6.65.91;pt;local;bio; AMAZONIA BRASILEIRA;*;ALL;;2
+2011-01-23 20:16:28;187.6.65.91;pt;local;bio; AMAZONIA BRASILEIRA;*;ALL;;3
+2011-01-23 20:16:38;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-23 20:23:06;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-23 20:23:48;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-23 21:08:05;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-23 21:23:58;189.58.246.27;pt;local;bio;plantas aquaticas;*;*;;1
+2011-01-23 21:24:41;189.58.246.27;pt;local;bio;plantas aquaticas;*;ALL;;2
+2011-01-23 21:25:12;189.58.246.27;pt;local;bio;plantas aquaticas;*;ALL;;3
+2011-01-23 21:26:08;189.58.246.27;pt;local;bio;unidades de conservação;*;*;;1
+2011-01-23 21:26:31;189.58.246.27;pt;local;bio;reserva biologica;*;ALL;;1
+2011-01-23 21:27:14;189.58.246.27;pt;local;bio;Mato grande;*;*;;1
+2011-01-23 21:35:13;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-23 22:56:58;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-23 23:23:10;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-23 23:49:50;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1

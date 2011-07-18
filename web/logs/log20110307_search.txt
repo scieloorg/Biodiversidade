@@ -1,0 +1,39 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-03-07 00:56:01;66.249.71.98;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-07 03:31:21;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-07 06:52:38;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-07 08:45:25;66.249.71.98;yiewkcbsz;local;bio;*;*;*;;1
+2011-03-07 09:08:20;66.249.71.98;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-07 12:01:12;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-07 13:58:03;66.249.71.98;yiewkcbsz;local;bio;*;*;*;;1
+2011-03-07 14:40:31;201.88.124.187;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-07 14:41:04;201.88.124.187;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-07 14:41:29;201.88.124.187;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-07 14:41:36;201.88.124.187;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-07 14:41:44;201.88.124.187;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-07 14:41:53;201.88.124.187;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-07 15:32:32;66.249.71.98;pt;local;bio;*;*;*;;1
+2011-03-07 17:02:21;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-07 19:45:17;201.67.59.197;pt;local;bio;microbiologico;*;*;;1
+2011-03-07 19:59:45;66.249.71.98;yiewkcbsz;local;bio;*;*;*;;1
+2011-03-07 21:02:28;201.52.123.253;pt;local;bio;atas da Sociedade de biologia;*;*;;1
+2011-03-07 21:02:48;201.52.123.253;pt;local;bio;Sick;au;ALL;;1
+2011-03-07 21:03:07;201.52.123.253;pt;local;bio;pinto;au;ALL;;1
+2011-03-07 21:03:25;201.52.123.253;pt;local;bio;Oliverio Pinto;au;ALL;;1
+2011-03-07 21:03:35;66.249.71.98;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-03-07 21:03:36;201.52.123.253;pt;local;bio;Pinto, oliverio;au;ALL;;1
+2011-03-07 21:03:55;201.52.123.253;pt;local;bio;conteúdo gástrico;*;ALL;;1
+2011-03-07 21:04:02;201.52.123.253;pt;local;bio;aves;*;ALL;;1
+2011-03-07 21:04:54;201.52.123.253;pt;local;bio;Arandas Rêgo;*;ALL;;1
+2011-03-07 21:04:59;201.52.123.253;pt;local;bio;Rêgo;*;ALL;;1
+2011-03-07 21:05:12;201.52.123.253;pt;local;bio;Rêgo;au;BHLB;db:BHLB;1
+2011-03-07 21:05:17;201.52.123.253;pt;local;bio;aves;au;BHLB;db:BHLB;1
+2011-03-07 21:05:24;201.52.123.253;pt;local;bio;aves;*;BHLB;db:BHLB;1
+2011-03-07 21:05:33;201.52.123.253;pt;local;bio;aves;*;ALL;;1
+2011-03-07 21:05:53;201.52.123.253;pt;local;bio;aves;*;ALL;ta_cluster:"Rev. Bras. Zool.";1
+2011-03-07 21:06:31;201.52.123.253;pt;local;bio;aves;*;ALL;ta_cluster:"Rev. Bras. Zool.";2
+2011-03-07 21:06:52;201.52.123.253;pt;local;bio;melodus;*;ALL;;1
+2011-03-07 21:35:30;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-07 23:32:44;65.55.25.138;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-07 23:32:51;65.55.25.138;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-07 23:35:48;66.249.71.98;qwkilqgvraugpkn;local;bio;*;*;*;;1

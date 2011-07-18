@@ -1,0 +1,98 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-03-11 00:18:50;66.249.71.98;yiewkcbsz;local;bio;*;*;*;;1
+2011-03-11 00:35:25;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-11 02:47:58;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-11 02:47:58;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-11 02:47:59;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-11 02:47:59;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-11 04:33:38;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-11 05:18:38;207.46.204.205;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-11 06:03:01;213.186.120.196;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-11 06:03:12;213.186.120.196;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-03-11 06:03:14;213.186.120.196;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-11 06:38:47;207.46.195.230;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-11 06:41:00;66.249.71.98;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-03-11 08:41:20;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-11 11:44:27;74.125.75.3;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-11 11:47:29;187.105.193.182;pt;local;bio;*;*;*;;1
+2011-03-11 12:00:44;187.105.193.182;pt;local;bio;*;*;*;;1
+2011-03-11 13:09:16;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-11 13:55:09;200.198.90.74;pt;local;bio;consorcio empresa;*;*;;1
+2011-03-11 14:46:11;66.249.71.98;pt;local;bio;*;*;*;;1
+2011-03-11 14:50:54;200.144.29.106;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-11 14:54:40;200.144.29.106;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Rev. bras. Bot.";1
+2011-03-11 17:00:56;189.84.161.33;pt;local;bio;Epicadus;*;*;;1
+2011-03-11 17:02:23;189.84.161.33;pt;local;bio;Instituto Butantan;*;*;;1
+2011-03-11 17:16:00;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-11 18:36:04;213.186.120.196;pt;local;bio;*;*;*;;1
+2011-03-11 18:36:10;213.186.120.196;pt;local;bio;*;*;*;;1
+2011-03-11 18:36:17;213.186.120.196;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-11 18:36:18;213.186.120.196;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-03-11 18:36:19;213.186.120.196;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-11 18:36:20;213.186.120.196;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-11 18:36:22;213.186.120.196;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-03-11 18:36:23;213.186.120.196;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-11 18:36:25;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:36:27;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:36:29;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:36:37;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:36:43;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:36:45;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:36:48;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:36:51;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:36:59;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:37:03;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:37:05;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:37:08;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:37:12;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:37:16;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:37:19;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:37:23;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:37:26;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:37:31;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:37:37;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:37:39;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:37:43;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:37:47;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:37:51;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:37:58;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:38:00;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:38:02;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:38:04;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:38:08;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:38:16;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 18:38:21;213.186.120.196;pt;local;bio;Sua seleção;*;*;;1
+2011-03-11 20:16:07;187.19.72.25;pt;local;bio;educação ambiental;*;*;;1
+2011-03-11 20:16:20;187.19.72.25;pt;local;bio;educacao ambiental;*;ALL;;1
+2011-03-11 20:16:33;187.19.72.25;pt;local;bio;educacao ambiental;*;ALL;la:"Pt";1
+2011-03-11 20:17:01;187.19.72.25;pt;local;bio;poluicao agua peixe;*;ALL;;1
+2011-03-11 20:17:08;187.19.72.25;pt;local;bio;poluicao ;*;ALL;;1
+2011-03-11 20:17:15;187.19.72.25;pt;local;bio;poluicao ;*;ALL;la:"Pt";1
+2011-03-11 20:17:36;187.19.72.25;pt;local;bio;poluicao ;*;ALL;la:"Pt" AND year_cluster:"2009";1
+2011-03-11 21:38:37;200.189.232.71;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-03-11 21:38:41;200.189.232.71;pt;local;bio;educação ambiental;*;*;;1
+2011-03-11 21:38:47;200.189.232.71;pt;local;bio;educacao ambiental;*;*;;1
+2011-03-11 21:38:50;200.189.232.71;pt;local;bio;bioindicadores;*;*;;1
+2011-03-11 21:39:04;200.189.232.71;pt;local;bio;educação ambiental;*;*;;1
+2011-03-11 21:39:05;200.189.232.71;pt;local;bio;educação ambiental;*;*;;1
+2011-03-11 21:39:09;200.189.232.71;pt;local;bio;meio ambiente;*;*;;1
+2011-03-11 21:39:13;200.189.232.71;pt;local;bio;revitalização do parque;*;*;;1
+2011-03-11 21:39:16;200.189.232.71;pt;local;bio;bioindicadores;*;ALL;la:"Pt";1
+2011-03-11 21:39:21;200.189.232.71;pt;local;bio;gestão de resíduos;*;*;;1
+2011-03-11 21:39:21;200.189.232.71;pt;local;bio;educacao ambiental;*;ALL;year_cluster:"2009";1
+2011-03-11 21:39:22;200.189.232.71;pt;local;bio;educação ambiental;*;*;;1
+2011-03-11 21:39:26;200.189.232.71;pt;local;bio;meio ambiente;*;*;;1
+2011-03-11 21:39:26;200.189.232.71;pt;local;bio;meio ambiente;*;ALL;la:"Pt";1
+2011-03-11 21:39:30;200.189.232.71;pt;local;bio;residuos sólidos;*;ALL;;1
+2011-03-11 21:39:45;200.189.232.71;pt;local;bio;educacao ambiental;*;*;;1
+2011-03-11 21:39:46;200.189.232.71;pt;local;bio;meio ambiente;*;*;;1
+2011-03-11 21:39:46;200.189.232.71;pt;local;bio;educacao ambiental;*;ALL;;1
+2011-03-11 21:39:48;200.189.232.71;pt;local;bio;meio ambiente;*;ALL;la:"Pt" AND la:"Pt";1
+2011-03-11 21:39:53;200.189.232.71;pt;local;bio;gestao de residuos;*;*;;1
+2011-03-11 21:39:55;200.189.232.71;pt;local;bio;meio ambiente;*;ALL;la:"Pt" AND la:"Pt" AND ta_cluster:"Acta Amaz.";1
+2011-03-11 21:40:12;200.189.232.71;pt;local;bio;implantaçao de educaçao ambiental no parque;*;*;;1
+2011-03-11 21:40:56;200.189.232.71;pt;local;bio;educação ambiental;*;*;;1
+2011-03-11 21:41:03;200.189.232.71;pt;local;bio;eucalipto;*;ALL;;1
+2011-03-11 21:41:03;200.189.232.71;pt;local;bio;meio ambiente;*;*;;1
+2011-03-11 22:02:55;66.249.71.98;pt;local;bio;*;*;*;;1
+2011-03-11 22:17:02;209.131.41.48;pt;local;bio;*;*;*;;1

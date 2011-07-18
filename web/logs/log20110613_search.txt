@@ -1,0 +1,62 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-06-13 03:05:01;201.220.215.13;pt;local;bio;¿Cómo escribir un artículo científico;*;*;;1
+2011-06-13 03:13:22;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-13 03:17:06;213.186.120.196;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-13 03:17:07;213.186.120.196;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-06-13 03:17:08;213.186.120.196;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-13 05:10:09;203.131.252.118;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-06-13 06:09:06;66.249.71.34;xfdblysxhm;local;bio;*;*;*;;1
+2011-06-13 06:54:42;66.249.71.34;xfdblysxhm;local;bio;+id:("lil-9030037220");*;*;;1
+2011-06-13 06:56:56;93.188.137.23;pt;local;bio;Tenerife gecko;*;*;;1
+2011-06-13 07:28:08;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-13 08:13:50;93.188.137.23;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-13 08:14:16;93.188.137.23;pt;local;bio;*;*;SCIB;db:SCIB AND year_cluster:"2009";1
+2011-06-13 08:14:57;93.188.137.23;pt;local;bio;especies invasoras;*;ALL;;1
+2011-06-13 08:17:15;93.188.137.23;pt;local;bio;especies invasoras;*;ALL;;1
+2011-06-13 08:59:40;66.249.71.34;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-06-13 10:12:18;157.86.112.214;pt;local;bio;Abderhalden, E;*;*;;1
+2011-06-13 10:13:20;157.86.112.214;pt;local;bio;Abderhalden, E and Haas,R;*;ALL;;1
+2011-06-13 10:13:24;157.86.112.214;pt;local;bio;Abderhalden, E and Haas,R;ti;ALL;;1
+2011-06-13 10:13:27;157.86.112.214;pt;local;bio;Abderhalden, E and Haas,R;au;ALL;;1
+2011-06-13 10:13:30;157.86.112.214;pt;local;bio;Abderhalden, E and Haas,R;au;BHLB;db:BHLB;1
+2011-06-13 10:13:38;157.86.112.214;pt;local;bio;Abderhalden, E ;au;BHLB;db:BHLB;1
+2011-06-13 10:13:41;157.86.112.214;pt;local;bio;Abderhalden, E ;au;BHLB;db:BHLB;1
+2011-06-13 10:13:45;157.86.112.214;pt;local;bio;Abderhalden, E ;au;BHLG;db:BHLG;1
+2011-06-13 10:13:49;157.86.112.214;pt;local;bio;Abderhalden, E ;au;SCIB;db:SCIB;1
+2011-06-13 10:13:53;157.86.112.214;pt;local;bio;Abderhalden, E ;au;ALL;;1
+2011-06-13 10:13:55;157.86.112.214;pt;local;bio;Abderhalden, E ;au;ALL;;1
+2011-06-13 10:14:04;157.86.112.214;pt;local;bio;Abderhalden, E ;*;BHLB;db:BHLB;1
+2011-06-13 10:14:07;157.86.112.214;pt;local;bio;Abderhalden, E ;ti;BHLB;db:BHLB;1
+2011-06-13 10:14:15;157.86.112.214;pt;local;bio;Abderhalden, E ;*;BHLG;db:BHLG;1
+2011-06-13 10:17:50;157.86.112.214;pt;local;bio;Emilio Abderhalden;*;*;;1
+2011-06-13 11:42:30;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-13 11:49:28;187.78.183.27;pt;local;bio;PASSER DOMESTICUS ARTIGOS CIENTIFICUS;*;*;;1
+2011-06-13 11:50:19;187.78.189.24;pt;local;bio;INCIDENCIA DE PASSER DOMESTICUS EM CENTROS URBANOS;*;*;;1
+2011-06-13 12:25:28;157.86.103.196;pt;local;bio;Pieridae;*;*;;1
+2011-06-13 12:30:57;157.86.103.196;pt;local;bio;Pieridae;*;*;;1
+2011-06-13 12:32:40;157.86.103.196;pt;local;bio;Pieridae;*;*;;1
+2011-06-13 12:34:11;157.86.103.196;pt;local;bio;Pieridae;*;*;;1
+2011-06-13 12:34:51;157.86.103.196;pt;local;bio;Pieridae;*;*;;1
+2011-06-13 13:02:54;157.86.103.196;pt;local;bio;Pieridae;*;*;;1
+2011-06-13 13:21:03;66.249.71.34;pt;local;bio;*;*;*;;1
+2011-06-13 14:10:14;207.46.194.127;pt;local;bio;*;*;*;;1
+2011-06-13 14:18:39;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-13 14:24:55;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-13 14:45:38;146.164.75.8;pt;local;bio;pulso de inundação;*;*;;1
+2011-06-13 14:46:45;146.164.75.8;pt;local;bio;flood pulse;*;ALL;;1
+2011-06-13 14:47:29;146.164.75.8;pt;local;bio;flood pulse;*;ALL;;2
+2011-06-13 14:48:12;146.164.75.8;pt;local;bio;cladocera;*;ALL;;1
+2011-06-13 14:55:56;187.50.63.195;pt;local;bio;vigilancia sanitaria;*;*;;1
+2011-06-13 15:02:26;201.62.193.187;pt;local;bio;ARTIGOS SOBRE FERIDAS;*;*;;1
+2011-06-13 15:44:50;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-13 15:44:57;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-13 15:46:23;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-13 16:38:20;187.41.141.124;pt;local;bio;PROJETO DE PESQUISA HOSPITAL PUBLICO;*;*;;1
+2011-06-13 16:38:44;187.41.141.124;pt;local;bio;PROJETO DE PESQUISA MARKETING NO HOSPITAL PÚBLICO;*;*;;1
+2011-06-13 16:38:51;187.41.141.124;pt;local;bio;PROJETO DE PESQUISA MARKETING NO HOSPITAL PÚBLICO;*;ALL;;1
+2011-06-13 17:52:41;201.220.215.12;es;local;bio;Dra.zermira chavez galvez;*;*;;1
+2011-06-13 18:51:34;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-13 18:51:41;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-13 19:52:34;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-13 21:25:14;187.143.195.204;pt;local;bio;poblacion iteropara;*;*;;1
+2011-06-13 23:57:47;209.131.41.49;pt;local;bio;*;*;*;;1

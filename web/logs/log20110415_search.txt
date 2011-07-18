@@ -1,0 +1,57 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-04-15 00:51:55;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-15 03:19:10;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-15 03:19:11;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-15 03:19:11;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-15 03:19:11;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-15 05:04:34;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-15 08:42:40;201.91.128.225;pt;local;bio;co depencia;*;*;;1
+2011-04-15 09:07:07;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-15 09:49:37;200.17.201.61;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-15 09:51:25;200.17.201.61;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-15 09:51:52;200.17.201.61;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Memórias do Instituto Oswaldo Cruz.";1
+2011-04-15 09:52:26;200.17.201.61;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Memórias do Instituto Oswaldo Cruz.";1
+2011-04-15 10:46:43;146.164.3.203;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-15 10:47:26;146.164.3.203;pt;local;bio;Embriological studies in compositae III;*;SCIB;db:SCIB;1
+2011-04-15 10:49:15;146.164.3.203;pt;local;bio;C.N.A.Boletim da Comissão Nacional de Alimentação;*;SCIB;db:SCIB;1
+2011-04-15 10:49:40;146.164.3.203;pt;local;bio;Embriological studies in compositae III;*;SCIB;db:SCIB;2
+2011-04-15 10:50:28;146.164.3.203;pt;local;bio;Embriological studies in compositae III;*;SCIB;db:SCIB;2
+2011-04-15 10:51:23;146.164.3.203;pt;local;bio;Embriological studies in compositae III;*;SCIB;db:SCIB;3
+2011-04-15 10:51:43;146.164.3.203;pt;local;bio;Embriological studies in compositae III;kw;SCIB;db:SCIB;1
+2011-04-15 12:54:56;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-04-15 12:55:11;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-04-15 12:55:16;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-04-15 12:55:23;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-04-15 13:07:05;190.121.135.76;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-15 13:10:59;190.121.135.76;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-15 13:11:33;190.121.135.76;pt;local;bio;*;*;SCIB;db:SCIB AND la:"Es";1
+2011-04-15 13:12:32;190.121.135.76;pt;local;bio;*;*;SCIB;db:SCIB AND la:"Es";2
+2011-04-15 13:15:02;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-04-15 13:15:29;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-04-15 13:15:30;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-04-15 13:15:37;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-04-15 13:17:16;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-04-15 13:17:49;190.121.135.76;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-04-15 13:18:11;190.121.135.76;es;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-15 13:39:48;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-15 14:14:51;200.129.136.67;pt;local;bio;euphorbiaceae com ciáteo;*;*;;1
+2011-04-15 14:15:09;200.129.136.67;pt;local;bio;euphorbiaceae;*;*;;1
+2011-04-15 14:43:08;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-04-15 15:20:59;66.249.71.43;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-15 16:14:16;66.249.71.43;yiewkcbsz;local;bio;*;*;*;;1
+2011-04-15 16:28:29;200.137.128.130;pt;local;bio;tumor mamario caninos hipercalcemia;*;*;;1
+2011-04-15 16:28:57;200.137.128.130;pt;local;bio; hipercalcemia;*;ALL;;1
+2011-04-15 16:43:21;76.76.105.250;pt;local;http://www.djalessandro.com.br/modulos/galeria/images/galeria/thumbs/cmd.so.txt?;*;*;*;;1
+2011-04-15 16:43:37;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-15 16:47:12;200.131.224.3;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-15 20:02:29;66.249.71.43;pt;local;bio;+id:("lil-3551021638");*;*;;1
+2011-04-15 20:45:05;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-15 21:16:42;201.22.141.251;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-15 21:17:06;201.22.141.251;pt;local;bio;efeito de borda;*;SCIB;db:SCIB;1
+2011-04-15 21:17:46;201.22.141.251;pt;local;bio;efeito de borda;*;SCIB;db:SCIB;2
+2011-04-15 21:18:06;201.22.141.251;pt;local;bio;*;*;*;;1
+2011-04-15 21:18:18;201.22.141.251;pt;local;bio;hidroeletricas;*;ALL;;1
+2011-04-15 21:18:38;201.22.141.251;pt;local;bio;genetica;*;ALL;;1
+2011-04-15 21:18:38;201.22.141.251;pt;local;bio;genetica;*;ALL;;1
+2011-04-15 21:18:53;201.22.141.251;pt;local;bio;genetica;*;ALL;;7
+2011-04-15 22:23:53;201.62.137.106;pt;local;bio;chaplim;*;*;;1

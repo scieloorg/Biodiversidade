@@ -1,0 +1,46 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-05-12 00:06:42;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-12 02:02:03;201.41.180.146;pt;local;bio;hiperlordose lombar;*;*;;1
+2011-05-12 04:14:37;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-12 04:47:00;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-12 04:47:01;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-12 04:47:02;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-12 04:47:02;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-12 06:48:06;66.249.71.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-12 08:21:29;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-12 08:22:45;66.249.71.72;yiewkcbsz;local;bio;+id:("lil-9030037111");*;*;;1
+2011-05-12 11:09:37;200.132.192.2;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-12 11:21:13;66.249.71.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-12 12:25:59;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-12 13:34:37;66.249.71.72;pt;local;bio;*;*;*;;1
+2011-05-12 15:12:36;66.249.71.72;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-12 16:28:54;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-12 16:29:19;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-12 17:10:22;201.57.234.131;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-12 17:11:07;201.57.234.131;pt;local;bio;pre-eclaps;ti;SCIB;db:SCIB;1
+2011-05-12 17:11:08;201.57.234.131;pt;local;bio;pre-eclaps;ti;SCIB;db:SCIB;1
+2011-05-12 17:11:24;201.57.234.131;pt;local;bio;pre-eclamps;ti;SCIB;db:SCIB;1
+2011-05-12 17:11:30;201.57.234.131;pt;local;bio;*;*;*;;1
+2011-05-12 17:12:09;201.57.234.131;pt;local;bio;gestação;*;SCIB;db:SCIB;1
+2011-05-12 17:12:23;201.57.234.131;pt;local;bio;gestação;*;SCIB;db:SCIB;1
+2011-05-12 17:12:39;201.57.234.131;pt;local;bio;pre-eclamps;ti;SCIB;db:SCIB;1
+2011-05-12 17:18:56;200.129.128.7;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-12 17:33:11;66.249.71.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-12 18:14:05;189.98.141.98;pt;local;bio;mostofauna do cerrado;*;*;;1
+2011-05-12 18:14:31;189.98.141.98;pt;local;bio;mostofauna do cerrado;kw;ALL;;1
+2011-05-12 18:14:48;189.98.141.98;pt;local;bio;lobo guara;kw;ALL;;1
+2011-05-12 18:15:09;189.98.141.98;pt;local;bio;lobo guara;kw;SCIB;db:SCIB;1
+2011-05-12 18:15:29;189.98.141.98;pt;local;bio;mamiferos;kw;SCIB;db:SCIB;1
+2011-05-12 18:22:24;66.249.71.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-12 19:02:43;200.132.140.1;pt;local;bio;insetos como fonte de alimentos;*;*;;1
+2011-05-12 19:51:45;187.35.29.149;pt;local;bio;plantas medicinais;*;*;;1
+2011-05-12 19:53:05;187.35.29.149;pt;local;bio;plantas medicinais;*;ALL;;2
+2011-05-12 19:58:10;187.35.29.149;pt;local;bio;plantas medicinais;*;ALL;ta_cluster:"Rev. bras. Bot.";1
+2011-05-12 20:01:37;187.35.29.149;pt;local;bio;plantas medicinais- beldroega;*;*;;1
+2011-05-12 20:32:36;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-12 20:48:39;66.249.71.72;pt;local;bio;*;*;*;;1
+2011-05-12 22:34:07;177.28.130.198;pt;local;bio;qualidade de vida;*;*;;1
+2011-05-12 22:35:06;177.28.130.198;pt;local;bio;qualidade de vida;*;BHLB;db:BHLB;1
+2011-05-12 22:38:54;66.249.71.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-12 23:33:18;66.249.71.72;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-12 23:40:46;209.131.41.49;pt;local;bio;*;*;*;;1

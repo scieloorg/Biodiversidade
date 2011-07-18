@@ -1,0 +1,61 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-04-19 00:24:46;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-04-19 01:45:31;66.249.71.43;pt;local;bio;*;*;*;;1
+2011-04-19 03:53:14;66.249.71.43;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-19 03:55:44;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-19 04:54:12;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-04-19 04:55:40;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-19 04:55:41;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-19 04:55:41;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-19 04:55:42;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-19 07:59:57;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-19 10:18:29;200.10.179.113;pt;local;bio;*;*;*;;1
+2011-04-19 10:18:47;200.10.179.113;pt;local;bio;*;*;ALL;;1
+2011-04-19 10:18:51;200.10.179.113;pt;local;bio;*;*;ALL;;1
+2011-04-19 10:54:47;187.78.18.59;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-19 10:56:13;187.78.18.59;pt;local;bio;*;kw;SCIB;db:SCIB;1
+2011-04-19 10:57:26;187.78.18.59;pt;local;bio;fosfolipase a2;kw;SCIB;db:SCIB;1
+2011-04-19 10:57:58;187.78.18.59;pt;local;bio;cascavel;kw;SCIB;db:SCIB;1
+2011-04-19 10:58:21;187.78.18.59;pt;local;bio;rattlesnake;kw;SCIB;db:SCIB;1
+2011-04-19 10:58:38;187.78.18.59;pt;local;bio;rattlesnake;*;SCIB;db:SCIB;1
+2011-04-19 10:59:23;187.78.18.59;pt;local;bio;crotalus durissus cascavella;*;SCIB;db:SCIB;1
+2011-04-19 13:03:42;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-19 14:19:17;66.249.71.43;pt;local;bio;*;*;*;;1
+2011-04-19 14:26:20;187.114.146.143;pt;local;bio;desenvolvimento  urbano sustentável ;*;*;;1
+2011-04-19 14:26:38;187.114.146.143;pt;local;bio;desenvolvimento  urbano sustentável ;*;SCIB;db:SCIB;1
+2011-04-19 14:26:47;187.114.146.143;pt;local;bio;desenvolvimento  urbano sustentável ;*;BHLG;db:BHLG;1
+2011-04-19 14:26:50;187.114.146.143;pt;local;bio;desenvolvimento  urbano sustentável ;*;BHLG;db:BHLG;1
+2011-04-19 14:26:56;187.114.146.143;pt;local;bio;desenvolvimento  urbano sustentável ;*;BHLG;db:BHLG;1
+2011-04-19 14:26:57;187.114.146.143;pt;local;bio;desenvolvimento  urbano sustentável ;*;BHLG;db:BHLG;1
+2011-04-19 15:39:43;66.249.71.43;xfdblysxhm;local;bio;*;*;*;;1
+2011-04-19 16:01:11;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-04-19 16:07:01;69.63.189.244;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-19 16:07:01;69.171.224.244;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-04-19 16:07:06;69.171.224.245;pt;local;bio;*;*;*;;1
+2011-04-19 16:07:06;69.171.224.244;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-19 16:49:41;200.178.85.20;pt;local;bio;obesidade na gestação;*;*;;1
+2011-04-19 16:50:22;200.178.85.20;pt;local;bio;obesidade na gestação;kw;SCIB;db:SCIB;1
+2011-04-19 16:50:32;200.178.85.20;pt;local;bio;obesidade na gestação;kw;SCIB;db:SCIB;1
+2011-04-19 17:24:30;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-19 17:32:05;200.252.135.218;pt;local;bio;Hypsolebias similis;*;*;;1
+2011-04-19 18:21:57;85.242.45.147;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-19 21:29:57;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-19 21:49:31;189.15.134.130;pt;local;bio;artigo;*;*;;1
+2011-04-19 21:50:15;189.15.134.130;pt;local;bio;artigo;*;ALL;;2
+2011-04-19 21:51:21;189.15.134.130;pt;local;bio;artigo;*;ALL;;3
+2011-04-19 21:52:01;189.15.134.130;pt;local;bio;artigo;*;ALL;;4
+2011-04-19 21:52:15;189.15.134.130;pt;local;bio;artigo;*;ALL;;5
+2011-04-19 21:52:46;189.15.134.130;pt;local;bio;artigo;*;ALL;;6
+2011-04-19 21:53:28;189.15.134.130;pt;local;bio;artigo;*;ALL;;7
+2011-04-19 21:53:53;189.15.134.130;pt;local;bio;artigo;*;ALL;;8
+2011-04-19 21:54:08;189.15.134.130;pt;local;bio;artigo;*;ALL;;9
+2011-04-19 21:54:40;189.15.134.130;pt;local;bio;artigo;*;ALL;;10
+2011-04-19 22:08:38;201.22.130.171;pt;local;bio;MATA ATLANTICA;*;*;;1
+2011-04-19 22:08:56;201.22.130.171;pt;local;bio;MATA ATLANTICA + UNIDADES DE CONSERVAÇÃO;*;ALL;;1
+2011-04-19 22:09:19;201.22.130.171;pt;local;bio;MATA ATLANTICA + AREAS PROTEGIDAS;*;ALL;;1
+2011-04-19 22:09:55;201.22.130.171;pt;local;bio;UNIDADES DE CONSERVAÇÃO;*;ALL;;1
+2011-04-19 22:10:02;201.22.130.171;pt;local;bio;UC;*;ALL;;1
+2011-04-19 22:10:37;201.22.130.171;pt;local;bio;MATA ATLANTICA + FLORESTA NACIONAL;*;ALL;;1
+2011-04-19 22:10:57;201.22.130.171;pt;local;bio;Sua seleção;*;*;;1
+2011-04-19 22:12:31;201.22.130.171;pt;local;bio;MATA ATLANTICA + CONSERVAÇÃO;*;*;;1
+2011-04-19 22:12:42;201.22.130.171;pt;local;bio;MATA ATLANTICA + CONSERVATION;*;ALL;;1

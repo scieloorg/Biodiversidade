@@ -1,0 +1,42 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-05-26 00:12:03;66.249.72.241;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-26 02:52:11;187.80.25.134;pt;local;bio;zoociencias;*;*;;1
+2011-05-26 02:52:34;187.80.25.134;pt;local;bio;roraima;*;ALL;;1
+2011-05-26 02:53:46;187.80.25.134;pt;local;bio;roraima;*;ALL;;2
+2011-05-26 02:55:03;187.80.25.134;pt;local;bio;roraima;*;ALL;;3
+2011-05-26 02:58:06;187.80.25.134;pt;local;bio;roraima;*;ALL;;4
+2011-05-26 02:59:20;187.80.25.134;pt;local;bio;roraima;*;ALL;;5
+2011-05-26 03:00:25;187.80.25.134;pt;local;bio;roraima;*;ALL;;6
+2011-05-26 03:01:18;187.80.25.134;pt;local;bio;lavrado;*;ALL;;1
+2011-05-26 03:01:55;187.80.25.134;pt;local;bio;savana;*;ALL;;1
+2011-05-26 03:04:07;187.80.25.134;pt;local;bio;savana;*;ALL;;2
+2011-05-26 03:06:21;187.80.25.134;pt;local;bio;Pinese;au;SCIB;db:SCIB;1
+2011-05-26 03:36:08;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-26 04:40:15;66.249.72.241;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-26 04:42:49;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-26 04:42:50;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-26 04:42:50;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-26 04:42:51;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-26 06:48:06;66.249.72.241;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-26 07:00:02;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-26 09:12:51;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-26 10:40:36;66.249.72.241;pt;local;bio;+id:("scl-S0074-02761909000200008");*;*;;1
+2011-05-26 10:48:24;66.249.72.241;pt;local;bio;+id:("scl-S0074-02761909000100002");*;*;;1
+2011-05-26 12:42:03;66.249.72.241;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-05-26 13:22:43;66.249.72.241;ppufejihenzxjri;local;bio;+id:("lil-9030037178");*;*;;1
+2011-05-26 13:24:29;66.249.72.241;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-26 13:30:13;66.249.72.241;pt;local;bio;*;*;*;;1
+2011-05-26 13:30:47;66.249.72.241;ppufejihenzxjri;local;bio;+id:("lil-9030037178");*;*;;1
+2011-05-26 14:35:13;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-26 15:57:12;66.249.72.241;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-26 15:59:46;189.90.241.22;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-26 16:00:06;189.90.241.22;pt;local;bio;*;*;SCIB;db:SCIB AND la:"Pt";1
+2011-05-26 16:00:20;189.90.241.22;pt;local;bio;*;*;SCIB;db:SCIB AND la:"Pt" AND ta_cluster:"Acta Bot. Bras.";1
+2011-05-26 16:08:19;65.49.14.50;pt;local;bio;homocisteina;*;*;;1
+2011-05-26 16:08:41;65.49.14.50;pt;local;bio;hipertensao;*;*;;1
+2011-05-26 16:20:31;200.136.72.254;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-26 18:49:07;66.249.72.241;qwkilqgvraugpkn;local;bio;+id:("lil-9030037197");*;*;;1
+2011-05-26 19:38:30;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-26 20:28:10;203.131.252.118;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-26 21:51:09;66.249.72.241;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-26 23:39:37;66.249.72.241;xfdblysxhm;local;bio;*;*;*;;1

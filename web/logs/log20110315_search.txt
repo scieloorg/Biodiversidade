@@ -1,0 +1,49 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-03-15 00:26:59;66.249.71.98;yiewkcbsz;local;bio;*;*;*;;1
+2011-03-15 03:44:18;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-15 05:19:58;66.249.71.98;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-03-15 05:56:23;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-15 05:56:23;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-15 05:56:24;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-15 05:56:24;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-15 07:14:21;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-15 09:46:02;66.249.71.98;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-15 10:03:33;200.198.242.94;pt;local;bio;manejo florestal;*;*;;1
+2011-03-15 10:27:41;200.130.9.24;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-15 10:27:59;200.130.9.24;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Boletim do Museu Goeldi (Museu Paraense) de Historia Natural e Ethnographia.";1
+2011-03-15 10:29:14;200.130.9.24;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-15 10:30:03;200.130.9.24;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-15 10:30:25;200.130.9.24;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Boletim do Museu Goeldi (Museu Paraense) de Historia Natural e Ethnographia.";1
+2011-03-15 10:33:08;200.130.9.24;pt;local;bio;Goeldi;*;*;;1
+2011-03-15 10:33:38;200.130.9.24;pt;local;bio;Goeldi;*;ALL;;2
+2011-03-15 11:07:23;200.198.242.94;pt;local;bio;manejo florestal sustent;*;*;;1
+2011-03-15 11:07:55;200.198.242.94;pt;local;bio;manejo florestal ;*;ALL;;1
+2011-03-15 11:08:02;200.198.242.94;pt;local;bio;manejo florestal ;*;ALL;;1
+2011-03-15 11:46:38;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-15 11:51:39;200.139.12.121;pt;local;bio;Distribuição de Micoureus demerarae (Didelphimorphia:Didelphidae) na Bacia Amazônica: Uma análise morfométrica;*;*;;1
+2011-03-15 12:40:59;200.139.12.121;pt;local;bio;Distribuição de Micoureus demerarae (Didelphimorphia:Didelphidae) na Bacia Amazônica: Uma análise morfométrica;*;*;;1
+2011-03-15 12:49:51;200.139.12.121;pt;local;bio;Distribuição de Micoures demerarae (Didelphimorphia:Didelphidae) na Bacia Amazônica: Uma análise morfométrica;*;ALL;;1
+2011-03-15 14:18:15;201.35.130.232;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-15 14:45:21;200.198.242.94;pt;local;bio;manejo florestal ;*;ALL;;2
+2011-03-15 14:51:19;200.198.242.94;pt;local;bio;manejo florestal;*;ALL;la:"En";1
+2011-03-15 15:06:57;200.198.242.94;pt;local;bio;manejo florestal;*;ALL;la:"En" AND year_cluster:"2008";1
+2011-03-15 15:42:53;200.130.9.24;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-15 15:43:23;200.130.9.24;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Boletim do Museu Goeldi (Museu Paraense) de Historia Natural e Ethnographia.";1
+2011-03-15 15:48:45;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-15 17:21:44;66.249.71.98;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-03-15 17:39:35;200.130.32.109;pt;local;bio;Margaret Mee;*;*;;1
+2011-03-15 19:13:13;203.153.239.154;pt;local;bio;*;*;*;;1
+2011-03-15 20:06:23;201.91.128.225;pt;local;bio;tioria de elton mayo;*;*;;1
+2011-03-15 20:06:32;201.91.128.225;pt;local;bio;*;*;*;;1
+2011-03-15 20:07:25;201.91.128.225;pt;local;bio; elton mayo;*;ALL;;1
+2011-03-15 20:08:14;201.91.128.225;pt;local;bio;tga;*;*;;1
+2011-03-15 20:26:51;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-15 21:48:19;201.35.138.13;pt;local;bio;Fungos;*;*;;1
+2011-03-15 21:48:48;201.35.138.13;pt;local;bio;Sua seleção;*;*;;1
+2011-03-15 21:57:20;201.35.138.13;pt;local;bio;Fungos;*;ALL;;2
+2011-03-15 22:22:06;201.55.6.13;pt;local;bio;liderança;*;*;;1
+2011-03-15 23:04:35;201.35.138.13;pt;local;bio;Fungos;*;ALL;;3
+2011-03-15 23:21:48;187.101.124.79;pt;local;bio;vitor miranda;*;*;;1
+2011-03-15 23:22:04;187.101.124.79;pt;local;bio;vitor miranda utricularia;*;ALL;;1
+2011-03-15 23:22:14;187.101.124.79;pt;local;bio;vitor miranda drosera;*;ALL;;1
+2011-03-15 23:25:18;66.249.71.98;pt;local;bio;*;*;*;;1

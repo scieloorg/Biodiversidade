@@ -1,0 +1,24 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-04-24 03:32:32;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-24 07:39:38;66.249.71.43;pt;local;bio;*;*;*;;1
+2011-04-24 07:45:00;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-24 11:53:39;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-24 12:43:43;189.83.119.181;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-24 12:44:11;189.83.119.181;pt;local;bio;boborletas;*;SCIB;db:SCIB;1
+2011-04-24 12:44:55;189.83.119.181;pt;local;bio;boborletas;*;SCIB;db:SCIB;1
+2011-04-24 12:45:19;189.83.119.181;pt;local;bio;Papilionoidea;*;SCIB;db:SCIB;1
+2011-04-24 13:50:50;65.52.110.93;pt;local;bio;*;*;*;;1
+2011-04-24 15:00:22;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-24 15:06:31;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-04-24 15:12:33;187.59.49.195;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-04-24 16:05:48;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-04-24 18:18:27;66.249.71.43;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-24 18:20:59;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-24 18:56:14;66.249.71.43;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-24 19:03:47;201.27.81.102;pt;local;bio;sustentabilidade;*;*;;1
+2011-04-24 19:04:15;201.27.81.102;pt;local;bio;sustentabilidade ambiental;*;ALL;;1
+2011-04-24 19:58:59;66.249.71.43;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-04-24 21:37:42;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-24 22:21:25;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-24 22:22:45;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-24 23:36:26;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1

@@ -1,0 +1,88 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-06-16 00:34:23;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-16 00:34:27;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-16 00:34:33;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-16 01:07:41;187.55.56.174;pt;local;bio;vegetação amazonia terras baixas;*;*;;1
+2011-06-16 01:08:00;187.55.56.174;pt;local;bio;vegetação amazonica planice;*;ALL;;1
+2011-06-16 01:08:22;187.55.56.174;pt;local;bio;planicie amazonica;*;ALL;;1
+2011-06-16 01:08:42;187.55.56.174;pt;local;bio;amazonia;*;ALL;;1
+2011-06-16 01:09:08;187.55.56.174;pt;local;bio;amazonia;*;ALL;;2
+2011-06-16 01:09:31;187.55.56.174;pt;local;bio;amazonia;*;ALL;;3
+2011-06-16 01:10:27;187.55.56.174;pt;local;bio;amazonia;*;ALL;;4
+2011-06-16 01:11:11;187.55.56.174;pt;local;bio;amazonia;*;ALL;;5
+2011-06-16 02:02:22;66.249.71.34;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-16 03:08:07;174.136.26.114;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-16 03:32:40;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-16 05:18:04;177.19.40.146;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-16 05:18:41;177.19.40.146;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-16 05:19:14;177.19.40.146;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Fauna brasiliense.";1
+2011-06-16 05:30:04;190.234.204.240;pt;local;bio;negocios internacionales;*;*;;1
+2011-06-16 05:30:23;190.234.204.240;pt;local;bio;tlc;*;*;;1
+2011-06-16 06:53:06;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-16 06:53:09;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-16 07:32:59;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-16 10:08:03;66.249.71.34;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-06-16 11:04:02;174.136.26.114;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-06-16 11:06:52;187.122.96.115;pt;local;bio;Faculdade de ciencias do Rio de Janeiro;*;*;;1
+2011-06-16 11:07:01;187.122.96.115;pt;local;bio;Faculdade de ciencias do Rio de Janeiro;*;SCIB;db:SCIB;1
+2011-06-16 11:22:57;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-16 11:22:58;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-16 11:22:59;66.249.71.34;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-06-16 11:23:03;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-16 11:23:03;66.249.71.34;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-16 11:23:04;66.249.71.34;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-16 11:23:05;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-16 11:23:06;66.249.71.34;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-06-16 11:37:35;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-16 11:38:05;66.249.71.34;yiewkcbsz;local;bio;*;*;*;;1
+2011-06-16 12:13:29;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-16 12:42:13;200.10.179.113;pt;local;bio;livro vermelho;*;*;;1
+2011-06-16 12:42:36;200.10.179.113;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-16 12:43:01;200.10.179.113;pt;local;bio;livro vermelho;*;BHLB;db:BHLB;1
+2011-06-16 12:43:01;200.10.179.113;pt;local;bio;livro vermelho;*;BHLB;db:BHLB;1
+2011-06-16 12:43:42;200.139.12.121;pt;local;bio;densidade de primatas na amazonia;*;*;;1
+2011-06-16 12:44:59;200.139.12.121;pt;local;bio;densidade de primatas ;*;ALL;;1
+2011-06-16 12:44:59;200.139.12.121;pt;local;bio;densidade de primatas ;*;ALL;;1
+2011-06-16 12:45:02;200.139.12.121;pt;local;bio;densidade de primatas ;*;ALL;;1
+2011-06-16 12:45:02;200.139.12.121;pt;local;bio;densidade de primatas ;*;ALL;;1
+2011-06-16 12:48:49;174.136.26.114;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-16 13:19:58;66.249.71.34;pt;local;bio;*;*;*;;1
+2011-06-16 13:24:07;177.17.106.21;pt;local;bio;tuberculose guia de vigilancia epidemologica funasa;*;*;;1
+2011-06-16 13:24:42;177.17.106.21;pt;local;bio;mycobacterium;*;ALL;;1
+2011-06-16 13:25:23;177.17.106.21;pt;local;bio;mycobacterium;*;SCIB;db:SCIB;1
+2011-06-16 13:25:30;177.17.106.21;pt;local;bio;mycobacterium;*;SCIB;db:SCIB;1
+2011-06-16 13:25:47;177.17.106.21;pt;local;bio;mycobacterium;*;SCIB;db:SCIB;2
+2011-06-16 13:26:07;177.17.106.21;pt;local;bio;mycobacterium;*;SCIB;db:SCIB;3
+2011-06-16 13:28:59;177.17.106.21;pt;local;bio;mycobacterium kansasii;*;SCIB;db:SCIB;2
+2011-06-16 13:28:59;177.17.106.21;pt;local;bio;mycobacterium kansasii;*;SCIB;db:SCIB;2
+2011-06-16 13:29:11;177.17.106.21;pt;local;bio;mycobacterium kansasii;*;SCIB;db:SCIB;1
+2011-06-16 13:29:43;177.17.106.21;pt;local;bio;mycobacterium kansasii;*;BHLB;db:BHLB;1
+2011-06-16 13:29:48;177.17.106.21;pt;local;bio;mycobacterium kansasii;*;BHLB;db:BHLB;1
+2011-06-16 13:30:11;177.17.106.21;pt;local;bio;mycobacterium sp;*;BHLB;db:BHLB;1
+2011-06-16 13:30:11;177.17.106.21;pt;local;bio;mycobacterium sp;*;BHLB;db:BHLB;1
+2011-06-16 13:30:17;177.17.106.21;pt;local;bio;mycobacterium sp;*;ALL;;1
+2011-06-16 13:31:07;177.17.106.21;pt;local;bio;*;*;*;;1
+2011-06-16 13:31:43;177.17.106.21;pt;local;bio;mycobacterium;*;SCIB;db:SCIB;1
+2011-06-16 13:32:01;177.17.106.21;pt;local;bio;mycobacterium;*;SCIB;db:SCIB;1
+2011-06-16 15:40:14;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-16 16:26:42;187.108.153.124;pt;local;bio;Qualquer tipo de dependência;*;*;;1
+2011-06-16 16:27:26;187.108.153.124;pt;local;bio;Qualquer tipo de dependência;au;SCIB;db:SCIB;1
+2011-06-16 16:27:53;187.108.153.124;pt;local;bio;Qualquer tipo de dependência;au;SCIB;db:SCIB;1
+2011-06-16 16:28:57;187.108.153.124;pt;local;bio;Dependência nas teórias de Bandura;*;*;;1
+2011-06-16 16:29:47;187.108.153.124;pt;local;bio;Dependência ;*;*;;1
+2011-06-16 18:02:08;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-16 18:02:10;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-16 18:15:52;66.249.71.34;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-06-16 18:16:24;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1
+2011-06-16 19:22:50;187.5.96.138;pt;local;bio;algumas doenças de pele cauasadas poe fungos;*;*;;1
+2011-06-16 19:41:41;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-16 20:06:57;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-16 20:07:43;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-16 20:23:38;201.18.153.125;pt;local;bio;*;*;*;;1
+2011-06-16 22:50:02;187.19.98.205;es;local;bio;EDUCAÇÃO FUNDAMENTOS;*;*;;1
+2011-06-16 22:57:16;50.56.107.24;pt;local;bio;*;*;*;;1
+2011-06-16 22:57:16;50.56.107.24;pt;local;bio;*;*;*;;1
+2011-06-16 22:57:34;190.11.7.156;es;local;bio;turismo;*;*;;1
+2011-06-16 23:00:59;190.11.7.156;es;local;bio;turismo;*;ALL;la:"En";1
+2011-06-16 23:07:34;187.41.171.73;pt;local;bio;Entoloma virescens;*;*;;1
+2011-06-16 23:47:32;209.131.41.49;pt;local;bio;*;*;*;;1

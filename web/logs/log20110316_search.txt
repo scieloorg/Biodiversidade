@@ -1,0 +1,45 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-03-16 00:34:46;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-16 01:57:47;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-03-16 02:22:52;66.249.71.98;pt;local;bio;*;*;*;;1
+2011-03-16 02:41:28;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-03-16 03:26:55;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-16 03:26:56;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-16 03:26:56;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-16 03:26:56;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-16 04:51:01;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-16 06:06:48;66.249.71.98;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-03-16 08:15:41;66.249.71.98;yiewkcbsz;local;bio;*;*;*;;1
+2011-03-16 08:17:07;66.249.71.98;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-03-16 08:37:03;66.249.71.98;ppufejihenzxjri;local;bio;+id:("lil-9030037111");*;*;;1
+2011-03-16 08:54:24;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-16 12:09:58;200.104.228.132;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-16 12:10:08;200.104.228.132;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-03-16 12:10:08;200.104.228.132;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-16 12:21:19;189.69.137.134;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-16 12:35:18;65.52.108.12;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-16 13:29:17;189.63.44.248;pt;local;bio;isoptera;*;*;;1
+2011-03-16 13:59:44;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-16 14:23:52;200.131.252.200;pt;local;bio;peixe;*;*;;1
+2011-03-16 14:41:11;200.10.179.113;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-03-16 14:41:15;200.10.179.113;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-16 14:41:25;200.10.179.113;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-16 14:49:33;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-03-16 15:28:18;201.95.23.59;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-16 16:02:07;66.249.71.98;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-03-16 16:45:10;157.55.112.230;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-16 16:46:54;201.39.60.89;pt;local;bio;PACIENTE TERMINAL;*;*;;1
+2011-03-16 16:58:02;193.144.61.254;pt;local;bio;forma et functio;*;*;;1
+2011-03-16 16:58:17;193.144.61.254;pt;local;bio;revue du comportement animal;*;ALL;;1
+2011-03-16 16:58:29;193.144.61.254;pt;local;bio;revue du comportement animal;ti;ALL;;1
+2011-03-16 16:58:38;193.144.61.254;pt;local;bio;revue du comportement animal;ti;BHLG;db:BHLG;1
+2011-03-16 17:41:23;201.39.60.89;pt;local;bio;PACIENTE TERMINAL;*;*;;1
+2011-03-16 17:41:54;201.39.60.89;pt;local;bio;CUIDADOS PALIATIVOS;kw;SCIB;db:SCIB;1
+2011-03-16 18:03:03;207.46.194.64;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-16 18:03:40;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-16 18:48:51;187.116.158.119;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-16 19:12:21;187.57.140.107;pt;local;bio;sustentabilidade;*;*;;1
+2011-03-16 19:13:00;187.57.140.107;pt;local;bio;sustentabilidade;*;ALL;;1
+2011-03-16 19:13:26;187.57.140.107;pt;local;bio;sustentabilidade;*;ALL;la:"Pt";1
+2011-03-16 21:13:27;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-16 22:13:16;66.249.71.98;ppufejihenzxjri;local;bio;+id:("lil-9030037224");*;*;;1

@@ -1,0 +1,35 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-05-14 01:17:21;66.249.71.72;pt;local;bio;*;*;*;;1
+2011-05-14 02:02:15;200.196.47.10;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-14 02:02:15;200.196.47.10;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-14 02:02:15;200.196.47.10;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-14 02:45:54;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-14 03:23:17;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-14 03:23:17;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-14 03:23:17;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-14 03:23:18;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-14 04:03:15;66.249.71.72;pt;local;bio;*;*;*;;1
+2011-05-14 04:44:02;66.249.71.72;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-14 05:58:41;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-14 08:48:22;66.249.71.72;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-14 09:59:59;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-14 10:09:46;66.249.71.72;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-05-14 12:28:22;66.249.71.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-14 13:55:39;200.203.111.38;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-14 13:57:13;200.203.111.38;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-05-14 14:00:32;200.203.111.38;pt;local;bio;*;*;SCIB;db:SCIB;3
+2011-05-14 14:01:01;200.203.111.38;pt;local;bio;*;*;SCIB;db:SCIB;4
+2011-05-14 14:07:44;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-14 14:40:17;187.7.181.12;pt;local;bio;libras para surdos;*;*;;1
+2011-05-14 14:40:24;187.7.181.12;pt;local;bio;libras para surdos;*;ALL;;1
+2011-05-14 14:40:53;187.7.181.12;pt;local;bio;surdos e mudos;*;ALL;;1
+2011-05-14 14:41:15;187.7.181.12;pt;local;bio;como ensinar uma pessoa surda;*;ALL;;1
+2011-05-14 14:41:30;187.7.181.12;pt;local;bio;como ensinar uma pessoa surda;*;ALL;;1
+2011-05-14 14:42:48;187.7.181.12;pt;local;bio;assunto sobre interprete de libras;*;*;;1
+2011-05-14 15:04:12;201.81.109.37;pt;local;http://217.218.225.2:2082/index.html?;*;*;*;;1
+2011-05-14 15:40:42;201.93.199.47;pt;local;bio;artigo cientifico na area da farmacia;*;*;;1
+2011-05-14 18:11:18;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-14 18:33:47;187.77.250.176;pt;local;bio;admiravel mundo novo;*;*;;1
+2011-05-14 18:34:35;187.77.250.176;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-14 21:46:41;187.40.19.151;pt;local;bio;controle motor - teoria heterarquia;*;*;;1
+2011-05-14 22:15:43;209.131.41.49;pt;local;bio;*;*;*;;1

@@ -1,3 +1,6 @@
+#
+# Object Author
+#
 
 class Author:
     def __init__(self):

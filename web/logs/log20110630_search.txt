@@ -1,0 +1,105 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-06-30 00:22:37;66.249.71.98;ppufejihenzxjri;local;bio;+id:("lil-9030037197");*;*;;1
+2011-06-30 01:28:05;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-30 01:56:52;66.249.71.98;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-06-30 01:57:28;194.9.92.10;pt;local;bio;*;*;*;;1
+2011-06-30 02:23:11;66.249.71.98;ppufejihenzxjri;local;bio;+id:("lil-9030037197");*;*;;1
+2011-06-30 02:47:04;66.249.71.98;pt;local;bio;*;*;*;;1
+2011-06-30 04:24:27;66.249.71.98;qwkilqgvraugpkn;local;bio;+id:("lil-9030037111");*;*;;1
+2011-06-30 05:31:15;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-30 06:45:21;66.249.71.98;yiewkcbsz;local;bio;*;*;*;;1
+2011-06-30 06:58:57;66.249.71.98;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-06-30 08:34:27;76.87.57.51;pt;local;bio;*;*;*;;1
+2011-06-30 08:41:40;64.62.250.100;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-30 09:24:31;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-30 10:55:17;200.136.72.254;pt;local;bio;*;*;ALL;year_cluster:"2006";1
+2011-06-30 11:09:46;200.136.72.254;pt;local;bio;*;*;ALL;year_cluster:"2006";1
+2011-06-30 11:09:54;200.136.72.254;pt;local;bio;*;*;*;;1
+2011-06-30 11:09:57;200.136.72.254;pt;local;bio;*;*;ALL;;1
+2011-06-30 11:25:10;200.136.72.254;pt;local;bio;*;*;*;;1
+2011-06-30 11:26:20;200.136.72.254;pt;local;bio;*;*;ALL;la:"Pt";1
+2011-06-30 11:28:56;200.136.72.254;pt;local;bio;*;*;*;;1
+2011-06-30 11:29:03;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";1
+2011-06-30 11:29:10;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";7
+2011-06-30 11:29:13;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";10
+2011-06-30 11:29:14;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";11
+2011-06-30 11:29:15;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";12
+2011-06-30 11:29:16;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";13
+2011-06-30 11:29:17;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";18
+2011-06-30 11:29:18;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";19
+2011-06-30 11:29:18;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";20
+2011-06-30 11:29:19;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";21
+2011-06-30 11:29:19;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";22
+2011-06-30 11:29:20;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";23
+2011-06-30 11:29:20;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";23
+2011-06-30 11:29:20;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";24
+2011-06-30 11:29:21;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";25
+2011-06-30 11:29:21;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";25
+2011-06-30 11:29:21;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";26
+2011-06-30 11:29:21;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";26
+2011-06-30 11:29:22;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";27
+2011-06-30 11:29:22;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";27
+2011-06-30 11:29:22;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";28
+2011-06-30 11:29:23;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";29
+2011-06-30 11:29:23;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";29
+2011-06-30 11:29:23;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";30
+2011-06-30 11:29:23;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";30
+2011-06-30 11:29:24;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";31
+2011-06-30 11:29:24;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";31
+2011-06-30 11:29:24;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";32
+2011-06-30 11:29:25;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";32
+2011-06-30 11:29:25;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";33
+2011-06-30 11:29:25;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";33
+2011-06-30 11:29:26;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";34
+2011-06-30 11:29:27;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";35
+2011-06-30 11:29:27;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";36
+2011-06-30 11:29:27;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";36
+2011-06-30 11:29:28;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";37
+2011-06-30 11:29:28;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";38
+2011-06-30 11:29:28;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";39
+2011-06-30 11:29:44;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";40
+2011-06-30 11:37:50;200.136.72.254;pt;local;bio;*;*;*;;1
+2011-06-30 11:37:52;200.136.72.254;pt;local;bio;frei in der reinen Erde;*;ALL;;1
+2011-06-30 11:41:50;200.136.72.254;pt;local;bio;*;*;*;;1
+2011-06-30 11:42:04;200.136.72.254;pt;local;bio;*;*;ALL;la:"Pt";1
+2011-06-30 11:42:21;200.136.72.254;pt;local;bio;*;*;ALL;la:"Pt";2
+2011-06-30 11:42:25;200.136.72.254;pt;local;bio;*;*;ALL;la:"Pt";10
+2011-06-30 11:43:17;200.136.72.254;pt;local;bio;*;*;ALL;la:"Pt";11
+2011-06-30 11:43:19;200.136.72.254;pt;local;bio;*;*;ALL;la:"Pt";18
+2011-06-30 11:43:28;200.136.72.254;pt;local;bio;*;*;ALL;la:"Pt";19
+2011-06-30 11:43:31;200.136.72.254;pt;local;bio;*;*;ALL;la:"Pt";20
+2011-06-30 11:43:32;200.136.72.254;pt;local;bio;*;*;ALL;la:"Pt";21
+2011-06-30 11:43:33;200.136.72.254;pt;local;bio;*;*;ALL;la:"Pt";30
+2011-06-30 11:44:33;200.136.72.254;pt;local;bio;*;*;ALL;la:"Pt";31
+2011-06-30 12:21:58;187.4.63.74;pt;local;bio;*;*;*;;1
+2011-06-30 12:37:27;66.249.71.98;qwkilqgvraugpkn;local;bio;+id:("lil-9030037111");*;*;;1
+2011-06-30 13:33:01;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-30 13:42:29;66.249.71.98;pt;local;bio;*;*;*;;1
+2011-06-30 13:51:03;200.136.72.254;pt;local;bio;*;*;*;;1
+2011-06-30 13:51:06;200.136.72.254;pt;local;bio;*;*;ALL;year_cluster:"0000";1
+2011-06-30 13:51:17;200.136.72.254;pt;local;bio;*;*;ALL;year_cluster:"2007";1
+2011-06-30 14:17:16;200.136.72.254;pt;local;bio;*;*;*;;1
+2011-06-30 14:27:07;200.136.72.254;pt;local;bio;*;*;*;;1
+2011-06-30 14:33:10;200.195.247.130;pt;local;bio;parque nacional pico da neblina;*;*;;1
+2011-06-30 14:33:12;200.136.72.254;pt;local;bio;*;*;*;;1
+2011-06-30 14:33:15;200.136.72.254;pt;local;bio;The "American silk raiser"; a complete instruction on silk culture, ;*;ALL;;1
+2011-06-30 14:33:19;200.136.72.254;pt;local;bio;The "American silk raiser"; a complete instruction on silk culture ;*;ALL;;1
+2011-06-30 14:33:24;200.136.72.254;pt;local;bio;The American silk raiser a complete instruction on silk culture ;*;ALL;;1
+2011-06-30 14:33:25;200.195.247.130;pt;local;bio;parque nacional pico da neblina;kw;ALL;;1
+2011-06-30 14:33:27;200.136.72.254;pt;local;bio;The American silk raiser ;*;ALL;;1
+2011-06-30 14:33:32;200.136.72.254;pt;local;bio;The American;*;ALL;;1
+2011-06-30 14:33:52;200.136.72.254;pt;local;bio;a complete instruction on silk culture, ;*;ALL;;1
+2011-06-30 14:34:31;200.136.72.254;pt;local;bio;The "American silk raiser"; a complete instruction on silk culture, ;*;ALL;;1
+2011-06-30 14:34:45;200.136.72.254;pt;local;bio;Mollusks.;*;ALL;;1
+2011-06-30 14:35:01;200.136.72.254;pt;local;bio;5 works on mollusks resulting from investigations on voyages of the;*;ALL;;1
+2011-06-30 14:35:06;200.136.72.254;pt;local;bio;5 works on mollusks resulting from;*;ALL;;1
+2011-06-30 14:35:10;200.136.72.254;pt;local;bio;5 works on ;*;ALL;;1
+2011-06-30 15:04:39;200.136.72.254;pt;local;bio;*;*;*;;1
+2011-06-30 15:48:59;200.136.72.254;pt;local;bio;*;*;*;;1
+2011-06-30 15:49:45;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";1
+2011-06-30 15:49:49;200.136.72.254;pt;local;bio;*;*;ALL;type:"article";9
+2011-06-30 15:55:34;200.136.72.254;pt;local;bio;*;*;*;;1
+2011-06-30 16:44:40;66.249.71.98;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-30 17:41:13;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-30 19:33:20;200.19.175.8;pt;local;bio;caatinga;*;*;;1
+2011-06-30 21:49:35;209.131.41.49;pt;local;bio;*;*;*;;1

@@ -1,0 +1,113 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-01-30 00:00:15;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 00:00:18;189.29.24.157;pt;local;http://www.jeceaba.mg.gov.br/2.txt???;*;*;*;;1
+2011-01-30 00:00:20;189.29.24.157;pt;local;bio;*;*;*;;1
+2011-01-30 00:27:46;189.29.24.157;pt;local;/etc/passwd\0;*;*;*;;1
+2011-01-30 00:27:48;189.29.24.157;pt;local;bio;*;*;*;;1
+2011-01-30 00:47:52;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 02:07:13;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-30 02:13:08;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-30 02:41:31;186.204.3.40;pt;local;bio;mata atlantica;*;*;;1
+2011-01-30 02:42:29;186.204.3.40;pt;local;bio;jureia itatins;*;ALL;;1
+2011-01-30 04:26:21;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 06:20:09;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 07:55:50;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-30 08:03:08;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 08:05:55;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 08:24:06;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-30 08:40:19;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-30 08:50:09;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-30 08:58:17;66.249.71.52;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-30 09:01:32;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 09:11:24;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-30 09:15:51;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 09:40:05;66.249.71.52;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-30 09:53:20;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 10:05:52;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 10:08:15;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 10:12:08;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 10:18:28;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 10:21:46;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 10:25:34;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 10:28:34;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-30 10:29:33;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 10:34:24;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-30 11:05:14;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 11:42:45;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 11:45:46;66.249.71.52;pt;local;bio;+id:("lil-43067093999");*;*;;1
+2011-01-30 11:56:02;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-30 12:01:02;66.249.71.52;pt;local;bio;+id:("lil-20986061024");*;*;;1
+2011-01-30 12:33:23;66.249.71.52;pt;local;bio;+id:("lil-9030037224");*;*;;1
+2011-01-30 13:02:47;66.249.71.52;pt;local;bio;+id:("lil-18474058088");*;*;;1
+2011-01-30 13:43:45;66.249.71.52;pt;local;bio;+id:("lil-18474058070");*;*;;1
+2011-01-30 14:15:25;66.249.71.52;pt;local;bio;+id:("scl-S0074-02761909000100002");*;*;;1
+2011-01-30 14:17:40;66.249.71.52;pt;local;bio;+id:("scl-S0074-02761909000200003");*;*;;1
+2011-01-30 14:26:34;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 14:39:42;66.249.71.52;pt;local;bio;+id:("scl-S0074-02761909000100001");*;*;;1
+2011-01-30 14:50:05;189.30.188.106;pt;local;bio;espécies exóticas invasoras;*;*;;1
+2011-01-30 14:50:37;189.30.188.106;pt;local;bio;espécies invasoras;kw;ALL;;1
+2011-01-30 14:50:57;189.30.188.106;pt;local;bio;espécies;ti;ALL;;1
+2011-01-30 14:51:13;189.30.188.106;pt;local;bio;invasoras;ti;ALL;;1
+2011-01-30 14:51:54;189.30.188.106;pt;local;bio;exótica;ti;ALL;;1
+2011-01-30 14:52:05;189.30.188.106;pt;local;bio;exóticas;ti;ALL;;1
+2011-01-30 14:52:07;189.30.188.106;pt;local;bio;exóticas;ti;ALL;;1
+2011-01-30 14:52:15;189.30.188.106;pt;local;bio;exoticas;ti;ALL;;1
+2011-01-30 14:55:23;186.204.90.206;pt;local;bio;Myrtaceae;*;*;;1
+2011-01-30 14:58:26;186.204.90.206;pt;local;bio;tamanho de semente;*;ALL;;1
+2011-01-30 14:58:26;186.204.90.206;pt;local;bio;tamanho de semente;*;ALL;;1
+2011-01-30 15:00:02;186.204.90.206;pt;local;bio;especies simpatricas;*;ALL;;1
+2011-01-30 15:00:02;186.204.90.206;pt;local;bio;especies simpatricas;*;ALL;;1
+2011-01-30 15:11:52;186.204.90.206;pt;local;bio;especies simpatricas;*;ALL;;2
+2011-01-30 15:15:36;131.152.164.97;pt;local;bio;restinga;*;*;;1
+2011-01-30 15:16:19;131.152.164.97;pt;local;bio;restinga carapebus;*;ALL;;1
+2011-01-30 15:16:21;131.152.164.97;pt;local;bio;restinga carapebus;*;ALL;;1
+2011-01-30 15:19:49;186.204.90.206;pt;local;bio;especies simpatricas de planats;*;ALL;;1
+2011-01-30 15:19:50;186.204.90.206;pt;local;bio;especies simpatricas de planats;*;ALL;;1
+2011-01-30 15:20:00;186.204.90.206;pt;local;bio;especies simpatricas de plantas;*;ALL;;1
+2011-01-30 15:20:00;186.204.90.206;pt;local;bio;especies simpatricas de plantas;*;ALL;;1
+2011-01-30 15:20:41;131.152.164.97;pt;local;bio;restinga jurubatiba;*;ALL;;1
+2011-01-30 15:20:42;131.152.164.97;pt;local;bio;restinga jurubatiba;*;ALL;;1
+2011-01-30 15:21:50;131.152.164.97;pt;local;bio;restinga jurubatiba;*;ALL;;2
+2011-01-30 15:22:29;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 15:22:35;66.249.71.52;pt;local;bio;+id:("scl-S0074-02761909000200002");*;*;;1
+2011-01-30 15:25:07;131.152.164.97;pt;local;bio;restinga jurubatiba;*;ALL;;1
+2011-01-30 15:39:11;66.249.71.52;pt;local;bio;+id:("scl-S0074-02761909000200006");*;*;;1
+2011-01-30 15:42:55;66.249.71.52;pt;local;bio;+id:("scl-S0074-02761909000200007");*;*;;1
+2011-01-30 16:06:14;66.249.71.52;pt;local;bio;+id:("scl-S0074-02761909000200008");*;*;;1
+2011-01-30 16:30:18;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 16:37:18;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 16:46:12;66.249.71.52;pt;local;bio;+id:("scl-S0074-02761909000200004");*;*;;1
+2011-01-30 17:19:49;66.249.71.52;pt;local;bio;+id:("scl-S0074-02761909000200005");*;*;;1
+2011-01-30 17:20:25;66.249.71.52;pt;local;bio;+id:("scl-S0074-02761909000200001");*;*;;1
+2011-01-30 17:31:45;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 17:52:13;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 18:25:06;85.158.7.183;pt;local;bio;*;*;*;;1
+2011-01-30 19:41:31;189.62.227.213;pt;local;bio;cerrado;*;*;;1
+2011-01-30 19:42:10;189.62.227.213;pt;local;bio;um panorama sobre o cerrado;*;ALL;;1
+2011-01-30 19:42:54;189.62.227.213;pt;local;bio;características cerrado;*;ALL;;1
+2011-01-30 19:43:15;189.62.227.213;pt;local;bio;cerrado;*;ALL;;1
+2011-01-30 19:43:28;189.62.227.213;pt;local;bio;bioma cerrado;*;ALL;;1
+2011-01-30 19:43:45;189.62.227.213;pt;local;bio;pantanal;*;ALL;;1
+2011-01-30 19:52:39;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-30 19:59:30;66.249.71.52;pt;local;bio;+id:("lil-20986061024");*;*;;1
+2011-01-30 20:18:08;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 20:33:28;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 21:22:43;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 21:38:57;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 21:51:26;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-30 21:58:31;187.112.197.213;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-30 21:58:32;187.112.197.213;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-30 21:58:32;187.112.197.213;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-30 22:13:54;189.9.1.156;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-30 22:13:59;189.9.1.156;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-30 22:16:54;189.9.1.156;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-01-30 22:17:13;189.9.1.156;pt;local;bio;*;*;BHLB;db:BHLB;2
+2011-01-30 22:18:29;201.48.40.189;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-30 22:19:15;189.9.1.156;pt;local;bio;recuperação;*;BHLB;db:BHLB;1
+2011-01-30 22:42:01;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-30 22:55:06;189.9.1.156;pt;local;bio;degradação;*;BHLB;db:BHLB;1
+2011-01-30 22:55:18;189.9.1.156;pt;local;bio;*;*;SCIB;db:SCIB;3
+2011-01-30 23:10:48;66.249.71.52;pt;local;bio;+id:("lil-9030037232");*;*;;1
+2011-01-30 23:12:35;66.249.71.52;pt;local;bio;+id:("scl-S0074-02761909000200003");*;*;;1
+2011-01-30 23:55:47;66.249.71.52;pt;local;bio;+id:("scl-S0074-02761909000200006");*;*;;1
+2011-01-30 23:58:12;66.249.71.52;pt;local;bio;+id:("scl-S0074-02761909000200005");*;*;;1

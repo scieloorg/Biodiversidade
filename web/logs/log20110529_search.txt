@@ -1,0 +1,54 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-05-29 00:38:03;187.41.58.87;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-29 01:31:25;187.41.58.87;pt;local;bio;biossegurança;*;*;;1
+2011-05-29 01:31:27;187.41.58.87;pt;local;bio;biossegurança;*;*;;1
+2011-05-29 01:45:41;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-29 02:22:48;66.249.72.241;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-05-29 04:55:50;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-29 05:08:33;66.249.72.241;yiewkcbsz;local;bio;*;*;*;;1
+2011-05-29 05:38:19;66.249.72.241;pt;local;bio;*;*;*;;1
+2011-05-29 06:18:56;66.249.72.241;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-29 08:15:55;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-29 08:48:22;189.85.178.103;pt;local;bio;mapas pesquisa ambiental brasil;*;*;;1
+2011-05-29 08:48:34;189.85.178.103;pt;local;bio; pesquisa ambiental brasil;*;ALL;;1
+2011-05-29 08:49:35;189.85.178.103;pt;local;bio; pesquisa ambiental  sul brasil;*;ALL;;1
+2011-05-29 11:50:01;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-29 14:56:28;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-29 14:57:23;66.249.71.37;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-29 16:17:52;201.15.141.249;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-29 16:18:29;201.15.141.249;pt;local;bio;*;*;SCIB;db:SCIB AND la:"Pt";1
+2011-05-29 16:19:05;201.15.141.249;pt;local;bio;*;*;SCIB;db:SCIB AND la:"Pt";2
+2011-05-29 16:19:30;201.15.141.249;pt;local;bio;*;*;SCIB;db:SCIB AND la:"Pt";3
+2011-05-29 16:20:06;201.15.141.249;pt;local;bio;biodiversidade e os sres vivos;*;SCIB;db:SCIB;1
+2011-05-29 16:20:25;201.15.141.249;pt;local;bio;biodiversidade e os sres vivos;ti;SCIB;db:SCIB;1
+2011-05-29 16:20:47;201.15.141.249;pt;local;bio;*;*;SCIB;db:SCIB AND la:"Pt";3
+2011-05-29 16:21:08;201.15.141.249;pt;local;bio;*;*;SCIB;db:SCIB AND la:"Pt";4
+2011-05-29 16:21:48;201.15.141.249;pt;local;bio;biodiversidade;kw;SCIB;db:SCIB;1
+2011-05-29 16:21:53;201.15.141.249;pt;local;bio;biodiversidade;kw;SCIB;db:SCIB;1
+2011-05-29 16:38:08;201.15.141.249;pt;local;bio;seres vivos;kw;SCIB;db:SCIB;1
+2011-05-29 16:38:08;201.15.141.249;pt;local;bio;seres vivos;kw;SCIB;db:SCIB;1
+2011-05-29 16:38:09;201.15.141.249;pt;local;bio;seres vivos;kw;SCIB;db:SCIB;1
+2011-05-29 16:38:09;201.15.141.249;pt;local;bio;seres vivos;kw;SCIB;db:SCIB;1
+2011-05-29 16:38:09;201.15.141.249;pt;local;bio;seres vivos;kw;SCIB;db:SCIB;1
+2011-05-29 16:45:55;201.23.86.30;pt;local;bio;infarto;*;*;;1
+2011-05-29 16:58:29;173.242.116.48;pt;local;bio;*;*;*;;1
+2011-05-29 17:57:34;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-29 19:57:12;66.249.71.37;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-29 20:27:03;190.78.243.215;es;local;bio;protista;*;*;;1
+2011-05-29 20:27:43;190.78.243.215;es;local;bio;protista;*;ALL;;1
+2011-05-29 20:28:09;190.78.243.215;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-29 21:03:02;200.165.17.221;pt;local;bio;modelo de plano individual de estagio;*;*;;1
+2011-05-29 21:19:44;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-29 21:24:35;66.249.71.37;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-29 22:27:43;187.57.231.45;pt;local;bio;pseudomonas aeruginosas;*;*;;1
+2011-05-29 22:28:05;187.57.231.45;pt;local;bio;pseudomonas aeruginosas;kw;SCIB;db:SCIB;1
+2011-05-29 22:28:17;187.57.231.45;pt;local;bio;pseudomonas aeruginosas;*;ALL;;1
+2011-05-29 22:28:21;187.57.231.45;pt;local;bio;*;*;*;;1
+2011-05-29 22:28:39;187.57.231.45;pt;local;bio;pseudomonas;*;ALL;;1
+2011-05-29 22:29:02;187.57.231.45;pt;local;bio;pseudomonas aeruginosa;*;ALL;;1
+2011-05-29 22:29:14;187.57.231.45;pt;local;bio;pseudomonas aeruginosa;*;SCIB;db:SCIB;1
+2011-05-29 22:29:39;187.57.231.45;pt;local;bio;pseudomonas aeruginosa;*;SCIB;db:SCIB;1
+2011-05-29 22:29:46;187.57.231.45;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-29 22:30:17;187.57.231.45;pt;local;bio;pseudomonas aeruginosa;*;SCIB;db:SCIB;1
+2011-05-29 22:55:37;66.249.71.37;ppufejihenzxjri;local;bio;+id:("lil-13264049879");*;*;;1
+2011-05-29 23:05:13;66.249.71.37;ppufejihenzxjri;local;bio;*;*;*;;1

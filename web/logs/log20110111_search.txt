@@ -1,0 +1,129 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-01-11 00:06:48;187.6.152.59;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-11 00:31:55;66.249.71.52;pt;local;bio;+id:("lil-18474058072");*;*;;1
+2011-01-11 01:02:48;200.139.12.121;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-11 01:13:18;66.249.71.52;pt;local;bio;+id:("lil-18474058088");*;*;;1
+2011-01-11 02:43:22;66.249.71.52;pt;local;bio;+id:("lil-18474058070");*;*;;1
+2011-01-11 02:59:12;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-11 08:55:35;189.112.189.160;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-11 09:05:40;161.148.176.72;pt;local;bio;*;*;*;;1
+2011-01-11 09:06:22;187.101.37.101;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-11 09:39:59;189.73.221.242;pt;local;bio;*;*;*;;1
+2011-01-11 09:54:11;200.145.124.27;pt;local;bio;mapas centro-oeste paulista;*;*;;1
+2011-01-11 09:54:35;200.145.124.27;pt;local;bio;mapas ;*;*;;1
+2011-01-11 10:04:55;200.145.124.27;pt;local;bio;mapas ;*;ALL;;2
+2011-01-11 10:06:25;189.73.189.252;pt;local;bio;etanol de enzimas;*;*;;1
+2011-01-11 10:08:47;200.145.124.27;pt;local;bio;mapas ;*;ALL;;3
+2011-01-11 10:09:50;200.145.124.27;pt;local;bio;mapas ;*;ALL;;4
+2011-01-11 10:12:18;189.14.242.58;pt;local;bio;jacaratia spinosa;*;*;;1
+2011-01-11 10:13:30;189.14.242.58;pt;local;bio;trema;*;*;;1
+2011-01-11 10:14:16;189.31.20.249;pt;local;bio;*;*;*;;1
+2011-01-11 10:14:25;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-11 10:14:42;201.1.154.107;pt;local;bio;trypanosoma;*;*;;1
+2011-01-11 10:16:19;201.1.154.107;pt;local;bio;trypanosoma;*;*;;1
+2011-01-11 10:16:48;201.1.154.107;pt;local;bio;trypanosoma;*;ALL;;2
+2011-01-11 10:17:32;201.1.154.107;pt;local;bio;trypanosoma;*;ALL;;3
+2011-01-11 10:18:37;201.1.154.107;pt;local;bio;trypanosoma;*;ALL;;4
+2011-01-11 10:18:57;189.54.23.248;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-11 10:19:28;201.1.154.107;pt;local;bio;trypanosoma;*;ALL;;5
+2011-01-11 10:20:28;201.1.154.107;pt;local;bio;trypanosoma;*;ALL;;6
+2011-01-11 10:20:30;189.54.23.248;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Anexos das Memórias do Instituto de Butantan, Secção de Botânica.";1
+2011-01-11 10:20:54;189.54.23.248;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Anexos das Memórias do Instituto de Butantan, Secção de Botânica.";1
+2011-01-11 10:21:26;189.54.23.248;pt;local;bio;*;*;BHLB;db:BHLB AND year_cluster:"1876";1
+2011-01-11 10:21:37;189.54.23.248;pt;local;bio;*;*;BHLB;db:BHLB AND year_cluster:"1876" AND year_cluster:"1876";1
+2011-01-11 10:21:53;189.54.23.248;pt;local;bio;*;*;BHLB;db:BHLB AND year_cluster:"1876";1
+2011-01-11 10:22:04;201.54.129.80;pt;local;bio;Sporophila;*;*;;1
+2011-01-11 10:22:05;189.54.23.248;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-11 10:28:31;201.1.154.107;pt;local;bio;trypanosoma;*;ALL;;7
+2011-01-11 10:29:13;201.1.154.107;pt;local;bio;trypanosoma;*;ALL;;8
+2011-01-11 10:30:29;201.1.154.107;pt;local;bio;trypanosoma;*;ALL;;9
+2011-01-11 10:36:43;201.1.154.107;pt;local;bio;trypanosoma;*;ALL;;10
+2011-01-11 10:43:20;201.1.154.107;pt;local;bio;trypanosoma;*;ALL;;11
+2011-01-11 10:44:31;201.1.154.107;pt;local;bio;trypanosoma;*;ALL;;12
+2011-01-11 10:45:12;201.1.154.107;pt;local;bio;trypanosoma;*;ALL;;13
+2011-01-11 10:47:27;201.1.154.107;pt;local;bio;trypanosoma;*;ALL;;14
+2011-01-11 10:59:12;201.1.154.107;pt;local;bio;trypanosoma;*;ALL;;15
+2011-01-11 11:00:30;201.1.154.107;pt;local;bio;trypanosoma;*;ALL;;16
+2011-01-11 11:02:45;143.107.143.60;pt;local;bio;conservação;*;*;;1
+2011-01-11 11:03:05;143.107.143.60;pt;local;bio;conservation;kw;ALL;;1
+2011-01-11 11:03:46;143.107.143.60;pt;local;bio;gene flow;kw;ALL;;1
+2011-01-11 11:03:56;143.107.143.60;pt;local;bio;mating system;kw;ALL;;1
+2011-01-11 11:04:10;143.107.143.60;pt;local;bio;sistema de reprodução;kw;ALL;;1
+2011-01-11 11:04:19;143.107.143.60;pt;local;bio;plants;kw;ALL;;1
+2011-01-11 11:04:36;143.107.143.60;pt;local;bio;plants;kw;ALL;;2
+2011-01-11 11:04:51;143.107.143.60;pt;local;bio;plants;kw;ALL;;3
+2011-01-11 11:05:06;143.107.143.60;pt;local;bio;conservation of plants;kw;ALL;;1
+2011-01-11 11:05:51;143.107.143.60;pt;local;bio; conservation genetics;kw;ALL;;1
+2011-01-11 11:05:58;143.107.143.60;pt;local;bio;genetics;kw;ALL;;1
+2011-01-11 11:06:28;143.107.143.60;pt;local;bio;genetics;kw;ALL;;2
+2011-01-11 11:06:39;143.107.143.60;pt;local;bio;genetics;kw;ALL;;3
+2011-01-11 11:06:48;143.107.143.60;pt;local;bio;genetics;kw;ALL;;2
+2011-01-11 11:09:19;187.6.65.91;pt;local;bio;influencia do habitat na comunidade de pequenos mamiferos;*;*;;1
+2011-01-11 11:10:16;143.107.143.60;pt;local;bio;genetics;kw;ALL;type:"article";1
+2011-01-11 11:10:40;143.107.143.60;pt;local;bio;conservation;kw;ALL;;1
+2011-01-11 11:10:51;143.107.143.60;pt;local;bio;conservation;kw;ALL;type:"book";1
+2011-01-11 11:11:03;143.107.143.60;pt;local;bio;conservation;kw;ALL;type:"book";1
+2011-01-11 11:11:11;143.107.143.60;pt;local;bio;conservation;kw;ALL;type:"book";1
+2011-01-11 11:11:12;187.6.65.91;pt;local;bio;influencia do habitat ;*;ALL;;1
+2011-01-11 11:11:19;143.107.143.60;pt;local;bio;conservation;kw;ALL;type:"book" AND year_cluster:"2000";1
+2011-01-11 11:12:21;187.6.65.91;pt;local;bio;influencia do habitat ;*;ALL;;2
+2011-01-11 11:12:24;143.107.143.60;pt;local;bio;conservation;kw;ALL;type:"book" AND year_cluster:"2000";1
+2011-01-11 11:12:59;187.6.65.91;pt;local;bio;influencia do habitat ;*;ALL;;3
+2011-01-11 11:13:44;143.107.143.60;pt;local;bio;biodiversidade;kw;ALL;;1
+2011-01-11 11:14:11;143.107.143.60;pt;local;bio;biodiversity;kw;BHLB;db:BHLB;1
+2011-01-11 11:14:25;143.107.143.60;pt;local;bio;conservation;kw;BHLB;db:BHLB;1
+2011-01-11 11:14:52;143.107.143.60;pt;local;bio;conservation;kw;BHLB;db:BHLB;1
+2011-01-11 11:15:20;143.107.143.60;pt;local;bio;conservation;kw;BHLB;db:BHLB AND type:"book";1
+2011-01-11 12:12:50;200.144.94.49;pt;local;bio;Baccharis trimera;*;*;;1
+2011-01-11 12:16:35;200.144.94.49;pt;local;bio;Plantas Medicinais;*;*;;1
+2011-01-11 12:17:08;200.144.94.49;pt;local;bio;Cuphea carthagenensis;*;ALL;;1
+2011-01-11 12:17:24;200.144.94.49;pt;local;bio;Cuphea carthagenensis;*;ALL;;1
+2011-01-11 12:17:31;200.144.94.49;pt;local;bio;Cuphea carthagenensis;*;ALL;;1
+2011-01-11 12:17:38;200.144.94.49;pt;local;bio;Cuphea carthagenensis;*;ALL;;1
+2011-01-11 12:44:54;187.116.137.72;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-11 12:49:12;187.116.137.72;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Rev. Bras. Biol.";1
+2011-01-11 13:04:47;200.129.128.7;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-11 14:02:48;213.22.33.77;pt;local;bio;formigas argentinas;*;*;;1
+2011-01-11 14:03:07;213.22.33.77;pt;local;bio;argentine ants;*;ALL;;1
+2011-01-11 14:03:21;213.22.33.77;pt;local;bio;formigas;*;ALL;;1
+2011-01-11 14:36:32;67.192.224.98;pt;local;bio;*;*;*;;1
+2011-01-11 14:36:34;67.192.224.98;pt;local;bio;*;*;*;;1
+2011-01-11 14:51:24;161.148.176.72;pt;local;bio;*;*;*;;1
+2011-01-11 15:51:34;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-11 15:57:20;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-11 16:02:58;67.192.224.98;pt;local;bio;*;*;*;;1
+2011-01-11 16:03:30;67.192.224.98;pt;local;bio;*;*;*;;1
+2011-01-11 17:03:27;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-11 17:11:07;161.148.176.72;pt;local;bio;*;*;*;;1
+2011-01-11 17:17:56;66.249.71.52;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-11 17:49:55;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-11 18:03:50;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-11 19:24:10;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-11 19:35:31;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-11 19:37:52;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-11 20:07:03;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-11 20:08:07;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-11 20:08:35;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-11 20:13:42;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-11 20:14:03;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-11 20:19:59;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-11 20:24:15;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-11 20:44:04;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-11 20:46:20;187.41.19.113;pt;local;bio;phyllodytes;*;*;;1
+2011-01-11 21:07:27;201.88.68.173;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-11 21:12:39;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-11 21:18:43;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-11 21:27:43;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-11 21:42:11;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-11 21:51:19;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-11 22:39:23;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-11 22:50:02;186.206.143.101;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-11 22:50:43;186.206.143.101;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-11 22:50:48;186.206.143.101;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-11 22:51:19;186.206.143.101;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-11 22:51:25;186.206.143.101;pt;local;bio;*;*;BHLB;db:BHLB AND year_cluster:"0000";1
+2011-01-11 23:22:38;187.50.96.174;pt;local;bio;cerrado;*;*;;1
+2011-01-11 23:22:46;189.31.20.249;pt;local;bio;Ampicilina;*;ALL;;1
+2011-01-11 23:22:53;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-11 23:44:28;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-11 23:58:28;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1

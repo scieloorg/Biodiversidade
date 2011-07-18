@@ -1,0 +1,97 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-05-27 00:23:46;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-27 00:33:06;66.249.72.241;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-27 00:41:48;66.249.72.241;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-27 02:16:16;66.249.72.241;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-27 02:34:55;66.249.72.241;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-27 03:00:18;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-27 03:00:19;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-27 03:00:19;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-27 03:00:19;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-27 03:11:40;66.249.72.241;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-27 04:14:23;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-05-27 04:14:27;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-05-27 04:14:27;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-05-27 04:14:27;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-05-27 04:52:50;66.249.72.241;pt;local;bio;*;*;*;;1
+2011-05-27 05:25:27;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-27 05:54:52;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-27 06:18:35;189.75.130.95;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-27 06:49:07;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-05-27 06:49:18;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-05-27 06:49:18;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-05-27 06:49:25;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-05-27 07:20:17;207.46.195.211;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-27 08:06:38;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-27 09:37:29;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-27 09:40:57;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-27 09:56:55;66.249.72.241;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-27 10:09:30;200.252.135.73;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-27 10:09:48;200.252.135.73;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-27 10:10:32;200.252.135.73;pt;local;bio;ibama;*;BHLG;db:BHLG;1
+2011-05-27 10:11:00;200.252.135.73;pt;local;bio;*;*;*;;1
+2011-05-27 10:32:46;66.249.72.241;yiewkcbsz;local;bio;*;*;*;;1
+2011-05-27 11:53:29;66.249.72.241;pt;local;bio;+id:("lil-18474058007");*;*;;1
+2011-05-27 11:55:43;157.86.112.214;pt;local;bio;Posadas, Alejandro;*;*;;1
+2011-05-27 11:56:10;157.86.112.214;pt;local;bio;Alejandro Posadas;au;ALL;;1
+2011-05-27 11:56:23;157.86.112.214;pt;local;bio;Alejandro Posadas;au;BHLB;db:BHLB;1
+2011-05-27 11:56:26;157.86.112.214;pt;local;bio;Alejandro Posadas;au;BHLG;db:BHLG;1
+2011-05-27 11:56:30;157.86.112.214;pt;local;bio;Alejandro Posadas;au;SCIB;db:SCIB;1
+2011-05-27 12:07:57;157.86.112.214;pt;local;bio;Obras completas de Alejandro Posadas;*;SCIB;db:SCIB;1
+2011-05-27 13:39:21;66.249.72.241;yiewkcbsz;local;bio;*;*;*;;1
+2011-05-27 13:41:09;41.184.66.157;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-27 13:41:10;66.249.72.241;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-27 13:41:10;41.184.66.157;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-27 13:41:12;41.184.66.157;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-27 13:43:32;66.249.72.241;ppufejihenzxjri;local;bio;+id:("lil-9030037224");*;*;;1
+2011-05-27 13:48:17;66.249.72.241;ppufejihenzxjri;local;bio;+id:("lil-9030037224");*;*;;1
+2011-05-27 14:23:53;66.249.72.241;pt;local;bio;+id:("scl-S0074-02761909000200001");*;*;;1
+2011-05-27 14:40:34;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-27 15:27:43;189.114.59.222;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-27 15:54:07;178.63.23.142;pt;local;bio;*;*;*;;1
+2011-05-27 15:54:08;178.63.23.142;pt;local;bio;*;*;*;;1
+2011-05-27 17:11:54;200.136.72.254;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-27 17:51:05;66.249.72.241;yiewkcbsz;local;bio;*;*;*;;1
+2011-05-27 18:43:04;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-27 18:46:43;188.40.124.153;pt;local;bio;*;*;*;;1
+2011-05-27 19:06:56;189.62.22.106;pt;local;bio;clypeaster subdepressus;*;*;;1
+2011-05-27 19:07:37;189.62.22.106;pt;local;bio;clypeaster subdepressus;*;*;;1
+2011-05-27 19:07:49;189.62.22.106;pt;local;bio;clypeaster subdepressus;*;*;;1
+2011-05-27 19:07:56;189.62.22.106;pt;local;bio;clypeaster subdepressus;*;ALL;;1
+2011-05-27 19:09:10;189.62.22.106;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-27 19:09:38;189.62.22.106;pt;local;bio;clypeas;*;BHLB;db:BHLB;1
+2011-05-27 19:09:44;189.62.22.106;pt;local;bio;clypeaster;*;BHLB;db:BHLB;1
+2011-05-27 19:09:48;189.62.22.106;pt;local;bio;clypeaster;*;BHLB;db:BHLB;1
+2011-05-27 19:09:57;189.62.22.106;pt;local;bio;drosophila;*;BHLB;db:BHLB;1
+2011-05-27 19:10:00;189.62.22.106;pt;local;bio;drosophila;*;BHLB;db:BHLB;1
+2011-05-27 19:10:02;189.62.22.106;pt;local;bio;*;*;*;;1
+2011-05-27 19:10:10;189.62.22.106;pt;local;bio;mamiferos;*;ALL;;1
+2011-05-27 19:10:29;189.62.22.106;pt;local;bio;mamiferos;*;*;;1
+2011-05-27 19:15:30;189.62.22.106;pt;local;bio;mamiferos;*;*;;1
+2011-05-27 19:16:27;189.62.22.106;pt;local;bio;clypeaster subdepressus;*;*;;1
+2011-05-27 19:22:09;189.62.22.106;pt;local;bio;aves;*;*;;1
+2011-05-27 19:24:48;189.62.22.106;pt;local;bio;Asteroidea;*;*;;1
+2011-05-27 19:25:32;207.46.204.181;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-27 19:29:08;189.62.22.106;pt;local;bio;Polyclinum;*;*;;1
+2011-05-27 19:36:53;189.62.22.106;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-27 19:40:58;189.62.22.106;pt;localq=aves;bio;*;*;*;;1
+2011-05-27 19:41:18;189.62.22.106;pt;local;bio;aves;*;*;;1
+2011-05-27 19:41:53;189.62.22.106;pt;local;bio;aves;*;*;;1
+2011-05-27 19:42:10;189.62.22.106;en;local;bio;aves;*;*;;1
+2011-05-27 20:08:50;66.249.72.241;yiewkcbsz;local;bio;+id:("lil-9030037111");*;*;;1
+2011-05-27 20:30:08;177.19.132.49;pt;local;bio;educação inclusiva;*;*;;1
+2011-05-27 20:35:33;66.249.72.241;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-27 21:23:41;66.249.72.241;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-27 21:29:59;66.249.72.241;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-27 21:45:34;187.41.169.191;pt;local;bio;tiamina;*;*;;1
+2011-05-27 21:51:13;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-27 22:34:18;187.41.169.191;pt;local;bio;tiamina alimentos;*;ALL;;1
+2011-05-27 22:34:35;187.41.169.191;pt;local;bio;teor de tiamona;*;ALL;;1
+2011-05-27 22:34:44;187.41.169.191;pt;local;bio;teor de tiaminaa;*;ALL;;1
+2011-05-27 22:34:55;187.41.169.191;pt;local;bio;teor de tiamina;*;ALL;;1
+2011-05-27 22:35:12;187.41.169.191;pt;local;bio;frangos lipideos;*;ALL;;1
+2011-05-27 22:35:24;187.41.169.191;pt;local;bio;lipideos;*;ALL;;1
+2011-05-27 22:36:28;187.41.169.191;pt;local;bio;tiamina;ti;ALL;;1
+2011-05-27 22:40:12;187.41.169.191;pt;local;bio;tiamina;ti;BHLG;db:BHLG;1
+2011-05-27 23:26:26;203.131.252.118;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-27 23:28:02;203.131.252.118;pt;local;bio;*;*;BHLB;db:BHLB;1

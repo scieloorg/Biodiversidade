@@ -1,0 +1,84 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-01-29 00:21:32;189.100.98.133;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-29 00:30:01;218.213.130.138;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-29 00:33:11;114.108.89.136;pt;local;bio;*;*;*;;1
+2011-01-29 00:34:22;114.108.89.136;pt;local;bio;legislação recursos genéticos;*;*;;1
+2011-01-29 00:34:31;114.108.89.136;pt;local;bio;legislação ;*;*;;1
+2011-01-29 00:34:50;114.108.89.136;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-29 00:37:10;114.108.89.136;pt;local;bio;embrapa;*;*;;1
+2011-01-29 00:40:33;114.108.89.136;pt;local;bio;embrapa lopes;*;ALL;;1
+2011-01-29 00:41:01;114.108.89.136;pt;local;bio;embrapa lopes;*;ALL;ta_cluster:"Genet. Mol. Biol.";1
+2011-01-29 00:44:46;218.213.130.138;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-29 00:56:34;218.213.130.138;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-29 02:17:49;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-29 02:17:55;66.249.71.52;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-29 02:18:16;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-29 03:45:18;201.43.68.1;pt;local;bio;pata de vaca;*;*;;1
+2011-01-29 05:17:00;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-29 05:50:47;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-29 05:59:28;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-29 06:20:31;66.249.71.52;xfdblysxhm;local;bio;*;*;*;;1
+2011-01-29 06:25:31;66.249.71.52;xfdblysxhm;local;bio;*;*;*;;1
+2011-01-29 06:33:50;66.249.71.52;xfdblysxhm;local;bio;*;*;*;;1
+2011-01-29 06:40:17;66.249.71.52;xfdblysxhm;local;bio;*;*;*;;1
+2011-01-29 06:58:32;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-29 06:59:28;66.249.71.52;xfdblysxhm;local;bio;*;*;*;;1
+2011-01-29 07:01:40;66.249.71.52;xfdblysxhm;local;bio;*;*;*;;1
+2011-01-29 07:03:04;66.249.71.52;xfdblysxhm;local;bio;*;*;*;;1
+2011-01-29 07:14:17;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-01-29 07:27:42;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-01-29 07:32:47;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-01-29 07:40:31;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-01-29 07:47:55;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-01-29 07:50:40;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-01-29 07:51:09;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-29 08:09:26;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-01-29 08:14:02;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-01-29 08:20:56;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-01-29 08:22:14;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-01-29 08:24:06;66.249.71.52;yiewkcbsz;local;bio;*;*;*;;1
+2011-01-29 08:30:35;66.249.71.52;yiewkcbsz;local;bio;*;*;*;;1
+2011-01-29 08:45:18;66.249.71.52;yiewkcbsz;local;bio;*;*;*;;1
+2011-01-29 08:50:13;66.249.71.52;yiewkcbsz;local;bio;*;*;*;;1
+2011-01-29 08:52:54;66.249.71.52;yiewkcbsz;local;bio;*;*;*;;1
+2011-01-29 08:54:08;66.249.71.52;yiewkcbsz;local;bio;*;*;*;;1
+2011-01-29 08:54:39;66.249.71.52;yiewkcbsz;local;bio;*;*;*;;1
+2011-01-29 09:19:11;66.249.71.52;yiewkcbsz;local;bio;*;*;*;;1
+2011-01-29 09:24:31;66.249.71.52;yiewkcbsz;local;bio;*;*;*;;1
+2011-01-29 09:30:38;66.249.71.52;yiewkcbsz;local;bio;*;*;*;;1
+2011-01-29 12:22:16;66.249.71.52;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-01-29 13:55:21;189.41.101.67;pt;local;bio;Saracura;*;*;;1
+2011-01-29 13:55:51;189.41.101.67;pt;local;bio;cerrado;*;ALL;;1
+2011-01-29 15:58:10;187.115.116.50;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-29 15:58:39;187.115.116.50;pt;local;bio;*;*;BHLB;db:BHLB;2
+2011-01-29 15:58:50;187.115.116.50;pt;local;bio;AMBIENTAL;*;BHLB;db:BHLB;1
+2011-01-29 15:58:50;187.115.116.50;pt;local;bio;AMBIENTAL;*;BHLB;db:BHLB;1
+2011-01-29 15:59:04;187.115.116.50;pt;local;bio;MEIO AMBIENTE;*;BHLB;db:BHLB;1
+2011-01-29 15:59:04;187.115.116.50;pt;local;bio;MEIO AMBIENTE;*;BHLB;db:BHLB;1
+2011-01-29 15:59:15;187.115.116.50;pt;local;bio;AMBIENTAL;*;*;;1
+2011-01-29 15:59:32;187.115.116.50;pt;local;bio;BIOMA PAMPA;*;ALL;;1
+2011-01-29 15:59:54;187.115.116.50;pt;local;bio;VEGETAÇÃO DO RS;*;ALL;;1
+2011-01-29 16:00:02;187.115.116.50;pt;local;bio;VEGETAÇÃO DO RS;*;ALL;;1
+2011-01-29 16:00:11;187.115.116.50;pt;local;bio;VEGETAÇÃO DO BIOMA PAMPA;*;ALL;;1
+2011-01-29 16:00:11;187.115.116.50;pt;local;bio;VEGETAÇÃO DO BIOMA PAMPA;*;ALL;;1
+2011-01-29 16:24:06;200.132.26.2;pt;local;bio;várzea;*;*;;1
+2011-01-29 16:24:15;200.132.26.2;pt;local;bio;banhado;*;ALL;;1
+2011-01-29 16:25:25;200.132.26.2;pt;local;bio;terras baixas;*;ALL;;1
+2011-01-29 16:31:35;200.132.26.2;pt;local;bio;conflito ambiental;*;ALL;;1
+2011-01-29 19:21:41;201.9.60.130;pt;local;bio;nome cientifico da paca;*;*;;1
+2011-01-29 19:29:19;24.193.226.65;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-29 19:39:01;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-29 21:15:28;200.116.216.105;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-29 21:48:10;189.96.255.85;pt;local;bio;aves;*;*;;1
+2011-01-29 22:44:26;189.120.241.218;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-29 22:44:40;189.120.241.218;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-29 22:50:11;189.120.241.218;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-01-29 22:50:31;189.120.241.218;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-01-29 22:50:37;189.120.241.218;pt;local;bio;*;*;BHLB;db:BHLB;2
+2011-01-29 22:50:41;189.120.241.218;pt;local;bio;*;*;BHLB;db:BHLB;3
+2011-01-29 22:52:37;189.120.241.218;pt;local;bio;*;*;BHLB;db:BHLB;4
+2011-01-29 23:13:26;187.116.127.96;pt;local;bio;aves;*;*;;1
+2011-01-29 23:32:35;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-29 23:39:49;189.29.24.157;pt;local;../../../../../../../../../../../../../../../../../../proc/self/environ\0;*;*;*;;1
+2011-01-29 23:51:17;189.29.24.157;pt;local;/proc/self/environ\0;*;*;*;;1
+2011-01-29 23:51:22;189.29.24.157;pt;local;bio;*;*;*;;1

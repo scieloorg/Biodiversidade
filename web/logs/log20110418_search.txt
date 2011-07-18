@@ -1,0 +1,48 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-04-18 00:15:38;66.249.71.43;pt;local;bio;*;*;*;;1
+2011-04-18 00:17:52;207.46.199.52;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-18 01:19:27;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-18 05:55:18;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-18 06:01:13;201.245.239.14;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-18 06:01:13;201.245.239.14;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-04-18 06:01:13;201.245.239.14;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-18 10:04:55;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-18 10:23:48;186.213.89.34;pt;local;bio;omega 3;*;*;;1
+2011-04-18 10:47:34;189.112.193.226;pt;local;bio;saúde pública - inglês;*;*;;1
+2011-04-18 10:49:58;189.112.193.226;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-18 10:53:19;189.112.193.226;pt;local;bio;saúde pública - inglês;ti;BHLB;db:BHLB;1
+2011-04-18 11:24:19;201.55.42.102;pt;local;bio;Sua seleção;*;*;;1
+2011-04-18 11:54:51;189.121.180.243;pt;local;bio;psico oncologia abstratos de artigos;*;*;;1
+2011-04-18 12:45:32;186.206.229.158;pt;local;bio;livros;*;*;;1
+2011-04-18 14:29:46;200.131.207.60;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-18 14:30:34;200.131.207.60;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-18 14:31:04;200.131.207.60;pt;local;bio;*;*;BHLB;db:BHLB;2
+2011-04-18 14:31:13;200.131.207.60;pt;local;bio;*;*;BHLB;db:BHLB;3
+2011-04-18 14:31:21;200.131.207.60;pt;local;bio;*;*;BHLB;db:BHLB;5
+2011-04-18 14:31:57;200.131.207.60;pt;local;bio;*;*;BHLB;db:BHLB;6
+2011-04-18 14:32:38;200.131.207.60;pt;local;bio;*;*;BHLB;db:BHLB;7
+2011-04-18 14:33:15;200.131.207.60;pt;local;bio;*;*;BHLB;db:BHLB;8
+2011-04-18 14:37:45;200.131.207.60;pt;local;bio;*;*;BHLB;db:BHLB;9
+2011-04-18 14:38:30;200.131.207.60;pt;local;bio;*;*;BHLB;db:BHLB;10
+2011-04-18 14:45:40;200.131.207.60;pt;local;bio;*;*;BHLB;db:BHLB;11
+2011-04-18 14:46:14;200.131.207.60;pt;local;bio;*;*;BHLB;db:BHLB;12
+2011-04-18 14:55:23;200.131.207.60;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-18 14:56:37;200.131.207.60;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-18 15:10:58;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-18 16:38:37;66.249.71.43;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-18 16:39:16;200.143.136.194;pt;local;bio;angisosperma;*;*;;1
+2011-04-18 16:39:26;200.143.136.194;pt;local;bio;angiosperma;*;ALL;;1
+2011-04-18 18:59:07;200.181.121.146;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-18 19:00:26;200.181.121.146;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-04-18 19:01:04;200.181.121.146;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-18 19:01:15;200.181.121.146;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-18 19:01:45;200.181.121.146;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-04-18 19:02:09;200.181.121.146;pt;local;bio;*;*;SCIB;db:SCIB;3
+2011-04-18 19:18:00;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-18 20:38:20;186.206.229.158;pt;local;bio;mamíferos;*;*;;1
+2011-04-18 20:38:27;186.206.229.158;pt;local;bio;mamíferos;*;*;;1
+2011-04-18 20:38:46;186.206.229.158;pt;local;bio;espinhaço;*;ALL;;1
+2011-04-18 20:38:57;186.206.229.158;pt;local;bio;espinhaço;kw;ALL;;1
+2011-04-18 22:04:03;201.51.64.157;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-18 22:04:03;201.51.64.157;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-18 23:24:02;209.131.41.49;pt;local;bio;*;*;*;;1

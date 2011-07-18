@@ -1,0 +1,102 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-05-13 00:19:35;218.213.130.208;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-13 00:35:37;218.213.130.208;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-13 01:05:35;218.213.130.208;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-13 03:51:02;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-13 03:51:03;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-13 03:51:04;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-13 03:51:04;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-13 03:53:59;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-13 04:21:31;66.249.71.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-13 05:25:01;66.249.71.72;yiewkcbsz;local;bio;*;*;*;;1
+2011-05-13 05:51:52;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-05-13 05:52:05;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-05-13 05:52:06;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-05-13 05:52:18;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-05-13 08:00:01;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-13 08:11:34;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-13 08:30:47;66.249.71.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-13 08:35:39;201.48.19.18;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-13 08:36:19;201.48.19.18;pt;local;bio;unidades de conservação;*;SCIB;db:SCIB;1
+2011-05-13 08:36:35;201.48.19.18;pt;local;bio;ara ararauna;*;SCIB;db:SCIB;1
+2011-05-13 09:53:48;187.127.199.54;pt;local;bio;crítico- reprodutivista crítico e exclusão marginalização";*;*;;1
+2011-05-13 09:54:25;187.127.199.54;pt;local;bio;reprodutivismo;kw;BHLB;db:BHLB;1
+2011-05-13 10:13:52;189.63.105.95;pt;local;bio;palmeiras do cerrado;*;*;;1
+2011-05-13 10:14:16;189.63.105.95;pt;local;bio;cerrado;*;ALL;;1
+2011-05-13 10:14:42;189.63.105.95;pt;local;bio;fitoquimica do cerrado;*;ALL;;1
+2011-05-13 10:14:58;189.63.105.95;pt;local;bio;plantas medicinais do cerrado;*;ALL;;1
+2011-05-13 10:16:48;189.63.105.95;pt;local;bio;fitoterápicos;*;ALL;;1
+2011-05-13 10:17:08;189.63.105.95;pt;local;bio;palmae;*;ALL;;1
+2011-05-13 10:17:17;189.63.105.95;pt;local;bio;palmae;*;ALL;;1
+2011-05-13 10:17:50;189.63.105.95;pt;local;bio;palmae;*;BHLB;db:BHLB;1
+2011-05-13 10:23:04;189.63.105.95;pt;local;bio;syagrus flexuosa;*;BHLB;db:BHLB;1
+2011-05-13 10:23:16;189.63.105.95;pt;local;bio;syagrus;*;BHLB;db:BHLB;1
+2011-05-13 10:24:13;189.63.105.95;pt;local;bio;plantas brasileiras;*;BHLB;db:BHLB;1
+2011-05-13 10:24:26;189.63.105.95;pt;local;bio;plantas do cerrado;*;BHLB;db:BHLB;1
+2011-05-13 10:24:44;189.63.105.95;pt;local;bio;stricto sensu;*;BHLB;db:BHLB;1
+2011-05-13 10:24:55;189.63.105.95;pt;local;bio;prospecção;*;BHLB;db:BHLB;1
+2011-05-13 10:25:03;189.63.105.95;pt;local;bio;morfologia;*;BHLB;db:BHLB;1
+2011-05-13 10:35:23;189.63.105.95;pt;local;bio;syagrus flexuosa;*;*;;1
+2011-05-13 10:53:21;66.249.71.72;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-13 11:35:16;201.95.193.3;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-13 11:36:08;201.95.193.3;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-05-13 11:40:48;201.95.193.3;pt;local;bio;*;*;SCIB;db:SCIB;3
+2011-05-13 11:42:14;200.252.137.3;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-13 11:42:40;201.95.193.3;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-13 11:42:44;200.252.137.3;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-13 11:43:09;200.252.137.3;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-05-13 11:43:43;200.252.137.3;pt;local;bio;*;*;SCIB;db:SCIB;3
+2011-05-13 11:44:06;200.252.137.3;pt;local;bio;*;*;SCIB;db:SCIB;4
+2011-05-13 11:44:17;200.252.137.3;pt;local;bio;*;*;SCIB;db:SCIB;5
+2011-05-13 11:44:46;200.252.137.3;pt;local;bio;biodiversidade;*;*;;1
+2011-05-13 11:44:58;200.252.137.3;pt;local;bio;biodiversidade;*;ALL;;1
+2011-05-13 11:45:24;200.252.137.3;pt;local;bio;biodiversidade;ti;ALL;;1
+2011-05-13 11:46:02;200.252.137.3;pt;local;bio;biodiversidade;ti;ALL;;2
+2011-05-13 11:46:24;201.95.193.3;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-05-13 11:46:32;201.95.193.3;pt;local;bio;*;*;SCIB;db:SCIB;3
+2011-05-13 11:46:48;201.95.193.3;pt;local;bio;*;*;SCIB;db:SCIB;4
+2011-05-13 11:47:19;201.95.193.3;pt;local;bio;*;*;SCIB;db:SCIB;5
+2011-05-13 12:30:00;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-13 13:30:40;150.165.144.40;pt;local;bio;*;*;*;;1
+2011-05-13 13:31:11;150.165.144.40;pt;local;bio;minhocas;*;ALL;;1
+2011-05-13 13:31:19;150.165.144.40;pt;local;bio;oligochaeta;*;ALL;;1
+2011-05-13 13:31:57;150.165.144.40;pt;local;bio;oligochaeta;*;ALL;;2
+2011-05-13 13:32:24;150.165.144.40;pt;local;bio;oligochaeta;*;ALL;;3
+2011-05-13 13:33:24;150.165.144.40;pt;local;bio;oligochaeta;*;ALL;;4
+2011-05-13 13:54:42;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-05-13 13:54:50;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-05-13 13:54:56;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-05-13 13:55:01;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-05-13 14:02:58;200.129.166.134;pt;local;bio;saf's em quintais urbanos;*;*;;1
+2011-05-13 14:15:29;200.134.38.30;pt;local;bio;DIPLOMASIA DIGITAL;*;*;;1
+2011-05-13 14:15:38;200.134.38.30;pt;local;bio;DIPLOMASIA DIGITAL;*;ALL;;1
+2011-05-13 14:15:42;200.134.38.30;pt;local;bio;DIPLOMASIA DIGITAL;*;ALL;;1
+2011-05-13 15:47:28;187.9.91.197;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-13 15:47:41;187.9.91.197;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-13 15:48:56;187.9.91.197;pt;local;bio;prevenção de queda em idoso;kw;SCIB;db:SCIB;1
+2011-05-13 15:48:56;187.9.91.197;pt;local;bio;prevenção de queda em idoso;kw;SCIB;db:SCIB;1
+2011-05-13 15:49:03;187.9.91.197;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-13 15:49:34;187.9.91.197;pt;local;bio;prevenção de quedas no idoso;ti;BHLB;db:BHLB;1
+2011-05-13 15:49:34;187.9.91.197;pt;local;bio;prevenção de quedas no idoso;ti;BHLB;db:BHLB;1
+2011-05-13 15:49:45;187.9.91.197;pt;local;bio; quedas no idoso;ti;BHLB;db:BHLB;1
+2011-05-13 15:49:45;187.9.91.197;pt;local;bio; quedas no idoso;ti;BHLB;db:BHLB;1
+2011-05-13 16:32:45;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-13 16:36:51;66.249.71.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-13 17:23:22;66.249.71.72;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-13 17:26:56;189.114.9.194;pt;local;bio;diversidade de genero na mídia;*;*;;1
+2011-05-13 17:41:24;200.136.241.40;pt;local;bio;unesp;*;*;;1
+2011-05-13 17:41:57;200.136.241.40;pt;local;bio;unesp;au;ALL;;1
+2011-05-13 17:42:06;200.136.241.40;pt;local;bio;universidade;au;ALL;;1
+2011-05-13 18:08:08;66.249.71.72;xfdblysxhm;local;bio;*;*;*;;1
+2011-05-13 18:10:02;66.249.71.72;yiewkcbsz;local;bio;*;*;*;;1
+2011-05-13 19:02:10;66.249.71.72;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-13 19:29:10;66.249.71.72;xfdblysxhm;local;bio;*;*;*;;1
+2011-05-13 19:39:49;66.249.71.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-13 20:02:24;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-13 22:06:23;66.249.71.72;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-05-13 22:08:21;66.249.71.72;xfdblysxhm;local;bio;*;*;*;;1
+2011-05-13 23:22:21;201.53.43.202;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-13 23:22:42;201.53.43.202;pt;local;bio;*;*;BHLB;db:BHLB;2
+2011-05-13 23:22:46;201.53.43.202;pt;local;bio;*;*;BHLB;db:BHLB;3
+2011-05-13 23:22:52;201.53.43.202;pt;local;bio;*;*;BHLB;db:BHLB;4
+2011-05-13 23:37:39;209.131.41.48;pt;local;bio;*;*;*;;1

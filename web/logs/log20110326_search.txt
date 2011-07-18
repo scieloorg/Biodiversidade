@@ -1,0 +1,37 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-03-26 00:15:42;66.249.71.98;pt;local;bio;*;*;*;;1
+2011-03-26 00:24:23;187.72.12.221;pt;local;bio;oriegem dos trilobitas;*;*;;1
+2011-03-26 00:25:09;187.72.12.221;pt;local;bio;filo trilobitas;*;ALL;;1
+2011-03-26 00:26:24;187.72.12.221;pt;local;bio;ARTHROPODA;*;ALL;;1
+2011-03-26 00:26:48;187.72.12.221;pt;local;bio;ARTHROPODA;*;ALL;;2
+2011-03-26 00:27:22;187.72.12.221;pt;local;bio;ARTHROPODA;*;ALL;;3
+2011-03-26 00:30:56;187.72.12.221;pt;local;bio;ARTHROPODA;*;ALL;;1
+2011-03-26 00:31:07;187.72.12.221;pt;local;bio;ARTHROPODA;*;ALL;;1
+2011-03-26 00:31:31;187.72.12.221;pt;local;bio;ARTHROPODA;*;ALL;;1
+2011-03-26 00:35:56;187.72.12.221;pt;local;bio;*;*;ALL;;1
+2011-03-26 00:36:18;187.72.12.221;pt;local;bio;*;*;ALL;;2
+2011-03-26 00:36:30;187.72.12.221;pt;local;bio;*;*;ALL;;3
+2011-03-26 00:36:44;187.72.12.221;pt;local;bio;*;*;ALL;;1
+2011-03-26 01:49:59;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-26 03:50:05;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-26 03:50:08;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-26 03:50:10;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-26 03:50:15;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-26 05:53:57;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-26 08:59:44;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-26 13:02:29;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-26 13:07:27;201.93.197.56;pt;local;bio;*;*;*;;1
+2011-03-26 14:32:21;66.249.71.98;yiewkcbsz;local;bio;*;*;*;;1
+2011-03-26 17:03:47;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-26 19:43:45;201.52.105.38;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-26 20:01:00;187.53.178.127;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-26 20:11:01;187.68.20.16;pt;local;bio;tagetes erecta;*;*;;1
+2011-03-26 20:17:03;189.93.167.57;pt;local;bio;citrulinemia;*;*;;1
+2011-03-26 20:17:21;189.93.167.57;pt;local;bio;citrulinemia;kw;ALL;;1
+2011-03-26 20:17:32;189.93.167.57;pt;local;bio;citrulinemia;kw;SCIB;db:SCIB;1
+2011-03-26 20:17:39;189.93.167.57;pt;local;bio;citrulinemia;kw;BHLB;db:BHLB;1
+2011-03-26 20:18:24;189.93.167.57;pt;local;bio;deficiencia de enzimas do ciclo da ureia;kw;ALL;;1
+2011-03-26 20:23:40;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-26 20:33:36;66.249.71.98;yiewkcbsz;local;bio;*;*;*;;1
+2011-03-26 21:12:29;65.52.110.48;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-26 21:35:30;207.46.204.186;pt;local;bio;*;*;BHLB;db:BHLB;1

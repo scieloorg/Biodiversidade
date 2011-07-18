@@ -1,0 +1,133 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-04-22 01:51:29;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 01:51:45;66.249.71.43;pt;local;bio;*;*;*;;1
+2011-04-22 02:33:35;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-22 02:33:36;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-22 02:33:36;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-22 02:33:36;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-04-22 02:52:11;66.249.71.43;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-22 03:59:44;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-22 04:07:01;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-04-22 04:07:10;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-04-22 04:07:13;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-04-22 04:07:17;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-04-22 04:14:00;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-04-22 04:14:09;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-04-22 04:14:09;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-04-22 04:14:13;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-04-22 04:41:10;66.249.71.43;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-22 05:42:03;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 08:03:22;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-22 09:33:42;66.249.71.43;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-04-22 09:34:33;189.55.45.221;pt;local;bio;manguezal;*;*;;1
+2011-04-22 09:35:22;189.55.45.221;pt;local;bio;manguezal;*;ALL;;2
+2011-04-22 09:40:23;189.55.45.221;pt;local;bio;manguezal;*;ALL;;3
+2011-04-22 09:41:37;189.55.45.221;pt;local;bio;manguezal;*;ALL;;4
+2011-04-22 09:43:55;189.55.45.221;pt;local;bio;manguezal;*;ALL;;5
+2011-04-22 09:44:44;189.55.45.221;pt;local;bio;manguezal;*;ALL;;6
+2011-04-22 09:45:03;189.55.45.221;pt;local;bio;manguezal;*;ALL;ta_cluster:"Acta Bot. Bras.";1
+2011-04-22 09:45:20;189.55.45.221;pt;local;bio;estuario;*;ALL;;1
+2011-04-22 09:47:57;189.55.45.221;pt;local;bio;estuario;*;ALL;;2
+2011-04-22 09:59:28;201.89.161.212;pt;local;bio;Furnariidae;*;*;;1
+2011-04-22 10:00:20;201.89.161.212;pt;local;bio;Leptasthenura;*;ALL;;1
+2011-04-22 10:00:21;201.89.161.212;pt;local;bio;Leptasthenura;*;ALL;;1
+2011-04-22 10:00:39;201.89.161.212;pt;local;bio;nicho;*;ALL;;1
+2011-04-22 10:01:30;201.89.161.212;pt;local;bio;avifauna;*;ALL;;1
+2011-04-22 10:02:04;201.89.161.212;pt;local;bio;Rio grande do sul;*;ALL;;1
+2011-04-22 10:02:36;201.89.161.212;pt;local;bio; avesRio grande do sul;*;ALL;;1
+2011-04-22 10:02:36;201.89.161.212;pt;local;bio; avesRio grande do sul;*;ALL;;1
+2011-04-22 10:02:42;201.89.161.212;pt;local;bio; aves Rio grande do sul;*;ALL;;1
+2011-04-22 10:06:39;201.89.161.212;pt;local;bio; aves Rio grande do sul;*;ALL;;2
+2011-04-22 10:07:05;201.89.161.212;pt;local;bio;birds Rio grande do sul;*;ALL;;1
+2011-04-22 10:07:22;201.89.161.212;pt;local;bio;joenck;*;ALL;;1
+2011-04-22 10:07:22;201.89.161.212;pt;local;bio;joenck;*;ALL;;1
+2011-04-22 10:07:43;201.89.161.212;pt;local;bio;estatística;*;ALL;;1
+2011-04-22 10:07:43;201.89.161.212;pt;local;bio;estatística;*;ALL;;1
+2011-04-22 10:07:54;201.89.161.212;pt;local;bio;forrageio;*;ALL;;1
+2011-04-22 10:08:59;201.89.161.212;pt;local;bio;forrageio;*;ALL;;2
+2011-04-22 10:10:18;201.89.161.212;pt;local;bio;forrageio;*;ALL;;3
+2011-04-22 10:11:09;201.89.161.212;pt;local;bio;Araucaria;*;ALL;;1
+2011-04-22 10:11:57;201.89.161.212;pt;local;bio;Araucaria;*;ALL;;2
+2011-04-22 10:12:57;189.55.45.221;pt;local;bio;*;*;*;;1
+2011-04-22 10:13:07;201.89.161.212;pt;local;bio;Araucaria;*;ALL;;3
+2011-04-22 10:13:16;189.55.45.221;pt;local;bio;*;*;ALL;;2
+2011-04-22 10:13:27;189.55.45.221;pt;local;bio;manguezal;*;ALL;;1
+2011-04-22 10:13:32;201.89.161.212;pt;local;bio;Araucaria;*;ALL;;4
+2011-04-22 10:14:09;201.89.161.212;pt;local;bio;Araucaria;*;ALL;;5
+2011-04-22 11:42:55;62.75.182.85;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-22 11:42:56;62.75.182.85;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-04-22 11:42:58;62.75.182.85;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-22 12:09:59;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-22 13:02:44;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:05:25;189.19.121.230;pt;local;bio;levantamento histórico;*;*;;1
+2011-04-22 14:05:40;189.19.121.230;pt;local;bio;levantamento histórico;kw;ALL;;1
+2011-04-22 14:05:49;189.19.121.230;pt;local;bio;história;kw;ALL;;1
+2011-04-22 14:05:57;189.19.121.230;pt;local;bio;puma;kw;ALL;;1
+2011-04-22 14:07:25;189.19.121.230;pt;local;bio;cenário;kw;ALL;;1
+2011-04-22 14:07:25;189.19.121.230;pt;local;bio;cenário;kw;ALL;;1
+2011-04-22 14:07:36;189.19.121.230;pt;local;bio;cecropia;kw;ALL;;1
+2011-04-22 14:33:33;62.75.182.85;pt;local;bio;*;*;*;;1
+2011-04-22 14:33:35;62.75.182.85;pt;local;bio;*;*;*;;1
+2011-04-22 14:33:36;62.75.182.85;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-22 14:33:38;62.75.182.85;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-22 14:33:39;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:33:41;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:33:43;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:33:44;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:33:46;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:33:47;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:33:49;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:33:50;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:33:52;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:33:53;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:33:55;62.75.182.85;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-04-22 14:33:56;62.75.182.85;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-04-22 14:33:58;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:33:59;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:34:02;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:34:03;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:34:05;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:34:06;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:34:08;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:34:09;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:34:11;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:34:13;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:34:14;62.75.182.85;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-22 14:34:16;62.75.182.85;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-22 14:34:19;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:34:22;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:34:26;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:34:29;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:34:32;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:34:35;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:34:39;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:34:42;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:34:45;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:34:49;62.75.182.85;pt;local;bio;Sua seleção;*;*;;1
+2011-04-22 14:41:59;189.55.45.221;pt;local;bio;*;*;*;;1
+2011-04-22 14:42:11;189.55.45.221;pt;local;bio;novelly shaffer;*;ALL;;1
+2011-04-22 14:42:11;189.55.45.221;pt;local;bio;novelly shaffer;*;ALL;;1
+2011-04-22 14:42:46;189.55.45.221;pt;local;bio;SCHAEFFER-NOVELLI;*;ALL;;1
+2011-04-22 14:42:46;189.55.45.221;pt;local;bio;SCHAEFFER-NOVELLI;*;ALL;;1
+2011-04-22 14:42:52;189.55.45.221;pt;local;bio;SCHAEFFER NOVELLI;*;ALL;;1
+2011-04-22 14:42:52;189.55.45.221;pt;local;bio;SCHAEFFER NOVELLI;*;ALL;;1
+2011-04-22 14:43:00;189.55.45.221;pt;local;bio;SCHAEFFER;*;ALL;;1
+2011-04-22 14:43:35;189.55.45.221;pt;local;bio;novelli;*;ALL;;1
+2011-04-22 14:44:19;189.55.45.221;pt;local;bio;novelli;*;ALL;ta_cluster:"Rev. Bras. Zool.";1
+2011-04-22 14:59:11;201.220.215.11;es;local;bio;Cromis scotti, Familia Pomacentridae;*;*;;1
+2011-04-22 15:02:55;201.220.215.12;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-22 15:03:28;201.220.215.12;es;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-22 15:04:16;201.220.215.12;es;local;bio;Cromis scotti, Familia Pomacentridae;*;SCIB;db:SCIB;1
+2011-04-22 15:05:46;201.220.215.12;es;local;bio;peces;*;SCIB;db:SCIB;1
+2011-04-22 15:15:54;201.220.215.11;es;local;bio; Familia Pomacentridae;*;*;;1
+2011-04-22 16:12:37;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-22 17:32:10;187.105.104.41;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-22 18:41:39;66.249.71.43;yiewkcbsz;local;bio;*;*;*;;1
+2011-04-22 19:12:35;201.34.242.8;pt;local;bio;áreas protegidas;*;*;;1
+2011-04-22 19:19:23;200.137.132.10;pt;local;bio;sustentabilidade;*;*;;1
+2011-04-22 19:39:00;66.249.71.43;xfdblysxhm;local;bio;*;*;*;;1
+2011-04-22 20:14:17;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-22 23:00:07;189.82.30.207;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-22 23:00:50;189.82.30.207;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-22 23:01:11;189.82.30.207;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Boletim do Museu Goeldi (Museu Paraense) de Historia Natural e Ethnographia.";1
+2011-04-22 23:16:06;209.131.41.49;pt;local;bio;*;*;*;;1

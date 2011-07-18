@@ -1,0 +1,30 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-03-17 01:39:01;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-17 04:08:05;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-03-17 05:00:36;66.249.71.98;pt;local;bio;*;*;*;;1
+2011-03-17 05:11:33;207.46.194.62;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-17 05:30:57;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-17 05:31:00;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-17 05:31:02;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-17 05:31:02;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-17 05:33:15;66.249.71.98;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-17 06:44:55;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-17 07:26:36;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-03-17 09:50:07;189.110.138.62;pt;local;bio;fauna coleoptera;*;*;;1
+2011-03-17 09:57:30;189.110.138.62;pt;local;bio;fauna coleoptera;*;ALL;;2
+2011-03-17 09:57:43;189.110.138.62;pt;local;bio;fauna coleoptera guarulhos;*;ALL;;1
+2011-03-17 09:57:51;189.110.138.62;pt;local;bio;fauna coleoptera ;*;ALL;;1
+2011-03-17 10:45:28;66.249.71.98;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-17 11:11:42;66.249.71.98;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-03-17 13:48:41;201.67.99.117;pt;local;bio;meio ambiente;*;*;;1
+2011-03-17 13:54:44;66.249.71.98;yiewkcbsz;local;bio;*;*;*;;1
+2011-03-17 15:26:07;189.124.234.191;pt;local;bio;Meio ambiente;*;*;;1
+2011-03-17 15:27:07;189.124.234.191;pt;local;bio;Ministério do Meio ambiente;*;*;;1
+2011-03-17 15:32:37;189.124.234.191;pt;local;bio;Periódicos em Biodiversidade;*;*;;1
+2011-03-17 15:54:34;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-17 16:18:21;170.51.9.156;es;local;bio;schyzolobium parahyba;*;*;;1
+2011-03-17 16:18:54;170.51.9.156;es;local;bio;escarificacion de schyzolobium parahyba ;*;ALL;;1
+2011-03-17 16:19:22;170.51.9.156;es;local;bio;escarificacion de semillas;*;ALL;;1
+2011-03-17 20:21:49;200.249.25.12;pt;local;bio;PERIÓDICOS CAPES;*;*;;1
+2011-03-17 20:23:02;200.249.25.12;pt;local;bio;PERIÓDICOS CAPES;*;*;;1
+2011-03-17 21:13:13;209.131.41.48;pt;local;bio;*;*;*;;1

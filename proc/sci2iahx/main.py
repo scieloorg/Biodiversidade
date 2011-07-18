@@ -1,4 +1,4 @@
-#! /usr/bin/python
+#! /usr/bin/python3
 
 # To change this template, choose Tools | Templates
 # and open the template in the editor.
@@ -11,7 +11,8 @@ __date__ ="$Jun 22, 2011 9:00:16 AM$"
 from urllib.request import *
 import configparser
 import json
-import html
+import shutil
+import time
 
 
 #Fixme log the process of this script
@@ -31,8 +32,8 @@ if __name__ == "__main__":
     listIssn = config.get('app', 'issns').split(',')
 
     if (len(sys.argv) > 1):
-        if(sys.argv[1] == '--withup'):
-            print('Get metadada from: ' + config.get('urls', 'url'))
+        if(sys.argv[1] == '-withup'):
+            print('Get metadata from: ' + config.get('urls', 'url'))
 
             for i in range(len(listIssn)):
                 print(config.get('urls', 'url') + config.get('view', 'article_id', vars = {'startkey':listIssn[i], 'endkey':listIssn[i] + 'ZZZZ'}))
@@ -43,7 +44,7 @@ if __name__ == "__main__":
     
 #----------------------------Step 2---------------------------------------------
 
-    content = '<?xml version="1.0" encoding="ISO-8859-1"?>'
+    content = '<?xml version="1.0" encoding="UTF-8"?>'
     content += '<add>'
 
     f = open(config.get('path', 'xml_iahx', vars = {'date': str(time.localtime()[0]) + str(time.localtime()[1]) + str(time.localtime()[2])}), 'a')
@@ -112,20 +113,10 @@ if __name__ == "__main__":
     f.write('</add>')
     f.close()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#Copy to iahx folder
+if (len(sys.argv) > 1):
+    if(sys.argv[2] == '-copy'):
+        print('Copy from: ' + config.get('path', 'xml_iahx', vars = {'date': str(time.localtime()[0]) + str(time.localtime()[1]) + str(time.localtime()[2])}) + ' To: ' + config.get('path', 'path_copy') + config.get('app', 'acron') + str(time.localtime()[0]) + str(time.localtime()[1]) + str(time.localtime()[2]) + '.xml')
+        shutil.copy(config.get('path', 'xml_iahx', vars = {'date': str(time.localtime()[0]) + str(time.localtime()[1]) + str(time.localtime()[2])}), config.get('path', 'path_copy') + config.get('app', 'acron') + str(time.localtime()[0]) + str(time.localtime()[1]) + str(time.localtime()[2]) + '.xml')
 
 

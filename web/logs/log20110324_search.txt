@@ -1,0 +1,35 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-03-24 00:43:17;66.249.72.78;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-24 02:22:32;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-24 03:22:40;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-24 03:22:41;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-24 03:22:41;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-24 03:22:42;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-24 05:55:10;189.27.224.220;pt;local;bio;aracá vermelho;*;*;;1
+2011-03-24 05:55:22;189.27.224.220;pt;local;bio;butiá;*;*;;1
+2011-03-24 06:23:45;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-24 08:48:00;66.249.72.78;xfdblysxhm;local;bio;*;*;*;;1
+2011-03-24 10:28:27;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-24 11:52:58;66.249.72.78;yiewkcbsz;local;bio;+id:("lil-9030037197");*;*;;1
+2011-03-24 13:42:34;189.58.174.186;pt;local;bio;rhamdia quelen;*;*;;1
+2011-03-24 13:43:27;189.58.174.186;pt;local;bio;ephemeroptera;*;ALL;;1
+2011-03-24 13:45:10;189.58.174.186;pt;local;bio;ephemeroptera;*;BHLB;db:BHLB;1
+2011-03-24 15:06:30;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-24 15:40:08;66.249.72.78;pt;local;bio;Sua seleção;*;*;;1
+2011-03-24 15:40:37;66.249.72.78;pt;local;bio;Sua seleção;*;*;;1
+2011-03-24 18:00:49;190.210.117.203;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-24 18:00:49;190.210.117.203;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-24 18:00:50;190.210.117.203;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-03-24 18:19:06;66.249.72.78;pt;local;bio;Sua seleção;*;*;;1
+2011-03-24 19:08:28;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-24 19:19:51;187.89.128.103;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-24 19:20:50;187.89.128.103;pt;local;bio;dis;*;SCIB;db:SCIB;1
+2011-03-24 19:21:07;187.89.128.103;pt;local;bio;dis;*;SCIB;db:SCIB;1
+2011-03-24 19:21:48;187.89.128.103;pt;local;bio;distribuicao geografica;ti;SCIB;db:SCIB;1
+2011-03-24 19:22:35;187.89.128.103;pt;local;bio; distribuicao geografica arvores;ti;SCIB;db:SCIB;1
+2011-03-24 19:22:53;187.89.128.103;pt;local;bio; distribuicao geografica arborea;ti;SCIB;db:SCIB;1
+2011-03-24 19:23:29;187.89.128.103;pt;local;bio;padroes distribuicao geografica;ti;SCIB;db:SCIB;1
+2011-03-24 19:24:06;187.89.128.103;pt;local;bio;fitogeografia;ti;SCIB;db:SCIB;1
+2011-03-24 19:54:10;200.17.166.4;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-24 20:46:48;66.249.72.78;pt;local;bio;Sua seleção;*;*;;1
+2011-03-24 22:17:05;209.131.41.48;pt;local;bio;*;*;*;;1

@@ -1,0 +1,61 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-07-05 00:06:51;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-07-05 01:06:04;66.249.71.98;pt;local;bio;Sua seleção;*;*;;1
+2011-07-05 02:57:21;66.249.71.98;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-07-05 03:05:09;66.249.71.98;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-07-05 03:19:05;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-07-05 03:21:47;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-07-05 03:21:53;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-07-05 07:23:56;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-07-05 10:42:19;200.174.182.82;pt;local;bio;*;*;*;;1
+2011-07-05 11:06:55;187.72.198.102;pt;local;bio;Mittermeier;*;*;;1
+2011-07-05 11:07:02;187.72.198.102;pt;local;bio;Mittermeier;au;ALL;;1
+2011-07-05 11:32:31;187.72.198.102;pt;local;bio;Belém endemismo;au;ALL;;1
+2011-07-05 11:32:31;187.72.198.102;pt;local;bio;Belém endemismo;au;ALL;;1
+2011-07-05 11:32:37;187.72.198.102;pt;local;bio;Belém endemismo;*;ALL;;1
+2011-07-05 11:32:37;187.72.198.102;pt;local;bio;Belém endemismo;*;ALL;;1
+2011-07-05 11:32:45;187.72.198.102;pt;local;bio;Endemismo;*;ALL;;1
+2011-07-05 11:32:45;187.72.198.102;pt;local;bio;Endemismo;*;ALL;;1
+2011-07-05 11:33:28;187.72.198.102;pt;local;bio;Endemismo;*;ALL;year_cluster:"2009";1
+2011-07-05 11:34:19;187.72.198.102;pt;local;bio;Endemismo;*;ALL;year_cluster:"2009";1
+2011-07-05 11:35:50;187.72.198.102;pt;local;bio;Endemismo;*;ALL;year_cluster:"2009";2
+2011-07-05 11:36:06;187.72.198.102;pt;local;bio;Endemismo;*;ALL;year_cluster:"2009";2
+2011-07-05 11:36:30;187.72.198.102;pt;local;bio;Endemismo;*;ALL;type:"article";2
+2011-07-05 11:38:01;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-07-05 11:38:19;187.72.198.102;pt;local;bio;Endemismo;*;ALL;type:"article" AND type:"article";1
+2011-07-05 11:38:49;187.72.198.102;pt;local;bio;Endemismo;*;ALL;type:"article" AND type:"article" AND ta_cluster:"Acta Amaz.";1
+2011-07-05 11:48:39;192.168.1.91;pt;local;bio;*;*;*;;1
+2011-07-05 11:48:47;192.168.1.91;pt;local;bio;*;*;ALL;type:"book";1
+2011-07-05 11:48:51;192.168.1.91;pt;local;bio;*;*;*;;1
+2011-07-05 11:48:56;192.168.1.91;pt;local;bio;*;*;ALL;type:"article";1
+2011-07-05 11:49:10;192.168.1.91;pt;local;bio;*;*;ALL;type:"article" AND ta_cluster:"Mem. Inst. Oswaldo Cruz";1
+2011-07-05 12:01:51;186.215.223.194;pt;local;bio;informação;*;*;;1
+2011-07-05 12:02:02;186.215.223.194;pt;local;bio;informação;kw;ALL;;1
+2011-07-05 12:02:08;186.215.223.194;pt;local;bio;informação;kw;SCIB;db:SCIB;1
+2011-07-05 12:43:47;66.249.72.116;pt;local;bio;Sua seleção;*;*;;1
+2011-07-05 12:49:06;66.249.72.116;pt;local;bio;+id:("scl-S0074-02761909000200004");*;*;;1
+2011-07-05 14:25:18;192.168.1.91;pt;local;bio;*;*;*;;1
+2011-07-05 15:22:35;192.168.1.91;pt;local;bio;*;*;ALL;;1
+2011-07-05 15:22:42;192.168.1.91;pt;local;bio;*;*;ALL;;1
+2011-07-05 15:23:51;192.168.1.91;pt;local;bio;*;*;ALL;;1
+2011-07-05 15:24:00;192.168.1.91;pt;local;bio;*;*;ALL;ta_cluster:"Abhandlungen der Königlichen Akademie der Wissenschaften zu Berlin.";1
+2011-07-05 15:24:09;192.168.1.91;pt;local;bio;*;*;ALL;ta_cluster:"The Biological bulletin.";1
+2011-07-05 15:24:35;192.168.1.91;pt;local;bio;*;*;ALL;;1
+2011-07-05 15:24:37;192.168.1.91;pt;local;bio;*;*;ALL;ta_cluster:"The Biological bulletin.";1
+2011-07-05 15:24:45;192.168.1.91;pt;local;bio;*;*;ALL;ta_cluster:"Publication.  Field Museum of Natural History.";1
+2011-07-05 15:24:55;192.168.1.91;pt;local;bio;*;*;*;;1
+2011-07-05 15:25:00;192.168.1.91;pt;local;bio;*;*;ALL;;1
+2011-07-05 15:25:02;192.168.1.91;pt;local;bio;*;*;ALL;;1
+2011-07-05 15:25:05;192.168.1.91;pt;local;bio;*;*;ALL;;1
+2011-07-05 15:25:09;192.168.1.91;pt;local;bio;*;*;ALL;;1
+2011-07-05 15:25:15;192.168.1.91;pt;local;bio;*;*;ALL;ta_cluster:"Österreichische botanische Zeitschrift.";1
+2011-07-05 15:25:19;192.168.1.91;pt;local;bio;*;*;ALL;ta_cluster:"Pap. Avulsos Zool. (São Paulo)";1
+2011-07-05 15:28:50;192.168.1.91;pt;local;bio;*;*;*;;1
+2011-07-05 15:29:25;192.168.1.91;pt;local;bio;*;*;*;;1
+2011-07-05 15:30:27;192.168.1.91;pt;local;bio;*;*;*;;1
+2011-07-05 15:30:33;192.168.1.91;pt;local;bio;*;*;ALL;;1
+2011-07-05 15:30:36;192.168.1.91;pt;local;bio;*;*;ALL;;1
+2011-07-05 15:30:38;192.168.1.91;pt;local;bio;*;*;ALL;;1
+2011-07-05 15:30:43;192.168.1.91;pt;local;bio;*;*;ALL;;1
+2011-07-05 15:30:48;192.168.1.91;pt;local;bio;*;*;ALL;;1
+2011-07-05 15:31:00;192.168.1.91;pt;local;bio;*;*;ALL;;1

@@ -1,0 +1,50 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-05-10 01:06:11;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-10 04:10:37;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-10 04:10:37;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-10 04:10:37;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-10 04:10:37;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-05-10 04:11:38;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-10 04:46:19;66.249.72.58;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-10 06:23:39;66.249.72.58;pt;local;bio;Sua seleção;*;*;;1
+2011-05-10 06:49:21;66.249.72.58;pt;local;bio;Sua seleção;*;*;;1
+2011-05-10 07:27:52;66.249.72.58;xfdblysxhm;local;bio;*;*;*;;1
+2011-05-10 07:49:19;189.69.63.130;pt;local;bio;proteção social ;*;*;;1
+2011-05-10 07:49:40;189.69.63.130;pt;local;bio;superpopulaçao;*;ALL;;1
+2011-05-10 07:51:26;189.46.173.47;pt;local;bio;edneia alves de oliveira;au;SCIB;db:SCIB;1
+2011-05-10 07:51:30;189.46.173.47;pt;local;bio;edneia alves de oliveira;au;SCIB;db:SCIB;1
+2011-05-10 08:04:32;66.249.72.58;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-10 08:25:56;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-10 10:33:02;66.249.71.43;yiewkcbsz;local;bio;*;*;*;;1
+2011-05-10 11:06:34;177.9.30.250;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-10 11:07:15;177.9.30.250;pt;local;bio;ichneumonidae;*;SCIB;db:SCIB;1
+2011-05-10 11:07:47;177.9.30.250;pt;local;bio;ichneumonidae;*;SCIB;db:SCIB;2
+2011-05-10 11:07:58;177.9.30.250;pt;local;bio;aphelinus;*;SCIB;db:SCIB;1
+2011-05-10 11:28:01;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-05-10 11:56:48;66.249.71.43;yiewkcbsz;local;bio;*;*;*;;1
+2011-05-10 12:11:40;189.13.45.235;pt;local;bio;Perservação da amazonia;*;*;;1
+2011-05-10 13:07:23;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-10 13:47:12;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-05-10 14:10:58;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-05-10 15:41:45;187.65.168.45;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-10 15:42:50;187.65.168.45;pt;local;bio;Conservação do cerrado + animais silvestres;kw;SCIB;db:SCIB;1
+2011-05-10 15:43:25;187.65.168.45;pt;local;bio;conservação do cerrado;kw;SCIB;db:SCIB;1
+2011-05-10 15:44:44;187.65.168.45;pt;local;bio;Biodiversity;*;SCIB;db:SCIB;1
+2011-05-10 16:06:58;187.65.168.45;pt;local;bio;*;*;*;;1
+2011-05-10 16:07:29;187.65.168.45;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-10 16:08:42;187.65.168.45;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-05-10 16:12:06;187.65.168.45;pt;local;bio;*;*;SCIB;db:SCIB;3
+2011-05-10 16:32:31;187.65.168.45;pt;local;bio;*;*;ALL;;3
+2011-05-10 16:33:09;187.65.168.45;pt;local;bio;*;*;SCIB;db:SCIB;5
+2011-05-10 17:14:41;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-10 18:54:36;66.249.71.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-10 20:15:52;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-10 21:10:42;189.32.129.162;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-10 21:39:27;200.232.224.242;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-10 22:01:43;189.63.121.228;pt;local;bio;nutrição e carie infantil;*;*;;1
+2011-05-10 22:02:03;189.63.121.228;pt;local;bio;carie e alimentação;*;*;;1
+2011-05-10 22:02:29;189.63.121.228;pt;local;bio;carie e alimentação;kw;SCIB;db:SCIB;1
+2011-05-10 22:02:36;189.63.121.228;pt;local;bio;carie e alimentação;kw;SCIB;db:SCIB;1
+2011-05-10 23:05:32;186.212.240.2;pt;local;bio;profissionais da psquiatria;*;*;;1
+2011-05-10 23:06:36;186.212.240.2;pt;local;bio;novas modalidades da psquiatria;*;ALL;;1
+2011-05-10 23:23:14;66.249.71.72;pt;local;bio;+id:("lil-18474058070");*;*;;1

@@ -1,0 +1,63 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-03-09 00:55:48;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-09 02:36:59;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-09 02:37:02;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-09 02:37:03;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-09 02:37:04;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-09 04:05:21;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-09 08:11:32;66.249.71.98;yiewkcbsz;local;bio;*;*;*;;1
+2011-03-09 09:06:28;66.249.71.98;yiewkcbsz;local;bio;*;*;*;;1
+2011-03-09 09:12:42;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-09 12:20:16;187.58.215.153;pt;local;bio;Human drivers of landscape change: Treelines dynamics in neotropical montology ;*;*;;1
+2011-03-09 12:20:31;187.58.215.153;pt;local;bio;Human drivers of landscape change;*;ALL;;1
+2011-03-09 14:13:04;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-09 14:17:43;186.212.196.165;pt;local;bio;aves;*;*;;1
+2011-03-09 14:18:32;186.212.196.165;pt;local;bio;aves;*;ALL;;2
+2011-03-09 14:28:50;186.212.196.165;pt;local;bio;aves;*;ALL;;3
+2011-03-09 14:30:00;186.212.196.165;pt;local;bio;aves;*;ALL;;4
+2011-03-09 14:33:03;186.212.196.165;pt;local;bio;aves;*;ALL;;5
+2011-03-09 14:40:30;186.212.196.165;pt;local;bio;aves;*;ALL;;6
+2011-03-09 14:53:05;186.212.196.165;pt;local;bio;aves;*;ALL;;7
+2011-03-09 14:53:57;186.212.196.165;pt;local;bio;aves;*;ALL;;8
+2011-03-09 15:00:30;186.212.196.165;pt;local;bio;aves;*;ALL;;9
+2011-03-09 15:12:00;186.212.196.165;pt;local;bio;aves de chão;*;ALL;;1
+2011-03-09 15:12:11;186.212.196.165;pt;local;bio;aves sub bosque;*;ALL;;1
+2011-03-09 15:12:16;186.212.196.165;pt;local;bio;aves sub bosque;*;ALL;;1
+2011-03-09 15:12:19;186.212.196.165;pt;local;bio;aves sub bosque;*;ALL;;1
+2011-03-09 15:13:48;186.212.196.165;pt;local;bio;aves understore;*;ALL;;1
+2011-03-09 15:13:56;186.212.196.165;pt;local;bio;sub bosque;*;ALL;;1
+2011-03-09 15:14:03;186.212.196.165;pt;local;bio;aves;*;ALL;;1
+2011-03-09 15:14:07;186.212.196.165;pt;local;bio;aves;*;ALL;;10
+2011-03-09 15:48:18;186.212.196.165;pt;local;bio;aves;*;ALL;;11
+2011-03-09 16:40:57;186.212.196.165;pt;local;bio;aves;*;ALL;;12
+2011-03-09 16:54:03;186.212.196.165;pt;local;bio;aves;*;ALL;;13
+2011-03-09 17:06:07;186.212.196.165;pt;local;bio;aves;*;ALL;;14
+2011-03-09 17:06:53;186.212.196.165;pt;local;bio;aves;*;ALL;;15
+2011-03-09 17:11:59;187.112.114.28;pt;local;bio;herpeto;*;*;;1
+2011-03-09 17:12:11;187.112.114.28;pt;local;bio;ofídios;*;*;;1
+2011-03-09 17:12:46;187.112.114.28;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-09 17:12:58;187.112.114.28;pt;local;bio;*;*;SCIB;db:SCIB AND la:"Pt";1
+2011-03-09 17:13:18;187.112.114.28;pt;local;bio;*;*;SCIB;db:SCIB AND la:"Pt" AND ta_cluster:"Rev. Bras. Zool.";1
+2011-03-09 17:14:17;187.112.114.28;pt;local;bio;herpetologia;*;SCIB;db:SCIB;1
+2011-03-09 17:14:35;187.112.114.28;pt;local;bio;levantamento de ofidios;*;SCIB;db:SCIB;1
+2011-03-09 17:14:41;187.112.114.28;pt;local;bio;ofídios;*;SCIB;db:SCIB;1
+2011-03-09 17:14:50;187.112.114.28;pt;local;bio;serpentes;*;SCIB;db:SCIB;1
+2011-03-09 17:16:55;186.212.196.165;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-09 17:17:06;186.212.196.165;pt;local;bio;aves;*;SCIB;db:SCIB;1
+2011-03-09 18:23:25;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-09 19:18:15;201.68.195.179;pt;local;bio;soja transgênica;*;*;;1
+2011-03-09 19:18:36;201.68.195.179;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-09 20:34:41;201.17.152.172;pt;local;bio;biometria;*;*;;1
+2011-03-09 21:19:02;188.138.81.40;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-09 21:19:04;188.138.81.40;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-03-09 21:19:06;188.138.81.40;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-09 22:28:17;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-09 22:43:09;186.198.112.42;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-09 22:44:58;186.198.112.42;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-03-09 22:45:45;186.198.112.42;pt;local;bio;*;*;SCIB;db:SCIB;3
+2011-03-09 22:48:09;186.198.112.42;pt;local;bio;samambaias;*;SCIB;db:SCIB;2
+2011-03-09 22:48:53;189.97.121.244;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-09 22:49:19;186.198.112.42;pt;local;bio;samambaias;kw;SCIB;db:SCIB;1
+2011-03-09 22:50:26;186.198.112.42;pt;local;bio;samambaias;*;SCIB;db:SCIB;5
+2011-03-09 22:51:01;189.97.121.244;pt;local;bio;SILVA, Carlos Eduardo ;au;ALL;;1
+2011-03-09 22:53:04;186.198.112.42;pt;local;bio;samambaias;*;SCIB;db:SCIB;2

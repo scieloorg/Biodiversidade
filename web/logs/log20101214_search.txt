@@ -1,0 +1,128 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2010-12-14 00:25:55;66.249.71.37;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-14 00:46:07;66.249.71.37;pt;local;bio;+id:("lil-9030037220");*;*;;1
+2010-12-14 01:33:16;189.110.141.99;pt;local;bio;orquidea;*;*;;1
+2010-12-14 01:33:38;189.110.141.99;pt;local;bio;como cultivar orquidea;*;ALL;;1
+2010-12-14 01:33:54;189.110.141.99;pt;local;bio;cultivo de orquidea;*;ALL;;1
+2010-12-14 01:34:01;189.110.141.99;pt;local;bio;orquidea;*;ALL;;1
+2010-12-14 01:35:34;189.110.141.99;pt;local;bio;orquidea;*;ALL;ta_cluster:"Rev. bras. Bot.";1
+2010-12-14 01:35:47;189.110.141.99;pt;local;bio;sementes;*;ALL;;1
+2010-12-14 01:36:15;189.110.141.99;pt;local;bio;sementes;*;ALL;type:"article";1
+2010-12-14 02:21:08;66.249.71.37;pt;local;bio;*;*;*;;1
+2010-12-14 02:24:04;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-14 02:39:49;66.249.71.37;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-14 03:02:01;138.75.1.150;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-14 03:02:18;138.75.1.150;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-14 03:08:49;138.75.1.150;pt;local;bio;Curcul*;*;SCIB;db:SCIB;1
+2010-12-14 03:44:37;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-14 04:04:27;66.249.71.37;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-14 04:09:10;66.249.71.37;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-14 04:58:24;66.249.71.37;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-14 05:02:25;66.249.71.37;pt;local;bio;+id:("lil-13264049979");*;*;;1
+2010-12-14 05:06:10;66.249.71.37;pt;local;bio;+id:("lil-9030037111");*;*;;1
+2010-12-14 06:39:45;66.249.71.37;pt;local;bio;+id:("lil-9030037178");*;*;;1
+2010-12-14 08:10:16;66.249.71.37;pt;local;bio;+id:("lil-18474058058");*;*;;1
+2010-12-14 08:17:01;66.249.71.37;pt;local;bio;+id:("lil-18474058007");*;*;;1
+2010-12-14 08:30:05;201.15.173.31;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-14 08:49:41;201.54.129.80;pt;local;bio;cicadellidae;*;*;;1
+2010-12-14 08:50:20;201.54.129.80;pt;local;bio;cicadellinae;*;ALL;;1
+2010-12-14 09:23:01;66.249.71.37;pt;local;bio;+id:("lil-9030037197");*;*;;1
+2010-12-14 09:33:09;200.144.29.106;pt;local;bio;bromelia;*;*;;1
+2010-12-14 09:34:34;200.144.29.106;pt;local;bio;bromelia;*;ALL;;2
+2010-12-14 09:52:30;201.54.129.80;pt;local;bio;cicadellinae novo genero;*;ALL;;1
+2010-12-14 09:52:49;201.54.129.80;pt;local;bio;new genus of cicadellinae;*;ALL;;1
+2010-12-14 09:53:18;187.78.140.9;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-14 09:53:33;201.54.129.80;pt;local;bio;new genus of cicadellinae;ti;ALL;;1
+2010-12-14 09:53:52;201.54.129.80;pt;local;bio;genero cicadellinae;*;*;;1
+2010-12-14 09:54:00;201.54.129.80;pt;local;bio;genero ;*;ALL;;1
+2010-12-14 09:54:09;187.78.140.9;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Archivos do Jardim Botânico do Rio de Janeiro.";1
+2010-12-14 09:54:28;187.78.140.9;pt;local;bio;flora da caatinga;*;*;;1
+2010-12-14 09:56:48;187.78.140.9;pt;local;bio;flora da caatinga;*;ALL;;2
+2010-12-14 09:56:52;201.54.129.80;pt;local;bio;cicadellinae;*;ALL;;1
+2010-12-14 09:58:02;201.54.129.80;pt;local;bio;cicadellidae genero novo;*;ALL;;1
+2010-12-14 10:07:23;204.236.226.210;pt;local;bio;*;*;*;;1
+2010-12-14 10:07:28;204.236.226.210;pt;local;bio;*;*;*;;1
+2010-12-14 10:07:33;204.236.226.210;pt;local;bio;*;*;*;;1
+2010-12-14 10:07:39;204.236.226.210;pt;local;bio;*;*;*;;1
+2010-12-14 10:07:44;204.236.226.210;pt;local;bio;Sua seleção;*;*;;1
+2010-12-14 10:07:50;204.236.226.210;pt;local;bio;Sua seleção;*;*;;1
+2010-12-14 10:07:55;204.236.226.210;pt;local;bio;Sua seleção;*;*;;1
+2010-12-14 10:08:00;204.236.226.210;pt;local;bio;Sua seleção;*;*;;1
+2010-12-14 10:08:07;204.236.226.210;pt;local;bio;Sua seleção;*;*;;1
+2010-12-14 10:08:12;204.236.226.210;pt;local;bio;Sua seleção;*;*;;1
+2010-12-14 10:08:17;204.236.226.210;pt;local;bio;Sua seleção;*;*;;1
+2010-12-14 10:08:23;204.236.226.210;pt;local;bio;Sua seleção;*;*;;1
+2010-12-14 10:18:54;204.236.226.210;pt;local;bio;Sua seleção;*;*;;1
+2010-12-14 10:19:04;204.236.226.210;pt;local;bio;Sua seleção;*;*;;1
+2010-12-14 10:20:38;190.64.144.186;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-14 10:37:07;189.21.130.1;pt;local;bio;recuperação de áreas degradadas;*;*;;1
+2010-12-14 10:37:18;200.17.195.1;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-14 10:37:27;189.21.130.1;pt;local;bio;catleia;*;ALL;;1
+2010-12-14 10:37:35;189.21.130.1;pt;local;bio;ocotea;*;ALL;;1
+2010-12-14 11:17:57;82.128.36.142;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-14 11:18:03;82.128.36.142;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-14 11:18:12;82.128.36.142;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-14 11:49:49;186.203.70.225;pt;local;bio;geoprocessamento unidade de conservação;*;*;;1
+2010-12-14 11:52:53;200.17.137.81;pt;local;bio;coccinellidae;*;*;;1
+2010-12-14 12:16:08;189.107.50.188;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-14 12:17:16;189.107.50.188;pt;local;bio;orquidea;*;BHLB;db:BHLB;1
+2010-12-14 12:17:33;189.107.50.188;pt;local;bio;orquídea;*;BHLB;db:BHLB;1
+2010-12-14 12:17:52;189.107.50.188;pt;local;bio;orchidaceae;*;BHLB;db:BHLB;1
+2010-12-14 12:20:24;189.107.50.188;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-14 12:21:10;189.107.50.188;pt;local;bio;orchidaceae;*;BHLG;db:BHLG;1
+2010-12-14 12:21:54;189.115.32.194;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-14 12:22:11;189.115.32.194;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Braz. arch. biol. technol.";1
+2010-12-14 12:22:12;189.107.50.188;pt;local;bio;orchidaceae;*;BHLG;db:BHLG;7
+2010-12-14 12:22:42;189.115.32.194;pt;local;bio;araucaria;*;ALL;;1
+2010-12-14 12:23:25;189.107.50.188;pt;local;bio;orchidaceae;*;BHLG;db:BHLG;6
+2010-12-14 12:23:26;189.115.32.194;pt;local;bio;araucaria;*;ALL;;2
+2010-12-14 12:23:48;189.115.32.194;pt;local;bio;araucaria;*;ALL;;3
+2010-12-14 12:23:53;189.107.50.188;pt;local;bio;orchidaceae;*;BHLG;db:BHLG;5
+2010-12-14 12:24:15;189.115.32.194;pt;local;bio;araucaria;*;ALL;;4
+2010-12-14 12:24:40;189.115.32.194;pt;local;bio;araucaria;*;ALL;;5
+2010-12-14 12:25:00;189.115.32.194;pt;local;bio;araucaria;*;ALL;;6
+2010-12-14 12:26:04;189.115.32.194;pt;local;bio;araucaria;*;ALL;;7
+2010-12-14 12:26:41;189.115.32.194;pt;local;bio;araucaria;*;ALL;;8
+2010-12-14 12:26:55;189.115.32.194;pt;local;bio;araucaria;*;ALL;;1
+2010-12-14 12:28:58;189.115.32.194;pt;local;bio;rain forest;*;ALL;;1
+2010-12-14 12:29:21;189.115.32.194;pt;local;bio;rain forest;*;ALL;;2
+2010-12-14 12:29:57;189.115.32.194;pt;local;bio;rain forest;*;ALL;;3
+2010-12-14 12:30:29;189.115.32.194;pt;local;bio;rain forest;*;ALL;;4
+2010-12-14 12:31:02;189.115.32.194;pt;local;bio;rain forest;*;ALL;;5
+2010-12-14 12:31:24;189.115.32.194;pt;local;bio;rain forest;*;ALL;;6
+2010-12-14 12:31:50;189.115.32.194;pt;local;bio;rain forest;*;ALL;;7
+2010-12-14 12:32:20;189.115.32.194;pt;local;bio;rain forest;*;ALL;;8
+2010-12-14 12:32:49;189.115.32.194;pt;local;bio;rain forest;*;ALL;;9
+2010-12-14 12:33:10;189.115.32.194;pt;local;bio;rain forest;*;ALL;;10
+2010-12-14 12:33:44;189.115.32.194;pt;local;bio;rain forest;*;ALL;;11
+2010-12-14 12:34:05;189.115.32.194;pt;local;bio;rain forest;*;ALL;;12
+2010-12-14 12:34:20;189.115.32.194;pt;local;bio;rain forest;*;ALL;;13
+2010-12-14 12:34:39;189.115.32.194;pt;local;bio;rain forest;*;ALL;;14
+2010-12-14 12:34:54;189.115.32.194;pt;local;bio;rain forest;*;ALL;;15
+2010-12-14 12:35:17;189.115.32.194;pt;local;bio;rain forest;*;ALL;;16
+2010-12-14 12:35:44;189.115.32.194;pt;local;bio;rain forest;*;ALL;;17
+2010-12-14 15:42:12;66.249.71.37;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-14 18:35:28;200.198.196.129;pt;local;bio;beija flor;*;*;;1
+2010-12-14 18:35:36;200.198.196.129;pt;local;bio;rios;*;*;;1
+2010-12-14 19:00:39;189.122.137.10;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-14 19:01:17;189.122.137.10;pt;local;bio;plantas medicinais;*;SCIB;db:SCIB;1
+2010-12-14 19:02:15;189.122.137.10;pt;local;bio;plantas medicinais;*;SCIB;db:SCIB;1
+2010-12-14 19:31:23;187.59.244.52;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-14 19:32:51;187.59.244.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-14 19:33:36;187.59.244.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-14 19:34:18;187.59.244.52;pt;local;bio;Calliostoma;*;BHLG;db:BHLG;1
+2010-12-14 19:44:55;66.249.71.37;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-14 20:46:56;201.81.147.190;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-14 20:47:27;201.81.147.190;pt;local;bio;*;*;BHLG;db:BHLG;4
+2010-12-14 20:47:53;201.81.147.190;pt;local;bio;cerrado;kw;BHLG;db:BHLG;1
+2010-12-14 20:48:06;201.81.147.190;pt;local;bio;cerrado;kw;BHLB;db:BHLB;1
+2010-12-14 20:48:16;201.81.147.190;pt;local;bio;cerrado;ti;BHLB;db:BHLB;1
+2010-12-14 20:48:29;201.81.147.190;pt;local;bio;mata;ti;BHLB;db:BHLB;1
+2010-12-14 20:48:44;201.81.147.190;pt;local;bio;*;*;*;;1
+2010-12-14 21:16:07;66.249.71.37;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-14 21:16:34;187.34.24.203;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-14 21:23:57;66.249.71.37;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-14 21:44:07;66.249.71.37;pt;local;bio;Sua seleção;*;*;;1
+2010-12-14 21:53:59;201.36.159.205;pt;local;bio;assunto sobre bioética;*;*;;1
+2010-12-14 22:33:26;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-14 23:56:13;66.249.71.52;pt;local;bio;*;*;*;;1

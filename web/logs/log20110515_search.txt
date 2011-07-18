@@ -1,0 +1,73 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-05-15 02:01:18;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-05-15 02:01:22;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-05-15 02:01:22;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-05-15 02:01:43;157.92.44.71;pt;local;bio;*;*;*;;1
+2011-05-15 02:02:48;157.92.44.72;pt;local;bio;*;*;*;;1
+2011-05-15 02:03:53;157.92.44.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-15 02:04:01;157.92.44.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-15 02:04:07;157.92.44.71;pt;local;bio;Sua seleção;*;*;;1
+2011-05-15 02:04:12;157.92.44.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-15 02:04:28;157.92.44.71;pt;local;bio;Sua seleção;*;*;;1
+2011-05-15 02:04:31;157.92.44.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-15 02:04:43;157.92.44.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-15 02:04:48;157.92.44.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-15 02:05:01;157.92.44.71;pt;local;bio;Sua seleção;*;*;;1
+2011-05-15 02:05:10;157.92.44.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-15 02:19:46;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-15 05:40:14;66.249.71.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-15 06:24:57;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-15 09:45:24;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-15 09:49:38;66.249.71.72;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-15 10:16:03;187.126.221.3;pt;local;bio;poecilia;*;*;;1
+2011-05-15 10:16:12;187.126.221.3;pt;local;bio;poecilia;*;*;;1
+2011-05-15 12:38:43;189.107.250.210;pt;local;bio;Nanotecnologia;*;*;;1
+2011-05-15 12:38:46;189.107.250.210;pt;local;bio;Nanotecnologia;*;*;;1
+2011-05-15 12:38:54;189.107.250.210;pt;local;bio;Nanotecnologia;*;ALL;;1
+2011-05-15 12:39:11;189.107.250.210;pt;local;bio;Nano;kw;ALL;;1
+2011-05-15 12:39:12;189.107.250.210;pt;local;bio;Nano;kw;*;;1
+2011-05-15 13:06:43;66.249.71.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-15 13:54:39;65.52.110.13;pt;local;bio;*;*;*;;1
+2011-05-15 13:57:25;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-15 14:53:56;187.127.114.18;pt;local;bio;sped fiscal;*;*;;1
+2011-05-15 16:22:47;65.52.110.50;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-15 18:01:11;189.11.242.234;pt;local;bio;renewable energy;*;*;;1
+2011-05-15 18:01:23;189.11.242.234;pt;local;bio;renewable energy;kw;BHLG;db:BHLG;1
+2011-05-15 18:01:26;189.11.242.234;pt;local;bio;renewable energy;kw;BHLG;db:BHLG;1
+2011-05-15 18:03:24;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-15 18:44:02;200.233.104.123;pt;local;bio;artigos;*;*;;1
+2011-05-15 18:44:37;200.233.104.123;pt;local;bio;entorse de tornozelo;*;ALL;;1
+2011-05-15 18:44:48;200.233.104.123;pt;local;bio;entorse de tornozelo;ti;SCIB;db:SCIB;1
+2011-05-15 18:44:51;200.233.104.123;pt;local;bio;entorse de tornozelo;ti;SCIB;db:SCIB;1
+2011-05-15 18:45:17;200.233.104.123;pt;local;bio;tornozelo;*;*;;1
+2011-05-15 18:45:43;200.233.104.123;pt;local;bio;cardiaco;*;*;;1
+2011-05-15 18:46:36;200.233.104.123;pt;local;bio;doenças cardíacas;*;*;;1
+2011-05-15 18:46:57;200.233.104.123;pt;local;bio;bursite;*;*;;1
+2011-05-15 18:47:17;200.233.104.123;pt;local;bio;tendinite;*;*;;1
+2011-05-15 18:47:38;200.233.104.123;pt;local;bio;cardiaco;*;*;;1
+2011-05-15 18:48:00;200.233.104.123;pt;local;bio;paciente cardiaco;*;*;;1
+2011-05-15 18:48:21;200.233.104.123;pt;local;bio;paciente neurologico;*;*;;1
+2011-05-15 18:48:28;200.233.104.123;pt;local;bio; neurologico;*;*;;1
+2011-05-15 18:48:49;200.233.104.123;pt;local;bio;idosos;*;*;;1
+2011-05-15 18:49:01;200.233.104.123;pt;local;bio;idosos;*;ALL;la:"Pt";1
+2011-05-15 18:49:35;200.233.104.123;pt;local;bio;ostoporose;ti;ALL;;1
+2011-05-15 18:49:42;200.233.104.123;pt;local;bio;ostoporose;*;ALL;;1
+2011-05-15 18:50:05;200.233.104.123;pt;local;bio;hipertensão arterial;*;ALL;;1
+2011-05-15 18:50:32;200.233.104.123;pt;local;bio;ortopedia;*;ALL;;1
+2011-05-15 18:50:45;200.233.104.123;pt;local;bio;fisioterapia;*;ALL;;1
+2011-05-15 18:51:02;200.233.104.123;pt;local;bio;fisioterapia;*;SCIB;db:SCIB;1
+2011-05-15 18:51:17;200.233.104.123;pt;local;bio;rtm;*;ALL;;1
+2011-05-15 18:51:31;200.233.104.123;pt;local;bio;lombalgia;*;ALL;;1
+2011-05-15 18:51:45;200.233.104.123;pt;local;bio;diabetes;*;ALL;;1
+2011-05-15 18:52:58;200.233.104.123;pt;local;bio;diabetes;*;ALL;la:"Pt";1
+2011-05-15 19:31:53;187.56.189.139;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-15 19:55:59;66.249.71.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-15 21:00:03;66.249.71.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-15 21:05:58;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-15 21:06:03;66.249.71.72;pt;local;bio;Sua seleção;*;*;;1
+2011-05-15 23:24:51;201.75.100.201;pt;local;bio;dicotomi tecnologia versos privacidade ;*;*;;1
+2011-05-15 23:26:07;201.75.100.201;pt;local;bio;dicotomi tecnologia versos privacidade ;*;*;;1
+2011-05-15 23:26:20;201.75.100.201;pt;local;bio;dicotomi tecnologia versos privacidade ;kw;ALL;;1
+2011-05-15 23:26:23;201.75.100.201;pt;local;bio;dicotomi tecnologia versos privacidade ;kw;ALL;;1
+2011-05-15 23:26:34;201.75.100.201;pt;local;bio;dicotomi tecnologia versos privacidade ;kw;BHLB;db:BHLB;1
+2011-05-15 23:34:02;189.12.129.34;pt;local;bio;mata atlantica;*;*;;1

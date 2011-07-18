@@ -1,0 +1,41 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-01-25 02:33:52;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-25 03:12:20;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-25 03:53:36;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-25 03:55:11;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-25 06:06:15;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-25 06:09:15;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-25 06:09:15;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-25 06:14:21;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-25 06:34:15;110.139.51.80;pt;local;bio;*;*;*;;1
+2011-01-25 06:38:25;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-25 06:54:18;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-01-25 06:59:58;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-25 07:31:08;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-25 08:15:48;66.249.71.52;pt;local;bio;+id:("lil-18474058040");*;*;;1
+2011-01-25 08:37:48;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-01-25 09:23:26;146.164.3.203;pt;local;bio;proceedings of the biological;*;*;;1
+2011-01-25 09:23:34;146.164.3.203;pt;local;bio;proceedings of the biological;*;ALL;;2
+2011-01-25 09:23:43;146.164.3.203;pt;local;bio;proceedings of the biological;*;ALL;;3
+2011-01-25 09:23:48;146.164.3.203;pt;local;bio;proceedings of the biological;*;ALL;;4
+2011-01-25 09:23:51;146.164.3.203;pt;local;bio;proceedings of the biological;*;ALL;;5
+2011-01-25 09:24:05;146.164.3.203;pt;local;bio;proceedings of the biological;*;ALL;;6
+2011-01-25 09:24:52;146.164.3.203;pt;local;bio;philip hershkovitz;au;ALL;;1
+2011-01-25 09:25:25;146.164.3.203;pt;local;bio;philip hershkovitz;au;ALL;;2
+2011-01-25 10:53:23;201.58.164.225;pt;local;bio;cyanophyta;*;*;;1
+2011-01-25 10:54:42;201.58.164.225;pt;local;bio;cyanophyta;*;ALL;;2
+2011-01-25 10:55:45;189.27.255.63;pt;local;bio;recuperação área degradada;*;*;;1
+2011-01-25 10:56:00;201.58.164.225;pt;local;bio;cianobacteria;*;ALL;;1
+2011-01-25 10:56:15;189.27.255.63;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-25 11:00:16;201.58.164.225;pt;local;bio;fitoplancton;*;ALL;;1
+2011-01-25 11:00:45;201.58.164.225;pt;local;bio;fitoplancton;*;ALL;;2
+2011-01-25 11:02:58;201.58.164.225;pt;local;bio;fitoplancton;*;ALL;;3
+2011-01-25 11:08:41;201.58.164.225;pt;local;bio;fitoplancton;*;ALL;;4
+2011-01-25 11:15:39;201.58.164.225;pt;local;bio;fitoplancton;*;ALL;;5
+2011-01-25 15:45:14;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-01-25 16:26:30;200.252.135.221;pt;local;bio;estuario de Santos;*;*;;1
+2011-01-25 17:46:42;187.6.65.91;pt;local;bio;*;*;*;;1
+2011-01-25 17:47:52;187.6.65.91;pt;local;bio;*;*;*;;1
+2011-01-25 17:56:15;187.6.65.91;pt;local;bio;Capturando pequenos mamíferos arborícolas.;*;*;;1
+2011-01-25 18:13:41;76.161.182.210;pt;local;bio;*;*;*;;1
+2011-01-25 22:11:44;184.72.134.29;pt;local;bio;*;*;*;;1

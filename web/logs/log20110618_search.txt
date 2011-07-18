@@ -1,0 +1,77 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-06-18 00:32:38;174.133.134.130;pt;local;bio;*;*;*;;1
+2011-06-18 00:42:51;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-18 01:10:02;66.249.72.116;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-06-18 01:29:03;66.249.72.116;pt;local;bio;*;*;*;;1
+2011-06-18 01:55:09;66.249.72.116;yiewkcbsz;local;bio;+id:("lil-3551021638");*;*;;1
+2011-06-18 02:43:33;66.249.72.116;yiewkcbsz;local;bio;+id:("lil-3551021638");*;*;;1
+2011-06-18 02:47:34;66.249.72.116;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-18 03:21:36;66.249.72.116;yiewkcbsz;local;bio;+id:("lil-9030037111");*;*;;1
+2011-06-18 03:32:55;66.249.72.116;pt;local;bio;Sua seleção;*;*;;1
+2011-06-18 04:15:19;66.249.72.116;pt;local;bio;Sua seleção;*;*;;1
+2011-06-18 04:49:11;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-18 05:24:25;66.249.72.116;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-18 06:22:51;66.249.72.116;pt;local;bio;Sua seleção;*;*;;1
+2011-06-18 06:37:07;189.27.151.97;pt;local;bio;importancia toque enfermagem;*;*;;1
+2011-06-18 06:37:34;189.27.151.97;pt;local;bio;toque em assistencia enfermagem;*;*;;1
+2011-06-18 06:37:46;189.27.151.97;pt;local;bio;toque em assistencia enfermagem;*;*;;1
+2011-06-18 06:37:51;189.27.151.97;pt;local;bio;*;*;*;;1
+2011-06-18 06:38:17;189.27.151.97;pt;local;bio;*;*;ALL;;1
+2011-06-18 06:38:31;189.27.151.97;pt;local;bio;*;*;ALL;;2
+2011-06-18 06:38:42;189.27.151.97;pt;local;bio;*;*;ALL;;3
+2011-06-18 06:39:02;189.27.151.97;pt;local;bio;*;*;ALL;;2
+2011-06-18 06:39:12;189.27.151.97;pt;local;bio;*;*;ALL;;1
+2011-06-18 06:41:11;189.27.151.97;pt;local;bio;*;*;*;;1
+2011-06-18 06:42:56;66.249.72.116;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-06-18 06:48:06;66.249.72.116;pt;local;bio;Sua seleção;*;*;;1
+2011-06-18 07:09:36;203.131.252.118;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-18 07:11:20;72.233.72.155;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-06-18 07:11:20;72.233.72.155;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-18 07:11:20;72.233.72.155;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-18 07:40:28;174.136.26.114;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-06-18 07:55:49;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-18 08:07:44;66.249.72.116;qwkilqgvraugpkn;local;bio;+id:("lil-3551021638");*;*;;1
+2011-06-18 08:42:42;66.249.72.116;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-18 08:44:04;66.249.72.116;yiewkcbsz;local;bio;+id:("lil-9030037224");*;*;;1
+2011-06-18 09:28:53;174.136.26.114;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-18 09:39:35;187.78.53.39;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-06-18 09:39:49;187.78.53.39;pt;local;bio;fish;*;BHLB;db:BHLB;1
+2011-06-18 09:55:40;66.249.72.116;qwkilqgvraugpkn;local;bio;+id:("lil-13264049879");*;*;;1
+2011-06-18 10:09:25;66.249.72.116;pt;local;bio;*;*;*;;1
+2011-06-18 10:26:52;66.249.72.116;qwkilqgvraugpkn;local;bio;+id:("lil-13264049879");*;*;;1
+2011-06-18 10:41:00;189.115.4.138;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-18 11:13:34;186.213.85.96;pt;local;bio;ecologia;*;*;;1
+2011-06-18 11:14:11;186.213.85.96;pt;local;bio;ecologia;*;ALL;;2
+2011-06-18 11:15:00;186.213.85.96;pt;local;bio;ecologia;*;ALL;;3
+2011-06-18 11:20:17;66.249.72.116;pt;local;bio;Sua seleção;*;*;;1
+2011-06-18 11:21:03;186.213.85.96;pt;local;bio;ecologia;*;ALL;;4
+2011-06-18 11:21:25;186.213.85.96;pt;local;bio;ecologia;*;ALL;;5
+2011-06-18 11:21:46;186.213.85.96;pt;local;bio;ecologia;*;ALL;;6
+2011-06-18 11:22:28;186.213.85.96;pt;local;bio;ecologia;*;ALL;;7
+2011-06-18 11:22:50;186.213.85.96;pt;local;bio;ecologia;*;ALL;;8
+2011-06-18 11:23:21;66.249.72.116;yiewkcbsz;local;bio;+id:("lil-13264049979");*;*;;1
+2011-06-18 11:23:36;186.213.85.96;pt;local;bio;ecologia;*;ALL;;9
+2011-06-18 11:24:07;186.213.85.96;pt;local;bio;ecologia;*;ALL;;10
+2011-06-18 11:25:37;186.213.85.96;pt;local;bio;ecologia;*;ALL;;11
+2011-06-18 11:25:52;186.213.85.96;pt;local;bio;ecologia;*;ALL;;12
+2011-06-18 11:26:46;186.213.85.96;pt;local;bio;ecologia;*;ALL;;13
+2011-06-18 11:27:15;186.213.85.96;pt;local;bio;ecologia;*;ALL;;14
+2011-06-18 11:27:32;186.213.85.96;pt;local;bio;ecologia;*;ALL;;15
+2011-06-18 11:27:56;186.213.85.96;pt;local;bio;ecologia;*;ALL;;16
+2011-06-18 11:28:12;186.213.85.96;pt;local;bio;ecologia;*;ALL;;17
+2011-06-18 11:28:30;186.213.85.96;pt;local;bio;ecologia;*;ALL;;18
+2011-06-18 11:29:03;186.213.85.96;pt;local;bio;ecologia;*;ALL;;19
+2011-06-18 11:29:32;186.213.85.96;pt;local;bio;ecologia;*;ALL;;1
+2011-06-18 11:30:18;186.213.85.96;pt;local;bio;ecologia;*;ALL;;2
+2011-06-18 11:33:24;186.213.85.96;pt;local;bio;tartaruga;*;ALL;;1
+2011-06-18 11:36:01;186.213.85.96;pt;local;bio;Aspectos ecológicos da determinação sexual em tartarugas;*;ALL;;1
+2011-06-18 11:36:01;186.213.85.96;pt;local;bio;Aspectos ecológicos da determinação sexual em tartarugas;*;ALL;;1
+2011-06-18 11:36:14;186.213.85.96;pt;local;bio;tartarugas;*;ALL;;1
+2011-06-18 12:02:07;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-18 12:07:30;66.249.72.116;qwkilqgvraugpkn;local;bio;+id:("lil-9030037232");*;*;;1
+2011-06-18 15:04:23;66.249.72.116;qwkilqgvraugpkn;local;bio;+id:("lil-9030037232");*;*;;1
+2011-06-18 16:08:33;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-06-18 17:26:44;66.249.72.116;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-06-18 18:38:45;66.249.71.34;ppufejihenzxjri;local;bio;+id:("lil-9030037220");*;*;;1
+2011-06-18 20:14:06;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-06-18 23:19:17;66.249.71.34;pt;local;bio;Sua seleção;*;*;;1

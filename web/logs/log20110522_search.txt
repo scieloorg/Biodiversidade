@@ -1,0 +1,48 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-05-22 00:04:44;66.249.72.241;xfdblysxhm;local;bio;*;*;*;;1
+2011-05-22 00:18:46;187.78.29.217;pt;local;bio;participação social;*;*;;1
+2011-05-22 00:19:02;187.78.29.217;pt;local;bio;gestão ambiental;*;*;;1
+2011-05-22 00:19:12;187.78.29.217;pt;local;bio;unidades de conservação;*;*;;1
+2011-05-22 01:21:06;66.249.72.241;qwkilqgvraugpkn;local;bio;*;*;*;;1
+2011-05-22 02:36:24;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-22 02:59:55;66.249.72.241;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-05-22 03:38:53;66.249.72.241;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-05-22 04:53:01;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-22 04:57:49;65.52.110.19;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-05-22 05:42:29;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-22 07:45:37;66.249.72.241;pt;local;bio;*;*;*;;1
+2011-05-22 08:01:20;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-22 09:50:35;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-22 10:44:42;187.74.14.49;pt;local;bio;credito de carbono;*;*;;1
+2011-05-22 10:45:06;187.74.14.49;pt;local;bio;credito para troca;*;*;;1
+2011-05-22 10:45:21;187.74.14.49;pt;local;bio;carbono;*;*;;1
+2011-05-22 10:46:15;187.74.14.49;pt;local;bio;carbono;*;ALL;;2
+2011-05-22 10:46:35;187.74.14.49;pt;local;bio;carbono;*;ALL;;1
+2011-05-22 10:46:54;187.74.14.49;pt;local;bio;carbono;*;BHLG;db:BHLG;1
+2011-05-22 10:47:23;187.74.14.49;pt;local;bio;forma de troca de credito;*;ALL;;1
+2011-05-22 10:47:38;187.74.14.49;pt;local;bio;forma de troca de credito de carbono;*;ALL;;1
+2011-05-22 10:47:38;187.74.14.49;pt;local;bio;forma de troca de credito de carbono;*;ALL;;1
+2011-05-22 10:47:53;187.74.14.49;pt;local;bio;forma de troca de credito de carbono;*;ALL;;4
+2011-05-22 10:52:48;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-22 12:31:00;66.249.72.241;xfdblysxhm;local;bio;*;*;*;;1
+2011-05-22 13:00:37;189.96.3.154;pt;local;bio;relatorio de enfermagem;*;*;;1
+2011-05-22 13:07:13;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-22 13:48:52;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-22 13:52:44;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-22 14:54:03;200.165.155.5;pt;local;bio;nao linear;*;*;;1
+2011-05-22 14:58:44;200.165.155.5;pt;local;bio;nao linear;*;ALL;la:"Pt";1
+2011-05-22 15:24:02;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-22 15:54:24;201.67.107.121;pt;local;bio;biodiversidade;*;*;;1
+2011-05-22 15:55:33;201.67.107.121;pt;local;bio;*;*;*;;1
+2011-05-22 15:57:05;201.67.107.121;pt;local;bio;biodiversidade;ti;ALL;;1
+2011-05-22 15:57:08;201.67.107.121;pt;local;bio;biodiversidade;ti;ALL;;1
+2011-05-22 15:57:39;201.67.107.121;pt;local;bio;biodiversidade;ti;ALL;year_cluster:"2009";1
+2011-05-22 17:00:00;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-05-22 17:35:16;66.249.72.241;pt;local;bio;Sua seleção;*;*;;1
+2011-05-22 18:14:08;189.99.177.140;pt;local;bio;deficiencia de calcio e fosoro;*;*;;1
+2011-05-22 18:14:53;189.99.177.140;pt;local;bio;neonatologia;*;*;;1
+2011-05-22 18:31:06;66.249.72.241;xfdblysxhm;local;bio;*;*;*;;1
+2011-05-22 20:24:52;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-05-22 20:42:24;66.249.72.241;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-22 21:13:38;66.249.72.241;ppufejihenzxjri;local;bio;*;*;*;;1
+2011-05-22 21:52:04;187.25.185.172;pt;local;bio;conservação de peixes+surubim+marcador molecular;*;*;;1

@@ -1,0 +1,272 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2010-12-05 00:16:19;189.106.144.243;pt;local;bio;cutiara;*;*;;1
+2010-12-05 00:16:30;189.106.144.243;pt;local;bio;fauna;*;ALL;;1
+2010-12-05 00:16:48;189.106.144.243;pt;local;bio; fauna amazônia;*;ALL;;1
+2010-12-05 00:16:55;189.106.144.243;pt;local;bio;amazônia;*;ALL;;1
+2010-12-05 00:17:04;189.106.144.243;pt;local;bio;amazônia;kw;ALL;;1
+2010-12-05 00:17:10;189.106.144.243;pt;local;bio;fauna;kw;ALL;;1
+2010-12-05 00:17:39;189.106.144.243;pt;local;bio;fauna;ti;ALL;;1
+2010-12-05 00:17:53;189.106.144.243;pt;local;bio;fauna;ti;ALL;;2
+2010-12-05 00:50:02;201.50.0.65;pt;local;bio;carbono;*;ALL;;1
+2010-12-05 00:50:03;201.50.0.65;pt;local;bio;carbono;*;ALL;;1
+2010-12-05 00:51:36;201.50.0.65;pt;local;bio;eucalipto;*;ALL;;1
+2010-12-05 00:51:37;201.50.0.65;pt;local;bio;eucalipto;*;ALL;;1
+2010-12-05 00:52:35;201.50.0.65;pt;local;bio;celulose;*;ALL;;1
+2010-12-05 00:53:45;201.50.0.65;pt;local;bio;celulose;*;ALL;;1
+2010-12-05 00:54:27;201.50.0.65;pt;local;bio;gases de efeito estufa;*;ALL;;1
+2010-12-05 00:55:12;201.50.0.65;pt;local;bio;aquecimento global;*;ALL;;1
+2010-12-05 00:55:46;201.50.0.65;pt;local;bio;global warming;*;ALL;;1
+2010-12-05 00:56:06;201.50.0.65;pt;local;bio;carbon foot print;*;ALL;;1
+2010-12-05 00:56:18;201.50.0.65;pt;local;bio;pegada de carbono;*;ALL;;1
+2010-12-05 00:58:25;200.2.169.137;pt;local;bio;aquacultura;*;*;;1
+2010-12-05 01:19:26;190.4.72.66;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-05 01:19:56;190.4.72.66;pt;local;bio;ONÇA PINTADA;*;BHLB;db:BHLB;1
+2010-12-05 01:20:06;190.4.72.66;pt;local;bio;PANTHERA;*;BHLB;db:BHLB;1
+2010-12-05 01:20:12;190.4.72.66;pt;local;bio;PANTERA;*;BHLB;db:BHLB;1
+2010-12-05 01:22:28;187.20.17.201;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-05 01:38:59;114.76.83.228;pt;local;bio;aves urbanos;*;*;;1
+2010-12-05 01:39:33;114.76.83.228;pt;local;bio;passaros urbanos;*;ALL;;1
+2010-12-05 01:39:39;114.76.83.228;pt;local;bio;passaros urbano;*;ALL;;1
+2010-12-05 01:39:48;114.76.83.228;pt;local;bio;aves urbano;*;ALL;;1
+2010-12-05 01:41:31;114.76.83.228;pt;local;bio;urbanos;*;ALL;;1
+2010-12-05 01:42:54;114.76.83.228;pt;local;bio;birds;*;ALL;;1
+2010-12-05 01:43:07;114.76.83.228;pt;local;bio;birds urban;*;ALL;;1
+2010-12-05 06:36:21;66.249.71.37;pt;local;bio;+id:("lil-13264049979");*;*;;1
+2010-12-05 07:10:44;66.249.71.37;pt;local;bio;+id:("scl-S0074-02761909000200007");*;*;;1
+2010-12-05 08:24:01;187.10.27.121;pt;local;bio;peixe;*;*;;1
+2010-12-05 08:25:15;187.10.27.121;pt;local;bio;peixe rio iguaçu;*;*;;1
+2010-12-05 08:25:46;187.10.27.121;pt;local;bio;peixe iguaçu barragem;*;*;;1
+2010-12-05 08:26:28;187.10.27.121;pt;local;bio;surubim iguaçu barragem;*;*;;1
+2010-12-05 08:26:39;187.10.27.121;pt;local;bio;surubim  barragem;*;*;;1
+2010-12-05 08:27:08;187.10.27.121;pt;local;bio;rio iguaçu;*;*;;1
+2010-12-05 08:27:20;187.10.27.121;pt;local;bio;rio iguassu;*;*;;1
+2010-12-05 08:27:39;187.10.27.121;pt;local;bio;rio gonçalves dias;*;*;;1
+2010-12-05 08:28:06;187.10.27.121;pt;local;bio;peixe parque nacional;*;*;;1
+2010-12-05 08:28:52;187.10.27.121;pt;local;bio;barragem;*;*;;1
+2010-12-05 08:35:18;189.99.242.132;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-05 08:36:12;189.99.242.132;pt;local;bio;biodiversidade de insetos;*;*;;1
+2010-12-05 09:00:06;187.80.65.121;pt;local;bio;Floresta + Tijuca;*;*;;1
+2010-12-05 09:19:38;187.32.229.238;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-05 09:29:00;200.195.147.117;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-05 09:38:46;189.99.242.132;pt;local;bio;tucumã;*;ALL;;1
+2010-12-05 09:42:09;187.104.235.46;pt;local;bio;biodiversidade acari;*;*;;1
+2010-12-05 09:47:23;189.99.242.132;pt;local;bio;tucumã;*;*;;1
+2010-12-05 09:53:25;189.99.242.132;pt;local;bio;*;*;ALL;;1
+2010-12-05 09:55:13;189.99.242.132;pt;local;bio;*;*;ALL;;1
+2010-12-05 09:58:09;187.55.82.147;pt;local;bio;cerdocyon;*;*;;1
+2010-12-05 09:59:12;187.55.82.147;pt;local;bio;cerdocyon;*;ALL;;2
+2010-12-05 09:59:25;187.55.82.147;pt;local;bio;nasua;*;ALL;;1
+2010-12-05 10:00:25;187.55.82.147;pt;local;bio;amblyomma aureolatum;*;ALL;;1
+2010-12-05 10:01:25;189.99.242.132;pt;local;bio;Insetos polinizadores;*;ALL;;1
+2010-12-05 10:04:19;189.99.242.132;pt;local;bio;"Insetos" "polinizadores" na "amazônia";*;ALL;;1
+2010-12-05 10:04:53;189.99.242.132;pt;local;bio;"Insetos";*;ALL;;1
+2010-12-05 10:07:48;189.99.242.132;pt;local;bio;"Insetos";*;ALL;;2
+2010-12-05 10:08:25;189.99.242.132;pt;local;bio;"Insetos";*;ALL;;3
+2010-12-05 10:08:52;189.99.242.132;pt;local;bio;"Insetos";*;ALL;;4
+2010-12-05 10:09:39;189.99.242.132;pt;local;bio;"Insetos";*;ALL;;5
+2010-12-05 10:14:17;189.99.242.132;pt;local;bio;"Insetos";*;ALL;;6
+2010-12-05 10:14:57;189.99.242.132;pt;local;bio;"Insetos";*;ALL;;7
+2010-12-05 10:18:27;189.99.242.132;pt;local;bio;"Insetos";*;ALL;;8
+2010-12-05 10:24:25;189.99.242.132;pt;local;bio;"Insetos";*;ALL;;8
+2010-12-05 10:24:53;189.99.242.132;pt;local;bio;"Insetos";*;ALL;;9
+2010-12-05 10:25:17;189.99.242.132;pt;local;bio;"Insetos";*;ALL;;1
+2010-12-05 10:25:27;189.99.242.132;pt;local;bio;"Insetos";*;ALL;;1
+2010-12-05 10:25:41;189.99.242.132;pt;local;bio;"Insetos";*;ALL;;10
+2010-12-05 10:26:20;189.99.242.132;pt;local;bio;Cicadellidae;*;ALL;;1
+2010-12-05 10:26:46;189.99.242.132;pt;local;bio;Cicadellidae;*;ALL;;2
+2010-12-05 10:30:14;200.163.220.164;pt;local;bio;aquicultura;*;*;;1
+2010-12-05 10:32:21;189.99.242.132;pt;local;bio;Cicadellidae;*;ALL;;11
+2010-12-05 10:33:15;189.99.242.132;pt;local;bio;Cicadellidae;*;ALL;;5
+2010-12-05 10:42:32;200.254.93.180;pt;local;bio;amazilia lactea;*;*;;1
+2010-12-05 10:47:49;200.254.93.180;pt;local;bio;aves sergipe;*;*;;1
+2010-12-05 11:19:59;189.95.220.165;pt;local;bio;Leopardus;*;*;;1
+2010-12-05 11:20:26;189.95.220.165;pt;local;bio;Calouro;*;ALL;;1
+2010-12-05 11:20:53;189.95.220.165;pt;local;bio;Acre;*;ALL;;1
+2010-12-05 11:50:05;66.249.71.37;pt;local;bio;*;*;*;;1
+2010-12-05 12:24:27;189.6.21.133;pt;local;bio;ameiva ameiva;*;*;;1
+2010-12-05 13:58:53;201.8.199.27;pt;local;bio;isbrucker;*;*;;1
+2010-12-05 14:00:14;201.8.199.27;pt;local;bio;loricariinae;*;*;;1
+2010-12-05 14:01:00;201.8.199.27;pt;local;bio;loricariidae;*;*;;1
+2010-12-05 14:07:10;201.8.199.27;pt;local;bio;loricariidae;*;ALL;;2
+2010-12-05 14:10:00;201.8.199.27;pt;local;bio;siluriformes;*;ALL;;1
+2010-12-05 14:11:26;201.8.199.27;pt;local;bio;siluriformes;*;ALL;;2
+2010-12-05 14:16:37;201.8.199.27;pt;local;bio;*;*;*;;1
+2010-12-05 14:18:55;201.8.199.27;pt;local;bio;isbrucker;au;ALL;;1
+2010-12-05 14:25:55;201.8.199.27;pt;local;bio;*;*;*;;1
+2010-12-05 14:40:57;66.249.71.37;pt;local;bio;+id:("scl-S0074-02761909000200007");*;*;;1
+2010-12-05 15:05:47;189.49.112.250;pt;local;bio;Leis ;*;*;;1
+2010-12-05 15:06:53;66.249.71.37;pt;local;bio;+id:("lil-43067093999");*;*;;1
+2010-12-05 15:07:16;189.49.112.250;pt;local;bio;Leis de Preservação;*;ALL;;1
+2010-12-05 15:07:25;189.49.112.250;pt;local;bio;Leis de Preservação;*;BHLB;db:BHLB;1
+2010-12-05 15:08:36;189.49.112.250;pt;local;bio;Leis de Preservação;*;BHLB;db:BHLB;1
+2010-12-05 15:09:28;189.49.112.250;pt;local;bio;lista Animais ameaçados de extinção;*;BHLB;db:BHLB;1
+2010-12-05 15:10:04;189.49.112.250;pt;local;bio;Animais ameaçados de extinção;*;BHLB;db:BHLB;1
+2010-12-05 15:10:14;189.49.112.250;pt;local;bio;Animais ameaçados de extinção;*;SCIB;db:SCIB;1
+2010-12-05 15:10:42;189.49.112.250;pt;local;bio;Animais ameaçados de extinção;*;ALL;;1
+2010-12-05 15:21:27;66.249.71.37;pt;local;bio;+id:("lil-43067093999");*;*;;1
+2010-12-05 15:58:37;187.104.198.201;pt;local;bio;mamíferos;*;*;;1
+2010-12-05 15:58:56;187.104.198.201;pt;local;bio;mamíferos;kw;BHLG;db:BHLG;1
+2010-12-05 15:59:12;187.104.198.201;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-05 15:59:58;187.104.198.201;pt;local;bio;mamíferos;*;BHLB;db:BHLB;1
+2010-12-05 16:00:20;187.104.198.201;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-05 16:00:53;187.104.198.201;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-05 16:13:06;189.38.244.179;pt;local;bio;characidae;*;*;;1
+2010-12-05 16:13:54;201.82.131.121;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-05 16:17:36;187.24.115.233;pt;local;bio;sexualidade;*;*;;1
+2010-12-05 16:19:36;187.28.221.226;pt;local;bio;Espírito Santo;*;*;;1
+2010-12-05 16:19:58;187.28.221.226;pt;local;bio;Espirito Santo;*;ALL;;1
+2010-12-05 16:22:20;201.8.199.27;pt;local;bio;loricaria;*;*;;1
+2010-12-05 16:24:38;187.24.115.233;pt;local;bio;professor;*;*;;1
+2010-12-05 16:24:43;201.8.199.27;pt;local;bio;loricaria;*;BHLG;db:BHLG;1
+2010-12-05 16:24:50;201.8.199.27;pt;local;bio;loricaria;*;BHLG;db:BHLG;1
+2010-12-05 16:25:28;187.24.115.233;pt;local;bio;professor e sexualidade;*;*;;1
+2010-12-05 16:26:04;201.8.199.27;pt;local;bio;nijssen;au;BHLG;db:BHLG;1
+2010-12-05 16:26:12;201.8.199.27;pt;local;bio;nijssen;au;BHLG;db:BHLG;1
+2010-12-05 16:26:59;201.8.199.27;pt;local;bio;nijssen;au;BHLG;db:BHLG;1
+2010-12-05 16:27:33;201.8.199.27;pt;local;bio;nijssen;au;BHLG;db:BHLG;1
+2010-12-05 16:27:33;201.8.199.27;pt;local;bio;nijssen;au;BHLG;db:BHLG;1
+2010-12-05 16:27:55;201.8.199.27;pt;local;bio;nijssen;au;BHLG;db:BHLG;1
+2010-12-05 16:29:14;201.8.199.27;pt;local;bio;isbrucker;au;BHLG;db:BHLG;1
+2010-12-05 16:29:40;201.8.199.27;pt;local;bio;peixes;au;BHLG;db:BHLG;1
+2010-12-05 16:29:42;201.8.199.27;pt;local;bio;peixes;au;BHLG;db:BHLG;1
+2010-12-05 16:30:19;201.8.199.27;pt;local;bio;peixes;ti;BHLG;db:BHLG;1
+2010-12-05 16:30:20;201.8.199.27;pt;local;bio;peixes;ti;BHLG;db:BHLG;1
+2010-12-05 16:31:22;201.8.199.27;pt;local;bio;loricaria;ti;BHLG;db:BHLG;1
+2010-12-05 16:31:47;201.8.199.27;pt;local;bio;siluriformes;ti;BHLG;db:BHLG;1
+2010-12-05 16:44:07;187.68.176.166;pt;local;bio;gil-santana;*;*;;1
+2010-12-05 16:44:23;187.68.176.166;pt;local;bio;h r gil-santana;*;*;;1
+2010-12-05 16:44:37;187.68.176.166;pt;local;bio;brontostoma;*;*;;1
+2010-12-05 16:45:09;187.68.176.166;pt;local;bio;tagalis;*;*;;1
+2010-12-05 16:45:21;187.68.176.166;pt;local;bio;paratagalis;*;*;;1
+2010-12-05 16:48:17;201.14.187.190;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-05 17:48:02;216.239.45.4;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-05 17:48:03;216.239.45.4;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-05 17:48:08;216.239.45.4;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-05 18:02:58;189.72.113.196;pt;local;bio;fanerógamas marinhas;*;*;;1
+2010-12-05 18:03:13;189.72.113.196;pt;local;bio;salt marshes;*;ALL;;1
+2010-12-05 18:14:39;189.17.143.211;pt;local;bio;açai;*;*;;1
+2010-12-05 18:14:47;189.17.143.211;pt;local;bio;*;*;*;;1
+2010-12-05 18:15:05;189.17.143.211;pt;local;bio;*;*;ALL;la:"Pt";1
+2010-12-05 18:16:09;189.17.143.211;pt;local;bio;urapuru;*;ALL;;1
+2010-12-05 18:16:20;189.17.143.211;pt;local;bio;urapuru;*;ALL;la:"Pt";2
+2010-12-05 18:18:18;189.17.143.211;pt;local;bio;urapuru;*;ALL;la:"Pt" AND type:"article";1
+2010-12-05 19:09:07;187.104.16.47;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-05 19:14:15;201.47.222.129;pt;local;bio;shp;*;*;;1
+2010-12-05 19:14:27;201.47.222.129;pt;local;bio;mapa;*;ALL;;1
+2010-12-05 19:42:36;189.63.174.116;pt;local;bio;spo;*;*;;1
+2010-12-05 19:42:43;189.63.174.116;pt;local;bio;sapo;*;ALL;;1
+2010-12-05 19:44:11;187.24.50.42;pt;local;bio;aracnos;*;*;;1
+2010-12-05 19:47:34;187.24.50.42;pt;local;bio;aranhas;ti;BHLB;db:BHLB;1
+2010-12-05 19:51:55;187.24.50.42;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-05 20:18:48;187.78.144.51;pt;local;bio;macroinvertebrados;*;*;;1
+2010-12-05 20:20:05;201.40.184.3;pt;local;bio;agazis;*;*;;1
+2010-12-05 20:20:05;187.78.144.51;pt;local;bio;macroinvertebrados;*;ALL;;2
+2010-12-05 20:20:21;201.40.184.3;pt;local;bio;agassiz;au;ALL;;1
+2010-12-05 20:20:44;201.40.184.3;pt;local;bio;spix;au;ALL;;1
+2010-12-05 20:39:06;187.1.223.224;pt;local;bio;natureza;*;*;;1
+2010-12-05 20:40:50;187.78.144.51;pt;local;bio;macroinvertebrados;*;ALL;;3
+2010-12-05 20:41:36;187.78.144.51;pt;local;bio;macroinvertebrados;*;ALL;;4
+2010-12-05 20:58:08;189.115.19.32;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-05 20:58:30;189.115.19.32;pt;local;bio;herpetologia;*;*;;1
+2010-12-05 20:59:46;189.24.84.142;pt;local;bio;corredores biológicos da mata atlântica;*;*;;1
+2010-12-05 21:00:05;189.24.84.142;pt;local;bio;*;*;*;;1
+2010-12-05 21:00:43;189.24.84.142;pt;local;bio;*;*;ALL;;2
+2010-12-05 21:00:53;189.24.84.142;pt;local;bio;*;*;ALL;;10
+2010-12-05 21:02:18;189.24.84.142;pt;local;bio;mara atlantica;*;*;;1
+2010-12-05 21:08:19;189.72.86.34;pt;local;bio;anfíbios;*;*;;1
+2010-12-05 21:08:20;189.0.139.21;pt;local;bio;crustacea;kw;ALL;;1
+2010-12-05 21:08:32;189.120.230.28;pt;local;bio;aziz;*;*;;1
+2010-12-05 21:08:33;189.72.86.34;pt;local;bio;anfíbios;ti;BHLB;db:BHLB;1
+2010-12-05 21:08:38;189.72.86.34;pt;local;bio;anfíbios;ti;SCIB;db:SCIB;1
+2010-12-05 21:09:05;189.72.86.34;pt;local;bio;anura;*;*;;1
+2010-12-05 21:11:35;189.72.86.34;pt;local;bio;anura;*;ALL;;2
+2010-12-05 21:14:48;189.120.230.28;pt;local;bio;aziz;*;ALL;type:"article";1
+2010-12-05 21:15:01;189.72.86.34;pt;local;bio;anura;*;ALL;;3
+2010-12-05 21:15:11;189.120.230.28;pt;local;bio;aziz ab saber;au;ALL;;1
+2010-12-05 21:15:14;189.120.230.28;pt;local;bio;*;*;*;;1
+2010-12-05 21:15:29;189.120.230.28;pt;local;bio;*;*;ALL;;1
+2010-12-05 21:15:32;189.72.86.34;pt;local;bio;anura;*;ALL;;4
+2010-12-05 21:15:34;189.120.230.28;pt;local;bio;*;*;ALL;;1
+2010-12-05 21:15:38;189.120.230.28;pt;local;bio;*;*;ALL;;1
+2010-12-05 21:15:46;189.120.230.28;pt;local;bio;*;*;ALL;la:"Pt";1
+2010-12-05 21:18:22;187.65.140.55;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-05 21:18:28;189.59.202.206;pt;local;bio;lepidoptera;*;*;;1
+2010-12-05 21:18:43;189.72.86.34;pt;local;bio;duellman;au;ALL;;1
+2010-12-05 21:18:57;187.65.140.55;pt;local;bio;*;kw;SCIB;db:SCIB;1
+2010-12-05 21:19:28;187.65.140.55;pt;local;bio;direito administrativo;kw;SCIB;db:SCIB;1
+2010-12-05 21:19:41;187.65.140.55;pt;local;bio;direito administrativo;kw;ALL;;1
+2010-12-05 21:19:49;189.72.86.34;pt;local;bio;duellman;au;ALL;;2
+2010-12-05 21:19:51;187.65.140.55;pt;local;bio;direito;*;*;;1
+2010-12-05 21:19:59;189.72.86.34;pt;local;bio;duellman;au;ALL;;1
+2010-12-05 21:20:20;189.72.86.34;pt;local;bio;haddad;au;ALL;;1
+2010-12-05 21:20:24;187.65.140.55;pt;local;bio;direito;*;ALL;la:"Pt";1
+2010-12-05 21:23:23;189.72.86.34;pt;local;bio;célio haddad;au;ALL;;1
+2010-12-05 21:23:31;189.72.86.34;pt;local;bio;haddad;au;ALL;;1
+2010-12-05 21:24:09;189.120.230.28;pt;local;bio;patrimonio natural;*;ALL;;1
+2010-12-05 21:24:21;189.120.230.28;pt;local;bio;patrimonio natural;*;ALL;la:"Pt";1
+2010-12-05 21:24:24;189.72.86.34;pt;local;bio;haddad;au;ALL;;2
+2010-12-05 21:25:10;189.72.86.34;pt;local;bio;haddad;au;ALL;;3
+2010-12-05 21:25:26;189.59.202.206;pt;local;bio;lepidoptera;*;ALL;;2
+2010-12-05 21:25:29;189.59.202.206;pt;local;bio;lepidoptera;*;ALL;;5
+2010-12-05 21:25:31;189.59.202.206;pt;local;bio;lepidoptera;*;ALL;;8
+2010-12-05 21:28:19;189.59.202.206;pt;local;bio;lepidoptera;*;ALL;;10
+2010-12-05 21:28:27;189.59.202.206;pt;local;bio;lepidoptera;*;ALL;;11
+2010-12-05 21:28:31;189.59.202.206;pt;local;bio;lepidoptera;*;ALL;;19
+2010-12-05 21:28:50;189.59.202.206;pt;local;bio;lepidoptera;*;ALL;year_cluster:"2008";1
+2010-12-05 21:29:18;189.59.202.206;pt;local;bio;lepidoptera minas gerais;*;ALL;;1
+2010-12-05 21:36:51;189.4.125.94;pt;local;bio;*;*;*;;1
+2010-12-05 21:37:58;189.0.139.21;pt;local;bio;crustacea;kw;ALL;;2
+2010-12-05 21:40:56;189.59.202.206;pt;local;bio;borboleta;*;*;;1
+2010-12-05 21:42:03;189.0.139.21;pt;local;bio;crustacea;kw;ALL;ta_cluster:"Marine investigations in South Africa /  Cape of Good Hope Dept. of Agriculture.";1
+2010-12-05 22:00:03;201.86.220.241;pt;local;bio;macrofitas;*;*;;1
+2010-12-05 22:13:10;187.79.93.106;pt;local;bio;anuros;*;*;;1
+2010-12-05 22:14:30;187.79.93.106;pt;local;bio;anuros;*;ALL;;2
+2010-12-05 22:22:25;189.107.137.41;pt;local;bio;reflorestamento;*;*;;1
+2010-12-05 22:23:05;189.107.137.41;pt;local;bio;reflorestamento;*;ALL;;2
+2010-12-05 22:23:55;187.79.93.106;pt;local;bio;anuros;*;ALL;;3
+2010-12-05 22:26:42;187.79.93.106;pt;local;bio;anuros;*;ALL;;4
+2010-12-05 22:28:06;187.79.93.106;pt;local;bio;anuros;*;ALL;;5
+2010-12-05 22:29:10;187.79.93.106;pt;local;bio;anuros;*;ALL;;6
+2010-12-05 22:31:29;187.79.93.106;pt;local;bio;parasitas;*;ALL;;1
+2010-12-05 22:33:51;187.79.93.106;pt;local;bio;parasitas;*;ALL;;2
+2010-12-05 22:34:19;200.167.185.226;pt;local;bio;mamiferos;*;*;;1
+2010-12-05 22:35:21;187.79.93.106;pt;local;bio;parasitas;*;ALL;;3
+2010-12-05 22:36:02;187.79.93.106;pt;local;bio;parasitas;*;ALL;;4
+2010-12-05 22:37:31;187.79.93.106;pt;local;bio;parasitas;*;ALL;;5
+2010-12-05 22:39:06;187.79.93.106;pt;local;bio;parasitas;*;ALL;;6
+2010-12-05 22:40:35;187.79.93.106;pt;local;bio;parasitas;*;ALL;;7
+2010-12-05 22:42:40;187.79.93.106;pt;local;bio;parasitas;*;ALL;;8
+2010-12-05 22:43:59;187.79.93.106;pt;local;bio;parasitas;*;ALL;;9
+2010-12-05 22:50:32;187.79.93.106;pt;local;bio;nematóides de anfíbios;*;ALL;;1
+2010-12-05 22:50:39;187.79.93.106;pt;local;bio;nematóides;*;ALL;;1
+2010-12-05 22:50:53;187.79.93.106;pt;local;bio;parasitas de anfíbios;*;ALL;;1
+2010-12-05 22:51:01;187.79.93.106;pt;local;bio;parasitas;*;ALL;;1
+2010-12-05 22:51:02;187.79.93.106;pt;local;bio;parasitas;*;ALL;;1
+2010-12-05 22:51:32;187.79.93.106;pt;local;bio;parasitas;*;ALL;;2
+2010-12-05 22:51:34;200.167.185.226;pt;local;bio;mamiferos;*;*;;1
+2010-12-05 22:51:51;187.79.93.106;pt;local;bio;parasitas;*;ALL;;3
+2010-12-05 22:52:07;187.79.93.106;pt;local;bio;parasitas;*;ALL;;4
+2010-12-05 22:52:42;187.79.93.106;pt;local;bio;parasitas;*;ALL;;5
+2010-12-05 22:54:09;187.52.90.188;pt;local;bio;mamiferos;*;ALL;la:"Pt";1
+2010-12-05 22:54:11;200.167.185.226;pt;local;bio;mamiferos;*;ALL;la:"Pt";1
+2010-12-05 22:54:48;200.167.185.226;pt;local;bio;mamiferos;*;ALL;la:"Pt";2
+2010-12-05 22:55:36;200.167.185.226;pt;local;bio;mamiferos;*;ALL;la:"Pt";3
+2010-12-05 22:57:59;187.52.90.188;pt;local;bio; mamiferos brasileiros;*;ALL;;1
+2010-12-05 22:57:59;200.167.185.226;pt;local;bio; mamiferos brasileiros;*;ALL;;1
+2010-12-05 22:58:27;200.167.185.226;pt;local;bio;  mamiferos amazonicos;*;ALL;;1
+2010-12-05 22:58:46;187.52.90.188;pt;local;bio;ecologia de  mamiferos;*;ALL;;1
+2010-12-05 22:59:05;189.112.102.2;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-05 22:59:39;187.52.90.188;pt;local;bio;  mamiferos;*;ALL;;1
+2010-12-05 22:59:47;189.112.102.2;pt;local;bio;*;*;BHLB;db:BHLB AND ta_cluster:"Anexos das Memórias do Instituto de Butantan, Secção de Botânica.";1
+2010-12-05 23:00:09;200.96.185.186;pt;local;bio;  mamiferos;*;ALL;;2
+2010-12-05 23:00:41;187.52.90.188;pt;local;bio;  mamiferos;*;ALL;la:"Pt";1
+2010-12-05 23:07:58;187.37.20.92;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-05 23:13:58;189.28.181.214;pt;local;bio;cetaceos;*;*;;1
+2010-12-05 23:20:29;143.107.252.108;pt;local;bio;euterpis;*;*;;1
+2010-12-05 23:20:33;143.107.252.108;pt;local;bio;euterpi;*;ALL;;1
+2010-12-05 23:21:20;143.107.252.108;pt;local;bio;euterpi;*;ALL;;1
+2010-12-05 23:21:44;143.107.252.108;pt;local;bio;euterpe;*;ALL;;1
+2010-12-05 23:22:08;143.107.252.108;pt;local;bio;euterpe;*;ALL;type:"article";1
+2010-12-05 23:22:22;143.107.252.108;pt;local;bio;*;*;*;;1
+2010-12-05 23:22:36;143.107.252.108;pt;local;bio;scheflera;*;*;;1
+2010-12-05 23:39:00;189.0.163.4;pt;local;bio;morcego;*;*;;1

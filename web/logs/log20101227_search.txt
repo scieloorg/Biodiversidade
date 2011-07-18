@@ -1,0 +1,46 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2010-12-27 01:30:40;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-27 02:20:57;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-27 02:40:46;211.254.252.210;pt;local;bio;*;*;*;;1
+2010-12-27 03:50:45;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-27 06:45:44;66.249.71.52;pt;local;bio;*;*;*;;1
+2010-12-27 07:41:03;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-27 07:51:45;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-27 08:18:17;187.14.174.82;pt;local;bio;morcegos;*;*;;1
+2010-12-27 08:18:50;187.14.174.82;pt;local;bio;morcegos;*;ALL;;2
+2010-12-27 08:19:19;187.14.174.82;pt;local;bio;morcegos;*;ALL;;3
+2010-12-27 08:19:51;187.14.174.82;pt;local;bio;morcegos;*;ALL;;4
+2010-12-27 08:20:11;187.14.174.82;pt;local;bio;morcegos;*;ALL;;5
+2010-12-27 08:20:34;187.14.174.82;pt;local;bio;morcegos;*;ALL;;6
+2010-12-27 08:20:57;187.14.174.82;pt;local;bio;morcegos;*;ALL;;7
+2010-12-27 08:21:23;187.14.174.82;pt;local;bio;morcegos;*;ALL;;8
+2010-12-27 08:23:36;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-27 09:18:05;187.112.147.64;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-27 09:18:18;187.112.147.64;pt;local;bio;*;*;BHLG;db:BHLG;2
+2010-12-27 09:18:22;187.112.147.64;pt;local;bio;*;*;BHLG;db:BHLG;10
+2010-12-27 09:18:38;187.112.147.64;pt;local;bio;macarthur;au;BHLG;db:BHLG;1
+2010-12-27 09:18:43;187.112.147.64;pt;local;bio;macarthur;au;BHLB;db:BHLB;1
+2010-12-27 09:18:50;187.112.147.64;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-27 09:19:07;187.112.147.64;pt;local;bio;*;*;BHLB;db:BHLB;2
+2010-12-27 09:19:10;187.112.147.64;pt;local;bio;*;*;BHLB;db:BHLB;5
+2010-12-27 09:19:19;187.112.147.64;pt;local;bio;*;*;BHLB;db:BHLB;6
+2010-12-27 09:19:23;187.112.147.64;pt;local;bio;*;*;BHLB;db:BHLB;10
+2010-12-27 10:17:39;189.2.201.130;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-27 10:18:51;189.2.201.130;pt;local;bio;quimica;*;BHLB;db:BHLB;1
+2010-12-27 11:24:29;189.101.61.44;pt;local;bio;insetos herbívoros;*;*;;1
+2010-12-27 11:24:43;189.101.61.44;pt;local;bio;insetos de dossel;*;ALL;;1
+2010-12-27 11:43:39;187.41.142.207;pt;local;bio;dipteryx;*;*;;1
+2010-12-27 12:44:32;200.139.12.121;pt;local;bio;biodiversidade;*;*;;1
+2010-12-27 12:52:25;200.139.12.121;pt;local;bio;biodiversidade;*;ALL;;2
+2010-12-27 13:10:52;200.138.146.216;pt;local;bio;unidade de conservacao;*;*;;1
+2010-12-27 13:34:44;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-27 13:37:45;66.249.71.52;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-27 15:15:33;66.249.71.52;pt;local;bio;*;*;*;;1
+2010-12-27 15:22:18;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-27 16:23:40;189.72.226.35;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-27 16:24:11;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-27 17:21:53;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-27 20:09:07;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-27 20:56:17;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-27 21:35:14;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-27 22:54:30;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1

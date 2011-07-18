@@ -1,0 +1,110 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-02-03 00:09:28;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 00:24:36;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 00:34:29;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-02-03 00:34:59;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-02-03 00:42:08;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 00:50:54;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-02-03 00:56:45;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 01:01:47;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 01:09:19;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 01:22:09;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 01:25:20;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 01:26:14;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 01:27:50;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 01:41:46;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 01:50:14;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 02:07:17;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 02:13:14;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 02:19:26;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-02-03 02:33:34;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-02-03 02:37:24;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-02-03 02:45:19;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 02:45:33;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 03:03:17;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 03:19:02;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 03:25:57;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 03:50:00;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 03:58:32;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 04:14:04;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 04:39:12;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 04:41:32;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 04:43:36;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-02-03 05:03:59;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2011-02-03 06:27:52;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-02-03 06:31:23;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-02-03 07:04:57;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-02-03 08:18:06;189.22.168.243;pt;local;bio;mapas piaui;*;*;;1
+2011-02-03 08:18:21;189.22.168.243;pt;local;bio;mapas ;*;*;;1
+2011-02-03 08:18:46;189.22.168.243;pt;local;bio;mapas ;*;ALL;type:"article";1
+2011-02-03 08:19:32;66.249.71.52;pt;local;bio;+id:("lil-9030037195");*;*;;1
+2011-02-03 08:20:02;66.249.71.52;pt;local;bio;+id:("lil-9030037197");*;*;;1
+2011-02-03 08:38:02;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-02-03 09:06:14;189.9.22.65;pt;local;bio;Pyriglena atra;*;*;;1
+2011-02-03 09:11:45;187.106.45.94;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-02-03 09:30:51;187.112.140.92;pt;local;bio;rio piquiri;*;*;;1
+2011-02-03 09:31:26;187.112.140.92;pt;local;bio;fauna bacia piquiri;*;ALL;;1
+2011-02-03 09:31:29;189.9.22.65;pt;local;bio;Cacajao calvus novaesi;*;*;;1
+2011-02-03 09:31:54;187.112.140.92;pt;local;bio;mastofauna bacia piquiri;*;ALL;;1
+2011-02-03 09:32:18;187.112.140.92;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-02-03 09:33:00;187.112.140.92;pt;local;bio;*;*;BHLB;db:BHLB;2
+2011-02-03 09:33:03;187.112.140.92;pt;local;bio;*;*;BHLB;db:BHLB;3
+2011-02-03 09:33:49;187.112.140.92;pt;local;bio;arucária;*;*;;1
+2011-02-03 09:33:59;187.112.140.92;pt;local;bio;araucária;*;*;;1
+2011-02-03 10:09:50;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-02-03 10:13:23;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-02-03 10:20:04;189.9.22.65;pt;local;bio;Cacajao calvus calvus;*;ALL;;1
+2011-02-03 10:23:26;189.9.22.65;pt;local;bio;Cacajao calvus calvusBalaenoptera physalus;*;ALL;;1
+2011-02-03 10:23:30;189.9.22.65;pt;local;bio;Balaenoptera physalus;*;ALL;;1
+2011-02-03 10:40:17;66.249.71.52;pt;local;bio;+id:("lil-9030037111");*;*;;1
+2011-02-03 11:08:20;189.9.22.65;pt;local;bio;aves migratórias;*;ALL;;1
+2011-02-03 12:02:57;189.9.22.65;pt;local;bio;Astyanax gymnogenys;*;ALL;;1
+2011-02-03 12:15:37;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-02-03 13:12:56;189.10.52.218;pt;local;bio;semen DHA;*;*;;1
+2011-02-03 13:14:42;201.79.113.18;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-02-03 13:43:05;201.11.215.32;pt;local;bio;qualidade começa em mim;*;*;;1
+2011-02-03 14:04:42;189.9.22.65;pt;local;bio;Austrolebias adloffi;*;ALL;;1
+2011-02-03 14:12:08;189.9.22.65;pt;local;bio;Austrolebias affinis;*;ALL;;1
+2011-02-03 14:16:29;189.9.22.65;pt;local;bio;Austrolebias alexandri;*;ALL;;1
+2011-02-03 14:18:34;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-02-03 14:37:19;189.9.22.65;pt;local;bio;Austrolebias carvalhoi;*;ALL;;1
+2011-02-03 14:47:53;189.9.22.65;pt;local;bio;Austrolebias charrua;*;ALL;;1
+2011-02-03 14:54:10;189.9.22.65;pt;local;bio;Austrolebias cyaneus;*;ALL;;1
+2011-02-03 14:58:34;189.9.22.65;pt;local;bio;Austrolebias ibicuiensis;*;ALL;;1
+2011-02-03 14:59:36;189.9.22.65;pt;local;bio;Austrolebias luteoflammulatus;*;ALL;;1
+2011-02-03 15:04:53;189.9.22.65;pt;local;bio;Austrolebias minuano;*;ALL;;1
+2011-02-03 15:12:24;189.9.22.65;pt;local;bio;Austrolebias nigrofasciatus;*;ALL;;1
+2011-02-03 15:13:47;189.9.22.65;pt;local;bio;Austrolebias periodicus;*;ALL;;1
+2011-02-03 15:14:45;189.9.22.65;pt;local;bio;Brycon devillei;*;ALL;;1
+2011-02-03 15:34:00;189.9.22.65;pt;local;bio;Brycon insignis;*;ALL;;1
+2011-02-03 15:49:26;66.249.71.52;pt;local;bio;*;*;*;;1
+2011-02-03 15:58:29;187.5.67.92;pt;local;bio;methynis mola;*;*;;1
+2011-02-03 15:58:46;187.5.67.92;pt;local;bio;metinys mola;*;ALL;;1
+2011-02-03 15:58:53;187.5.67.92;pt;local;bio;metinys mola;*;ALL;;1
+2011-02-03 15:59:10;187.5.67.92;pt;local;bio;roniel rodrigues rocha;*;ALL;;1
+2011-02-03 16:05:24;189.9.22.65;pt;local;bio;Brycon insignis;*;ALL;;1
+2011-02-03 16:19:30;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-02-03 16:29:45;201.90.224.210;pt;local;bio;Cerrado;*;*;;1
+2011-02-03 18:53:02;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-02-03 19:43:51;66.249.71.24;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-02-03 20:24:07;66.249.71.23;pt;local;bio;*;*;*;;1
+2011-02-03 20:55:33;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-02-03 21:08:42;187.71.15.12;pt;local;bio;AGRICULTURA;*;*;;1
+2011-02-03 21:09:12;187.71.15.12;pt;local;bio;AGRICULTURA;*;ALL;;2
+2011-02-03 21:09:38;187.71.15.12;pt;local;bio;AGRICULTURA;*;ALL;;3
+2011-02-03 21:09:55;187.71.15.12;pt;local;bio;MODERNIZAÇÃO DA AGRICULTURA;*;ALL;;1
+2011-02-03 21:10:11;187.71.15.12;pt;local;bio;AGRICULTURA BRASILEIRA;*;ALL;;1
+2011-02-03 21:59:44;189.103.174.87;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-02-03 21:59:45;189.103.174.87;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-02-03 21:59:46;189.103.174.87;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-02-03 22:02:21;189.103.174.87;pt;local;bio;*;*;SCIB;db:SCIB;2
+2011-02-03 22:02:43;189.103.174.87;pt;local;bio;*;*;SCIB;db:SCIB;3
+2011-02-03 22:02:55;189.103.174.87;pt;local;bio;*;*;SCIB;db:SCIB;4
+2011-02-03 22:03:19;189.103.174.87;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Entomol. vectores";1
+2011-02-03 22:04:03;189.103.174.87;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Entomol. vectores";2
+2011-02-03 22:04:29;189.103.174.87;pt;local;bio;*;*;SCIB;db:SCIB AND ta_cluster:"Entomol. vectores";3
+2011-02-03 22:40:53;189.103.174.87;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-02-03 22:40:54;189.103.174.87;pt;local;bio;*;*;*;;1
+2011-02-03 22:40:54;189.103.174.87;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-02-03 22:56:51;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-02-03 23:54:19;187.107.97.214;pt;local;bio;*;*;SCIB;db:SCIB;1

@@ -1,0 +1,94 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2010-12-21 01:14:50;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 01:24:33;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 02:01:41;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 02:08:22;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 02:10:32;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 02:17:14;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 02:36:46;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 02:40:17;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 02:51:30;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 02:52:14;66.249.71.52;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-21 02:59:06;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 03:24:42;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 03:32:53;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-21 03:37:10;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-21 03:48:53;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 05:04:03;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 06:03:59;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 06:23:06;66.249.71.52;pt;local;bio;+id:("scl-S0074-02761909000200008");*;*;;1
+2010-12-21 06:33:43;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 06:34:46;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 07:03:57;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 07:08:22;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 07:37:08;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 07:45:41;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 08:00:33;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 08:02:57;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 09:28:52;161.148.176.199;pt;local;bio;*;*;*;;1
+2010-12-21 10:29:32;187.78.160.235;pt;local;bio;*;*;*;;1
+2010-12-21 10:30:47;187.78.160.235;pt;local;bio;evolução;*;ALL;;1
+2010-12-21 10:31:00;187.78.160.235;pt;local;bio;população;*;ALL;;1
+2010-12-21 10:31:12;187.78.160.235;pt;local;bio;população;*;ALL;;2
+2010-12-21 10:31:22;187.78.160.235;pt;local;bio;população;*;ALL;type:"article";1
+2010-12-21 10:50:57;187.54.164.70;pt;local;bio;*;*;*;;1
+2010-12-21 11:03:28;161.148.176.199;pt;local;bio;*;*;*;;1
+2010-12-21 11:03:44;200.222.73.46;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-21 11:07:08;200.222.73.46;pt;local;bio;permacultura;*;BHLB;db:BHLB;1
+2010-12-21 11:07:14;200.222.73.46;pt;local;bio;permacultura;*;ALL;;1
+2010-12-21 11:07:48;200.222.73.46;pt;local;bio;COMPOSTAGEM;kw;BHLB;db:BHLB;1
+2010-12-21 11:07:48;200.222.73.46;pt;local;bio;COMPOSTAGEM;kw;BHLB;db:BHLB;1
+2010-12-21 11:07:52;200.222.73.46;pt;local;bio;COMPOSTAGEM;kw;BHLB;db:BHLB;1
+2010-12-21 11:08:11;200.222.73.46;pt;local;bio;compost;kw;BHLB;db:BHLB;1
+2010-12-21 11:08:15;200.222.73.46;pt;local;bio;compost;kw;BHLB;db:BHLB;1
+2010-12-21 11:08:21;200.222.73.46;pt;local;bio;compost;ti;BHLB;db:BHLB;1
+2010-12-21 11:08:28;200.222.73.46;pt;local;bio;*;*;*;;1
+2010-12-21 11:08:38;200.222.73.46;pt;local;bio;*;*;ALL;;10
+2010-12-21 11:09:05;200.222.73.46;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-21 11:09:21;200.222.73.46;pt;local;bio;*;*;BHLB;db:BHLB;2
+2010-12-21 11:09:34;200.222.73.46;pt;local;bio;*;*;BHLB;db:BHLB;9
+2010-12-21 11:19:46;201.54.129.80;pt;local;bio;diedrocephala euthemis;*;*;;1
+2010-12-21 12:02:33;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 12:25:43;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 12:42:54;187.40.138.40;pt;local;bio;aves;*;*;;1
+2010-12-21 12:44:48;187.40.138.40;pt;local;bio;aves;*;ALL;;1
+2010-12-21 13:22:24;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 13:45:17;66.249.71.52;pt;local;bio;*;*;*;;1
+2010-12-21 15:19:29;187.40.158.147;pt;local;bio;aves;*;ALL;la:"Pt";1
+2010-12-21 15:20:52;187.40.158.147;pt;local;bio;papagaios;*;ALL;;1
+2010-12-21 15:21:39;187.40.158.147;pt;local;bio;aves de rapina;*;ALL;;1
+2010-12-21 15:22:02;187.40.158.147;pt;local;bio;gaviões;*;ALL;;1
+2010-12-21 15:22:30;187.40.158.147;pt;local;bio;taxa de parasitismo aves;*;ALL;;1
+2010-12-21 15:23:10;187.40.158.147;pt;local;bio;taxa de parasitismo ;*;ALL;;1
+2010-12-21 15:23:22;187.40.158.147;pt;local;bio;taxa de parasitismo ;*;ALL;la:"Pt";1
+2010-12-21 15:24:23;187.40.158.147;pt;local;bio;aves;*;ALL;;1
+2010-12-21 15:24:54;187.40.158.147;pt;local;bio;aves;*;ALL;la:"Pt";1
+2010-12-21 15:49:36;66.249.71.52;pt;local;bio;*;*;BHLB;db:BHLB;1
+2010-12-21 16:09:50;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-21 16:12:31;161.148.179.74;pt;local;bio;*;*;*;;1
+2010-12-21 16:25:38;189.83.140.12;pt;local;bio;cascavel;*;*;;1
+2010-12-21 16:45:35;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-21 17:54:32;66.249.71.52;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-21 18:46:16;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 20:25:59;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 21:39:38;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 21:43:10;189.19.169.143;pt;local;bio;amadeu botelho;*;*;;1
+2010-12-21 21:43:54;189.19.169.143;pt;local;bio;amadeu botelho;kw;ALL;;1
+2010-12-21 21:44:07;189.19.169.143;pt;local;bio;rppn amadeo botelho;*;ALL;;1
+2010-12-21 21:44:07;189.19.169.143;pt;local;bio;rppn amadeo botelho;*;ALL;;1
+2010-12-21 22:16:56;201.95.162.47;pt;local;bio;manejo de fauna;*;*;;1
+2010-12-21 22:21:30;201.95.162.47;pt;local;bio;manejo de fauna;*;ALL;;2
+2010-12-21 22:35:40;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 22:44:33;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 22:44:43;201.95.162.47;pt;local;bio;manejo de fauna;*;ALL;;1
+2010-12-21 22:45:01;201.95.162.47;pt;local;bio;onservação;*;ALL;;1
+2010-12-21 22:45:09;201.95.162.47;pt;local;bio;conservação;*;ALL;;1
+2010-12-21 22:45:30;201.95.162.47;pt;local;bio;*;*;SCIB;db:SCIB;1
+2010-12-21 22:46:24;201.95.162.47;pt;local;bio;*;*;SCIB;db:SCIB;2
+2010-12-21 22:59:39;66.249.71.52;pt;local;bio;Sua seleção;*;*;;1
+2010-12-21 23:00:05;189.96.50.228;pt;local;bio;*;*;BHLG;db:BHLG;1
+2010-12-21 23:03:22;189.96.50.228;pt;local;bio;*;*;BHLG;db:BHLG;10
+2010-12-21 23:03:47;189.96.50.228;pt;local;bio;*;*;BHLG;db:BHLG;11
+2010-12-21 23:03:57;189.96.50.228;pt;local;bio;*;*;BHLG;db:BHLG;12
+2010-12-21 23:04:06;189.96.50.228;pt;local;bio;*;*;BHLG;db:BHLG;13
+2010-12-21 23:04:15;189.96.50.228;pt;local;bio;*;*;BHLG;db:BHLG;20

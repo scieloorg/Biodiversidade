@@ -1,0 +1,25 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-04-17 01:22:57;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-04-17 01:51:51;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-17 02:03:41;66.249.71.43;pt;local;bio;Sua seleção;*;*;;1
+2011-04-17 05:56:53;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-17 08:49:48;189.110.169.123;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-04-17 08:50:58;189.110.169.123;pt;local;bio;como o asistente social pode orientar os familiares e as propias crianças para um bom uso da internete;*;BHLB;db:BHLB;1
+2011-04-17 08:51:41;189.110.169.123;pt;local;bio;asistente social;*;BHLB;db:BHLB;1
+2011-04-17 10:50:31;189.104.116.173;pt;local;bio;porque o pao em temperatura ambiente (25°C) fica duro e o biscoito fica mole;*;*;;1
+2011-04-17 10:50:45;189.104.116.173;pt;local;bio;porque o pao em temperatura ambiente (25°C) fica duro e o biscoito fica mole;*;BHLB;db:BHLB;1
+2011-04-17 10:53:49;189.104.116.173;pt;local;bio;porque o pao em temperatura ambiente (25°C) fica duro e o biscoito fica mole;*;BHLB;db:BHLB;1
+2011-04-17 10:53:58;189.104.116.173;pt;local;bio;porque o pao em temperatura ambiente (25°C) fica duro e o biscoito fica mole;*;BHLB;db:BHLB;1
+2011-04-17 10:54:29;189.104.116.173;pt;local;bio;tecnologia de alimento pao em temperatura ambiente;*;BHLB;db:BHLB;1
+2011-04-17 10:54:39;189.104.116.173;pt;local;bio;tecnologia de alimento pao ;*;BHLB;db:BHLB;1
+2011-04-17 10:59:42;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-17 12:20:39;66.249.71.43;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-04-17 13:48:32;187.127.76.108;pt;local;bio;Petróleo e seus efeitos no meio ambiente;*;*;;1
+2011-04-17 14:16:23;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-04-17 16:06:57;66.249.71.43;yiewkcbsz;local;bio;*;*;*;;1
+2011-04-17 17:09:58;201.53.38.166;pt;local;bio;edgar morin;*;*;;1
+2011-04-17 18:26:19;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-17 18:42:17;187.75.63.82;pt;local;bio;melissa officinales;*;*;;1
+2011-04-17 18:43:02;187.75.63.82;pt;local;bio;melissa officinales;*;*;;1
+2011-04-17 22:08:12;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-04-17 23:09:05;187.41.178.197;pt;local;bio;thiopentax;*;*;;1

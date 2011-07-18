@@ -1,0 +1,26 @@
+date;ip;lang;col;site;query;index;where;filter;from
+2011-03-22 02:24:15;74.125.75.3;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-22 02:27:15;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-22 03:13:55;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-22 03:13:55;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-22 03:13:56;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-22 03:13:56;201.38.225.131;pt;local;bio;*;*;*;;1
+2011-03-22 06:50:44;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-22 08:18:10;187.79.24.147;pt;local;bio;anfibios ;*;*;;1
+2011-03-22 08:21:30;187.79.24.147;es;local;bio;*;*;ALL;;1
+2011-03-22 10:10:38;189.96.7.62;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-22 10:46:52;201.74.91.202;pt;local;bio;Euphorbia tirucalli;*;*;;1
+2011-03-22 12:28:48;89.204.137.106;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-22 12:52:44;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-22 15:45:10;190.210.117.203;pt;local;bio;*;*;BHLG;db:BHLG;1
+2011-03-22 15:45:11;190.210.117.203;pt;local;bio;*;*;BHLB;db:BHLB;1
+2011-03-22 15:47:17;190.210.117.203;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-22 16:02:49;201.32.31.218;pt;local;bio;*;*;SCIB;db:SCIB;1
+2011-03-22 16:05:54;201.32.31.218;pt;local;bio;ecossistema;*;*;;1
+2011-03-22 16:55:28;209.131.41.48;pt;local;bio;*;*;*;;1
+2011-03-22 19:13:34;187.113.230.37;pt;local;bio;controlebiológico;*;*;;1
+2011-03-22 19:14:21;187.113.230.37;pt;local;bio;contcontrole biológicorolebiológico;*;ALL;;1
+2011-03-22 19:14:36;187.113.230.37;pt;local;bio;controle biológico neotropical 2011;*;ALL;;1
+2011-03-22 21:07:31;189.74.179.83;pt;local;bio;desenvolvimento sustentável;*;*;;1
+2011-03-22 22:28:54;209.131.41.49;pt;local;bio;*;*;*;;1
+2011-03-22 23:36:11;66.249.72.78;pt;local;bio;*;*;SCIB;db:SCIB;1
