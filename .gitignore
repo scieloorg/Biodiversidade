@@ -3,3 +3,6 @@
 *.xml
 *.pyc
 nbproject
+nbproject/*
+web/templates_c/*
+web/templates_c
