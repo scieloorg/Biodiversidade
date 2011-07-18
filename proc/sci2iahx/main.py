@@ -67,7 +67,7 @@ if __name__ == "__main__":
                 for j in dictIahx['rows']:
                     content += '<doc>'
                     content += '<field name="id">' + replaceEntities('scl-' + str([j][0]['doc']['v880'][0]['_']))  + '</field>'
-                    content += '<field name="db">SCIB</field>'
+                    content += '<field name="db">scib</field>'
                     content += '<field name="cc">BR1.1</field>'
                     content += '<field name="bvs">biodiversidade</field>'
                     content += '<field name="type">article</field>'
