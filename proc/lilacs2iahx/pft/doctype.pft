@@ -1,0 +1,4 @@
+if v5.1 = 'S' or p(v706) then 'article' fi,
+if v5.1 = 'M' then 'book' fi,
+if v5.1 = 'N' then 'non-conventional' fi,
+if v5.1 = 'T' then 'thesis' fi
