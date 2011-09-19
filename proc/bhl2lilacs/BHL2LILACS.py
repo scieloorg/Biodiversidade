@@ -36,6 +36,10 @@ class BHL2LILACS:
         """
         create_id_filename
         """
+
+        p_from = p_from[0:10]
+        p_until=p_until[0:10]
+        
         localtime = time.localtime(time.time())
         min_month = 3
         min_day = 29
@@ -85,11 +89,13 @@ class BHL2LILACS:
         if self.r2id:
             self.display_debug_message('Debug: executing download_most_recent_items ' + p_from +',' + p_until)
 
+
+            oai_date,item_id_list = self.bhl_data.get_item_id_list(p_from, p_until)
+
             f = open('last_date','w')
-            f.write(p_until)
+            f.write(oai_date)
             f.close()
 
-            item_id_list = self.bhl_data.get_item_id_list(p_from, p_until)
             for item_id in item_id_list:
                 self.display_debug_message('Debug: item_id: '+item_id)
                 item_metadata = self.bhl_data.get_item_metadata(item_id)
@@ -104,7 +110,7 @@ class BHL2LILACS:
                         self.display_debug_message('  get_title_metadata')
                         title_metadata = self.bhl_data.get_title_metadata(title_id[0])
                         title_metadata.set_items(item_metadata)
-                        title_metadata.set_oai_date(p_from)
+                        title_metadata.set_oai_date(oai_date)
 
                         self.display_debug_message('  generate_records')
                         records = self.doc2isis.generate_records(title_metadata)

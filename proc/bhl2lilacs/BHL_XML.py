@@ -28,6 +28,9 @@ class BHL_XML:
         item_id_list = self.xml.get_text('identifier')
         return [ i.strip('oai:biodiversitylibrary.org:item/') for i in item_id_list ]
 
+    def get_oai_date_list(self):
+        return self.xml.get_text('datestamp')
+
     def get_resumption_token(self):
         return self.xml.get_text('resumptionToken')
 

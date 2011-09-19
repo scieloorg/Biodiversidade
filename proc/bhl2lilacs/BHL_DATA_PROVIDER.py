@@ -37,18 +37,21 @@ class BHL_DATA_PROVIDER:
             bhl_xml = BHL_XML('',xml)
             resumption = bhl_xml.get_resumption_token()
             item_id_list = bhl_xml.get_oai_item_id()
-
+            date_list = bhl_xml.get_oai_date_list()
             r_list += item_id_list
 
             if resumption:
                 xml = self.bhl_api.query_most_recent_resumption(resumption[0])
             else:
                 execute = False
-        return r_list
+
+
+        return [date_list[-1:][0],r_list]
 
     def get_item_metadata(self, item_id):
         xml = self.bhl_api.query_item_metadata(item_id)
         bhl_xml = BHL_XML('', xml)
+        
         return bhl_xml.get_items()
 
     def get_title_metadata(self, title_id):

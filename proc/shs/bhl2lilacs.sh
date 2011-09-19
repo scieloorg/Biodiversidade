@@ -18,7 +18,7 @@ FST=../../bases/lildbi/dbcertif/lilacs/LILACS.fst
 
 #
 LILDB_PATH=../../bases/lildbi/dbcertif/lilacs/
-LILDB_NAME=lilacs
+LILDB_NAME=LILACS
 
 LILDB=$LILDB_PATH/$LILDB_NAME
 
@@ -122,40 +122,32 @@ then
 else
     echo Executing python3 ../bhl2lilacs/call_bhl2lilacs.py $OP $XML_PATH $PARAM3 $PARAM4  $PARAM5 $PARAM6
     python3 ../bhl2lilacs/call_bhl2lilacs.py $OP $XML_PATH $PARAM3 $PARAM4  $PARAM5 $PARAM6
+    
+    $CISIS1660/mx null count=0 create=$NEW_LILDB now -all
+
+    # check biota
+    $CISIS1660/mx $LILDB btell=0 "DB_FAPESP-BIOTA" count=1 lw=9999 "pft=v4" now > biota
+    EXIST_BIOTA=`cat biota`
+    if [ "@$EXIST_BIOTA" == "@" ]
+    then
+        $CISIS1660/id2i $BIOTA_ID create=$BIOTA_ID
+        $CISIS1660/mx $BIOTA_ID append=$NEW_LILDB now -all
+    fi
+
+    if [ -f $LILDB.mst ]
+    then
+        $CISIS1660/mx $LILDB append=$NEW_LILDB now -all
+    fi
+
     if [ -f $NEW_ID_ISO ]
     then
         $CISIS1660/id2i $NEW_ID_ISO create=$TMP_LILDB
     fi
     if [ -f $TMP_LILDB.mst ]
     then
-
-        if [ -f $LILDB.mst ]
-        then
-            $CISIS1660/mx $LILDB create=$NEW_LILDB now -all
-        else
-            $CISIS1660/mx null count=0 create=$NEW_LILDB now -all
-        fi
-
-
-        # check biota
-        $CISIS1660/mx $LILDB btell=0 "$ and not(DB_FAPESP-BIOTA)" count=1 lw=9999 "pft=v4" now > biota
-        EXIST_BIOTA=`cat biota`
-        if [ "@$EXIST_BIOTA" == "@" ]
-        then
-            $CISIS1660/id2i $BIOTA_ID create=$BIOTA_ID
-            $CISIS1660/mx $BIOTA_ID append=$NEW_LILDB now -all
-        fi
-
-
-        
         $CISIS1660/mx $TMP_LILDB "proc=@add.prc" "proc='s'" append=$NEW_LILDB now -all
-
         $CISIS1660/mx $NEW_LILDB fst=@$FST fullinv=$NEW_LILDB
-
         cp $NEW_LILDB.* $LILDB_PATH
-
     fi
-
-
 fi
 
