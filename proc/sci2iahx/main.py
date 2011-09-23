@@ -93,7 +93,7 @@ if __name__ == "__main__":
                         content += '<field name="cp">' + replaceEntities(str([j][0]['doc']['v66'][0]['_']) + str([j][0]['doc']['v67'][0]['_'])) + '</field>'
 
                     if 'v40' in [j][0]['doc']:
-                        content += '<field name="la">' + replaceEntities(str([j][0]['doc']['v40'][0]['_'][0].upper() + [j][0]['doc']['v40'][0]['_'][1])) + '</field>'
+                        content += '<field name="la">' + replaceEntities(str([j][0]['doc']['v40'][0]['_'][0] + [j][0]['doc']['v40'][0]['_'][1])) + '</field>'
 
                     if 'v30' in [j][0]['doc']:
                         content += '<field name="ta">' + replaceEntities(str([j][0]['doc']['v30'][0]['_'])) + '</field>'
