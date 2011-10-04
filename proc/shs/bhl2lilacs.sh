@@ -1,6 +1,7 @@
 op=$1
-START_DATE=$2
-END_DATE=$3
+debug=$2
+START_DATE=$3
+END_DATE=$4
 
 
 APIKEY=b64e048b-e947-44c2-b5e3-b9ba4e47fce0
@@ -117,37 +118,56 @@ fi
 if [ "@$OP" == "@" ]
 then
     echo "Usage: $0 [ download_all | download_incr  ]"
-    echo You tried executed
+    echo You tried to execute
     echo $0 $1 $2 $3 $4 $5 $6
 else
     echo Executing python3 ../bhl2lilacs/call_bhl2lilacs.py $OP $XML_PATH $PARAM3 $PARAM4  $PARAM5 $PARAM6
-    python3 ../bhl2lilacs/call_bhl2lilacs.py $OP $XML_PATH $PARAM3 $PARAM4  $PARAM5 $PARAM6
-    
-    $CISIS1660/mx null count=0 create=$NEW_LILDB now -all
+    if [ "@$debug" == "@no" ]
+    then
+        python3 ../bhl2lilacs/call_bhl2lilacs.py $OP $XML_PATH $PARAM3 $PARAM4  $PARAM5 $PARAM6
 
-    # check biota
-    $CISIS1660/mx $LILDB btell=0 "DB_FAPESP-BIOTA" count=1 lw=9999 "pft=v4" now > biota
-    EXIST_BIOTA=`cat biota`
-    if [ "@$EXIST_BIOTA" == "@" ]
-    then
-        $CISIS1660/id2i $BIOTA_ID create=$BIOTA_ID
-        $CISIS1660/mx $BIOTA_ID append=$NEW_LILDB now -all
-    fi
+        $CISIS1660/mx null count=0 create=$NEW_LILDB now -all
+        $CISIS1660/mx seq=lang.gzm.seq create=lang now -all
 
-    if [ -f $LILDB.mst ]
-    then
-        $CISIS1660/mx $LILDB append=$NEW_LILDB now -all
-    fi
+        # check biota
+        $CISIS1660/mx $LILDB btell=0 "DB_FAPESP$" count=1 lw=9999 "pft=v4" now > biota
+        EXIST_BIOTA=`cat biota`
+        if [ "@$EXIST_BIOTA" == "@" ]
+        then
+            echo create BIOTA
+            $CISIS1660/id2i $BIOTA_ID create=$BIOTA_ID
+            $CISIS1660/mx $BIOTA_ID "proc='d13',if v13='*' then if v12[1]^i<>'en' then (if v12^i='en' then 'a13{',v12^*,'{' fi) fi fi" "proc='s'" append=$NEW_LILDB now -all
+        fi
 
-    if [ -f $NEW_ID_ISO ]
-    then
-        $CISIS1660/id2i $NEW_ID_ISO create=$TMP_LILDB
-    fi
-    if [ -f $TMP_LILDB.mst ]
-    then
-        $CISIS1660/mx $TMP_LILDB "proc=@add.prc" "proc='s'" append=$NEW_LILDB now -all
-        $CISIS1660/mx $NEW_LILDB fst=@$FST fullinv=$NEW_LILDB
-        cp $NEW_LILDB.* $LILDB_PATH
+        if [ -f $LILDB.mst ]
+        then
+            echo backup LILACS
+            if [ -f ../db/LILACS.bkp.tgz ]
+            then
+               mv ../db/LILACS.bkp.tgz ../db/LILACS.bkp.`date '+%Y%m%d-%H%M%S'`.tgz
+            fi
+            tar cvfzp ../db/LILACS.bkp.tgz $LILDB.???
+            echo $LILDB append to $NEW_LILDB
+            #$CISIS1660/mx $LILDB "proc=if p(v940) then 'd40','a40{',v940^*,'{' fi" copy=$LILDB now -all
+            $CISIS1660/mx $LILDB gizmo=lang,40 "proc=@fix.prc" append=$NEW_LILDB now -all
+        fi
+
+        if [ -f $NEW_ID_ISO ]
+        then
+            echo create $TMP_LILDB
+            $CISIS1660/id2i $NEW_ID_ISO create=$TMP_LILDB
+        fi
+        if [ -f $TMP_LILDB.mst ]
+        then
+            echo $TMP_LILDB append to $NEW_LILDB
+            $CISIS1660/mx $TMP_LILDB gizmo=lang,40 "proc=@add.prc" "proc='s'" append=$NEW_LILDB now -all
+        fi
+
+        if [ -f $NEW_LILDB.mst ]
+        then
+            $CISIS1660/mx $NEW_LILDB fst=@$FST fullinv=$NEW_LILDB
+            cp $NEW_LILDB.??? $LILDB_PATH
+        fi
     fi
 fi
 

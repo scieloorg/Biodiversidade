@@ -18,7 +18,7 @@ else
             $CISIS1660/mx seq=gizmos/gent1.txt create=gizmos/gent1 now -all
             $CISIS1660/mx seq=gizmos/gent2.txt create=gizmos/gent2 now -all
 
-            $CISIS1660/mx $DB gizmo=gizmos/gent1 gizmo=gizmos/gent2 "prolog=@pft/prolog.pft" "epilog=@pft/epilog.pft" "pft=@pft/i2xml.pft" -all now tell=1 > $XML_FILENAME
+            $CISIS1660/mx $DB gizmo=gizmos/gent1 gizmo=gizmos/gent2 "lw=9999"  "prolog=@pft/prolog.pft" "epilog=@pft/epilog.pft" "pft=@pft/i2xml.pft" -all now tell=5000 > $XML_FILENAME
             
         fi
     fi

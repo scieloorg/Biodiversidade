@@ -38,7 +38,7 @@ class BHL2LILACS:
         """
 
         p_from = p_from[0:10]
-        p_until=p_until[0:10]
+        p_until= p_until[0:10]
         
         localtime = time.localtime(time.time())
         min_month = 3
@@ -48,78 +48,99 @@ class BHL2LILACS:
 
         f = open(processed_filename)
         excluded_id_list = f.readlines()
-        excluded_id_list = [ e.strip("\n") for e in excluded_id_list ]
         f.close()
+        
+        d = {}
+        for e in excluded_id_list:
+            e = e.strip("\n")
+            d[e] = ''
+        
+        excluded_id_list = d
 
 
         #print(excluded_id_list)
         self.display_debug_message('create_id_filename')
 
         self.r2id = record2id(self.id_filename)
-        if p_from=='' and p_until=='':
-            self.display_debug_message('create_id_filename for all')
-            curr_date = str(localtime[0])+'-'+ str(localtime[1])+'-'+ str(localtime[2])
-            previous=''
-            for year in range(2009, localtime[0]+1):
-                if year > 2009:
-                    min_month = 1
-                    min_day = 1
-                for month in range(min_month, max_month):
-                    for day in range(min_day, max_day):
-                        curr = str(year) + '-' + format(month) + '-' + format(day)
-                        if previous:
-                            self.__get_data_and_create_records__(excluded_id_list, previous, curr)
-                            if curr_date == previous:
-                                max_month=1
-                                max_day=1
-                        previous = curr
-                    min_day = 1
-                min_month=1
+        if self.r2id:
+            if p_from=='' and p_until=='':
+                self.display_debug_message('create_id_filename for all')
+                curr_date = str(localtime[0])+'-'+ str(localtime[1])+'-'+ str(localtime[2])
+                previous=''
+                for year in range(2009, localtime[0]+1):
+                    if year > 2009:
+                        min_month = 1
+                        min_day = 1
+                    for month in range(min_month, max_month):
+                        for day in range(min_day, max_day):
+                            curr = str(year) + '-' + format(month) + '-' + format(day)
+                            if previous:
+                                self.__get_data_and_create_records__(excluded_id_list, previous, curr)
+                                if curr_date == previous:
+                                    max_month=1
+                                    max_day=1
+                            previous = curr
+                        min_day = 1
+                    min_month=1
+            else:
+                self.display_debug_message('create_id_filename for ' + p_from+ ' ' + p_until)
+                self.__get_data_and_create_records__(excluded_id_list, p_from, p_until)
+            self.r2id.close_files()
         else:
-            self.display_debug_message('create_id_filename for ' + p_from+ ' ' + p_until)
-            self.__get_data_and_create_records__(excluded_id_list, p_from, p_until)
-        self.r2id.close_files()
-                    
+            print('invalid id file')
+
     
     def __get_data_and_create_records__(self, excluded_id_list, p_from, p_until):
         """
         1) Query BHL items create between the date range p_from and p_until and
         2) Write in id_filename
         """
-        if self.r2id:
-            self.display_debug_message('Debug: executing download_most_recent_items ' + p_from +',' + p_until)
+        self.display_debug_message('Debug: executing download_most_recent_items ' + p_from +',' + p_until)
+        execute = True
+        resumptionToken = ''
 
+        while execute:
+            oai_date_list,item_id_list,resumptionToken = self.bhl_data.get_item_id_list_by_batches(p_from, p_until,resumptionToken)
+            if resumptionToken == '':
+                execute = False
+            self.__create_records__(item_id_list, oai_date_list, excluded_id_list)
+        
 
-            oai_date,item_id_list = self.bhl_data.get_item_id_list(p_from, p_until)
+    def __create_records__(self, item_id_list, oai_date_list, excluded_id_list):
+        """        
+        Write in id_filename
+        """
+        
+        i = 0
+        for item_id in item_id_list:
+            self.display_debug_message('Debug: item_id: '+item_id)
+            item_metadata = self.bhl_data.get_item_metadata(item_id)
 
-            f = open('last_date','w')
-            f.write(oai_date)
-            f.close()
+            if item_metadata:
+                title_id = item_metadata[0].get_primary_title_id()
+                test = item_id + '|' + title_id[0]
+                self.display_debug_message('Debug: test '+test)
+                try:
+                    exist = excluded_id_list[test]
+                except:
+                    exist = 'no'
 
-            for item_id in item_id_list:
-                self.display_debug_message('Debug: item_id: '+item_id)
-                item_metadata = self.bhl_data.get_item_metadata(item_id)
+                if exist=='no':
+                    self.display_debug_message('Debug: do it')
+                    self.display_debug_message('  get_title_metadata')
+                    title_metadata = self.bhl_data.get_title_metadata(title_id[0])
+                    title_metadata.set_items(item_metadata)
+                    title_metadata.set_title_id(title_id)
+                    title_metadata.set_oai_date(oai_date_list[i])
 
-                if item_metadata:
-                    title_id = item_metadata[0].get_primary_title_id()
-                    # id in exclusion list?
-                    test = item_id + '|' + title_id[0]
-                    self.display_debug_message('Debug: test '+test)
-                    if not test in excluded_id_list:
-                        self.display_debug_message('Debug: do it')
-                        self.display_debug_message('  get_title_metadata')
-                        title_metadata = self.bhl_data.get_title_metadata(title_id[0])
-                        title_metadata.set_items(item_metadata)
-                        title_metadata.set_oai_date(oai_date)
+                    self.display_debug_message('  generate_records')
+                    records = self.doc2isis.generate_records(title_metadata)
+                    for r in records:
+                        self.display_debug_message('  save')
+                        self.r2id.save(r)
+                        self.display_debug_message('  saved')
 
-                        self.display_debug_message('  generate_records')
-                        records = self.doc2isis.generate_records(title_metadata)
-                        for r in records:
-                            self.display_debug_message('  save')
-                            self.r2id.save(r)
-                            self.display_debug_message('  saved')
-                        
-                else:
-                    self.display_debug_message('Debug: ERROR no item_metadata ')
-
-        #return list
+            else:
+                self.display_debug_message('Debug: ERROR no item_metadata ')
+            i+=1
+        

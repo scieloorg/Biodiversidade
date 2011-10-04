@@ -26,10 +26,21 @@ class BHL_XML:
 
     def get_oai_item_id(self):
         item_id_list = self.xml.get_text('identifier')
-        return [ i.strip('oai:biodiversitylibrary.org:item/') for i in item_id_list ]
+        r = []
+        for i in item_id_list:
+            s = i.split('/')
+            try:
+                r.append(s[1])
+            except:
+                r.append('')
+        return r
 
     def get_oai_date_list(self):
-        return self.xml.get_text('datestamp')
+        d = self.xml.get_text('datestamp')
+        r=[]
+        for date in d:
+            r.append(date)
+        return r
 
     def get_resumption_token(self):
         return self.xml.get_text('resumptionToken')
@@ -146,5 +157,12 @@ class BHL_XML:
         b.set_subject_text(self.xml.get_text('Subjects/Subject/SubjectText'))
         b.set_authors(self.get_authors())
         b.set_title_ids(self.get_other_title_id())
+
+        for ident in self.get_other_title_id():
+            if ident.get_name()=='ISSN':
+                b.set_issn(ident.get_value())
+            if ident.get_name()=='ISBN':
+                b.set_isbn(ident.get_value())
+
         b.set_items(self.get_items())
         return b

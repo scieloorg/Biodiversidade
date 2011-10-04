@@ -15,6 +15,7 @@ class BHL_API:
 
     def query(self, op, other_params):
         url = self.mainurl + 'op=' + op + '&apikey=' + self.access_key + '&forma=xml' + other_params
+        print(url)
         return str(urllib.request.urlopen(url).read(),'utf-8')
 
     def query_item_metadata(self, item_id):
@@ -22,10 +23,12 @@ class BHL_API:
     
     def query_most_recent(self, par_from, par_until):
         url = self.oaiurl.replace('<FROM>',par_from).replace('<UNTIL>',par_until)
+        print(url)
         return str(urllib.request.urlopen(url).read(),'utf-8')
 
     def query_most_recent_resumption(self, resump):
         url = self.oai_resumption.replace('<resumptionToken>',resump)
+        print(url)
         return str(urllib.request.urlopen(url).read(),'utf-8')
 
     def query_title_list_by_subject(self, subj):        

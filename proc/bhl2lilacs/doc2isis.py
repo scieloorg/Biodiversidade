@@ -79,6 +79,7 @@ class Doc2ISIS:
 
             field = field + self.get_field('901',item.get_item_id() , '^xItems/Item/ItemID')
             field = field + self.get_field(tag_volume,item.get_volume())
+            field = field + self.get_field('40',item.get_language())
             field = field + self.get_field('940',item.get_language() , '^xItems/Item/Language')
             field = field + self.get_field('65',item.get_date_year())
             field = field + self.get_field('8',item.get_url_item())

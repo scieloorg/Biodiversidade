@@ -29,24 +29,53 @@ class BHL_DATA_PROVIDER:
         self.xml_path = xml_path
         
 
+    def get_item_id_list_by_batches(self, start_date, end_date, resumptionToken):
+        if resumptionToken:
+            xml = self.bhl_api.query_most_recent_resumption(resumptionToken)
+        else:
+            xml = self.bhl_api.query_most_recent(start_date, end_date)
+
+
+        r_list = []
+        d_list = []
+        res = ''
+        bhl_xml = BHL_XML('',xml)
+        resumption = bhl_xml.get_resumption_token()
+        if resumption:
+            res = resumption[0]
+        print(resumption)
+        item_id_list = bhl_xml.get_oai_item_id()
+        print(item_id_list)
+        date_list = bhl_xml.get_oai_date_list()
+        print(date_list)
+        r_list += item_id_list
+        d_list += date_list
+
+
+        return [d_list,r_list,res]
+
     def get_item_id_list(self, start_date, end_date):
         xml = self.bhl_api.query_most_recent(start_date, end_date)
         execute = True
         r_list = []
+        d_list = []
         while execute:
             bhl_xml = BHL_XML('',xml)
             resumption = bhl_xml.get_resumption_token()
+            print(resumption)
             item_id_list = bhl_xml.get_oai_item_id()
+            print(item_id_list)
             date_list = bhl_xml.get_oai_date_list()
+            print(date_list)
             r_list += item_id_list
-
+            d_list += date_list
             if resumption:
                 xml = self.bhl_api.query_most_recent_resumption(resumption[0])
             else:
                 execute = False
 
 
-        return [date_list[-1:][0],r_list]
+        return [d_list,r_list]
 
     def get_item_metadata(self, item_id):
         xml = self.bhl_api.query_item_metadata(item_id)
