@@ -22,10 +22,13 @@ if len(sys.argv)>5:
     start_date = sys.argv[5]
 if len(sys.argv)>6:
     end_date = sys.argv[6]
+last_id = ''
+if len(sys.argv)>7:
+    last_id = sys.argv[7]
 
 display_usage = False
 more_message = []
-if whattodo in ['download_all','download_incr' ]:
+if whattodo == 'download_incr' :
     if not os.path.exists(xml_path):
         display_usage = True
         more_message.append('Invalid PARAM2. ' + xml_path + ' must be a directory.')
@@ -35,15 +38,13 @@ if whattodo in ['download_all','download_incr' ]:
     if not id_filename:
         display_usage = True
         more_message.append('Invalid PARAM4. It will be a file.')
-
-    if whattodo=='download_incr':
-        if start_date=='':
-            display_usage = True
-            more_message.append('Invalid PARAM5. It must be the start date.')
-        if end_date=='':
-            display_usage = True
-            more_message.append('Invalid PARAM6. It must be the end date.')
-
+    if start_date=='':
+        display_usage = True
+        more_message.append('Invalid PARAM5. It must be the start date.')
+    if end_date=='':
+        display_usage = True
+        more_message.append('Invalid PARAM6. It must be the end date.')
+    
 else:
     display_usage = True
     
@@ -53,13 +54,7 @@ else:
 
 
 if display_usage == True    :
-    print('python3 call_bhl2lilacs.py PARAM1 PARAM2 PARAM3 PARAM4 PARAM5 PARAM6')
-    print('==> To download all documents')
-    print('  PARAM1=download_all')
-    print('  PARAM2=xml_path')
-    print('  PARAM3=processed_id.seq')
-    print('  PARAM4=id_filename')
-    print('  ')
+    print('python3 call_bhl2lilacs.py PARAM1 PARAM2 PARAM3 PARAM4 PARAM5 PARAM6 PARAM7')
     print('==> To download most recent documents')
     print('  PARAM1=download_incr')
     print('  PARAM2=xml_path')
@@ -67,6 +62,7 @@ if display_usage == True    :
     print('  PARAM4=id_filename')
     print('  PARAM5=start_date')
     print('  PARAM6=end_date')
+    print('  PARAM7=last_id')
     print('  ')
     for text in more_message:
         print(text + "\n")
@@ -74,11 +70,7 @@ if display_usage == True    :
 else:
     print('Executing ' + whattodo)
     bhl2lilacs = BHL2LILACS(xml_path, id_filename, True)
-    if whattodo=='download_all':
-        bhl2lilacs.create_id_filename(processed_list)
-    else:
-        if whattodo=='download_incr':
-            bhl2lilacs.create_id_filename(processed_list, start_date, end_date)
+    bhl2lilacs.create_id_filename(processed_list, start_date, end_date, last_id)
         
 
     print(whattodo + ' finished.')

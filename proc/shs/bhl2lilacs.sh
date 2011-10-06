@@ -57,9 +57,10 @@ fi
 if [ -f $LILDB.mst ]
 then
     $CISIS1660/mx $LILDB btell=0 "DB_BHL$" lw=9999 "pft=v901^*,'|',v900^*/" now > $PROCESSED_ID_LIST
-    $CISIS1660/mx $LILDB btell=0 "DB_BHL$" lw=9999 "pft=v965/" now | sort -u -r > dates
-    $CISIS1660/mx seq=dates create=dates now -all
-    $CISIS1660/mx dates count=1 "pft=v1" now> last_date
+    $CISIS1660/mx $LILDB btell=0 "DB_BHL$" lw=9999 "pft=mfn,'|',v901^*,'|',v965^d,'|',v965^*/" now | sort -u -r > last_id
+    $CISIS1660/mx seq=last_id create=last_id now -all
+    $CISIS1660/mx last_id count=1 "pft=v2" now> last_id
+    $CISIS1660/mx last_id count=1 "pft=v3" now> last_date
 else
     $CISIS1660/mx null count=1 "proc='a333{',date,'{'" create=$LILDB now -all
     $CISIS1660/mx $LILDB fst=@$FST fullinv=$LILDB
@@ -102,7 +103,7 @@ then
     PARAM4=$NEW_ID
     PARAM5=$s_date
     PARAM6=$e_date
-
+    PARAM7=`cat last_id`
     if [ ! "@$START_DATE" == "@" ]
     then
         if [ ! "@$END_DATE" == "@" ]
@@ -111,7 +112,7 @@ then
             PARAM6=$END_DATE
         fi
     fi
-    echo $PARAM6 > last_date
+    
     OP=$op
 fi
 
@@ -121,10 +122,10 @@ then
     echo You tried to execute
     echo $0 $1 $2 $3 $4 $5 $6
 else
-    echo Executing python3 ../bhl2lilacs/call_bhl2lilacs.py $OP $XML_PATH $PARAM3 $PARAM4  $PARAM5 $PARAM6
+    echo Executing python3 ../bhl2lilacs/call_bhl2lilacs.py $OP $XML_PATH $PARAM3 $PARAM4  $PARAM5 $PARAM6 $PARAM7
     if [ "@$debug" == "@no" ]
     then
-        python3 ../bhl2lilacs/call_bhl2lilacs.py $OP $XML_PATH $PARAM3 $PARAM4  $PARAM5 $PARAM6
+        python3 ../bhl2lilacs/call_bhl2lilacs.py $OP $XML_PATH $PARAM3 $PARAM4  $PARAM5 $PARAM6 $PARAM7
 
         $CISIS1660/mx null count=0 create=$NEW_LILDB now -all
         $CISIS1660/mx seq=lang.gzm.seq create=lang now -all
