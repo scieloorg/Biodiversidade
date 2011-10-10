@@ -46,7 +46,7 @@ class BHL2LILACS:
         min_day = int(p_from[8:10])
         max_month = 13
         max_day = 29
-
+        self.start_year = int(p_from[0:4]))
         f = open(processed_filename)
         excluded_id_list = f.readlines()
         f.close()
@@ -61,7 +61,7 @@ class BHL2LILACS:
         if self.r2id:
             self.display_debug_message('create_id_filename (' + p_from +'-' + p_until + ')')
             curr_day=''
-            for year in range(self.start_year, localtime[0]+1):
+            for year in range(self.start_year , localtime[0]+1):
                 if year == localtime[0] :
                     max_month = localtime[1]
                 self.display_debug_message( str(year) + ' meses (' + str(min_month) + '-' + str(max_month) + ')' )
