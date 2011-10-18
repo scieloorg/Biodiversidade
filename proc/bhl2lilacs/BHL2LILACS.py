@@ -63,12 +63,12 @@ class BHL2LILACS:
             curr_day=''
             for year in range(self.start_year , localtime[0]+1):
                 if year == localtime[0] :
-                    max_month = localtime[1]
+                    max_month = localtime[1]+1
                 self.display_debug_message( str(year) + ' meses (' + str(min_month) + '-' + str(max_month) + ')' )
                 for month in range(min_month, max_month):
                     
                     if year == localtime[0] and month==localtime[1]:
-                        max_day = localtime[2]
+                        max_day = localtime[2]+1
                     self.display_debug_message( str(year) + str(month) + ' days (' + str(min_day) + '-' + str(max_day) + ')' )
                     for day in range(min_day, max_day):
                         next_day = str(year) + '-' + format(month) + '-' + format(day)

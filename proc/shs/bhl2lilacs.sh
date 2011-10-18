@@ -56,6 +56,7 @@ fi
 # create ../db/processed_ids which contains the processed title and its items id
 if [ -f $LILDB.mst ]
 then
+    $CISIS1660/mx $LILDB fst=@$FST fullinv=$LILDB
     $CISIS1660/mx $LILDB btell=0 "DB_BHL$" lw=9999 "pft=v901^*,'|',v900^*/" now > $PROCESSED_ID_LIST
     $CISIS1660/mx $LILDB btell=0 "DB_BHL$" lw=9999 "pft=mfn,'|',v901^*,'|',v965^d,'|',v965^*/" now | sort -u -r > last_id
     $CISIS1660/mx seq=last_id create=last_id now -all

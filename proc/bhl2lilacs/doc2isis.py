@@ -81,7 +81,14 @@ class Doc2ISIS:
             field = field + self.get_field(tag_volume,item.get_volume())
             field = field + self.get_field('40',item.get_language())
             field = field + self.get_field('940',item.get_language() , '^xItems/Item/Language')
-            field = field + self.get_field('65',item.get_date_year())
+
+            
+            year_checked = self.format_date(item.get_volume() + ';' + item.get_date_year()+ ';' + doc.get_publication_date())
+            
+            
+
+            if not year_checked=='':
+                field = field + self.get_field('65',year_checked)
             field = field + self.get_field('8',item.get_url_item())
             field = field + self.get_field('8',item.get_url_item_thumb())
             field = field + self.get_field('8',item.get_title_url())
@@ -129,4 +136,16 @@ class Doc2ISIS:
         if value:
             r = '^' + subf + value[0]
         return r
+
+    def format_date(self,test_year):
+        year_checked = ''
+        for i in range(1,10):
+            test_year = test_year.replace(str(i),'0')
+        test_year = test_year.replace('?','0')
+        test_year = test_year.replace('-','0')
+        test_year = test_year.replace('/','0')
+        if '0000' in test_year:
+            year_pos = test_year.find('0000')
+            year_checked = year[year_pos:year_pos+4] + '0000'
+        return year_checked
     
