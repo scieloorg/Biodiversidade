@@ -139,6 +139,8 @@ else
             echo create BIOTA
             $CISIS1660/id2i $BIOTA_ID create=$BIOTA_ID
             $CISIS1660/mx $BIOTA_ID "proc='d13',if v13='*' then if v12[1]^i<>'en' then (if v12^i='en' then 'a13{',v12^*,'{' fi) fi fi" "proc='s'" append=$NEW_LILDB now -all
+        echo $NEW_LILDB
+        $CISIS1660/mx $NEW_LILDB +control now
         fi
 
         if [ -f $LILDB.mst ]
@@ -151,18 +153,27 @@ else
             tar cvfzp ../db/LILACS.bkp.tgz $LILDB.???
             echo $LILDB append to $NEW_LILDB
             #$CISIS1660/mx $LILDB "proc=if p(v940) then 'd40','a40{',v940^*,'{' fi" copy=$LILDB now -all
-            $CISIS1660/mx $LILDB gizmo=lang,40 "proc=@fix.prc" append=$NEW_LILDB now -all
+            $CISIS1660/mx $LILDB gizmo=lang,40 mfrl=99000 fmtl=99000  "proc=@fix.prc" append=$NEW_LILDB now -all
+            echo $NEW_LILDB
+            $CISIS1660/mx $NEW_LILDB +control now
+            echo $LILDB
+            $CISIS1660/mx $LILDB +control now
         fi
 
         if [ -f $NEW_ID_ISO ]
         then
             echo create $TMP_LILDB
             $CISIS1660/id2i $NEW_ID_ISO create=$TMP_LILDB
-        fi
-        if [ -f $TMP_LILDB.mst ]
-        then
-            echo $TMP_LILDB append to $NEW_LILDB
-            $CISIS1660/mx $TMP_LILDB gizmo=lang,40 "proc=@add.prc" "proc='s'" append=$NEW_LILDB now -all
+        
+            if [ -f $TMP_LILDB.mst ]
+            then
+                echo $TMP_LILDB append to $NEW_LILDB
+                $CISIS1660/mx $TMP_LILDB gizmo=lang,40 mfrl=99000 fmtl=99000 "proc=@add.prc" "proc='s'" append=$NEW_LILDB now -all
+        echo $TMP_LILDB
+        $CISIS1660/mx $TMP_LILDB +control now
+        echo $NEW_LILDB
+        $CISIS1660/mx $NEW_LILDB +control now
+            fi
         fi
 
         if [ -f $NEW_LILDB.mst ]

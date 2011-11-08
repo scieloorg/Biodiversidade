@@ -83,7 +83,7 @@ class Doc2ISIS:
             field = field + self.get_field('940',item.get_language() , '^xItems/Item/Language')
 
             
-            year_checked = self.format_date(item.get_volume() + ';' + item.get_date_year()+ ';' + doc.get_publication_date())
+            year_checked = self.format_date(self.get_val(item.get_volume()) + ';' +self.get_val( item.get_date_year())+ ';' + self.get_val(doc.get_publication_date()))
             
             
 
@@ -123,6 +123,12 @@ class Doc2ISIS:
             r.append(field)
         #print(r)
         return r
+    def get_val(self, values):
+        r= ''
+        for occ in values:
+            if len(occ)>0:
+                r += occ + ' ' 
+        return r
     def get_field(self, tag, values, extra=''):
         r= ''
         tag = '000' + tag
@@ -146,6 +152,6 @@ class Doc2ISIS:
         test_year = test_year.replace('/','0')
         if '0000' in test_year:
             year_pos = test_year.find('0000')
-            year_checked = year[year_pos:year_pos+4] + '0000'
+            year_checked = test_year[year_pos:year_pos+4] + '0000'
         return year_checked
     
