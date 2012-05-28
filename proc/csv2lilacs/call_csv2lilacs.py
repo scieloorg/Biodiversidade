@@ -6,7 +6,7 @@ from record2id import record2id
 
 
 input_filename = 'biota-fapesp-FIXED.csv'
-separator = ';'
+separator = '|'
 id_filename = 'biota_fapesp_lildbi'
 default_content_filename = 'default.seq'
 convertion_table_filename = "table.seq"

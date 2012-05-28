@@ -1,10 +1,8 @@
-debug=$1
 
-if [ "@$debug" == "@" ]
+if [ ! -d ../log ]
 then
-    debug=yes
+    mkdir -p ../log
 fi
-
-mylog=r.`date '+%Y%m%d-%H%M%S'`.log
-sh ./bhl2lilacs.sh download_incr $debug> $mylog
-sh ./call_lilacs2iahx.sh >> $mylog
+mylog=../log/r.`date '+%Y%m%d-%H%M%S'`.log
+sh ./bhl2lilacs.sh download_incr YES YES 2>&1 $mylog
+sh ./call_lilacs2iahx.sh 2>>&1 $mylog

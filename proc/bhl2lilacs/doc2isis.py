@@ -82,11 +82,18 @@ class Doc2ISIS:
             field = field + self.get_field('40',item.get_language())
             field = field + self.get_field('940',item.get_language() , '^xItems/Item/Language')
 
-            
-            year_checked = self.format_date(self.get_val(item.get_volume()) + ';' +self.get_val( item.get_date_year())+ ';' + self.get_val(doc.get_publication_date()))
-            
-            
-
+            try:
+                year_checked = self.format_date(self.get_val(item.get_volume()) + ';' +self.get_val( item.get_date_year())+ ';' + self.get_val(doc.get_publication_date()))
+                print( "--------" )
+                print( self.get_val(item.get_volume()) + ';' +self.get_val( item.get_date_year())+ ';' + self.get_val(doc.get_publication_date()) )
+                print( year_checked)
+                print( '')
+                
+            except:
+                print( self.get_val(item.get_volume()) )
+                print(  self.get_val( item.get_date_year()) )
+                print( self.get_val(doc.get_publication_date()) )
+                
             if not year_checked=='':
                 field = field + self.get_field('65',year_checked)
             field = field + self.get_field('8',item.get_url_item())

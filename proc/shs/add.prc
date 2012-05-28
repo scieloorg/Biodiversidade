@@ -34,8 +34,15 @@
 
   fi
  ,),
+ /*
 ,(if p(v8) then '<8>','^u',v8,'^qpdf^yPDF^gTexto completo'
 ,'</8>' fi)
+*/
+
+,if p(v8) then '<8>',v8[1],'^qpdf^yPDF^gTexto completo'
+,'</8>' fi
+
+
 ,'<9>a</9>'
 ,'<92>AUTO</92>'
 ,'<110>s</110>'
