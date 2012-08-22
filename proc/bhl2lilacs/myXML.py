@@ -9,16 +9,19 @@ class MyXML:
             f = open(xml_file,'w')
             f.write(xml_content)
             f.close()
-        self.root = etree.parse(xml_file).getroot()
-        if debug:
-            print('root')
-            print(self.root)
-            print('root attributes')
-            print(self.root.tag)
-        if '{' in self.root.tag:
-            self.ns = self.root.tag[0:self.root.tag.find('}')+1]
-        else:
-            self.ns = ''
+        try:
+            self.root = etree.parse(xml_file).getroot()
+            if debug:
+                print('root')
+                print(self.root)
+                print('root attributes')
+                print(self.root.tag)
+            if '{' in self.root.tag:
+                self.ns = self.root.tag[0:self.root.tag.find('}')+1]
+            else:
+                self.ns = ''
+        except:
+            self.root = None
         self.debug = debug
 
     def get_nodes(self, xpath, current_node = None):
