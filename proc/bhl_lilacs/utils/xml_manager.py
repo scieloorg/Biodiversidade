@@ -8,8 +8,9 @@ class XMLManager:
 
     def __init__(self, xml_filename, report):
         self.root = None
+        self.report = report
         if os.path.exists(xml_filename):
-            self.report = report
+            
             self.ns = ''
             try:
                 self.root = etree.parse(xml_filename).getroot()
@@ -35,9 +36,9 @@ class XMLManager:
             if xpath != '':
                 p = self.ns + xpath
                 try:
-            	    r = n.findall(p)
-            	except:
-            	    self.report.log_error('Invalid xpath: ' + p)
+                    r = n.findall(p)
+                except:
+                    self.report.log_error('Invalid xpath: ' + p)
             else:
                 p = '.'
                 r.append(n)
@@ -50,28 +51,37 @@ class XMLManager:
         r = '' 
         s = ''
         if node != None:
-            n = 0
-            children = node.iter()
-            for child in children:
-                n +=1
-            if n == 1:
-                r = node.text
-            if n > 1:
-                r = etree.tostring(node)
-                
-                r = r[r.find('>')+1:]
-                r = r[0:r.rfind('</')]
+            
             try:
-                s = r.strip()
+                children = node.iter()
+                s = self.return_node_value_iter(node, children)
             except:
-                s = ''
-                self.report.log_event('Empty element')
-                self.report.display_data('node', node)
-                self.report.display_data('n', n)
-                self.report.display_data('r', r)        
+                if node.text != None:
+                    s = node.text
+                
+          
         return s
     
-    
+    def return_node_value_iter(self, node, children):
+        
+        for child in children:
+            n +=1
+        if n == 1:
+            r = node.text
+        if n > 1:
+            r = etree.tostring(node)
+            
+            r = r[r.find('>')+1:]
+            r = r[0:r.rfind('</')]
+        try:
+            s = r.strip()
+        except:
+            s = ''
+            self.report.log_event('Empty element')
+            self.report.display_data('node', node)
+            self.report.display_data('n', n)
+            self.report.display_data('r', r)        
+        return s   
     
     def return_node_attr_value(self, node, attr_name):
         attr = '' 

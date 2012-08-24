@@ -14,7 +14,7 @@
   .//Rights 968
   .//ThumbnailPageID 970
   .//ThumbnailPageID 971
-    @*
+    @* a
   .//CallNumber 3
   .//FullTitle title
   .//BibliographicLevel 71

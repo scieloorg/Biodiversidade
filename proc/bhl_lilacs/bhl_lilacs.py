@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import sys
 import os
 
@@ -5,35 +7,28 @@ from utils.report import Report
 from utils.xml2json_converter import XML2JSONConverter
 from utils.cisis import CISIS
 from utils.json2id import JSON2IDFile
+from bhl_files_set import BHL_Files_Set
 
 class BHL_LILACS:
 
-    def __init__(self, new_path, inproc_path, archive_path, report):
-        self.new_path = new_path
-        if not os.path.exists(new_path):
-            os.makedirs(new_path)
-
-        self.id_path = inproc_path
-
-        self.inproc_path = inproc_path
-        if not os.path.exists(inproc_path):
-            os.makedirs(inproc_path)
-
-        self.archive_path = archive_path
-        if not os.path.exists(archive_path):
-            os.makedirs(archive_path)
-
+    def __init__(self, xml_path, id_path, mst_path, report):
+        self.files_set = BHL_Files_Set(xml_path, id_path, mst_path)
         self.report = report 
         self.xml2json_converter = XML2JSONConverter('_bhl2isis.txt', report)
-        f = open('lang.gzm.seq', 'r')
-        c = f.readlines()
-        f.close()
+        try:
+            f = open('lang.gzm.seq', 'r')
+            c = f.readlines()
+            f.close()
+        except:
+            f = open('lang.gzm.seq', 'r', encoding='iso-8859-1')
+            c = f.readlines()
+            f.close()
 
         self.languages = {}
         for r in c:
             pair = r.strip('\n').split('|')
             self.languages[pair[0]] = pair[1]
-        print(self.languages)
+        
         self.tests = {}
         self.tests[' the '] = 'en'
         self.tests[' and '] = 'en'
@@ -55,50 +50,60 @@ class BHL_LILACS:
            
     
     def generate_mst_files(self,  cisis, replace = True):
-        xml_list = os.listdir(self.new_path + '/i')
+        xml_list = os.listdir(self.files_set.item_path)
         for xml in xml_list:
-            xml_filename = self.new_path + '/i/' + xml
-            id_filename = self.return_id_filename(xml_filename)
+            xml_filename = self.files_set.item_path + '/' + xml
+            id_filename = self.files_set.return_id_filename(xml)
             if os.path.exists(id_filename):
                 if replace:
                     os.unlink(id_filename)
             if not os.path.exists(id_filename):
                 self.generate_id_filename(xml_filename, id_filename)
-                #mst_filename = id_filename.replace('.id', '').replace(self.id_path, self.archive_path )
-                #cisis.id2i(id_filename, mst_filename)
+
+            if os.path.exists(id_filename):
+                mst_filename = self.files_set.return_mst_filename(xml)
+                if os.path.exists(mst_filename + '.mst'):
+                    if replace:
+                        os.unlink(mst_filename + '.mst')
+                        os.unlink(mst_filename + '.xrf')
+                if not os.path.exists(mst_filename + '.mst'):
+                    cisis.id2i(id_filename, mst_filename)
+            else:
+                self.report.log_error(' ! Expected ' + id_filename, True)
             
-    def generate_db(self, cisis, db_filename):
-        #cisis = CISIS('/var/www/lildbibio_scielo_org/bases/cisis1660')
-        path = os.path.dirname(db_filename)
-        if not os.path.exists(path):
-            os.makedirs(path)
-
-        if os.path.exists(path):
-            mst_files = os.listdir(self.archive_path )
-            for mst_filename in mst_files:
-                mst_filename = self.archive_path + '/' + mst_filename
-                cisis.append(mst_filename, db_filename)
-
 
     def generate_id_filename(self, xml_filename, id_filename):
-        json = self.xml2json_converter.convert(xml_filename)
+        self.report.log_event('Generating ' + id_filename + ' from ' + xml_filename)
         
-        json = json['doc']
-        title_id = json['900']
-        title_xml_filename = self.return_new_filename(title_id)
-        json_title = self.xml2json_converter.convert(title_xml_filename)
-        
-        json_title = json_title['doc']
-        
-        
-        json.update(json_title)
 
-        print(json)
-        json = self.fix_data(json)
-        json2id = JSON2IDFile(self.return_id_filename(xml_filename), self.report)
-        json2id.format_and_save_document_data(json)
-        print(self.return_id_filename(xml_filename))
-    
+        title_id = ''
+        json = self.xml2json_converter.convert(xml_filename)
+        if type(json) == type({}):
+            json = json['doc']
+            title_id = json['900']
+            
+        else:
+            self.report.log_error(' ! Missing item data in ' + xml_filename , True)
+
+        if len(title_id) > 0:
+            title_xml_filename = self.files_set.return_xml_filename(title_id)
+            json_title = self.xml2json_converter.convert(title_xml_filename)
+
+            if type(json_title) == type({}):
+                json_title = json_title['doc']
+        
+        
+                json.update(json_title)
+
+                #print(json)
+                json = self.fix_data(json)
+                
+                json2id = JSON2IDFile(self.files_set.return_id_filename(xml_filename), self.report)
+                json2id.format_and_save_document_data(json)
+                #print(self.return_id_filename(xml_filename))
+            else:
+                self.report.log_error(' ! Missing title data in ' + title_xml_filename , True)
+        
     def fix_data(self, json):
         v5 = json['71']
         if 'Serial' in v5:
@@ -167,25 +172,7 @@ class BHL_LILACS:
         json = self.fix_language(json)
         return json 
 
-    def return_id_filename(self, item_xml_name):
-        
-        return item_xml_name.replace('.xml', '.id').replace(self.new_path, self.id_path).replace('/i/', '/')
-
-    def return_new_filename(self, title_id, item_id=''):
-        filename = ''
-        if item_id != '':
-            filename = 'i/i' + item_id + '.xml'
-            
-
-        elif title_id != '':
-            filename = 't/t' + title_id + '.xml'
-            
-
-        r = ''
-        if len(filename) > 0:
-            r = self.new_path + '/' + filename 
-        
-        return r
+    
 
     def fix_language(self, json):
         if '40' in json.keys():
@@ -233,6 +220,25 @@ class BHL_LILACS:
                     year = y + '0000'
             json['65'] = year
         return json
+
+class DB:
+    def __init__(self):
+        pass 
+
+    def generate_db(self, cisis, mst_path, db_filename, report):
+        #cisis = CISIS('/var/www/lildbibio_scielo_org/bases/cisis1660')
+        path = os.path.dirname(db_filename )
+        if not os.path.exists(path):
+            os.makedirs(path)
+
+        if os.path.exists(path):
+            mst_files = os.listdir(mst_path )
+            for mst_filename in mst_files:
+                if mst_filename.endswith('.mst'):
+                    report.log_event('Appending ' + mst_filename, True)
+                    mst_filename = mst_path + '/' + mst_filename.replace('.mst', '')
+                    cisis.append(mst_filename, db_filename)
+
         
     
 if __name__ == '__main__':
@@ -240,24 +246,24 @@ if __name__ == '__main__':
     #paths = ['/var/www/lildbibio_scielo_org/proc/xml_path/new', '/var/www/lildbibio_scielo_org/proc/xml_path/inproc', '/var/www/lildbibio_scielo_org/proc/xml_path/archive' ]
     #paths = ['/var/www/lildbibio_scielo_org/proc/teste/new', 'i', 't' ]
 
-    p = '/Users/robertatakenaka/github.com/scieloorg/Biodiversidade/proc/test'
-    if os.path.exists(p):
-        path = p
-    else:
-        path = '/var/www/lildbibio_scielo_org/proc/xml_path/new'
-    paths = [path, 'i', 't' ]
-    
-    from parameters import Parameters
+    #python3 bhl_lilacs.py cisis_path db_filename xml_path
+    #python3 bhl_lilacs.py /var/www/lildbibio_scielo_org/bases/cisis1660 /var/www/lildbibio_scielo_org/bases/bhl/bhl /var/www/lildbibio_scielo_org/bases/bhl/bhl_xml
 
-    parameter_list = ['', 'cisis path', 'db filename']
+    from utils.parameters import Parameters
+
+    parameter_list = ['', 'cisis path', 'db filename', 'xml path', 'id path', 'mst path', 'report_path', 'overwrite? (yes or no)']
     parameters = Parameters(parameter_list)
     if parameters.check_parameters(sys.argv):
-        script_name, cisis_path, db_filename = sys.argv
-        log_filename, err_filename, summary_filename = (path + '/' + 'r.log', path + '/' +'r.err', path + '/' +'report.txt')
-        cisis = CISIS(cisis_path)
+        script_name, cisis_path, db_filename, xml_path, id_path, mst_path, report_path, replace = sys.argv
+        
+
+        log_filename, err_filename, summary_filename = (report_path + '/' + 'r.log', report_path + '/' +'r.err', report_path + '/' +'report.txt')
         report = Report(log_filename, err_filename, summary_filename, 0, False) 
 
-        proc = BHL_LILACS(paths[0], paths[1], paths[2], report)
+        cisis = CISIS(cisis_path)
+        
+
+        proc = BHL_LILACS(xml_path, id_path, mst_path, report)
         
         from datetime import datetime
         d = datetime.now().isoformat()[0:10]
@@ -267,9 +273,21 @@ if __name__ == '__main__':
             shutil.move(db_filename + '.xrf', bkp + '.xrf')
             
         
-        proc.generate_mst_files(cisis, True)
-        #proc.generate_db(cisis, db_filename)
+        proc.generate_mst_files(cisis, (replace == 'yes'))
 
-    
+        db = DB()
+        db.generate_db(cisis, mst_path, db_filename, report)
 
+    else:
+        parameter_list = ['', 'cisis path', 'db filename', 'mst path' , 'report_path']
+        parameters = Parameters(parameter_list)
+        if parameters.check_parameters(sys.argv):
+            script_name, cisis_path, db_filename, mst_path, report_path = sys.argv
+
+            log_filename, err_filename, summary_filename = (report_path + '/' + 'r.log', report_path + '/' +'r.err', report_path + '/' +'report.txt')
+            report = Report(log_filename, err_filename, summary_filename, 0, False) 
+
+            cisis = CISIS(cisis_path)
+            db = DB()
+            db.generate_db(cisis, mst_path, db_filename, report)
                     

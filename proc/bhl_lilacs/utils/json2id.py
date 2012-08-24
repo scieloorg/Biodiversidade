@@ -113,6 +113,7 @@ class JSON2IDFile:
         return content
         
     def tag_it(self, tag, content):
+        
         tag = '000' + tag
         return '!v' + tag[-3:] + '!' + content + "\n"
             
@@ -121,14 +122,16 @@ class JSON2IDFile:
         #print(value)
         if value != '':
             try:
-                value = value.encode('iso-8859-1')
+                test = value.encode('iso-8859-1')
             except:
                 try:
-                    value = value.decode('utf-8')
-                    value = value.encode('iso-8859-1')
+                    test = value.decode('utf-8')
+                    test = test.encode('iso-8859-1')
                 except:
                 
-                    value = self.convert_chr(value)
+                    test = self.convert_chr(value)
+            if type(test) == type(''):
+                value = test
         return value
 
     def convert_chr(self, value):
