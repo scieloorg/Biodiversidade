@@ -1,1 +1,0 @@
-python3 bhl_lilacs.py /var/www/lildbibio_scielo_org/bases/cisis1660 /var/www/lildbibio_scielo_org/bases/bhl/bhl /var/www/lildbibio_scielo_org/bases/bhl/bhl_xml /var/www/lildbibio_scielo_org/bases/bhl/bhl_id /var/www/lildbibio_scielo_org/bases/bhl/bhl_mst /var/www/lildbibio_scielo_org/bases/report no

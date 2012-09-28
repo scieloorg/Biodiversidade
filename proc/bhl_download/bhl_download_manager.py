@@ -140,7 +140,7 @@ class BHL_DownloadManager:
 
 if __name__ == '__main__':
 
-    paths = ['/var/www/lildbibio_scielo_org/proc/xml_path/new', 'i', 't']
+    paths = ['/var/www/lildbibio_scielo_org/bases/bhl/bhl_xml/new', 'i', 't']
     from parameters import Parameters
 
     parameter_list = ['', 'start date', 'end date', 'replace item', 'replace title']

@@ -25,7 +25,20 @@ class XMLManager:
         else:
             self.report.log_error('Missing XML file:' + xml_filename)
             
-    
+    def get_text(self, element_name, first = False):
+        
+        nodes = self.return_nodes('.//' + element_name)
+        print(nodes)
+        if first:
+            text = ''
+            if len(nodes)>0:
+                text = nodes[0].text
+        else:
+            text = []
+            text = [ n.text for n in nodes ]
+               
+        return text
+
     def return_nodes(self, xpath = '', current_node = None):
         r = []
         n = current_node
@@ -34,7 +47,16 @@ class XMLManager:
 
         if n != None:
             if xpath != '':
-                p = self.ns + xpath
+                if len(self.ns) == 0:
+                    p =  xpath
+                else:
+                    if xpath.startswith('.//'):
+                        p = './/' + self.ns  + xpath[3:]
+                    elif xpath.startswith('./'):
+                        p = './' + self.ns + xpath[2:]
+                    else:
+                        p = xpath
+                print(p)
                 try:
                     r = n.findall(p)
                 except:
