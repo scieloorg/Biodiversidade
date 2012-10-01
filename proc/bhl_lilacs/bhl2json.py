@@ -83,7 +83,11 @@ class BHL2JSON:
             self.report.log_error(' ! Missing item id ' + item_xml_filename , True)
     
     def fix_data(self, json):
-        v5 = json['71']
+        print(json)
+        if '71' in json.keys():
+            v5 = json['71']
+        else:
+            v5 = 'M'
         if 'Serial' in v5:
             json['5'] = 'S'
             json['6'] = 'ms'
