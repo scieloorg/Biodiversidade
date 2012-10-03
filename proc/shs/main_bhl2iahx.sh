@@ -9,11 +9,11 @@ mylog=../log/r.`date '+%Y%m%d-%H%M%S'`.log
 
 # generate bhl db
 cd ../bhl_lilacs
-python3 bhl_db.py new
+python3 bhl_db.py new  2>> $mylog
 cd ../shs
 
 # generate lilacs db (bhl + biota)
-sh ./generate_lilacs_db.sh
+sh ./generate_lilacs_db.sh 2>> $mylog
 
 # generate xml from lilacs db
 sh ./generate_xml.sh 2>> $mylog

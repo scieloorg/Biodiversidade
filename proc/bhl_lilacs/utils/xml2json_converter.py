@@ -4,10 +4,11 @@ import json
 
 class XML2JSONConverter:
 
-    def __init__(self, xml2json_table_filename, debug_report, debug = False):
+    def __init__(self, xml2json_table_filename, debug_report, debug = False, convert2utf8 = False):
         self.conversion_table = XML2JSONTable(xml2json_table_filename)
         self.debug_report = debug_report
         self.debug = debug
+        self.convert2utf8 = convert2utf8
         
 
     def convert(self, xml_filename):
@@ -74,7 +75,10 @@ class XML2JSONConverter:
                 v = table_node.default
                 
             if v != '':
-                a.append(self._convert_value_(v))
+                if self.convert2utf8:
+                    a.append(self._convert_value_(v))
+                else:
+                    a.append(v)
             if debug:
                 print('return_leaf_content')
                 print(a)

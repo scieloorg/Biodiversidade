@@ -1,2 +1,2 @@
 DEST_XML=poseidon:/var/www/index_iahx/proc/xml/
-DEST_LILACS=poseidon:/var/www/lildbibio_scielo_org/bases/lildbi/dbcertif/lilacs
+DEST_LILACS=poseidon:/var/www/lildbibio_bhlscielo_org/bases/lildbi/dbcertif/lilacs

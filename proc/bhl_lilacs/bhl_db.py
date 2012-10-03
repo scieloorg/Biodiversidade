@@ -17,6 +17,7 @@ class BHL_LILACS:
         
 
     def generate_db_files(self, xml_src = 'new'):
+        print('source of xml files: '  + xml_src )
         if xml_src == 'new':
             xml_path = self.files_set.inbox_path + '/i'
             archive_path = self.files_set.archive_xml_path
@@ -38,6 +39,7 @@ class BHL_LILACS:
                     self.generate_id_filename(xml_filename, id_filename)
                 if os.path.exists(id_filename):
                     if len(archive_path) > 0:
+                        print('archive ' + xml_filename + ' -> ' +  archive_path + '/' + xml)
                         self.archive(xml_filename, archive_path + '/' + xml)
                     self.cisis.id2i(id_filename, self.files_set.return_db_filename(xml))
                 
