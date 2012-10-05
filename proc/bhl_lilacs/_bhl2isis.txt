@@ -36,8 +36,8 @@
   .//TitleIdentifier 993
     IdentifierName d
     IdentifierValue i
-  .//TitleIdentifier[IdentifierName='ISSN']/IdentifierValue 35
-  .//TitleIdentifier[IdentifierName='ISBN']/IdentifierValue 69
+  .//TitleIdentifier[IdentifierName='ISSN'] 35
+  .//TitleIdentifier[IdentifierName='ISBN'] 69
   .//Creator 10
     CreatorID i
     Dates d

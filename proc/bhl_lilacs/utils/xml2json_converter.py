@@ -15,7 +15,7 @@ class XML2JSONConverter:
         self.dict = {}
         self.xml_manager = XMLManager(xml_filename, self.debug_report)
         converted = self.__convert__(self.conversion_table.start, None, None)
-        self.debug_report.display_data('converted', converted)  
+        #self.debug_report.display_data('converted', converted)  
         return converted 
 
     def pretty(self, json_data):
@@ -31,8 +31,8 @@ class XML2JSONConverter:
         #t = (table_node.xpath.startswith( 'xref' ))
         #self.debug = True
         test = False
-        if self.debug:
-            self.debug_report.display_data('__convert__ ', table_node.xpath)
+        #if self.debug:
+        #    self.debug_report.display_data('__convert__ ', table_node.xpath)
         #print(' -- --- --')
         #print(table_node.xpath)
         #xpath, table_node.xpath = self.__return_new_xpath_and_table_xpath__(table_node)
@@ -56,8 +56,6 @@ class XML2JSONConverter:
     
         if t:
             print(result)
-        if self.debug:
-            self.debug_report.display_data('result', result)  
         
         return result
 

@@ -14,7 +14,15 @@ class BHL_LILACS:
         self.cisis = cisis
         self.files_set = files_set
         self.bhl2json = BHL2JSON(files_set, report)
+        self.report = report
         
+    
+    def files_count(self, path, pattern):
+        c = os.listdir(path)
+
+        c = [ filename for filename in c if filename.endswith(pattern) ]
+
+        self.report.write('Files in ' + path + ': ' + str(len(c)), True, False)
 
     def generate_db_files(self, xml_src = 'new'):
         print('source of xml files: '  + xml_src )
@@ -24,13 +32,34 @@ class BHL_LILACS:
         else:
             xml_path = self.files_set.archive_xml_path
             archive_path = ''
-        print(xml_path)
+        
+        self.report.write('Processing XML from ' + xml_path, True )
+        
         xml_list = os.listdir(xml_path)
+        xml_list = [ xml for xml in xml_list if xml.endswith('.xml') and os.path.isfile(xml_path + '/' + xml) ]
+
+        total_xml = len(xml_list)
+        ok = 0
+        empty_file = []
+        
+
+        self.files_count(self.files_set.archive_xml_path, '.xml')
+        self.files_count(self.files_set.archive_id_path, '.xml.id')
+        self.files_count(self.files_set.archive_db_path, '.xml.mst')
+
+        
+
+        self.report.write('There are ' + str(total_xml) + ' files in ' + xml_path, True )
         for xml in xml_list:
             xml_filename = xml_path + '/' + xml
 
-            if xml_filename.endswith('.xml') and os.path.isfile(xml_filename):
-                print(xml_filename)
+          
+            if os.path.getsize(xml_filename)==0:
+                self.report.write('Processing: Empty file ' + xml_filename, False, True)
+                empty_file.append(xml_filename)
+                os.unlink(xml_filename)
+            else:
+                
                 id_filename = self.files_set.return_id_filename(xml)
 
                 if os.path.exists(id_filename):
@@ -40,9 +69,28 @@ class BHL_LILACS:
                 if os.path.exists(id_filename):
                     if len(archive_path) > 0:
                         print('archive ' + xml_filename + ' -> ' +  archive_path + '/' + xml)
-                        self.archive(xml_filename, archive_path + '/' + xml)
-                    self.cisis.id2i(id_filename, self.files_set.return_db_filename(xml))
-                
+                        #self.archive(xml_filename, archive_path + '/' + xml)
+                    
+                    db_filename = self.files_set.return_db_filename(xml)
+                    self.cisis.id2i(id_filename, db_filename)
+
+                    if not os.path.exists(db_filename + '.mst'):
+                        self.report.write('Unable to create db filename ' + db_filename, False, True)
+                    else:
+                        ok += 1
+                else:
+                    self.report.write('Unable to create id filename ' + id_filename, False, True)
+        
+        if ok != total_xml:
+            self.report.write(str(ok) + '/' + str(total_xml) +  ' done.', True, False, True)
+
+        self.files_count(xml_path, '.xml')
+        self.files_count(self.files_set.archive_xml_path, '.xml')
+        self.files_count(self.files_set.archive_id_path, '.xml.id')
+        self.files_count(self.files_set.archive_db_path, '.xml.mst')
+
+        
+
 
     def archive(self, src, dest):
         if os.path.exists(src):
@@ -67,6 +115,7 @@ class BHL_LILACS:
         if os.path.exists(path):
             db_files = os.listdir(self.files_set.archive_db_path )
             db_files = [ f[0:-4] for f in db_files if f.endswith('.mst')]
+            self.report.write('db files: ' + str(len(db_files)), True)
             for db_file in db_files:
                 db_file = self.files_set.archive_db_path + '/' + db_file
                 self.cisis.append(db_file, db_filename)

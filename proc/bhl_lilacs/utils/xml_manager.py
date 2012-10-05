@@ -20,10 +20,10 @@ class XMLManager:
                     self.ns = ''
             except:
 
-                self.report.log_error('Unable to load ' + xml_filename)
+                self.report.write('Unable to load ' + xml_filename, False, True)
                 
         else:
-            self.report.log_error('Missing XML file:' + xml_filename)
+            self.report.write('Missing XML file:' + xml_filename, False, True)
             
     def get_text(self, element_name, first = False):
         
@@ -60,7 +60,7 @@ class XMLManager:
                 try:
                     r = n.findall(p)
                 except:
-                    self.report.log_error('Invalid xpath: ' + p)
+                    self.report.write('Invalid xpath: ' + p, False, True)
             else:
                 p = '.'
                 r.append(n)

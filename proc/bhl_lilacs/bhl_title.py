@@ -1,4 +1,4 @@
-from bhl_xml import BHL_XML
+from bhl_xml import BHL_XML, BHL_XML_FILE
 
 class BHL_Title:
 
@@ -7,9 +7,8 @@ class BHL_Title:
         
     def download(self, bhl_api, title_id, xml_filename):
         xml = bhl_api.query_title(title_id, '')
-        f = open(xml_filename, 'w')
-        f.write(xml)
-        f.close()
+        BHL_XML_FILE(self.report).save_xml(xml_filename, xml)
+
         
     
         

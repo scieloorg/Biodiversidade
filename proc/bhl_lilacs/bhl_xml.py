@@ -2,19 +2,66 @@ from utils.xml_manager import XMLManager
 
 from utils.report import Report
 #import chardet
+import tempfile, os
+
+class BHL_XML_FILE:
+    def __init__(self, report):
+        self.report = report
+
+    def save_xml(self, xml_filename, content):
+        if len(content)>0:
+            try:
+                f = open(xml_filename, 'w')
+                f.write(content)
+                f.close()
+                
+            except:
+                f = open(xml_filename, 'wb')
+                f.write(content)
+                f.close()
+                
+            if os.path.exists(xml_filename):
+                if os.path.getsize(xml_filename)==0:
+                    self.report.write('BHL_XML_FILE.save_xml: ERROR: missing ' + xml_filename, False, True, False)
+                    os.unlink(xml_filename)
+        else:
+            self.report.write('BHL_XML_FILE.save_xml: ERROR: empty content to ' + xml_filename, False, True, False)
+                    
+    def read_xml(self, xml_filename):
+        xml = ''
+        if os.path.exists(xml_filename):
+            try:
+                f = open(xml_filename, 'r')
+                xml = f.read()
+                f.close()
+            except:
+                f = open(xml_filename, 'rb')
+                xml = f.read()
+                f.close()
+            
+        else:
+            self.report.write('BHL_XML_FILE.read_xml: ERROR: Missing ' + xml_filename, False, True, False)
+        return xml 
+
 
 class BHL_XML:
     def __init__(self, xml_filename, xml, report):
+        self.report = report
         if xml_filename == '':
             if len(xml)>0:
-                xml_filename = 'xml'
-                f = open(xml_filename, 'w')
-                f.write(xml)
-                f.close()
+                a, xml_filename = tempfile.mkstemp()
+                BHL_XML_FILE(report).save_xml(xml_filename, xml)
 
-        self.xml_manager = XMLManager(xml_filename, report)
+        if os.path.exists(xml_filename):
+            self.xml_manager = XMLManager(xml_filename, report)
+        else:
+            self.report.write('BHL_XML.init: ERROR: missing ' + xml_filename, False, True, False)
         #self.debug = debug
     
+    
+
+
+        
     def get_oai_item_id(self):
         item_id_list = self.xml_manager.get_text('identifier')
         print(item_id_list)

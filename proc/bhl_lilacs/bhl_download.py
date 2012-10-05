@@ -6,19 +6,6 @@ from bhl_item import BHL_Item
 from bhl_title import BHL_Title
 
 
-def read_file(filename):
-    f = open(filename,'r')
-    list = f.read()
-    f.close()
-    return list
-
-def save_file(file_name, file_content, mode='wb'):
-    if not file_content=='':
-        f = open(file_name, mode)
-        f.write(file_content)
-        f.close()
-
-
 
 class BHL_Download:
 
@@ -50,42 +37,60 @@ class BHL_Download:
         bhl_item = BHL_Item(self.report)
         bhl_title = BHL_Title(self.report)
 
+        total = 0
+        ok = 0
         while execute:
             bhl_collection.load(bhl_api, p_from, p_until, resumptionToken)
+            self.report.write('Downloading ' + p_from + ' to ' + p_until)
 
             item_id_list = bhl_collection.return_items_id()
-            print(item_id_list)
+            
+            self.report.write(' '*2 + ','.join(item_id_list))
 
             resumptionToken = bhl_collection.return_resumption()
-            print(resumptionToken)
-
+            
+            
+            total += len(item_id_list)
             for item_id in item_id_list:
                 item_filename = self.return_new_filename('', item_id)
-                print(item_filename)
+                
                 if replace_item:
                     if os.path.exists(item_filename):
                         os.unlink(item_filename)
 
                 if not os.path.exists(item_filename):
-                    print('downloaded')
                     bhl_item.download(bhl_api, item_id, item_filename)
-                bhl_item.load(item_filename)
-                
-                title_id = bhl_item.return_title_id()
-                title_filename = self.return_new_filename(title_id)
-                print(title_filename)
-                title_id = bhl_item.return_title_id()
-                if replace_title:
-                    if os.path.exists(title_filename):
-                        os.unlink(title_filename)
 
-                if not os.path.exists(title_filename):
-                    print('downloaded')
-                    bhl_title.download(bhl_api, title_id, title_filename)
+                if os.path.exists(item_filename):
+                    bhl_item.load(item_filename)
                 
+                    title_id = bhl_item.return_title_id()
+                    if len(title_id)>0:
+                        title_filename = self.return_new_filename(title_id)
+                
+
+                        if replace_title:
+                            if os.path.exists(title_filename):
+                                 os.unlink(title_filename)
+
+                        if not os.path.exists(title_filename):
+                            bhl_title.download(bhl_api, title_id, title_filename)
+
+                        if not os.path.exists(title_filename):
+                            self.report.write('Missing ' + title_filename)
+                        else:
+                            ok += 1
+
+                    else:
+                        self.report.write('Missing title_id ' + title_id + ' in ' + item_filename)
+                else:
+                    self.report.write('Missing ' + item_filename)
+
             execute = (len(resumptionToken) > 0)
       
-    
+        if ok != total:
+            self.report.write('Success percentual: ' + str(ok) + '/' + str(total), True, False, True)
+            
     
     def return_new_filename(self, title_id, item_id=''):
         filename = ''

@@ -47,7 +47,7 @@ class BHL2JSON:
 
     
     def generate_id_filename(self, item_xml_filename, id_filename):
-        self.report.log_event('Generating ' + id_filename + ' from ' + item_xml_filename)
+        self.report.write('Generating ' + id_filename + ' from ' + item_xml_filename)
         
 
         title_id = item_id = ''
@@ -57,7 +57,7 @@ class BHL2JSON:
             title_id = json['900']
             item_id = json['901']
         else:
-            self.report.log_error(' ! Missing item data in ' + item_xml_filename , True)
+            self.report.write(' ! Missing item data in ' + item_xml_filename , False, True)
 
         if len(title_id) > 0:
             title_xml_filename = self.files_set.return_title_xml_filename(title_id)
@@ -67,7 +67,7 @@ class BHL2JSON:
                 json_title = json_title['doc']
                 json.update(json_title)
         else:
-            self.report.log_error(' ! Missing title data in ' + item_xml_filename , True)
+            self.report.write(' ! Missing title data in ' + item_xml_filename , False, True)
     
         
                 
@@ -80,7 +80,7 @@ class BHL2JSON:
             json2id.format_and_save_document_data(json)
             #print(self.return_id_filename(xml_filename))
         else:
-            self.report.log_error(' ! Missing item id ' + item_xml_filename , True)
+            self.report.write(' ! Missing item id ' + item_xml_filename , False, True)
     
     def fix_data(self, json):
         print(json)

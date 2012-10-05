@@ -9,12 +9,13 @@ class JSON2IDFile:
     """
     Class which creates an ID file from JSON (ISIS) document
     """
-    def __init__(self, filename, report):
+    def __init__(self, filename, report, convert2iso = True):
         """
         Arguments: 
         filename -- path and file name for ID file
         report   -- object Report
         """
+        self.convert2iso = convert2iso
         self.filename = filename
         self.report = report
         if not os.path.exists(os.path.dirname(filename)):
@@ -119,35 +120,24 @@ class JSON2IDFile:
             
            
     def _convert_value_(self, value):
-        #print(value)
-        if value != '':
-            try:
-                test = value.encode('iso-8859-1')
-            except:
+        if self.convert2iso:
+            if value != '':                
                 try:
-                    test = value.decode('utf-8')
                     test = test.encode('iso-8859-1')
                 except:
-                
                     test = self.convert_chr(value)
-            if type(test) == type(''):
-                value = test
+                if type(test) == type(''):
+                    value = test
         return value
 
     def convert_chr(self, value):
         v = ''
-        for c in value:
+        for item in value:
             try:
-                v += c.encode('iso-8859-1')
+                n = ord(item)
+                v += item
             except:
-                try: 
-                    n = ord(c)
-                    
-                except:
-
-                    n = 256*ord(c[0]) + ord(c[1])
-                    print(n)
-
+                n = 256*ord(item[0]) + ord(item[1])
                 v += '&#' + str(hex(n)) + ';'
         return v
                      
