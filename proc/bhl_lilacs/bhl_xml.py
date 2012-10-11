@@ -1,5 +1,6 @@
-from utils.xml_manager import XMLManager
+# -*- coding: utf-8 -*-
 
+from utils.xml_manager import XMLManager
 from utils.report import Report
 #import chardet
 import tempfile, os
@@ -17,7 +18,7 @@ class BHL_XML_FILE:
                 
             except:
                 f = open(xml_filename, 'wb')
-                f.write(content)
+                f.write(content.encode('utf-8'))
                 f.close()
                 
             if os.path.exists(xml_filename):
@@ -36,7 +37,7 @@ class BHL_XML_FILE:
                 f.close()
             except:
                 f = open(xml_filename, 'rb')
-                xml = f.read()
+                xml = f.read().decode('utf-8')
                 f.close()
             
         else:

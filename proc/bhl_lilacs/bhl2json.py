@@ -74,89 +74,120 @@ class BHL2JSON:
         
         if len(item_id) > 0:
             #print(json)
-            json = self.fix_data(json)
+
+            json = self.fix_data(json, item_id)
             
+
             json2id = JSON2IDFile(id_filename, self.report)
             json2id.format_and_save_document_data(json)
             #print(self.return_id_filename(xml_filename))
         else:
             self.report.write(' ! Missing item id ' + item_xml_filename , False, True)
     
-    def fix_data(self, json):
-        print(json)
-        if '71' in json.keys():
-            v5 = json['71']
-        else:
-            v5 = 'M'
-        if 'Serial' in v5:
-            json['5'] = 'S'
-            json['6'] = 'ms'
-            tag_title = '30'
-            tag_volume = '31'
-            tag_author = '10'
-        elif 'Monograph/Item' in v5:
-            json['5'] = 'M'
-            json['6'] = 'm'
-            tag_title = '18'
-            tag_volume = '21'
-            tag_author = '10'
-        else:
-            json['5'] = 'M'
-            json['6'] = 'm'
-            tag_title = '18'
-            tag_volume = '21'
-            tag_author = '10'
-        if 'title' in json.keys():
-            json[tag_title] = json['title']
-            del json['title']
-        if 'volume' in json.keys():
-            json[tag_volume] = json['volume']
-            del json['volume']
-        json['1'] = 'BHL'
-        json['92'] = 'AUTO'
-        json['98'] = 'FONTE'
-        json['9'] = 'a'
-        json['110'] = 's'
-        if '901' in json.keys():
-            json['2'] = 'bhl-' + json['901']
-
-        keywords = ''
-        if '85' in json.keys():
-            keywords = json['85']
-
-        if 'Brazil' in keywords:
-            json['999'] = 'BHL Brasil'
-            json['4'] = 'bhlb'
-        else:
-            json['999'] = 'BHL Global'
-            json['4'] = 'bhlg'
+    def fix_data(self, json, item_id):
+        #print(json)
+        try:
             
-        if '8' in json.keys():
-            json['8'] = '^u' + json['8'] + '^qpdf^yPDF^gFull text'
-        
-        tag = '10'
-        if '10' in json.keys():
-            authors = json['10']
-            if type(authors) != type([]):
-                authors = [authors]
-            for author in authors:
-                if 'Personal' in ' '.join(author.values()):
-                    if json['5'] == 'M':
-                        tag = '16'
-                    elif json['5'] != 'S':
-                        tag = '23'
-                else:
-                    if json['5'] == 'M':
-                        tag = '16'
-                    elif json['5'] == 'S':
-                        tag = '11'
+            step = '71'
+            if '71' in json.keys():
+                v5 = json['71']
+            else:
+                v5 = 'M'
+
+            if 'Serial' in v5:
+                json['5'] = 'S'
+                json['6'] = 'ms'
+                tag_title = '30'
+                tag_volume = '31'
+                tag_author = '10'
+            elif 'Monograph/Item' in v5:
+                json['5'] = 'M'
+                json['6'] = 'm'
+                tag_title = '18'
+                tag_volume = '21'
+                tag_author = '10'
+            else:
+                json['5'] = 'M'
+                json['6'] = 'm'
+                tag_title = '18'
+                tag_volume = '21'
+                tag_author = '10'
+            step = 'title'
+            if 'title' in json.keys():
+                json[tag_title] = json['title']
+                del json['title']
+            step = 'volume'
+            if 'volume' in json.keys():
+                json[tag_volume] = json['volume']
+                del json['volume']
+            step = 'varios'
+            json['1'] = 'BHL'
+            json['92'] = 'AUTO'
+            json['98'] = 'FONTE'
+            json['9'] = 'a'
+            json['110'] = 's'
+
+            step = '901'
+            if '901' in json.keys():
+                json['2'] = 'bhl-' + json['901']
+
+            step = 'keywords'
+            keywords = ''
+            if '85' in json.keys():
+                keywords = json['85']
+
+            if 'Brazil' in keywords:
+                json['999'] = 'BHL Brasil'
+                json['4'] = 'bhlb'
+            else:
+                json['999'] = 'BHL Global'
+                json['4'] = 'bhlg'
+            step = 'url'
+            if '8' in json.keys():
+                json['8'] = '^u' + json['8'] + '^qpdf^yPDF^gFull text'
+            step = 'author'
+            tag = '10'
+            if '10' in json.keys():
+                authors = json['10']
+                if type(authors) != type([]):
+                    authors = [authors]
+                for author in authors:
+                    if 'Personal' in ' '.join(author.values()):
+                        if json['5'] == 'M':
+                            tag = '16'
+                        elif json['5'] != 'S':
+                            tag = '23'
                     else:
-                        tag = '24'
-        if tag != '10':
-            json[tag] = json['10']
-            del json['10']
-        json = self.fix_dateiso(json)
-        json = self.fix_language(json)
+                        if json['5'] == 'M':
+                            tag = '16'
+                        elif json['5'] == 'S':
+                            tag = '11'
+                        else:
+                            tag = '24'
+            if tag != '10':
+                json[tag] = json['10']
+                del json['10']
+
+            step = 'dateiso'
+            json = self.fix_dateiso(json)
+            step = 'language'
+            json = self.fix_language(json)
+            step = '993'
+            if '993' in json.keys():
+                if type(json['993']) != type([]):
+                    occs = [ json['993']]
+                else:
+                    occs = json['993']
+                for occ in occs:
+                    
+                    if occ['d'] == 'ISSN':
+                        json['35'] = occ['i']
+                    elif occ['d'] == 'ISBN':
+                        json['69'] = occ['i']
+
+        except:
+            self.report.write(' ! Problem in  ' + item_id + ' ' + step , False, True)
+
         return json 
 
     

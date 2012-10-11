@@ -46,6 +46,7 @@ class BHL_LILACS:
         self.files_count(self.files_set.archive_xml_path, '.xml')
         self.files_count(self.files_set.archive_id_path, '.xml.id')
         self.files_count(self.files_set.archive_db_path, '.xml.mst')
+        self.files_count(self.files_set.archive_db_path, '.xml.xrf')
 
         
 
@@ -53,8 +54,12 @@ class BHL_LILACS:
         for xml in xml_list:
             xml_filename = xml_path + '/' + xml
 
-          
-            if os.path.getsize(xml_filename)==0:
+            try:
+                filesize = os.path.getsize(xml_filename)
+            except:
+                filesize = 0
+            
+            if filesize==0:
                 self.report.write('Processing: Empty file ' + xml_filename, False, True)
                 empty_file.append(xml_filename)
                 os.unlink(xml_filename)
@@ -88,7 +93,7 @@ class BHL_LILACS:
         self.files_count(self.files_set.archive_xml_path, '.xml')
         self.files_count(self.files_set.archive_id_path, '.xml.id')
         self.files_count(self.files_set.archive_db_path, '.xml.mst')
-
+        self.files_count(self.files_set.archive_db_path, '.xml.xrf')
         
 
 
@@ -115,12 +120,14 @@ class BHL_LILACS:
         if os.path.exists(path):
             db_files = os.listdir(self.files_set.archive_db_path )
             db_files = [ f[0:-4] for f in db_files if f.endswith('.mst')]
+
             self.report.write('db files: ' + str(len(db_files)), True)
             for db_file in db_files:
+                self.report.write(db_file)
                 db_file = self.files_set.archive_db_path + '/' + db_file
-                self.cisis.append(db_file, db_filename)
+                self.cisis.append( db_file, db_filename)
 
-
+    # /var/www/lildbibio_scielo_org/bases/bhl/archive/db/i105944.xml
     def generate_id_filename(self, xml_filename, id_filename):
         self.bhl2json.generate_id_filename(xml_filename, id_filename)
 

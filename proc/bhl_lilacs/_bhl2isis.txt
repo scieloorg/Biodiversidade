@@ -36,13 +36,11 @@
   .//TitleIdentifier 993
     IdentifierName d
     IdentifierValue i
-  .//TitleIdentifier[IdentifierName='ISSN'] 35
-  .//TitleIdentifier[IdentifierName='ISBN'] 69
   .//Creator 10
     CreatorID i
     Dates d
     Location c
-    Name n
+    Name _
     Numeration 1
     Role r
     Title t

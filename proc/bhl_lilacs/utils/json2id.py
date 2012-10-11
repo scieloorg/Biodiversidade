@@ -9,13 +9,14 @@ class JSON2IDFile:
     """
     Class which creates an ID file from JSON (ISIS) document
     """
-    def __init__(self, filename, report, convert2iso = True):
+    def __init__(self, filename, report, convert_iso = False, encoding = 'utf-8'):
         """
         Arguments: 
         filename -- path and file name for ID file
         report   -- object Report
         """
-        self.convert2iso = convert2iso
+        self.convert_iso = convert_iso
+        self.encoding = encoding
         self.filename = filename
         self.report = report
         if not os.path.exists(os.path.dirname(filename)):
@@ -120,14 +121,22 @@ class JSON2IDFile:
             
            
     def _convert_value_(self, value):
-        if self.convert2iso:
+        if self.convert_iso:
             if value != '':                
                 try:
-                    test = test.encode('iso-8859-1')
+                    test = value.encode('utf-8')
+                    test = test.decode('iso-8859-1')
                 except:
                     test = self.convert_chr(value)
-                if type(test) == type(''):
-                    value = test
+                value = test
+        else:
+            # utf-8
+            try:
+                test1 = value.encode('utf-8')
+                test1 = test1.decode('iso-8859-1')
+            except:
+                value = self.convert_chr(value)
+            
         return value
 
     def convert_chr(self, value):
@@ -137,16 +146,32 @@ class JSON2IDFile:
                 n = ord(item)
                 v += item
             except:
-                n = 256*ord(item[0]) + ord(item[1])
-                v += '&#' + str(hex(n)) + ';'
+                try: 
+                    n = 256*ord(item[0]) + ord(item[1])
+                    v += '&#' + str(hex(n)) + ';'
+                except:
+                    v += '?'
+                    self.report.write('Unable to convert chr ')
+
         return v
                      
                         
     def __write__(self, content):
-        f = open(self.filename, 'a+')
+        
         try:
+            f = open(self.filename, 'a+')
             f.write(content)
+            f.close()
+
         except:
-            self.report.log_error('Unable to write content in id filename. ',  content )
+            try:
+                self.report.write('Writing as binary ' + self.filename)
             
-        f.close()
+                f = open(self.filename, 'a+b')
+                f.write(content.encode(self.encoding))
+                f.close()
+
+            except:
+                self.report.write('Unable to write content in id filename ' + self.filename + ' ' + content , False, True)
+            
+        

@@ -15,6 +15,8 @@ class CISIS:
         os.system(cmd)
     
     def append(self, src, dest):
+        #print(cmd)
+
         cmd = self.cisis_path + '/mx ' + src + '  append=' + dest + ' now -all'
         os.system(cmd)
         
