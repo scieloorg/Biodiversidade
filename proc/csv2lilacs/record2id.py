@@ -12,7 +12,8 @@ class ConvertionTable:
         self.new_ent_list = open(new_ent_filename,'a')
         self.table = {}
 
-        f = open(ent_table,'r', encoding='iso-8859-1')
+        #f = open(ent_table,'r', encoding='iso-8859-1')
+        f = open(ent_table,'r')
         t = f.readlines()
         f.close()
 
@@ -97,6 +98,7 @@ class record2id:
             r = '^' + subf + value[0]
         return r
     
+                  
     def save(self,r):
         r_encoded = ''
         selected = 'iso-8859-1'
@@ -115,11 +117,14 @@ class record2id:
             mfn = '000000' + str(self.file[selected].mfn)
             mfn = mfn[-6:]
             data = '!ID ' + mfn + "\n" + r
-            
-            e = bytes(data,selected)
-            self.file[selected].f.write(e)
-
-
+            try:
+                e = bytes(data,selected)
+                self.file[selected].f.write(e)
+            except:
+                self.file[selected].f.write(data)   
+                         
+    
+                
     def close_files(self):
         for k,v in self.file.items():
             v.f.close()

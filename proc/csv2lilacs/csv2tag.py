@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 # *-* coding: iso-8859-1 *-*
+
+import datetime
+
 class csv2tag:
 
 
@@ -18,35 +21,75 @@ class csv2tag:
             self.labels.append(v[0])
 
     def convert(self, content_filename, separator):
-        f = open(content_filename,'r', encoding='iso-8859-1')
-        rows = f.readlines()
+        # f = open(content_filename,'r', encoding='iso-8859-1')
+        f = open(content_filename,'r')
+        c = f.read()
         f.close()
-	    
+        
+        
+        c = c.replace('|' + "\r\n", "|NOVALINHA")
+        c = c.replace("\r\n", " ").replace("  "," ")
+        c = c.replace("NOVALINHA", "\r\n")
+        rows = c.split("\r\n")
+        
         r = []
+        row_index = 0
+        done_count = 0 
+        new_count = 0
+        new_content = []
         for row in rows:
-            #print('...')
-            #print('==LINHA ' + str(k) + '===')
-            converted = {}
+            row_index += 1
             cols = str(row).split(separator)
-            col_idx = 0
-            original = []
-            for tag in self.convertion_table:                
-                converted[tag] = []
-                data = cols[col_idx].replace('VIRGULA',',').replace('PONTOCOMMA',';')
-                converted[tag].append(data)
-                original.append(data + '^x' + self.labels[col_idx])
-                
-                col_idx += 1
-            converted['990'] = original
-            converted = self.fix(converted)
-            r.append(converted)
+            test_row = row.replace('|','').replace(' ','')
             
+            print "Line " + str(row_index)+ "/" + str(len(rows)) +   ": " + row[:50] + "..."
+            
+            if test_row=='':
+                print "  invalid line..."
+            else:
+                print "  loading..."
+                converted = {}
+                col_idx = 0
+                original = []
+                if cols[0] == '':
+                    cols[0] = self.generate_field2()
+                    print "  creating a new id"
+                    new_count = new_count  + 1
+                    new_content.append(cols[0] + row)
+                else:
+                    new_content.append(row)
+                    
+                for tag in self.convertion_table:                
+                    converted[tag] = []
+                    data = cols[col_idx].replace('VIRGULA',',').replace('PONTOCOMMA',';')
+                    converted[tag].append(data)
+                    original.append(data + '^x' + self.labels[col_idx])
+                
+                    col_idx += 1
+                converted['990'] = original
+
+                converted = self.fix(converted)
+                r.append(converted)
+        
+        f = open(content_filename + '.new','w')
+        for s in new_content:
+            f.write(s)
+        f.close()
+        
+        print "Loaded: " + str(len(r)) + "/" + str(len(rows))
+        print "new id: " + str(new_count) + "/" + str(len(r))
         return r
 
     def fix(self, data):
+        lang = ''
+        try:
+            lang = self.get_lang(data['40'][0])
+        except:
+            lang = ''
+            
         data['2'] = self.fix_id(data['900'][0])
         if data['8']:            
-            data['8'] = self.fix_url(data['8'][0])
+            data['8'] = self.fix_url(data['8'][0], lang)
         if data['12']:
             data['12'] = self.fix_titles_or_abstracts(data['12'][0])
             data['13'] = self.fix_title_translated_to_english(data['12'])
@@ -70,12 +113,25 @@ class csv2tag:
         r.append(data[data.find('^i')+2:])
         return r
 
-    def fix_id(self,data):
+
+    def generate_field2(self ):
+        t = datetime.date.today().isoformat().replace('-','')
+        now = datetime.datetime.now().timetuple()
+        h = '0' + str(now[4])
+        h = h[-2:]
+        min = '0' + str(now[5])
+        min = min[-2:]
+        seg = '0' + str(now[6])
+        seg = seg[-2:]
+        return  t + h + min + seg 
+
+
+    def fix_id(self, data):
         r = []
-        r.append(str(50000000000000 + int(data)))
+        r.append( str(50000000000000 + int(data)))
         return r
 
-    def fix_url(self,data):
+    def fix_url(self, data, language):
         # ^uhttp://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-86502001000200001&lng=pt&nrm=iso^qphp^yHTML DINÂMICO^gTexto completo^ipt'
         # [Português - Scielo] <a href='http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-81752007000400001&lng=pt&nrm=iso&tlng=pt' target='_blank'>http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-81752007000400001&lng=pt&nrm=</a>
         url = ''
@@ -83,15 +139,47 @@ class csv2tag:
         r = []
         
         if '>' in data:
-            if '</a>' in data:
-                url = data[data.find('>')+1:data.rfind('</a>')]
+            temp = data[data.find('>')+1:]
+            if '</a>' in temp:
+                temp = temp[:temp.find('</a>')]
+            url = temp
+        else:
+            if 'http:'  in data:
+                url = data[data.find('http:'):]
+            else:
+                if data[0] == '[':
+                    if ']'  in data:
+                        url = data[data.find(']')+1]
+                else:
+                    url = data
+                    
         if '[' in data:
             if '-' in data:
                 lang = data[data.find('[')+1:data.find('-')].strip(' ')
                 lang = self.get_lang(lang)
-                    
+        if url=='':
+             url = data
+             
+        if lang==''  or language!='':
+             lang = language
+        
+        q = ''
+        if '.pdf' in url:
+            q = '^qpdf^yPDF' 
+        else:
+            if '.php' in url:
+                q = '^qphp^yHTML DINåMICO'
+            else:
+                if '.htm' in url:
+                    q = '^qHTML^yHTML' 
+                else:
+                    q = '^qweb^HTML DINåMICO' 
+        
+        print data
+        print "  " + url 
+        
         if not url=='' and not lang=='':
-            r.append('^u' + url + '^qphp^yHTML DINÂMICO^gTexto completo^i' + lang)
+            r.append('^u' + url + q + '^gTexto completo^i' + lang)
 
         return r
 
@@ -126,15 +214,20 @@ class csv2tag:
         items = data.split(', [')
         for it in items:
             if not it == '':
-                v = it.split(']')
-                if '[' in v[0] :
-                    v[0] = v[0][1:]
-                #print(v)
-                r.append( v[1].strip() + '^i' + self.get_lang(v[0]))
-                
+                if '[' in it:
+                    v = it.split(']')
+                    if '[' in v[0] :
+                        v[0] = v[0][1:]
+                    #print(v)
+                    r.append( v[1].strip() + '^i' + self.get_lang(v[0]))
+                else:
+                    r.append(it + '^i' + self.try_lang(it) )
         return r
 
-    
+    def try_lang(self, text):
+        lang = 'en' 
+        
+        return lang
     def fix_authors(self, data):
         #Santos-Wisniewski, Maria José, Rocha, Odete, Guntzel, Adriana Maria, Matsumura-Tundisi, Takako (Instituto Internacional de Ecologia (IIE) São Carlos Brasil)
         #Silva, Regina^1Universidade Federal de São Paulo^2Escola Paulista de Medicina^3Departamento de Enfermagem. Disciplina de Otorrinolaringologia. Sessão de Fonética^pBrasil^cSão Paulo
@@ -144,7 +237,8 @@ class csv2tag:
         #print(' ')
         #print(' inicio ')
         #print(data)
-
+        data = data.replace('"', '')
+        
         aff_and_authors = data.split('),')
         #print(aff_and_authors)
         for aff_author in aff_and_authors:

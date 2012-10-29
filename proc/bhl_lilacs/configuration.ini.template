@@ -1,0 +1,17 @@
+CISIS_PATH=/var/www/lildbibio_scielo_org/bases/cisis1660
+REPORT_PATH=/var/www/lildbibio_scielo_org/bases/bhl/report
+INBOX_PATH=/var/www/lildbibio_scielo_org/bases/bhl/bhl_xml
+ARCHIVE_PATH=/var/www/lildbibio_scielo_org/bases/bhl/archive
+DB_FILENAME=/var/www/lildbibio_scielo_org/bases/bhl/db
+
+NEW_LILACS_DB_PATH=/var/www/lildbibio_scielo_org/bases/lilacs
+NEW_LILACS_DB=/var/www/lildbibio_scielo_org/bases/lilacs/_LILACS
+
+BIOTA_ID=/var/www/lildbibio_scielo_org/bases/biota/biota_fapesp_lildbi_iso-8859-1
+
+BHL_DB=/var/www/lildbibio_scielo_org/bases/bhl/db
+
+FST=/var/www/lildbibio_scielo_org/bases/lildbi/dbcertif/lilacs/LILACS.fst
+
+
+LILDB_PATH=/var/www/lildbibio_scielo_org/bases/lildbi/dbcertif/lilacs/

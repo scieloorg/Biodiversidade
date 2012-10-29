@@ -10,7 +10,9 @@ class BHL_API:
     oaiurl = "http://www.biodiversitylibrary.org/oai?verb=ListIdentifiers&set=item&metadataPrefix=mods&from=<FROM>&until=<UNTIL>"
     oai_resumption = "http://www.biodiversitylibrary.org/oai?verb=ListIdentifiers&resumptionToken=<resumptionToken>"
 
-    def __init__(self, key):
+    # 2009-03-29
+
+    def __init__(self, key="b64e048b-e947-44c2-b5e3-b9ba4e47fce0"):
         self.access_key = key
 
     def query(self, op, other_params):
@@ -21,12 +23,12 @@ class BHL_API:
     def query_item_metadata(self, item_id):
         return self.query('GetItemMetadata', '&itemid=' + item_id)
     
-    def query_most_recent(self, par_from, par_until):
+    def query_items(self, par_from, par_until):
         url = self.oaiurl.replace('<FROM>',par_from).replace('<UNTIL>',par_until)
         print(url)
         return str(urllib.request.urlopen(url).read(),'utf-8')
 
-    def query_most_recent_resumption(self, resump):
+    def query_items_resumption(self, resump):
         url = self.oai_resumption.replace('<resumptionToken>',resump)
         print(url)
         return str(urllib.request.urlopen(url).read(),'utf-8')
