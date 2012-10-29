@@ -9,13 +9,13 @@ class JSON2IDFile:
     """
     Class which creates an ID file from JSON (ISIS) document
     """
-    def __init__(self, filename, report, convert_iso = False, encoding = 'utf-8'):
+    def __init__(self, filename, report, convert2iso = False, encoding = 'iso-8859-1'):
         """
         Arguments: 
         filename -- path and file name for ID file
         report   -- object Report
         """
-        self.convert_iso = convert_iso
+        self.convert2iso = convert2iso
         self.encoding = encoding
         self.filename = filename
         self.report = report
@@ -119,42 +119,60 @@ class JSON2IDFile:
         tag = '000' + tag
         return '!v' + tag[-3:] + '!' + content + "\n"
             
-           
     def _convert_value_(self, value):
-        if self.convert_iso:
-            if value != '':                
-                try:
-                    test = value.encode('utf-8')
-                    test = test.decode('iso-8859-1')
-                except:
-                    test = self.convert_chr(value)
-                value = test
+        if self.convert2iso:
+            r = self.utf8_2_iso(value)
         else:
-            # utf-8
-            try:
-                test1 = value.encode('utf-8')
-                test1 = test1.decode('iso-8859-1')
-            except:
-                value = self.convert_chr(value)
-            
-        return value
+            r = value
+        return r
 
-    def convert_chr(self, value):
-        v = ''
-        for item in value:
-            try:
-                n = ord(item)
-                v += item
-            except:
-                try: 
-                    n = 256*ord(item[0]) + ord(item[1])
-                    v += '&#' + str(hex(n)) + ';'
-                except:
-                    v += '?'
-                    self.report.write('Unable to convert chr ')
+    def utf8_2_iso(self, utf8):
+        utf8 = utf8.replace('\ufeff','')
+        
+        try:
+            print('try 1')
+            b = utf8.encode('iso-8859-1')
+            iso = b.decode('iso-8859-1')
+        except:
+            print('except 1')
 
-        return v
-                     
+            if ' ' in utf8:
+                words = utf8.split(' ')
+                sep = ' '
+            else:
+                words = utf8 
+                sep = ''
+            new = []
+            for w in words:
+                if len(w)==1:
+                    print('char')
+                    try: 
+                        print('try ord')
+                        n = ord(w)
+                        i = w 
+                    except:
+                        print('except ord')
+                        try:
+                            print('try num ent')
+                            n = 256*ord(w[0]) + ord(w[1])
+
+                            i = '&#' + str(hex(n)) + ';'
+                        except:
+                            print('except num ent')
+                            i = '?'
+                else:
+                    print('word')
+                    i = self.utf8_2_iso(w)
+                
+                    
+                new.append(i)
+            iso = sep.join(new)
+        
+        
+        return iso
+
+      
+    
                         
     def __write__(self, content):
         

@@ -73,10 +73,8 @@ class XML2JSONConverter:
                 v = table_node.default
                 
             if v != '':
-                if self.convert2utf8:
-                    a.append(self._convert_value_(v))
-                else:
-                    a.append(v)
+                a.append(v)
+                
             if debug:
                 print('return_leaf_content')
                 print(a)
@@ -138,44 +136,11 @@ class XML2JSONConverter:
         return result
 
 
-    def x_convert_value_(self, value):
-         return value
-         
-    def _convert_value_(self, value):
-        self.debugging('_convert_value_', value)
-        enc = 'utf-8'
-        if value != '':
-            try:
-                test = value.encode(enc)
-            except:
-                test = self.convert_chr(value)
-            if type(test) == type(''):
-                value = test
-
-        self.debugging('_convert_value_ result', value)
-        return value
-
-    def convert_chr(self, value):
-        self.debugging('convert_chr', value)
-        v = ''
-        for c in value:
-            try:
-                v += c.encode('utf-8')
-            except:
-                try: 
-                    n = ord(c)
-                    
-                except:
-
-                    n = 256*ord(c[0]) + ord(c[1])
-                    
-
-                v += '&#' + str(hex(n)) + ';'
-        self.debugging('convert_chr result', v)
-        return v
+    
     
     def debugging(self, label, value):
         if self.debug:
             print(label)
             print(value) 
+    
     

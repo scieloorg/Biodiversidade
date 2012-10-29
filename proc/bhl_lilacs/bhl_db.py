@@ -23,7 +23,8 @@ class BHL_LILACS:
         c = [ filename for filename in c if filename.endswith(pattern) ]
 
         self.report.write('Files in ' + path + ': ' + str(len(c)), True, False)
-
+    
+    
     def generate_db_files(self, xml_src = 'new'):
         print('source of xml files: '  + xml_src )
         if xml_src == 'new':

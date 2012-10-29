@@ -78,7 +78,7 @@ class BHL2JSON:
             json = self.fix_data(json, item_id)
             
 
-            json2id = JSON2IDFile(id_filename, self.report)
+            json2id = JSON2IDFile(id_filename, self.report, True)
             json2id.format_and_save_document_data(json)
             #print(self.return_id_filename(xml_filename))
         else:

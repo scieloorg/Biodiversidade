@@ -16,6 +16,10 @@ class BHL_Files_Set:
         if not os.path.exists(self.archive_xml_path):
             os.makedirs(self.archive_xml_path)
 
+        self.archive_xml_iso_path = archive_path + '/xml_iso'
+        if not os.path.exists(self.archive_xml_iso_path):
+            os.makedirs(self.archive_xml_iso_path)
+
         self.archive_db_path = archive_path + '/db'
         if not os.path.exists(self.archive_db_path):
             os.makedirs(self.archive_db_path)
